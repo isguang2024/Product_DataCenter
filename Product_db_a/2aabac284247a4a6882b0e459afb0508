@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "2aabac284247a4a6882b0e459afb0508",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-07-26 16:27:34",
+        "第二层SKU数据": "",
+        "货号": "GY-W1878052114",
+        "进价": "175",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "size：21.13cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Portable Simple Shoulder Bag High-quality Materials For Birthday Gift",
+        "质量星": 2,
+        "重量": "1.1",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf033ae3bbc84450b9fccf22ab083e7bch.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f075c9305f5448582aab7d71f43e35dQ.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sba79c21b24614962b62961cd87679158K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae9bd33b5dba4414a662d612ae07ebccF.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7a26fd445a24ef8b58d3ee3f614e2e0P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S873404ec6c07446c9de1cf879cb0a89fB.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S873404ec6c07446c9de1cf879cb0a89fB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d63f826e8b74b74961ac670f31d82c9g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S600841baf7a34de5a5f086315749d12cV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb384bb389874947a4cbdd357c0b3b7fJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S435b8c59993a4bbb90b2730786d050abM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S319f094437a54bf3ba12220e7155599ci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b4f7090aff84ceb8ad30f0e1bf353efx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf994260048034a0f9275b3101f09cc1b4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c842894999844a586a7404a4e7b307c2.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S873404ec6c07446c9de1cf879cb0a89fB.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S6f4ffcd282114d6387a2de73d0ccaaa5m.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S0b9083928a894c5da68ba0d1a682a3ded.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf0e76ec868aa4ebea08efceedeefd1afj.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S716833770f61469c92f27366a0322c614.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b9eed8a54364152a7c1f9de6f321f4ci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2e44294592a4785914a361ba81a8019z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b9083928a894c5da68ba0d1a682a3ded.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10ab442f04f44609960f5fc4ca329c1da.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae321b7b0bc74c3b8561d1c80f2e1d727.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf43f9a73b43f4ded8994367d1726fa6cK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b606a2e823745c4a37b7dc0fd7465e8s.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0b9083928a894c5da68ba0d1a682a3ded.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d1766ee3aa342fa9af4505e362ffde2Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae321b7b0bc74c3b8561d1c80f2e1d727.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b9eed8a54364152a7c1f9de6f321f4ci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4581a02e7324c9faafb8a9c3cd60794h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf50e9a9a460241e2b048f8c7e9698d99H.jpg"
+        ]
+    }
+}
