@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "38331f0cc878dad7303567871e9f2637",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-07-03 17:39:54",
+        "第二层SKU数据": "",
+        "货号": "DG-168286429",
+        "进价": "170",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": 198398445,
+        "普货模式": false,
+        "商品简介": "托特包 高质量， 重量：0.78kg，材质：原版布，尺寸：25cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:52:10",
+        "原普货标题": "Trendy Multi-pocket Divider Canvas Tote Bag All-match Solid Color Shoulder Bag Perfect Casual Crossbody Bag For Commuting",
+        "质量星": 2,
+        "重量": "1.3"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scd7ea0cca8ce4761a62f62b4a8fdca17E.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8828bc95ce44e8ca03f7e22f24fb3c4S.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9876bd58fba149e0b1d94fc1d1b8b211F.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S02308d07fb6a4596af639fba42f04422C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc38b920b2dd4112866ba6b09f9232e19.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4acd814df9024b36b681df51ebcd1da5A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f76019e767b4de8b22f89934e9eb918a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73dfd407801a4cebb34c1d9f334ac769E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2977574e8e914d829354b0f7f2c97bf2X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se5aaaf9a68db48b9afa59679c0acd271o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6dd8a72a75d447ba86924a40dc08a1bfD.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S20f795539a434ff191467dfac675c973a.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2e3b317924b84cf082a6b9640ba6b8a2w.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S70287bf3f3414f03a5f19efb45a022f1a.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Hc1277abba1f1459b83540778cef26d09v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a7dbceb6b5445db83e2b2e2275ddef6u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51219603e4104d68abc358cbeb8728bbx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6948fdfc62641438d6d8594f2255fdd5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbce3ea50c1de4aa2b38f5358f92383f3Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40132788e22d48fbb2f6d93c6a710dfe9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a045117f4204f819feaa91f03f06ab5l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21d7d52c7c31481fbe85c192a8eccab1L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa50878e3d49b46838f2fe517b5e7a17b0.png"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S70287bf3f3414f03a5f19efb45a022f1a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79651c9da1844eac9fabb29919cfc21fF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4cdbcca5806417e9cba6df9b97c2730K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1d99195f1ee4a51aa709e94f75ae958K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4cfdce2540e84131802db2f66b32bfd9U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S723a9b5cb17540bb8009795a2cd5beb4j.jpg"
+        ]
+    }
+}

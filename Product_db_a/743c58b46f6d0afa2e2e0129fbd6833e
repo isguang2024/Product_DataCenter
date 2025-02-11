@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "743c58b46f6d0afa2e2e0129fbd6833e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-07-19 14:08:07",
+        "第二层SKU数据": "p-5@25cm@20cm",
+        "货号": "DG-169726732",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "CF链条包 高质量，重量：0.75kg，材质：头层皮，尺寸：大25cm，小20cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:51:42",
+        "原普货标题": "Embroidery Plaid Flap Shoulder Bag, Casual Chain Strap Crossbody Bags For Women Commuting & Daily Used",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S68d4d4a71a454c43b6dfffe54c81e4d64.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f003c7f017944658c5a3dffe2cc5444r.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sae2b0a3615114710a2dda681f968b1038.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa08d1b6456fa42f1843f9077b281389aG.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S45d439e775804224ba4a4def96fcc69bp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24d6a3be21c447a1a21617802c8d2f13u.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S33b66294f5fc415c9531480540ec790dl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8b0254d741d43d984133cd8106cc23as.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f8d4bd1257145e69945f6406caa1b7fV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2300c2c6f4a24289b436462a077965cfi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60c190d8ed1b4c9c95b3dadbf4c2ef45u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S169813c6bca44f0aa2bf67b6f85760c8u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbd204686fa64f489ee77cd3671d501fr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b46d0d5cc5f4d34bfd477636bb65713y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf25f26ec26e44665bda80143b3b9d1a9c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a78693942b64d5785fd48d70b6e5050p.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb51a3bc54c234b019de84b7da6556ec2P.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8501ed24dcbf43eda67914ecf5ed42a6C.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S718caa99d469408793df44ce23bb916bZ.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S35880f9752e6407993d0536e7655e876n.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scbc323f61ece480787aa5eee833733d6j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa73d8c2b25c840bf9aa64462c3720892M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0e7178535d6448ca7d0066daab680ead.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08674b57d27046dfa495739de3edd264E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35880f9752e6407993d0536e7655e876n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S718caa99d469408793df44ce23bb916bZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S27cf5f72a3144dec8d4e72d1f2525886L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S402ea599c79e434aa6d3c383b6db179dy.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S718caa99d469408793df44ce23bb916bZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35880f9752e6407993d0536e7655e876n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa73d8c2b25c840bf9aa64462c3720892M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0e7178535d6448ca7d0066daab680ead.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S27cf5f72a3144dec8d4e72d1f2525886L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S402ea599c79e434aa6d3c383b6db179dy.jpg"
+        ]
+    }
+}

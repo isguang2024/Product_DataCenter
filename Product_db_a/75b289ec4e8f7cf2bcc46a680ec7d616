@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "75b289ec4e8f7cf2bcc46a680ec7d616",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 13:57:42",
+        "第二层SKU数据": "",
+        "货号": "GY-W1123179306",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸：19*7*18cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Handbags for Women Corduroy Satchel Shoulder Bags Ladies Totes Crossbody Bag for Women Vintage Shopper Shopping Bags",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S942fb81d4ab140d7b1fc7cd7e81d06b56.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8d9870f56b0346c39315f05f8ed589a8y.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S34935622152c411b93de1bec059da0c2y.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6346b789c3da4a138a5a81bc4e58aafbZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81e3da323cce4659b2faa7aa5ebe944bd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e159110ef0b4396b6173d9c5ecba4ddT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ac45d85f773466daaa7278aab39a501a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85d3c5649077434eb531aea306c5ae3fm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1062a280135749a883c67bd66b013c39a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f54f5fe80e1408e9a9d52d9bbad2d435.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1a2b17a23f44f878e22445166542f4dU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S470da1ecfbf04af49793cf7aa50f69fbX.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8191315338aa4a648aaa7b9176dc5172Q.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S6a3e9c14cbaa465f9ebcbe8d1ac1fd32Y.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7afcb4d6576247699b7e96968384bc4a9.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc48a21bdeade449290205bb6afb0ec549.jpg?width=750&height=1202&hash=1952",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfedd558ad7844094b1ddf35ebb1a21336.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Se381aec775d543258026da7c878b775dE.jpg?width=750&height=750&hash=1500"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S840e474784144194921b7d1008fa40521.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a569043fb5241f5b2fb7309f574b03fY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9ded39e7dd94431b197e7c2d39669d4Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2989d72d0aa24f4d92378bf1e7780c2dM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3136e38445545c08dc608be3414f8bcY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S255d8682f416482ebf5cfe0e93eaf2a0j.jpg"
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "ec6827cdfd0ec4cfa70684d0cb29e3eb",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-27 13:44:39",
+        "第二层SKU数据": "",
+        "货号": "GY-W1576732698",
+        "进价": "180",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "size：27*15cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Women Fashion Drawstring Shoulder Sling Bag Nylon Waterproof High-Capacity Simple Wide Strap Bucket Crossbody Female Bucket Bags",
+        "质量星": 2,
+        "重量": "1.2",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S09369541a6294c8787b155435bdb2ebcf.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7bbc84c84454192a01661b4b69bfbeb4.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S721894c1718d4250bfaf78dca7913c1fB.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scf198d4d667f4d3a88d642eee1a82e9cI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9919319effde4a7a9ac57bc890d76d64p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29454419235040edabc5bc2fbcbc207e6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6b2e7b471b44895b7c0618337106674r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ee8ae0a316a41bd8460b56a76facc736.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0cbaed5389b34a7fb57e98d3290b602df.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S328a2afb91ce4a9c8f3dc5b1b0abd4b9U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0ae2078b37f4444a404e9b7e02f863dA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e4205d6b38d432db92443c391ca7e45t.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S510be046fc1241c5a1655dede8766f92n.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sa59c8f7f83254261883ffda16e3e7853j.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8cbcc6704c0249ac8dbe9fa140ba2d5cj.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1c2929ef8d547f58630e1afe54ecc829.jpg?width=750&amp;height=750&amp;hash=1500"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S502220e3d4ee4ac9b3fa8a71f7701aa92.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79f9e56d3bbd40f39c8ccbc1d8db0110s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd705ad788c9f4c68a957b740d250fd046.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se250b7cfade74369b61a147b4983f517V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S290cd2175fa44f6fa71afdf1fe0d7131L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S313ff03df0b844538dbfbf2bb856a698j.jpg"
+        ]
+    }
+}

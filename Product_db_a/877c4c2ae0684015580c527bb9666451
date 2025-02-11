@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "877c4c2ae0684015580c527bb9666451",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 13:58:30",
+        "第二层SKU数据": "",
+        "货号": "GY-W1922099929",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸：16*8*10.5cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Japanese Preppy Style Shoulder Bag Women PU Leather JK Uniform Bag Girls Handbags Pure Color Crossbody Bags Itabag Tote Bolso",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2b13ba9d81d4e1bae315d0e3bf1b953b.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc74aa4c1656464e8fced4e2b2e1adadG.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0d492c12a0b742388564cd88a65af0933.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0d492c12a0b742388564cd88a65af0933.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6a1f98096e1433fa559a19cca735785E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfba0cf3ef70e4b4fa3c061bb491322e2b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc41035a807164037b4449f45dd5b8db93.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfda2f336d85941678f85ca4154cdce87V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7973106a3da8474a9693b2fb4743ff799.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9fe99994915948df890b09c68c9d2fbdu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0abfe045ed748a89562f71ad91f7e76u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfdba90fb42264a3daa64f878acbfbb5c0.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0d492c12a0b742388564cd88a65af0933.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sfb6c6841372546bcbe71a3e473808ee9M.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc1bd30dc57ce4a9aaf567c2c3b441e25v.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S075a5608a3824acea75985feca1aed2dZ.jpg?width=802&amp;height=796&amp;hash=1598",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2182efd402548b1bdcb21f2222e62e83.jpg?width=750&amp;height=940&amp;hash=1690",
+            "https:\/\/ae01.alicdn.com\/kf\/S39c4690e1b464a85bf4490e32d6815d8j.jpg?width=750&amp;height=937&amp;hash=1687",
+            "https:\/\/ae01.alicdn.com\/kf\/S54dc4a5d441b4f7fa2eab3c272afb873A.jpg?width=750&amp;height=739&amp;hash=1489",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb8835ca92784ee3b2bcff646fe5043ff.jpg?width=750&amp;height=393&amp;hash=1143",
+            "https:\/\/ae01.alicdn.com\/kf\/S9344887a720546e190462ac3b3faca22O.jpg?width=750&amp;height=1195&amp;hash=1945"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1bd30dc57ce4a9aaf567c2c3b441e25v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d82d1e8dcd84f45a5acc1838ae37314k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44a957ea06d843e9944b1746abb0d5eaa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0fed06443124a5b9a845339efafa0eeN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8b42d0f8b804008a7bbb46a6cafebceT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde1dc666760b4b57910f38eb33fe7a6ck.jpg"
+        ]
+    }
+}

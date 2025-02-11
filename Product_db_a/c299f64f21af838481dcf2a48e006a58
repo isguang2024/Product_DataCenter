@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "c299f64f21af838481dcf2a48e006a58",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "GY",
+        "创建的时间": "2024-08-16 16:53:42",
+        "第二层SKU数据": "",
+        "货号": "GY-W1917536695",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "竖版24 19",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:56",
+        "原普货标题": "High Quality Women Man Backpack PU Leather Men's Backpacks Girl Luxury Designer Back Pack Laptop Bag Large Capacity Travel Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sef24fe22e35c4ca391b166a9d1cd2a15C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c54d1b8afc5490aa5faa6f176847fccB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc19b34670e14450983ecc9fcd2dbd31b5.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf38b2b8e3fef48af8f9d54b4406270ebG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S915dd366337b4707938e317d9d3683dfB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f854002a9d647098f76cf15415f4d4bi.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb368b2dd60924439a6203127599762084.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se180f35d26964047ab7b9e64047321abS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ea8c288da3041e990eded09a54fac2bV.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S823856a886724bf7bf5fe2643bb175e7f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se180f35d26964047ab7b9e64047321abS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c6fa9029dfa4dc79627fd9d759c129aw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75643ab5d90545f395a3c4ff0f073b652.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d075852483f4ee3b79cde8d69cfa88eB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S385c936b4e6643dcaf2152f8a77fe45co.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef86e8bc10c249c8a2feec78b27d25faq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd524e1d114574bd8a5da2fbf5add45dak.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f89844dc2cd425b943674f227d5ebacq.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S634f72b8d20b46f980d5a1d7bdeaa59dQ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd143e2c16640473facb7e4c7fac53d9dZ.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S2d160a82e4e54e4a962423cb0f6409c6V.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sce36e217dfcf4687bd08407ef9d60a17b.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S6922760679c842a7b7c0b631297943ebt.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb500b50f2ade42f49da41ba096f3576b1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9780a447fd644d6d9e598362245e2c1bl.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2d160a82e4e54e4a962423cb0f6409c6V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6922760679c842a7b7c0b631297943ebt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18ee0ba480a7472c98c373beae90bb3c6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd74f12aea9464d28bf72696d13ab3324o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7dea50c6d28043f0ba0531feb018cc62L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57940b20e8224398bc2a7c316dfd571d6.jpg"
+        ]
+    }
+}

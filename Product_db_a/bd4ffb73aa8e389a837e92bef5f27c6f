@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "bd4ffb73aa8e389a837e92bef5f27c6f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-26 20:09:18",
+        "第二层SKU数据": "",
+        "货号": "GY-W227268017",
+        "进价": 160,
+        "利润比": 95,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "size：22*12cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Women's Elegant Vintage Crossbody Bag, 1 Piece Trendy HandBag, Fashion Shoulder Bag, Chic All-match Retro Crossbody Bag for Dail",
+        "质量星": 2,
+        "重量": 1.299999952316284,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S960218391a934d0a896e8410e9cc3d19u.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S910f18847df242c0b32a6689c3a2307eS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S418eeae2a7564d5ba2f2ab4048555e6b3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf11f058e46004fa4ab738d2e882cca87l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08c1b837b95d43aa8858f15dacfe6db7D.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1ffa4f50e4784d59a55b5441a5d25dd8w.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S106fb0d229d74aa58ef29414acab1c48O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4f623eab84a4c1eb3ce5c8e4c453cd5c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28e3d8cd3e86429fbe6d67075b3aa570m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa9dcf03b8cb46418c0751633c56136dw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S586e160591dc4544bca2bba7c3755167M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01fc870a91aa4f4790abb35b256830eef.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab724f884a134ed8ac33591b73fde55af.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44c2895316464c3997acd0aa01fcd3f3X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1222c3ce92bb4941a3e528ec23f14f58w.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S525feeca0d914f9ba952d5428a10b04cQ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S81ba32bbfdb44972b1c3b1ff667322e2O.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S31e887ecaa8140438e5183c4531cc721Q.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc95315fcc6584928929bf7e32679cf0cJ.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S7989707ab5864607933b16c581246780n.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2a8f93d8d9774c2ab52d1a0a3e0e58dfO.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2ff20b5f0e4b49049991c936d7060195a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se863fca15ce04e56a6b135520a4bad69Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b45e5007028481c91ff0640cf4c6f31P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e885c98027a4bc9924296445daf49e29.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S797746642c6c4fd3889b901e9179f0e0L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1b174a382264626bf69ca68ce381f44O.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S41faba7c8d3940f8a1735ae57f393f7bI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5edf5c9414e459882404172185b697am.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S290058a4ae4c40e3ba5507cb3bd3964bD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a7b37a194af4cf8b9381acf1e7f1ebcm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35b80e00d53945bd959c0beb914f6cd38.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1b174a382264626bf69ca68ce381f44O.jpg"
+        ]
+    }
+}

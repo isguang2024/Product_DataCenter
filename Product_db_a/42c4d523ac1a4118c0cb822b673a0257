@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "42c4d523ac1a4118c0cb822b673a0257",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-22 15:46:54",
+        "第二层SKU数据": "",
+        "货号": "GY-W996007243",
+        "进价": "85",
+        "利润比": "100",
+        "品类": 1002,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸：19x10",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Y2K Korean Women Harajuku Vintage Gothic Black Hand Bag Aesthetic Elegant Punk Wallet Purse Handbags Shoulder Trend Tote Bags",
+        "质量星": 2,
+        "重量": "0.6",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3ac51a7b63044892bb380ebadec7e9eam.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S63f65383feab498f81f798a491001bb44.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2e6d10bd70a141598a5d4dd1037c3ac0P.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S73e381ff4976414b99878667d8de5d3fM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se150f77c6b6d4034a5660bbfd256ca70h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8ab32451aa14386b4a06b04103185bbk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb16b2e19f94c4d4b9a2faedecf03011fH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5679e489082f40089b242ace3bc274b7h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f3852ea6f564964b291a403b7dd85c31.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf606ce2d28fa454a9ff3ebd1c4437bbdv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d787cefe6bb470c86b7e64e6e1d2ff3U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S298ecd9cc2fe4a99a59a09ee07e19cecN.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S6ab9908b50d04b528a1104cde9bf5769p.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S5a839687490442f489af2a86f4d3d725V.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S274b86cf0ccb4225ac96725f8a9b3772W.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S68f05233394f417cb62797391b409550G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc556f2877f5448f5b70e12fb52eb66053.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f7c69e398e4426eb2da3512b1c1be46b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef83c022cf8b4b7caa3ae6c3689e2cf3w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52d293c66a0b451ea7dc682b8d70d404x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61c004e4743f4beaa8e85e454e3842b0z.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2984a94200b4ad08cdf303b33ec27aaM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S274b86cf0ccb4225ac96725f8a9b3772W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81664ea75f1e4b4fbea52d659c9a5c69a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S76a3b2f2ea4d4f23a1720b2a6f4e2a63M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ce63625eb2c4d59a2106b71090c4190Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c289d91a3434a7a9e94f405777fa999y.jpg"
+        ]
+    }
+}

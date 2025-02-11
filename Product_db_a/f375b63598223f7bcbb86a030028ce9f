@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "f375b63598223f7bcbb86a030028ce9f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "GY",
+        "创建的时间": "2024-09-26 15:59:52",
+        "第二层SKU数据": "",
+        "货号": "GY-W311438400",
+        "进价": 115,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "尺寸12*18cm\r\nmini 水桶包 手机包",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:50",
+        "原普货标题": "Vintage Red Womens Tote Bag Athletic Casual Fashion Large Capacity Leather Shoulder Bag Shopper Harajuku Simple Handbag Sac",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf422368824d04ecd8b24de967caa3ffbS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se504d2e3b6cd478e9bf94706ba1403daD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S260a7b505d8f468c9c1724b4d900599fj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c70f957433b47aa9665483240921713U.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S524ab7e970794799a654c86723365590v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7deeb3a3093640aa9cd8ab2e87bee883L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b18f03928024af09b30376bdfdf1529C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a0cc26ec6fb42569e01760effe50323J.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sddcf22a894894a77826755ca40ebae4aI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d4ff4e7398b4b0fbb7d6254e6f01b60h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f55fe70e95f4e58be1abc4c7bdaac61H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S618b3287761344d58fde0c12cda78cf8L.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Secf668ab143f428bb007b71f70178b19m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S760dffbea0fb4bb3b6e7d9e567eaf883w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sacb4e4156d67497a99cafc001ed99ce35.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b7ae237067e4ce49bf875ae4ed3dd4fO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23bb04b102034e29a931f2da36fb5c85i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f06fa0277de466b9333a5500391866eb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1086686de96041f8a54dc623c9407065B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1cac44acd8be41458ba9fe4fda8aa94cP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3aab0d8ac4374fb7a8dd5d00b786bc96q.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sce165b2bc6a34cef807838934433a08eq.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Scbb9898066b44eb493548651e358ceb0D.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sba774bba2baf48d9ab720914e78714c14.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf52e8a67cfb3475080b29bb2e0018e0ej.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S532621a4821a41cfa31f73c66ae886342.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S32ad9ef9379249a482b6e084d2c7e545F.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1063ed6a14c44fa4a68342cbb76a3c6e2.jpg?width=750&amp;height=846&amp;hash=1596"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S20b6adbad7374b10a5be10df0f15f537y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a76f295103c4d34bc59409104bf17ef6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f13fa4acd094970af6dc0a4976fa756j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a6ddca8c41f4e27892d508ce6391a23u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72cb3d61093f49779c51a257f52c405ff.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9f858d8dd214aac84324aba2dfe24a3o.jpg"
+        ]
+    }
+}

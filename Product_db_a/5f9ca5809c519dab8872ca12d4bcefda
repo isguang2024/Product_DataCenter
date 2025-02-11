@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "5f9ca5809c519dab8872ca12d4bcefda",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-06-11 13:15:51",
+        "第二层SKU数据": "",
+        "货号": "DG-165738082",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "斜跨包 高质量，重量：0.65kg，材质：皮，尺寸：24x16cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:53:09",
+        "原普货标题": "New Silver Bright Silk Evening Bag Women Elegant Fashion Banquet Clutch Chain Shoulder Bags Luxury Purse Female Handbag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6af30cfd954d46febca8c908b1c88a64Y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S552f9271195a4847a55ae2c817177affk.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1244c49ef6414d9ba2b398ed9bb946962.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe200e7566ca4ef6a3e5dcf048950da60.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se081dd3fd45f4d9ea67df74be6b8989dg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8357f44eaf5f4d67894adfa78a032078O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36cd810bb844416ab8143937a900538aG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd588bbdcae84e37b343848a3b892675s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saabdf9edeb0d4e62a4bcde38dde094b5w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fc1b1b25a38461bb07031bc193fadd9M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2e81ce22f79415ab1c42954c2b53ea0e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb211e9d4f5c74f0b90b1f38166cb1594m.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd9d88b67b0014fc7a464395f1e094f633.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf284bd9193634e7f8abf96ec0537d0ae8.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S86c2aa61d585447289da1699564fb8afg.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0b5b999996a542ccaf98862d4f50ad241.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf14b20dcc90e4eb2b1f736e6e12f4b27W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc53b2d51c7f40e28f84b6455f1d2487t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f9bae526d3e4f908bc86a663d7602d8C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ccc1928bcb74117bd492293f9dd068dX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f98d898bcf94a07b175f1908649bd15H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f39e665d1424db98fa77385e38ab789b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd22409f611804ccba6e5034f106234d3V.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S65f25814de734d808de60b16f12b33baz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9450a42db659469ba9ace03ac64570ef9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc53b2d51c7f40e28f84b6455f1d2487t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd22409f611804ccba6e5034f106234d3V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf14b20dcc90e4eb2b1f736e6e12f4b27W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ccc1928bcb74117bd492293f9dd068dX.jpg"
+        ]
+    }
+}

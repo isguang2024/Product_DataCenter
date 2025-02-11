@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "3c435a3b2df9b289b90fa75733ab6032",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-05-19 12:53:53",
+        "第二层SKU数据": "",
+        "货号": "DG-164106060",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "腋下通勤包 原版质量，重量：0.7kg，材质：头层皮，尺寸：25x20cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:53:52",
+        "原普货标题": "Fashion Large Soft Leather Ladies Bag European and American Retro Ladies Large Capacity Shoulder Handbag PU Material",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sad5a62c8f1d348e9b211221fc1b64994A.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S75a2660062ee4dbe9b68b17234aa65c6X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7113d93590074b1581d3ac1e7a64101eS.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8e8ca95a68014d8c9cc9c5dc77c52d5dk.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3ae9f2cb0c2d4636b7b9883994032a1cp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86e3f010fca74d9c86dccf6ac647f5033.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c3b6169264d4648936671f861fd44edC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6c4b83da0ba43ff936060ae716a00bdm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd764b140685346678234a9244dee965dN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d7c675096ed42e493332872831daf77o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fc224b9ffb242cb86a05f254610578aA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81dc4d6e226d41c3b9e694a1511e95dfu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b142348ffb74f6d887725e278db218fG.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S456d8aa2f67c425fb038b417c2ba173fk.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Se6ee1b996ff74ea1bd051f57f646e4f6H.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S62e79f7dcec245a38222835013999186N.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sa5e154573ae745b1893b4827e71b5236l.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S46dd8e71edf54b879ac10704eea33de74.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S393ef3fe05e742c48a6d2931b6d35d63W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S767c819a0bc745c6b624a5b5e62fa6f6y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6fbce5fcc744efdb3d1365d3622aaa5D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sccdbbacb181e4d90abc863ceeb8b3d30x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd265f25636524cb7b0fb11389973eaecs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16f85f15330d4e96bfa43f4df547be80A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb79f75e47747446dbabc38814ac2e2f3n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa69cfdac9404216892a73579e1c2d01r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2aea4ad8378488fbf89410b8084c328L.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4b14c277226408eae4d730341713e15S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39938bf1bcdd419e9830482fbb5e1aadS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb0a8c7e219b4ec0b4b527a5b4f467d3K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se284c15211794a9e93b21ceeab578368P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb4ab4a4ba754ed4977f0ce47a56de25B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b1d44e5b1104183a9a37df76609998bi.jpg"
+        ]
+    }
+}

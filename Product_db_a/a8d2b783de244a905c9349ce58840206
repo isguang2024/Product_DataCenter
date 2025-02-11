@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "a8d2b783de244a905c9349ce58840206",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "GY",
+        "创建的时间": "2024-08-15 16:25:00",
+        "第二层SKU数据": "",
+        "货号": "GY-W864267140",
+        "进价": 175,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 198398445,
+        "普货模式": false,
+        "商品简介": "尺寸23.12.17",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:58",
+        "原普货标题": "Leopard Pattern Tote Bag Vintage Canvas Shoulder Bag Fashion Big Capacity Handbag For School Work Shopping",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc30031c773554aeebce894698e61ea5au.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b35535e68274ddd9feb450f26a18e02s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b2c9ba2a5e647fda424571924b4dd43b.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S023413cfe5d8475ab49e3182314c73b8S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sffb84fa8abe5453e8e944374dffd715c3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58e7ec0ed1fa41dda71bd01334717648k.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sca15f9cba1ae4426901e059145e65af6k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4bfcdbe73ff448ff87f32d80ee7a665eZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S635fac1b3a124397b92478adc36305d2B.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S443335a483a84690a63671c1bcd566a6j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21ecf6ca8496469f898affc1ae67b69b9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3bfae3953dc4453a7e2ba1aba3ceb79U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2fb1b1b97b1145b9a75740f26b11e5b3c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2940946c48f4056bbc10d0f95f0b541C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1408d9fa65845dea2aa77e2f52c13178.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09c845ffa0c94648aad1d34a474163e0A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d50be1afd1b4fea97d6d9b462b74eb4A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf486837be6b64b39b288bdd0ef49a4c5v.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S47517fc5b8e14e95886b98fd97a33da9f.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd543e3845dcb43a7927681f6c0c1e2cbl.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S79744304cec74c61a322bfecec860407m.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S8494b1679cc743ac95bb8ab0440a989e6.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S8494b1679cc743ac95bb8ab0440a989e6.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S585f8f50e91741e2bc5db3ae03a49087B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34439799bb4f469da83ab84446a22398q.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se9fb1f4b7f804958a5fbbe4229d40a3f4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62c2861fd2734875ad63783285df37f5r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79744304cec74c61a322bfecec860407m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde5bda4ebb934c77952a97f70d719695L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8494b1679cc743ac95bb8ab0440a989e6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80c94808d48d4e6f8b18a781adbf37b5s.jpg"
+        ]
+    }
+}

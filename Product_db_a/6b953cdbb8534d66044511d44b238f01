@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "6b953cdbb8534d66044511d44b238f01",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-31 15:07:20",
+        "第二层SKU数据": "",
+        "货号": "GY-W1199752984",
+        "进价": 90,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "颜色 蛇pvc尺寸 21x11单拉链手包原版皮配pvc 一流手感媲美专柜正品看细节多卡位大容量，现货供应",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Large capacity three purpose canvas bag, women's new commuting single shoulder crossbody bag, student class double shoulder tote",
+        "质量星": 2,
+        "重量": 0.6000000238418579,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S77eb7ee8cf4d4049a6f69decd3cab0f1a.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S60df4b364dbf4d3b97b385eddda2afb4h.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S776b770b16fa4cadaf6e6cd36c933fafm.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S14750f22715b4d7190ba7307350c549bb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79ab4d2981a943b3bdb2c491372939c6Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15b8af7a5062436f8be377b5797bbf187.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31b45bfa99674bbe87e5dbdc388b6036d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec12f21a93294093b54b91e77e822b84E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42e2d283a0f44fdda01d84a4cee865c0W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5833fb48cc0d420e945d6d777d432f743.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S299a226b1ab847f393c279af0feff7f38.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8263685346eb49a3a7a7fe2e0c863388d.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S5e681db947224da8b542d2af31cd191fb.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S52821b1196de4757bae5ff808a263274G.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8aed07fa3887403791303bf794bfd239U.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S33dce34a6c334f079d3eec5ad14fa7fda.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc820cecbf0564e26b62a2d8ab2f215e0o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52a079a193964d7eb28d75094ad5e654I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S122cf027897c4bcfb589deac63565d2ai.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde2dde2533664a4f8003c5da3ddde10fw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdab019e130b3459aad6c24a43456c8488.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c7064e559534cfcbace6369613dff25n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8aed07fa3887403791303bf794bfd239U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a3e123c36164f3784b1b9538b8a0394I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c1e2c8d13c94122ba1986a0c478fa11d.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6c7064e559534cfcbace6369613dff25n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33dce34a6c334f079d3eec5ad14fa7fda.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52a079a193964d7eb28d75094ad5e654I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S122cf027897c4bcfb589deac63565d2ai.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8aed07fa3887403791303bf794bfd239U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde2dde2533664a4f8003c5da3ddde10fw.jpg"
+        ]
+    }
+}

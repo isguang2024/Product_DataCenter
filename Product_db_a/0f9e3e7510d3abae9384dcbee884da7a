@@ -1,0 +1,83 @@
+﻿{
+    "info": {
+        "ID": "0f9e3e7510d3abae9384dcbee884da7a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-06-10 12:34:58",
+        "第二层SKU数据": "p-5@20cm@17cm",
+        "货号": "DG-166149910",
+        "进价": 170,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "方胖子包 原版质量，重量：0.5kg，材质：牛仔，尺寸：大20cm，小17cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:53:14",
+        "原普货标题": "New Minimalist And Trendy Casual Texture Bow Knot Bucket Chain Trendy Shoulder Bag",
+        "质量星": 2,
+        "重量": 0.800000011920929
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa03c403f43144c61b18576eebd712dfaD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa80726643954ed3ab3b68265434067d8.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9142ff070da14c73b88a7b430bba0ebdo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0be70e032cf849699436da17589a775cl.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd46fbe78989049e398d8f50276358ccey.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b6ee2d7b1994084b6d0008d32dfd8f7v.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8e820bed5f3c472b8a2b0b8907e08bb13.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8934615f0cd433897d2e90b0ead47241.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85e932e8cfef40a89a26a69baa7f6609x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79918523c59a46e1ac05a670467e0ba8F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3371d8e753194168a7f2a4f59bda1fabu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89dda22e414946b4ac590ebd650e1a8fe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebf906a03d0742a4a70b8824384a2017L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4504fb5528ac43878c1dd72d6870dd7bt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3bf1d765c5f948b3a098ce25940fbed0H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29926d17f996417bbcccdb60e98944a3O.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sbf8260f7d8d84cb1a53b685703f79757g.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sfa1b6426a4dd4be0975083be6dfb9bb8V.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S45b7ff75d7f744db840d45fd8400c0c4y.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S0d9cf7d6ea804bf1bc706831155650937.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb8b9986f69f4a05924250b9ae7a2e420.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e392d9b1fd34d0faf30def5de09c5bfh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S216acfec703b4823bac6190a66220a5dR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52dcc20e9112457f90d065322f040fcfo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb66e49e3fdc34195a1bea3283b43344fc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S886e93338d034d69bbdea3bd5603fd11a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S244b0b3635df4b00a811aa5c177c4c76i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa10e42b908ba49e9b21f97cd697d2a5af.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef8da677e5414ad480f56d61688f9b40P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S14b761e42e4a416f9ae8f44b68d21ba5c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c40978a2a6641048b532dd622364020y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S650714219d47485ab3ab2236070cf9e8j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3589aff1b74b464da300ce12740ba8f6j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se23d450c082940abaabc50542f30ac42N.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb8b9986f69f4a05924250b9ae7a2e420.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e392d9b1fd34d0faf30def5de09c5bfh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e3dd1ccedd34943bf94b2089d7278ec5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S216acfec703b4823bac6190a66220a5dR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52dcc20e9112457f90d065322f040fcfo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb66e49e3fdc34195a1bea3283b43344fc.jpg"
+        ]
+    }
+}

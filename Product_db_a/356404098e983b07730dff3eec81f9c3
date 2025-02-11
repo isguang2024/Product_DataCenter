@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "356404098e983b07730dff3eec81f9c3",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-06-11 14:23:18",
+        "第二层SKU数据": "",
+        "货号": "DG-165558386",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "托特包 高质量，重量：0.6kg，材质：皮，尺寸：20x22cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:53:03",
+        "原普货标题": "Mini Square Handbag Designer Shoulder Crossbody Bag Women's Chain Tote Bags Casual Messenger Bag Female High Quality Handle Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S70d4ab88514b4841a6d1370a65082da0L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1aab44a844924dfdbe6c0a5e830f5090P.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6072f10aed1345e0b90b81c3942084a5K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77bae296057643c3aab0dd935642d78fV.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scbe39961a1a848879f51927f6c77c290z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e38cd1f3f75466ead9932d01994fa44Y.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S21f5880fdffe4065aa4b42c51d4ec3fdp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51eec5eaeb234649b528e8892631b1a1o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd12043f3701426d9e2f5b98d3b52818D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f0e715e8a8d4d6385194b768b7ebf7fM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S383aac80e92046fc8ddc6af1e7438077x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2012ad5ce9b403881fca2f44fdcfac1f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S566ee7baa19440808469fe3536a3cf1et.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S58a7ad28d361412290cceb5a6971b23fy.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S78cc8d77a43a4ff79735ec9ec63d4c00v.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S11a555f08c7f415db7853dc6955eb9c56.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S02cc81fbc2014083a0bf9d59454517e0m.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbceda2d7dbe8418f9d14ccc664c9d21dI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02cc81fbc2014083a0bf9d59454517e0m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ad16be5e9104a759d331392ed0d3fbbR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce186338e7c94ab88bc6f9a5f13375eau.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11a555f08c7f415db7853dc6955eb9c56.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53d7815c091b49559879b16bbe9f4b36a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hf86483e2eb7d4f239495a1f2358c51505.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1e5c38bf46249acb5928bf72a8cea69e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S532f4b5f9b1546acb99606b1f33689a6T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6bfe5418c05445ccbf71bb1795c77a7fH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc4205d69f914fedbbdedc596316486ef.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S184233a76f91498b8f1689f1ad33c14bi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9fa9e8934b6448d3bf9b48f57c5efdc8X.jpg"
+        ]
+    }
+}

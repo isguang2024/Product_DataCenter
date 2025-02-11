@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "ed2f5fea2d8093e7c1ca93089c5cca5f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "GY",
+        "创建的时间": "2024-07-29 14:58:33",
+        "第二层SKU数据": "",
+        "货号": "GY-W1919054193",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸20cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Simple School Student Shoulder Bag Nylon Handbags Solid Color Leisure Large Capacity Messenger Bag Male Female Tote Bag",
+        "质量星": 2,
+        "重量": 0.800000011920929,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se3ed63d7cbff42549a75440f97d87b21q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e1df70072b44250b657fc9e3976840fg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f43e889619b42d6b522d8973dae00e1Q.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5aa843c7a89472189cc8ce91397474fk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd215f511f543424b9dad5393e0306cf6V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd7098b473ca48f2a3b24db9be446b22D.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6a03d51d810472fa02000eb1e39c84bD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75e5f0fe86b74c82b71f8472ad39927f3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S848ead4eb6c149878839a015dd13182dT.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S75e5f0fe86b74c82b71f8472ad39927f3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7580cafcf0eb4f239d07e580ae4c59b93.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd72326b807f4662a8abf7af3efa6dc6L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0db3522cc72456cac57eb427d44cb5aq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc576ba3e7ed540b2ad641ca69df4c450N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf804d007c604f1dae502ff1b54737e2G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0715db92f334566ba9eca54be1e0135i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1f6ecf54c1d49c5851b873dcbdb4f566.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e1932a1c3ca4ad9a31e0964c3b3ed27N.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S75e5f0fe86b74c82b71f8472ad39927f3.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sa2da05e5fa0e4c3fafed354a711afa8eV.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S232e7a56abd94fb7be15a64228c98887Y.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Saaff22eb9fc64e76813ef497a23832d1I.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sdf1083307e7743ff836cb448b17be2071.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S33224959dcf8475aabf36d95a3574ab4t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1419196938c347e696c735c81b98a2c51.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb952c4a222e9494db82f79ad41fdde07H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec6029c0a81c481382900225deb43828G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d055a64c668417a96e956fc1e15d7dfZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc95c29e37e934649bfd33a95674fef1d7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2792b606023846ce8d1324b37ca05e86j.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1419196938c347e696c735c81b98a2c51.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60b65bddce14422dab99fe7935e41bf93.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc25828f73ec3421ab0157e4aba4966b6z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2792b606023846ce8d1324b37ca05e86j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc95c29e37e934649bfd33a95674fef1d7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33224959dcf8475aabf36d95a3574ab4t.jpg"
+        ]
+    }
+}

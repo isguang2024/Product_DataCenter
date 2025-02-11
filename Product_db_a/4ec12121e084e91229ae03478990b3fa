@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "4ec12121e084e91229ae03478990b3fa",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-04-02 10:46:41",
+        "第二层SKU数据": "",
+        "货号": "DG-124888377",
+        "进价": "135",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "材质：皮，尺寸：20x15cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:54:48",
+        "原普货标题": "Fashion PU Leather Underarm Bags Women Clutch Handbags Single Shoulder Bag Ladies Trendy Simple Hobos Bag Female Totes",
+        "质量星": 2,
+        "重量": "0.7"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7d6ae1dcc2bf48c7ac42e586aaa10f24k.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sca81299e20e44da3aafd08ac003d2ebaU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e5d49ef17e74a348954462efdef2b58t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ebfebf58d784cd4ac05eda7f63770f6t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sabe3d40b1e59482c8eb23386677bb785K.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saaf42dea69bb434db0bdc7bb07d00eb1A.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3e1e4e02664446b395664ae122070bef2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9144f85b78ea40bbb95368a6b57763afY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61b1515a50824361a85c8ee96dc85c96h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3fd93370a38542458306667e28b6d563Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7a10edf68334290aaf4898f9d9d40eb8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefa52d522aad41a499f0da9cad6e5146m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S100e6ca6b2a6462586311da9a454ca84m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd57877c5a4874144a8fac3ee655676f2i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24a61bc8e3eb4996ba640ceaf98da4a3B.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S15456ba22fcf4239bf0e64d6eba0fa8en.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sfb90cf3c2e1245bb8734b2922c995a1fd.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S0270f9cbf8c24745ad06d8e31ad57f18a.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5af44a6924cc4962a2d2026aede0ef4bt.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S26f4b33007014b94b22e807d8fbdf1adG.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S36a548b1a08f46f8b692d0cf1bf23641X.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S56160b9adab142798f6422c799b6b36fT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S135f664529db42a1ae35cda5d346f738o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f740653d4f8421a8530013d17bcf601U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7779e29ef3de4bcebab26533e142e78bE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf057f72772aa4fbd9e57caecdb42de3ak.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S521a9764c82d4580a6eabf861b7364dcB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S25818ba8261d42918164bef476b14601w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9feff0914fc4a40958430d7bad496daE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e1648dfe95641d3ab86361c595c9451H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefb30f736a6a44fa9b0124a1f4f8a148R.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sced8472d64f44e8a88416e5d338e94b84.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S662209a43a5b461d840378e6e75f7b01I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S923cb6b05b41450fadf3cfcf3061adfaF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c8eafc056be4781a35a93efed7472beN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7653b79737df4dfab3d31c9dd934f7e7m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5327a21059f4ab983fb53d8625582b8f.jpg"
+        ]
+    }
+}

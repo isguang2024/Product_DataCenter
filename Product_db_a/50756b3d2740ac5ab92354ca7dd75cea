@@ -1,0 +1,67 @@
+﻿{
+    "info": {
+        "ID": "50756b3d2740ac5ab92354ca7dd75cea",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-19 17:17:52",
+        "第二层SKU数据": "",
+        "货号": "GY-W561943210",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "尺寸35.24\r\n链条牛仔托特包",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:55",
+        "原普货标题": "Plush Shoulder Bags For Femme Luxury Designer Soft Winter Ladies Clutch Purse Handbag Cute Fashion Female Party Underarm Bag",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S650c9986d2894b508a37f38dcf91dfd65.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9a50aaa46899482d9e8aae1316fa1f8eJ.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S35163b37936540c38294aa4c7f520b339.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcd27bcbdb994622861bebcafeb26a62E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a2ad989f0054c8e9ac771de81c55d43w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01f658cf3dd74b7ba72cb5829535fe6bJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdafceac77c4d419eab39c0ae8839ffb9i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S84723357e37a4d40bcb30e91d58995c1e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd65fa7fc80d4f2e8b3fda2c4805b4eeI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1913cb43c4548b7a8c783b3b0174fb5x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S128ba1e657b645d0bcf493450a7ef3c3H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d4dd5c46eba461cb00470811e0cf0dey.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S956462ab930f4d868c4de63f99365de4J.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S34165f4a76c54818abaccce0d0f45548b.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S22b6598521504beaa8708935b1c56c78l.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd20ae9fbf5a64e21a01baf5bea8adc77K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac865fccc9ab4d6d876ef90e6e3cad70w.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S94a7cdcc54684f3c92c206ea4d1cb606E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se42b1cb85ef148a18fb39015df18c13cT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5432e93c32044e0186f8b07d493769b5s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S095047f180b84ee685ad293349099e28Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87af75c3376844e58804a4c9471c5f58t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12c01ccfa0834de9a34c3596c5b6a0e2Y.jpg"
+        ]
+    }
+}

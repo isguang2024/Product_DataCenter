@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "cf2ff8e744322786af349dd232b7b395",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2023-10-28 11:25:44",
+        "第二层SKU数据": "",
+        "货号": "DG-148050968",
+        "进价": "200",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": 1183091054,
+        "商品简介": "2个颜色，链条包 高质量，重量：0.65kg，材质：皮，尺寸：27x15cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:56:41",
+        "原普货标题": "Luxury Pillow Leather Handbag Women Underarm Shoulder Bag Fashion Designer Crossbody Bag Ladies Rivet Casual Tote Messenger Bag",
+        "质量星": 3,
+        "重量": "1.3"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1ec75741756f465ea9be7d874bfcd4877.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S963ce2dbb6874517bc74ab56fd2d04ddQ.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf384eb44ce9b49a59a8569f8ecf314917.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3ba7b1defa144a9839a0bfe8e2944b6B.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbfcc33924f94a28bfdf1434e953e756a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S836c00ffb88f403b906bdfb7cdbf1bf1a.jpg"
+        ],
+        "细节": [],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4741be125b504cb38633760b5383e1ef2.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Se1f396b442584a30bda4966d9b385469J.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S862a7a347e644f94beb58db499486cc5U.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Saad8de6ed31a4a89a97089b726dc700fU.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbfe4c9bf4cfb4449b91a7da43d378b2dm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39369b2c050c4576b1591e49597f7747G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0388cf04a70c45b296304cb108902cc5N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S925cde2aea8d4dc8be400bd38385249dP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59affedb804f470da94c890d72adcadcb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb789a2961bda449dae2a845e94a442abf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00538ae6d3994cabb7e5fd755011bac74.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71c97b37b3c84d15a34d736aad8f4205n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5479f31f86af4d1b9214a5fa5f93cb0fk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se34a168f69d54d12baa2c6ce02280a5fO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S600b74eab77340b2a9b5a7de2e97c6fe2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7fdf6edef3fc42ad8b728c82c5d8566c7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0559ddff37d24142bf31942d9f13d58cV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6a16407c84f4f849cbcb85372528f2c7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secf753d4bf6b48baa903412f80cf6823e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37f72d1489e6456b8f5822b336cfbb6bY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa00c6972dcb4b438df37f0da6bf807cn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S228f04fcdd9746ffb4c5d177fd6d8971m.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbfe4c9bf4cfb4449b91a7da43d378b2dm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secf753d4bf6b48baa903412f80cf6823e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd82b1df998a94225be1eca457844c421C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71c97b37b3c84d15a34d736aad8f4205n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7fdf6edef3fc42ad8b728c82c5d8566c7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8483503f4dc24b98bdfc7dfdd01e783cD.jpg"
+        ]
+    }
+}

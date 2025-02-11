@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "e22f1c0b1549be47352d8049c8e93d1c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 13:38:52",
+        "第二层SKU数据": "",
+        "货号": "GY-W994509787",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "13厘米(长) x22厘米(宽) x4厘米(厚)",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "New Niche Design Nylon Shoulder Bag Fashionable Solid Color Pleated Crossbody Bag Casual Versatile Classroom Commuting SaddleBag",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc31810b4dec249a4a3c0e94537c04c99x.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S58f2bd7c446549549fcbbb461a78fbe39.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7226a46877b44f2a0465b17690741f4n.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scbdd24377e5448b7a2ede0ed53ce2f32r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S146d418eae3c4ff9948f4dd486a2cc0eE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c949814b11a4042a31295d292c68fceO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd129350c70ad4ae1b3052371c851c55ex.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2664ee7d5cff4215a2d8bd12f3aee97f6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d9bb4212d00490dbc29ea7d6cd3978cg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67acb000c67f4df79540cfd4efbc7999h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S495e64c3869d4655a97be0cd8c080f56h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S305d1f7d10614b0497f96c2fea24ccc6H.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S3dc644ec54614aedad8790cafb8da2b3l.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S5e34f677206045fcb50656a932059fba5.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6a55de896cbb48439dccf37ddb0f8613e.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1400179ce3af4776bd2a6783168a30bdV.jpg?width=750&amp;height=810&amp;hash=1560",
+            "https:\/\/ae01.alicdn.com\/kf\/S72940c8675ed42f4bc0526758d9ad9b4E.jpg?width=750&amp;height=1315&amp;hash=2065",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c331671da9b49dfbf9cc18c69d68f6fJ.jpg?width=750&amp;height=838&amp;hash=1588"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S55672a4cd947477686a23ec2de57038aI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S809b109619e54986b8b6932863bd36314.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb0a1f7503154619939b59d9e2a587d2h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb51660e71f304dc0b7d3b50b04f77e8ae.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S344a870c69c044c892070dbf092262318.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1fa5821b81664927991f22aebcac93dca.jpg"
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "82a1699c147f30759419ae0e268c3f88",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-15 15:12:51",
+        "第二层SKU数据": "",
+        "货号": "GY-W1582445074",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸30.15",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:58",
+        "原普货标题": "Messenger Bag Japanese Handbags School Korean Single Shoulder Girl Student Hong Kong Style Retro Large Capacity Postman Women's",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0d3baba8fac4409198800ac330126191a.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3a8aa7733ea49ab971398d639d7d3f1p.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S620cfd8a746c4d56b7bc3bf684bfca6dX.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3caf53cfec124ebb9e6d63dd5b629a239.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f837e9ead6a48ddb9982e22adca7b101.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9bc575813f9491bac5ba26136431ee4p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa680e9b90948425c990274498430ae835.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02fdab13823847dca157a6af9d7292fcF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S632d317ef94141599f99f07effcd785cG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S846f61d292194ead87b79882a56431921.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2092af521bce400dbe5c3f061930def2L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a7519096a5c48a7a5f3b35fccfbe9768.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0a233acef83e4204bbeb581097a79378X.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1b32d3514a674adfa0fe5156371e26ddG.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S1347f6755a634cb39c0fc2815d7bb0eaI.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd8e1bfa49384cf2b254661ba12ef37b0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc79b0b0b04f5424a9ce842413c957e6bm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff7abf70cd3c4d53aaa04e6eba131693h.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9a9677b35824e139e58e505ea3b07d9E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13435e82c0a2467e81f452fc1cdc4bc1G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed42194b1f5042e0abd41749aa6f0cd37.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d6c8fdeca214a7c9745407b82eaabb8C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f1175ebc3794e36a3b57b7558143e30E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sffc0fc4f59af43418ec84ea1a2772182g.jpg"
+        ]
+    }
+}

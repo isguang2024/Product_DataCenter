@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "741a1d6ef7f0e0bce4577d4a04809c62",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2024-07-16 17:32:46",
+        "第二层SKU数据": "",
+        "货号": "DG-169108438",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "蝴蝶结发财包 高质量，重量：0.62kg，材质：皮，尺寸：19x12cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:51:48",
+        "原普货标题": "Simple Canvas Small Bag Vintage Women Handbags for Work Commuting Carrying Bag Solid Color College Handbag Casual Bookbag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S500a7b6f1a3d4594a3ad8e84e66d2245X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72f7d91780d84ec18c08fd6bb1e3b7c0k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03989a73130f4810a108683eb03634ddl.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S384de890f34742d7b1ee6f71b639845aG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08e1fe3661bb44c1a10013a7ae282b16D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ad374fcbd1d421d818b8cf19657d49dI.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sea38b3f90b874940b4804a51d9e881e84.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc522caffdeac49b48d69a145b83818f9G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8b798e683994b36b3232665269e4f62T.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc5abc7dde1c4c5ab2d690e00423b484a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7bb8b7f3d164df7ba474f0cb88f8a86T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c1edf1602fb489f80171d2fd440d90dJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc28ddaa4d70e43caa160b4de7e4e8fe4E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a9f2f5f844b4ebf9eeb0802c797e1e7k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3974115f62a4994b874c2da2438ec40e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb41b74f16e294720a17d2f57197e6959X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e7acec31aba4d039c8183f628426731y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sedc988f61af6445b821e523623199f3fG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb962a7f6f7944e9a3f6b2a5216bca9c5.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0575320e167e4907a4bbdc820f496e97g.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Scdca7155e7f348acb689daccec744d02y.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S39adf870055b4923ac29b48a2f9a6493Q.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5d4d78c76aa847e782d52cfb2b7e78a4w.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sb65e289ed18c401f94948266cc837f48A.jpeg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8860a6b45b3c49a48b4c1f5d82154058D.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b65796531c94493b97819b39a8e8660i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8ae4fea5cfb451ebab500b61ff6d18bL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb999a9c5dafc468eb3467d4c81ed866ad.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S76cf955a683f46ce861e313a7dec1fbcF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8f683568a6043b1baa7c7e4e4bc2b2f7.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S04c88e78100a4c04a047652cf9461781v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb65e289ed18c401f94948266cc837f48A.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39adf870055b4923ac29b48a2f9a6493Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d4d78c76aa847e782d52cfb2b7e78a4w.jpg"
+        ]
+    }
+}

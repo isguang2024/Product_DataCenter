@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "799ff4a5c8b8c4ce0277e9696ef62cdb",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-16 15:38:35",
+        "第二层SKU数据": "",
+        "货号": "GY-W2051159196",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "25cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:57",
+        "原普货标题": "Corduroy Shoulder Bags 2023 Women Fashion Leisure College Style Shopper Multi-Pocket Large Capacity Designer Handbags Totes Bags",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa70e86212d324883b7330a8aad0d439ao.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e66452af0c04615b1fc14b5d8c60157r.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa91228857eac4565a0e0f2b74c37c76bp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf99211c04ae248c196aad302685251a0M.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6705e115c68400db8a3d97a4b97b583Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8053891118dc44309d535ca2ea7d4c833.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9f414d69bc1449c8a4b5fed619118e2fo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6705e115c68400db8a3d97a4b97b583Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf876734cef014ef488e94e53226be655j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf20941887cfa4533a9b30329c70176d8l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c9e1e1d185349d4bbba3ba632fd7776h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba1dd9455f084d33bf880cf3e9df03e3S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a14732499e3484187e63d64da4fc72ag.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17007f410c0441a3a7bfbb3e1d539a76i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0731c343655746849285285d7776f2e7s.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4a378e1d3841446ba53454b7775f5764W.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb87bb371da4d44dea4fe95910114be67F.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se39c28af9ce74248954153963d9ab0dc0.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S71f134ea8ee54f6abaa4bb8587939af24.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S469ae47a2e994c19b393f6fbabe7592dy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb12159fcd1154ae69516c9f0240ee8ff9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf94fd3966359489885987b42cd51adddx.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S68474c1a3b384ee9b5d9e3efed24f0ccY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa31dd702f5ab4ac0bbe9833015916c6c7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c7ae30837fd4dd0b146bb64b25ec6634.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3ad871523164646a5815d1dd168f8e9g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfefac2eb88db4ad69c2ceb905f515f44d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf1332425b1040e3a01c2942bdc01deeV.jpg"
+        ]
+    }
+}

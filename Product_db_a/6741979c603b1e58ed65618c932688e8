@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "6741979c603b1e58ed65618c932688e8",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-30 15:12:51",
+        "第二层SKU数据": "",
+        "货号": "GY-W2029510367",
+        "进价": 210,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "真的很赞日常出街很够用，大小刚好可拎可斜挎，肩带的宽度也很nice 尺寸24*19",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Fashion Canvas Shoulder Crossbody Bags Fashion Women Men Large Capacity Handbags for Ladies Outdoor Shopping Travel",
+        "质量星": 2,
+        "重量": 1.299999952316284,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3f2cdfb322d941eeadf0ede1f956d9e89.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se4bf7c7f080f4a43a34da4cf5698aebcy.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9d0f94c20ba48a8af0fca17bfa35a9fF.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd93e44b7ff9049989d941f0232da625ce.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S522cf74d02154371b7feb6376ec4faac3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfec651ebf12f4f668317e889052cee98N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc205417df15d4e39924a4b2a06c7b7f8m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44e4ec6edc9c479891e1a6b037c2f75ea.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf570e6d3574644dba5326fbffc31c5e4h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1b066e2de9a46d98722cce20a72eb41T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbe7db0534954d90a4b3aea2479ff8c1O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10ae4dbb21284684b0cdc956fc8b5905I.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S605d41faf5d84c13a053957f4855f41aY.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3fa1cc158c1a45d0adbd6e6cbf9d1135f.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se1659ada516b47768a15a402daba0e515.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/H029484448d8b47a5b7c9edf2de042c5f8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S176f9c7707414fc5bcc6572cd0da350f8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9e9c080bb374803847f9772e5d687cbH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1322ab91bda84eb2851e0a1af5e26fcel.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b755736f4634ef79d44cc7cbdfed0d4h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc1b6ef1809748fa9b108f1b3436e1f59.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S631856adfb7140d8826818239f8bb65bI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4bb0ac8019c84bf3af7b9d9b2ce2fae2F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S214b2bdfc0b04edd93b8e72184711cccr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S731a5756b71b473d819b6cd704dda0c5X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1659ada516b47768a15a402daba0e515.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1659ada516b47768a15a402daba0e515.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93947f40f0ae40fda79180ea8114f623Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1dfe312a8d0f4e8ba955f530220d4788o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b095e06518946378bdd87cc7bbdd564P.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S176f9c7707414fc5bcc6572cd0da350f8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4bb0ac8019c84bf3af7b9d9b2ce2fae2F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b755736f4634ef79d44cc7cbdfed0d4h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1322ab91bda84eb2851e0a1af5e26fcel.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b37f6fd319c4544b362e5dc0817f52fs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9e9c080bb374803847f9772e5d687cbH.jpg"
+        ]
+    }
+}

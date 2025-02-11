@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "9d035f83ef30745b88124432e351a548",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-12 14:09:04",
+        "第二层SKU数据": "",
+        "货号": "GY-W1848694100",
+        "进价": 95,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "尺寸 19*10.5*3.5\r\n可肩背",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:02",
+        "原普货标题": "Simplicity Oxford Canvas Composite Shoulder Bag Solid Color Versatile Lazy Style Crossbody Bag Large Capacity Commuter Tote Bag",
+        "质量星": 2,
+        "重量": 0.6000000238418579,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5a0709a4d0d476591a6b37d58a8932c7.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2eff576dfa6c477f977bbe289447560aY.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf714ebeb55694012ab13d86badaa8996e.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4791ecd4840647d7836647a40708ffe1o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7a9942e3cb44ae89906ca6cdf970037r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1948baa03c5c49a8b6e9dfa4506a44c5E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se32af71e7b4c4c6c9bae10d382c9022cV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf667664b298246aab526d20021bacfb8x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca439a900fc14bbbb1afbd0f9c6bd62cs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65b79135c3434da7993d1f5d601de3d8R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8221a726f8594c2298d12fd9caddf1f2z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ace8ca273134572856cfc17a9286bffX.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf1bad66747fd4e5ab292033377b4ac71J.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S947c9b2c119c440dae77f1de0efaaed9z.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7381688d98874ff39e7622692db733ac0.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S55d61c2ae431434c812fedb75c59f5c0J.jpg?width=750&amp;height=846&amp;hash=1596",
+            "https:\/\/ae01.alicdn.com\/kf\/S100897265c2540e3ab06147d5db921a5U.jpg?width=750&amp;height=723&amp;hash=1473",
+            "https:\/\/ae01.alicdn.com\/kf\/S83ee4bab71e845b4b54d5aa94c4a3124R.jpg?width=750&amp;height=812&amp;hash=1562",
+            "https:\/\/ae01.alicdn.com\/kf\/S70baef6b975747c089dfa39990dd68ddq.jpg?width=750&amp;height=711&amp;hash=1461",
+            "https:\/\/ae01.alicdn.com\/kf\/S05dfb39544aa4e289149d48f883b8b4cZ.jpg?width=750&amp;height=720&amp;hash=1470",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4ababcad6d144fd96959491290d1dc6R.jpg?width=750&amp;height=727&amp;hash=1477",
+            "https:\/\/ae01.alicdn.com\/kf\/S2da8f2f8637b45f8bdda31cddcb2f375z.jpg?width=750&amp;height=733&amp;hash=1483",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ba66f8ca91f473cb3c9392949ba01edc.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea31b1845d454d4e999507f00637f329w.jpg?width=750&amp;height=750&amp;hash=1500"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sabdc8f280aa147d5a58566594ed770b4w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58327dc81ec64ab8b025c89df923fb5cJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8eab4df96d9746bda7b24df0b3eed9fai.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ec85017b3a542d39bf8345dc2085c3fn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5711fc6cc57b494bbab8003d3ce54fa97.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6a0154c70554db293f8a1776618c0d2T.jpg"
+        ]
+    }
+}

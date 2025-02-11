@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "5e656d29a286a60e61b39df40fd5be40",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-13 17:36:06",
+        "第二层SKU数据": "",
+        "货号": "GY-W1177451605",
+        "进价": 105,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "尺寸 25*6*20 cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:00",
+        "原普货标题": "Mini Shoulder Bags for Women Fashion Felt Women's Bag Design Advanced Underarm Handbags Beautiful Purses Crescent SaddleBag 2024",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scce71150ec364f0cb952789059e06770e.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S47bd9782abdf4a95b6771b2067cddf09c.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0cdacfe26b7449caf42388fec8bb4bdS.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S498dab9c11b244d6883fb5cf548d5db6l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se148be7c5d1a44269b8dee40d8efbdafc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40a40c48935244a8b3340075b622ca58j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se611756ad4ed41d5a52724e0bfeef3a66.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f1c56fb9b694d1b8d1f7f73ad3ff019E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c784e421de745b0940958bc7947e593s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a601ddf4b9449379fbc84513f29f0a0r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26071fdd464e4b0fb169e88a7c9f1012p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec10c14c4e1b40809fa22143d7e02233b.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9c0040f110d84889afc1a9b28b535c81K.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2ba175a23f8b44f09f99c41d8078b0ea8.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8c6e7e9110de4d9791bff502a69a1c4eJ.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saf2cd0ee153c419f8e56d127233c2e21f.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S40a95ff41a0b47eeb95412094eace091i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d8d2f0e20e14171aa5bfc5f356cba19W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S278e2200d7dd451a94fb852a7bdb73f8a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8463d03f31a0456b89cad2b4a2a63cf3F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S419def4f1ae34d76ad15d9d782abf4475.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08c74955762441c0ace84e172874cdb2F.jpg"
+        ]
+    }
+}

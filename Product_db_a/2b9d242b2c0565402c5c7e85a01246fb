@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "2b9d242b2c0565402c5c7e85a01246fb",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-06-10 12:53:23",
+        "第二层SKU数据": "",
+        "货号": "DG-166147169",
+        "进价": 195,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "枕头包 原版质量，重量：0.75kg，材质：头层皮，尺寸：25cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:53:12",
+        "原普货标题": "Simple Lightweight Box Bag Unisex Trendy Diagonal Striped Shoulder Bag Soft PU Leather Pressed Shell Men's Messenger Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0735906664f840e299d7b7dbb5e72042x.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S37c3d07cae35444f877f5e14e2dbe994q.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0dc7b07fd56c4635bb25b4aa265c47b3O.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se8b7549a0cae495db0691f1fff148a09I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd76853a941644c758cc1b20eef643a32Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se14fce7846284c1ea31b6781fe1d3850s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2f229d3daa542d1848e0dca427e0166e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c4081cb817941549393d5169ab463e3r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f9e5f96e4244cd2a40159ef95543955A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bb89773a8334bf39257ab73423d5dc2R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6cbd5367feec452c9dffb8aee3eedd8a6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdaf89d6817b54ba8805a0cd00039e70bH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfec48c463be4492bbe9535c30ae16a223.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S3d7f0de292a74a4fa5d7e1736f8ccde80.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S547721007a904d99b174fa16f2ed80ec7.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se29e8f4979a941a6bf6dc8d6451e21b1r.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S40b6a3deb9564da8934f88d59a6f3e42s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2563f17beb334144a742fbc0c34e570el.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9abc9e283f1c4d939b226cfab9472f669.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S318431159f8f419a9f784f5a053fe1cbT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c96406a9a2d4668b65051a2702c1a23D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S258ef80e13b7492bbd71ac9f4f6ea967a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d55556f64164ae28e756aa5dbdec486m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2984744692244cb2b70d305a8e2c152dg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9163c5bcf764f4f86307d172949454ea.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12c5dd802e594ab8b5920a14e787e2637.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8f6a5e938ed484f98e5fc695e901bcau.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbaec97f412c7425d827fb862ba0223ec4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S439c98a6887c4deca10f0c6fb715c4bcT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S95817e43bb254ad2a9751adb07006b7fx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc54a7ec8b1c4c3fbda116c80bd88bdeY.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcdb04b471b34ba098976df05d94d4f1G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S742f30325ae44f2aa96197121ceb537fW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7b30d2e44f046cd930454e6c0928d750.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S437d7e9091874adb926db4aa56f5f79dt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39af795ff3094b65a00427a8e1fcc705B.jpg"
+        ]
+    }
+}

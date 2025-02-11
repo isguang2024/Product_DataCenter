@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "7a66316bb98d06afd471fd081823d3b5",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-05-26 18:26:08",
+        "第二层SKU数据": "",
+        "货号": "DG-153035895",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "腋下包 高质量，重量：0.5kg，材质：皮，尺寸：19x14cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:53:43",
+        "原普货标题": "Fashion Women's Commuter Bags Niche Chain Crossbody Bag Ladies Shoulder Large Capacity Handbag Cross Square PU",
+        "质量星": 2,
+        "重量": 0.800000011920929
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S54ee043022314d8d9c416dc6d9b765d71.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S28fb32ada2d64da68a8f7b6df49b4fecl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ac6e59fb42d441ba6033db168df4643h.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3715ce11042b469e99e07343da3f248bU.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbdb8527746b044479e39c8dfae3582a2N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c92d1301eba4e6583f48643d8b3dd9fx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S031ec414a3d9485c988c08699bf538f5u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa741c1c3afcc44df938fab48db0dc266d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c8641bf60a14dec92a44ac0b1749d90H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0206613dd4b04a4c8fbe8b191d90657fy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9d4d6827ca94882b028a8c3f735af4aq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fb27055d37341c3bfc5dee190edc9b7Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa95576227d924f8ba5f59bb2275873f7x.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Saf23979afb5145d2b4d1393d44ee2666C.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0d3244192f0e4a53a8f957f7406727eeg.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S9077c9a6ef00476888d4ec5f307904b7u.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S715a2229a7264ca79900c1ec6e3fa400o.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0461bb1722354f83b5dd34b6c2ba351ek.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd53591c3bc5d4256b3a11411a08de657n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9153a337f3c1467097e5aa830ea04538j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23527b1a127e4eddaa288d3669456c840.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1bf6b0bb0dd42e18b38858fdd6714f8R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se24197a78b27431f8f5d2580ecf4f787h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S474f7d3fdbae40af93bed5692e920c543.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74ae85238b364762bf11bd12ae292ea1a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S76053bbf53a74e0693bf7cd2e55c5621p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e6e4fe3715e4810a2d582ccc9058bd8m.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb982ed9be1fd4758bc100092f297bb99p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0bb58072ebed443890d93bb80d5f45eaF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f7a0517a5df467dab6aa89e4647cee7G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b2f7941c31a4617bb831c6037a27b972.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S715a2229a7264ca79900c1ec6e3fa400o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9077c9a6ef00476888d4ec5f307904b7u.jpg"
+        ]
+    }
+}

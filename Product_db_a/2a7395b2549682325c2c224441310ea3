@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "2a7395b2549682325c2c224441310ea3",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-07-29 15:07:03",
+        "第二层SKU数据": "",
+        "货号": "GY-W1725045541",
+        "进价": "75",
+        "利润比": "100",
+        "品类": 1007,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "原单牛皮皮带～热门款 皮带里面最火的啦～质量很好 全套包装！五金绝对不褪色 皮带头和专柜一样的哦～ 配礼盒手提袋发票",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Genuine Leather Women Fashion Belt Knot Buckle Waistband Cummerbund For Dress Jeans",
+        "质量星": 2,
+        "重量": "0.7",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sad3778aa73304b649e883651afbb05c0A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf19e52f9556f41faa522799a05fa34b6L.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3ee45981af3947baa4eb05657850c7cfX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7e98d73ce1145fa85e8eaf777dec5e5F.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S60e5e9e7b88c44c1bd518989205f6cfdK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf830ac0c8b84a919ca657799c38018dN.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1c08ffd5c634fb6904335636f3e1fdbe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60e5e9e7b88c44c1bd518989205f6cfdK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se158f0b22c6f438a8d9c5d1e314b4e7df.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7da043371d1e4f46afb85d8db9eb7b3eK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd660005fd8b34a318c0db96d73cdadb7L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S835be2efca20415982eaea0081e00234i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f4ffa9914c2452db513e785d2a639602.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0f49977b8c340cf93bf151fffa831d99.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20d4cadfab384d4bb43b699e243fdbb3I.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa315be56ae2a4db58d1fd8800047589f8.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd70fb56bc6e74c519b0dd62e9d76f32b3.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6056d52287a14264b201e3a3fc210947i.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S8bbb1d3e38a946dbade99c3c673d8b02K.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4c033ab784424568bb8e35bd40019d793.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44a04e7c0ba54c239bc95b5b9cf62f5f1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c57786eea3748ef9cbe6f2572369d2e2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6056d52287a14264b201e3a3fc210947i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S077b50fd4fd8425790743a39b1f2ef89D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bbb1d3e38a946dbade99c3c673d8b02K.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4c033ab784424568bb8e35bd40019d793.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44a04e7c0ba54c239bc95b5b9cf62f5f1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c57786eea3748ef9cbe6f2572369d2e2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6056d52287a14264b201e3a3fc210947i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bbb1d3e38a946dbade99c3c673d8b02K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S077b50fd4fd8425790743a39b1f2ef89D.jpg"
+        ]
+    }
+}

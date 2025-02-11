@@ -1,0 +1,67 @@
+﻿{
+    "info": {
+        "ID": "9c23b4f9f57798d63402f88d1fbbc0e7",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-22 14:19:15",
+        "第二层SKU数据": "",
+        "货号": "GY-W1579738156",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1003781064,
+        "普货模式": false,
+        "商品简介": "30*16 1",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:54",
+        "原普货标题": "Candy Color Cloth Bag Small Fresh Simple Solid Color Nylon Canvas Bag WOMEN'S Single Shoulder Ins Student Work Crossbody Bag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1ce0ef5bcc64311aca0631475d58a617.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc79a8061f61461aae2194f00c79a623C.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0bace6d66b54b65b42882e16fdafbebe.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfdce8f537bc942cca73feff0da2a785bG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1cf518bb5bee459db5ae01985fb398e8e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sacec26f2652d48a7809caf3ae69de891G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se74d7f1aecb14e90a23371d620ce51f22.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53ca027ce6064e4ba947e1c0cb8a3bf6W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S001730b20df14a588d03725a5b1ad003a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2807c04592b4dcab1ccce95fa5ca1c3G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S257995753189492c91290f6978969159z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S457ce97a8e8c4fe2b0e5882f34820159e.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf1b579f918074778b7515c30df19f5b3l.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1b3be1b14fc748cda569a04d686977d1v.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7a291fbaeb54438388b5c430bd1441f3w.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb63df13b04744d44ae78c0021300e340n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S641ce19e8982477d889539d84fc8cfdaI.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb63df13b04744d44ae78c0021300e340n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S641ce19e8982477d889539d84fc8cfdaI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5248efe568d47109c7080312d2e910cE.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3f038054ba142a2b1fa0c29ff58726fG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S140c5a1a483c41f7aab8dd283ce7d73fL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42f63feb387c4a41a50ea73bead8cc9b8.jpg"
+        ]
+    }
+}

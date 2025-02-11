@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "8f3d654d1e92986f66f3f7c8b782d415",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-06-03 17:09:03",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40@41@42@43@44@45@46",
+        "货号": "RB-W685444131",
+        "进价": 75,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "标准码数：35-46\r\n颜色：黑色\r\n款式：全套包装",
+        "性别": 0,
+        "修改的时间": "2024-07-21 14:02:44",
+        "原普货标题": "Flip Flop Women Platform Flip Flop 2024 Summer Bathroom Slippers Outdoor Beach Shoes Light Sandals Slides Women Shoes for Women",
+        "质量星": 1,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb868b76177d64ce6bec8da53132ed78ca.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se8e3928d2a044c698b41c96f26e1f295F.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0fc5c34fef9d4739ab1ed7634c7ba67e0.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S884a3e6fed1049eaa90bce1d3bc58e63V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5210869367684224b599cd47123b9a1a7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f4ce6f5f0e4423aab3971f1465a1b0b0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8627deba11f4b25873b27eefe1708c3h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5771a95c6074e3bb1ce9c78209748bbK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ea7029ae1e44489b62edb630096d79aK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53c6db0432be4b5a841c438805a1befaY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0772d96fc74648519d232ba12bd5a839f.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sfc711ef0190c44b48c30e5cff295f5e3e.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sfa96cb566a62463390d87301e8b9ff8c1.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S246f8497da024a7fa8d4bf9177692e05E.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S24c818b52cba4662ac50174c6cd8eb85I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S111a6541bbe4484ab9d0e1ee31e8ee63P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e9ced920406481590e60f88277ceda3D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8409c5cd503d438d9a1d5d505b59d3d6B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc39451d17f834b7cbce9354a9d3bfe81b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbb4160fa7874a9fae0f883951ec471fd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c0eeb60856744678afd55c8800ba5853.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd511af5cd0b6414fbdb6f35021b53f71N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23045f409185476190934a9db2ff162dm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S54b9f7227d174c70af79212d52d54c17E.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3255a8becf2648e694a402097ccec8697.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S246f8497da024a7fa8d4bf9177692e05E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a0b09456d2f4e8aaae24fed2329d076U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f47ab790df444faaf77a4ad544b08b0N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f42cf40b62440d99965f64305f66a51l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc107c3b2f46045c3957ce4ee6c514a27z.jpg"
+        ]
+    }
+}

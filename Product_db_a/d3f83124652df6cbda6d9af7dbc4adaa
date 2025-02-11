@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "d3f83124652df6cbda6d9af7dbc4adaa",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2023-10-29 11:07:54",
+        "第二层SKU数据": "",
+        "货号": "DG-147493688",
+        "进价": 215,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "商品简介": "单肩包 原版质量，重量：0.65kg，材质：皮，尺寸：20x8x15cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:56:35",
+        "原普货标题": "Women Autumn Winter Plush Bag Women's Chain Crossbody Bag Fashion Square Fur Bag",
+        "质量星": 4,
+        "重量": 1.299999952316284
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S81f245cf3faf41d2a2a9e3fc2c7ee409s.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3bc933191b6f4f1a8f9e3d3abb54f3135.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S706647bac2b54b87b439108b96051c01F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98ad32dd0af54f9ebdf660d1ebee381cI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S482b6448c7b7494eb2e6fd4c83a1c6781.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4dc303c88bb3498aa01cf89dcf5e9073j.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd56f6cf6ac454612a6d7d6856517cfb8s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd60abe82d444383a25834019dbff461x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1fd301acd7bb41a2aa46e96b14cb640di.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d88a34af58b406e8b20f72fe06f547ax.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S359b7e7be1d24270b8f78456c37eb092U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ccfabcaf9bf467fa8e7858d187240fbK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S681d73717ea2416787369a96668b52628.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See27fb73643f4342b59c95592d55b633b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23304bd27d00496ba4e6f8a24975b04eC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd04138aa2a294fb088f4db11ad28947fH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36e0b462f6384c59aca2fd755fdfddc6Y.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S692cb38d40094b2eb3898eaea2e497836.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2a69d422781a418eb69881c8488ee73dv.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sb8b807117c90496bbec5c1c7b81d2bb0R.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Scd4f11dfb0a24e9db1c8e52e826538d7O.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Se21239aaa64644399814437ca0a4293aG.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S74248fa3d1ba42149b246d03967bc30fB.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8b807117c90496bbec5c1c7b81d2bb0R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93fbf54cd54f40708dcfd49caf0fbcb4J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se21239aaa64644399814437ca0a4293aG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c9b86e93f9e46b1af37d61c6bd1b0deM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74248fa3d1ba42149b246d03967bc30fB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebf1d28c51d54e379fa90e8f4b6acea2A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3bccca55272c45fd8d1e0e72ab23b5f7z.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sebf1d28c51d54e379fa90e8f4b6acea2A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93fbf54cd54f40708dcfd49caf0fbcb4J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8b807117c90496bbec5c1c7b81d2bb0R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd4f11dfb0a24e9db1c8e52e826538d7O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3bccca55272c45fd8d1e0e72ab23b5f7z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c9b86e93f9e46b1af37d61c6bd1b0deM.jpg"
+        ]
+    }
+}

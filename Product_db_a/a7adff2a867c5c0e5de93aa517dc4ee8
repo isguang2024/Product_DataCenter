@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "a7adff2a867c5c0e5de93aa517dc4ee8",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-04-15 10:50:33",
+        "第二层SKU数据": "",
+        "货号": "DG-131134549",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "材质：皮，尺寸：21x22cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:54:37",
+        "原普货标题": "Bag New  Makeup Bag\/Women's Storage Bag Off Sports Handbag",
+        "质量星": 2,
+        "重量": 0.8999999761581421
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9f730ef3f5b3473a8ca9e9ea8b7da91fT.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3b287a67e0b4d0198c21b6e6dd7fdbfB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0eda761ecef44372938ec7397a4a1456K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S54956c725a7c488e8ed83d0744301a6dI.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1c8e6cae37324e6cba7a499bd9b004054.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S78f44a68343d488ba5cb156e194a5c55T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e07b98e5e3945a7a16fdb647e71537aZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S206b890fff994fd88657de8670e5b6ebQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd151721a3f7422297bb201f2bd67ed5a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4f73e0d590d410c93163c59994059d3a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51cfb907398a4da79011004a68ea1b8dw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f20801a84964223a1aa760d6d24addfd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f4511b0671046948eab70b1866c1f19i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc14e20c5e174ab29fdd6ec5c621af4bk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc734bac2d854d798ef84ef990724ad6X.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8fe3494dd659489083ca56378637e78a2.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7c583e0856a34ea088994c55951bd7d5a.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa120e1f06f214e3282face8b86207a0bS.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sbba585e00a484651876aad105c7f0dc5g.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S54cc45f2ca3249209c7bf59d1ba28ee7g.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0969bb277a14d5cbbc7ef307b2419b54.jpg?width=1280&height=1707&hash=2987",
+            "https:\/\/ae01.alicdn.com\/kf\/Se46e8b279c614f538e210abfd19b8a98o.jpg?width=1280&height=1707&hash=2987"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf35b53c856074b5b98cd65c0935f36b2S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ba572af78194d6c8e8c6e1452027e1bB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa120e1f06f214e3282face8b86207a0bS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbba585e00a484651876aad105c7f0dc5g.jpg"
+        ]
+    }
+}

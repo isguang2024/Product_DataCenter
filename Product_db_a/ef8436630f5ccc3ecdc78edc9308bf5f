@@ -1,0 +1,81 @@
+﻿{
+    "info": {
+        "ID": "ef8436630f5ccc3ecdc78edc9308bf5f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-03-11 14:08:16",
+        "第二层SKU数据": "",
+        "货号": "DG-136679993",
+        "进价": 115,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "腰包，高级质量，重量：0.35kg，材质：皮，尺寸：15cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:55:15",
+        "原普货标题": "2023 New Fashion Handheld Bag Korean Version Leisure Mom's Bag Nylon Multi Layered Small Square Bag",
+        "质量星": 2,
+        "重量": 0.800000011920929
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2f816c868cd54bbab99a4097c26224aa9.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S185587891f814125bc0aa6580e397819T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc38122a448f440c69a4fd8ebc49d808bx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sabd34cf9e7a84fe9be9b911c74a14e5bp.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb96849a2f46d4e78b3d72186c43f408bF.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5998e288fe745df833b73618fdcde6dW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S953e765f9f834d389b2f30791bea5c4aP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S307f4a8aa050470a9d10a9b7d9058a3ab.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12d77caf51d74ef3a1b241b52264ff2a0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0cf9940e96a64e4f90cbfdfc11dbca33v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S011f06b380b241c5b744f2d7fb448dfeh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc97bf8516c2544f493f5ac782d92c5bbr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bd810bfcb8347e298409bbbd6e56287p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4d4857301f8480a8d0b37d40762f57fh.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9318e7775b6a4a7fa0a040eccf7808d3a.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1921413587224efa93908e49679b89f1e.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc1b41d6c17e6449fbf84c2815b3d58fai.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S6b1967c2f31d4f4299968279e3e84e3cm.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2f945dec776143a3a5f1e28a0f11d0e1f.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0ddf26cc08ad448baccceef86809bc53j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67a0b81ed2534647b81728f72cfcc144Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S897ea425e1ad4af68e905fa792fa9089L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3badfe5e41654233a24a2bbaabd34197A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf857e9980b234e7da25610bce36feee2c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e6d08579be14d8cb5fc29f5abbaa23cx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a589520558c46818572c39691ed05ce1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S106912bdea714dc49e2dc0b02e94de7ct.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9338af2d5fe14baea51c4173eed4451bL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saccb02b9036c43c7b874e254457019e6K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbd4cd25b69142cc80ecbef0bb69b8a14.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se00b14f2f95c46959a21477497e9f250A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80a521fa8cff4d968c6a1e7e5658d743B.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S19c64832160948a8804657066466ec1eh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d14a46509f64af29af4460882bf3161D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde3d52b7e72b4f7c9ede2d58e3ddd44cu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c38c874796145018382b85375f39656p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c14765a6a164af488c326540aad2c77M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef3ed9e8d8e94d0090ccd08e07dac5a3m.png"
+        ]
+    }
+}

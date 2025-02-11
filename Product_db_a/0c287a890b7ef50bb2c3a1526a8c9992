@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "0c287a890b7ef50bb2c3a1526a8c9992",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-07-29 15:15:29",
+        "第二层SKU数据": "",
+        "货号": "GY-W661491152",
+        "进价": "75",
+        "利润比": "100",
+        "品类": 1007,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "原单牛皮皮带～热门款 皮带里面最火的啦～质量很好 全套包装！五金绝对不褪色 皮带头和专柜一样的哦～ 配礼盒手提袋发票",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Belt women fashion with dress overcoat design elastic elastic elastic belt black niche with wide version of the belt",
+        "质量星": 2,
+        "重量": "0.7",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf41f43de7d1647ecbb5921b23e269e96X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd28ac4fd4184b549f96a11839a0033dm.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S91c61d8250ae48f4b91dd867eb4c7a08z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b7c8a7b72e94be2b1fbce651958f6339.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S134591366c014554a59707c8c9d2efd38.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04befc23c6e74c5db9411098c4a6ee2a6.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S77311c5681cb4e46924c6436af6dd0e40.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa67eebb04b1542f5b490f9fc555ace6ft.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb32503b49aee401d8bfbcefb26d477c0y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf0ef0a1e6aa4e29849681e8d880e1c3k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se691c48910804127ac80d7f35dd25be26.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4d862aa038741139656fab78701b5f04.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd575bd95c214f5aa6578fcb5f2c7ae3M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6078df2edf9243079647107977514f80F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8382307377948e9b24e0865699bd12a0.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa8f5947d737a4d65b861ad5e65c4649fU.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S6e93ef391594429495911ade4a630d6bJ.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/See5a2d5dca0f43ecb8bdfe6f2616c120U.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Saa63469e655a4fe0a50fb1b8ab168e93E.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/See5a2d5dca0f43ecb8bdfe6f2616c120U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3f6026744b14d8fac1e065b5bc85bf64.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b68b633c8064b6d912d04aa5af97013s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c9461793bbd4f30a756ac0aff0d80b2T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d2ce4ff40c54db5b98ff54cc0ed9387O.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/See5a2d5dca0f43ecb8bdfe6f2616c120U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3f6026744b14d8fac1e065b5bc85bf64.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b68b633c8064b6d912d04aa5af97013s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c9461793bbd4f30a756ac0aff0d80b2T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d2ce4ff40c54db5b98ff54cc0ed9387O.jpg"
+        ]
+    }
+}

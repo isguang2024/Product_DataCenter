@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "c2af14f0b2186cfa146d7f1c95f290e7",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-05 17:31:14",
+        "第二层SKU数据": "",
+        "货号": "GY-W116724274",
+        "进价": 200,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "可调节的皮革链条肩背带，它可作为斜挎肩带使用。饰有经典标志五金件，尽显标志性魅力\r\n尺寸20* 25",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:14",
+        "原普货标题": "Korean INS Tote Bag Large Capacity Fashion Commuting Canvas Shoulder Bag Handbag for Women Purses Convenient Women's Bag",
+        "质量星": 2,
+        "重量": 1.5,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6222e2d7485e4e1582477a131ce44e1f3.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf39eb59651cf440da939fdaf699a0ffd4.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S04522e549ade4f868d436718f32014d69.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sda30355a87d048e7ad167776a14ee520M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b6d957ebc474852ba566301a6a78f306.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2004f95caafa480ba9045d6d807a0c2eY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d4dd38a951045298e5df6241ca4ae66C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd74ee19cb5334955b567cf997cec7302P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0e14702e8a746578ab74b8494378bc6I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04522e549ade4f868d436718f32014d69.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6639f1aa93e34826836860b1b7886ac2z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S95244b30fe48417ca1808b54b0b55de2C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7351e6add8744306b805fada05a215b58.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sbd137af7805846b19649e797d6ef5d62J.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9a38e3eec80649ce80b9abba4f04163b1.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa6ba0fc51bd249d587115dc0d0a23b687.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb13f6979858e4dd0b5677c044d1ed1e3N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb32402beaf92421c8ec0961a49bf41ba7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb505fe29af643aab4ed4b6c4cd1d08c5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5c9497daf7944c1be8cc5bcb01d04763.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff65f51443b040b59fad4b3f8f310bb5T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6ba0fc51bd249d587115dc0d0a23b687.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb505fe29af643aab4ed4b6c4cd1d08c5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff65f51443b040b59fad4b3f8f310bb5T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82576337a64848cebdc50edf29d7eebcg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c96085beae04f5abbdde38c55ff67246.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb505fe29af643aab4ed4b6c4cd1d08c5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f4df80dce9a4f0f89dbc75d6c264008D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3727fed599e44df6b2a5b2cde7395e038.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0f8957a3decc412aa8e9eb24372cbe1bo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff65f51443b040b59fad4b3f8f310bb5T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6ba0fc51bd249d587115dc0d0a23b687.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77e0c7a109674d939babda719d4e6551K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c96085beae04f5abbdde38c55ff67246.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb86f1b52e7604d39babfcb9310b46fa56.jpg"
+        ]
+    }
+}

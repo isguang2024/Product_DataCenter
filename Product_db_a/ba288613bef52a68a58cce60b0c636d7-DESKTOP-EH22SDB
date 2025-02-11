@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "ba288613bef52a68a58cce60b0c636d7",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-16 19:06:52",
+        "第二层SKU数据": "",
+        "货号": "GY-W1131770725",
+        "进价": 70,
+        "利润比": 100,
+        "品类": 1002,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸 11x9",
+        "性别": 0,
+        "修改的时间": "2024-10-19 11:30:16",
+        "原普货标题": "Ins Fashion Women Reviet Wide Strap Shoulder Bags Casual Nylon Chest Bag Female Crossbody All Black Beach Travel Underarm Bag",
+        "质量星": 2,
+        "重量": 50,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7e378bbcc4f24f6e84d40998da0395a4r.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S44cacae7856e4391a8e1e8b796f53c85W.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S84983d2ae05140089f1546344ccb072ei.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S84983d2ae05140089f1546344ccb072ei.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S759e69d4c64a4dada63492047bf8e6d1p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20368ad494e748b5a100ebad0865c0c9v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S301942716eee44a995ed94c6c4ab503eB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb3992ce8c994cb2bda589acdcf7e272t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07d9373ee3724e24af69b4894f1e71ffP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9e51f92f0a14a238baf02f28da750c94.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c8a1ebd85124a6b99dd04b94514ac11H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fdd665ad13e48438aa8c3a1855d3673K.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S84983d2ae05140089f1546344ccb072ei.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S36c1d20e938d4d3489d57c2323cbe98dL.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc310f9d96f784ec49d8f0fead7b7d398u.jpeg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3cf40f77a0d84bd2863633ca0ccfce9bq.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/H5fc39782534b4cf38f89645b08969edfH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H3651c8488f4c483d95759ebeef778dcbN.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd725caf23db14e589de0b8928289689bR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5bede14e19d4c97b997a5d6612432ddI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f35820dcd6a419580122faf962d2fc0y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S76ad1046101946929b4895421d26a5663.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58b66b9aca8d4ce4bd792a48fef0fc6au.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8e8f62a9b2df43d780b0b4f4d0fe53c94.jpg"
+        ]
+    }
+}

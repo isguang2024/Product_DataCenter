@@ -1,0 +1,104 @@
+﻿{
+    "info": {
+        "ID": "1ffcdcca124df3c937660758b0ea40f1",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "GY",
+        "创建的时间": "2024-07-27 12:54:32",
+        "第二层SKU数据": "p-5@25cm@20cm",
+        "货号": "GY-W1186340301",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "size：20cm 25cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Women Canvas Shoulder Bag Smiling Face Print Ladies Casual Handbag Tote Bag Large Capacity Cotton Reusable Shopping Beach Bag",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2a9b90a0b623467b80780bcb632a248co.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se98013b797d14ca4be17f6916fb08c7fo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f822fe32cbf4b0390061db8655e0d86q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fc3de557a104e9d81fe139904cdbeedY.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2d30c1019e3485ea43f3da7c327db70e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ff35bb7b0984917b82365bfd1dc6b04z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61ea7c7f916c463a9ed4ee5ada7d4ee6C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70b8238ade6344d39d45343181972c48s.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5444f0333cc14f328f06394c9df0b7fan.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se297355399964853a75e2bb38c6a3aadD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09df7f87c2ae45e9afe7ca22203765ea3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6432b97a3fbe48ceba51fc8be4d8f00dw.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S00920038c268439e8e3bcf93a3224bf1O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c7a6f21e61d404eb64d276ed4023d22c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf9a9b37c43141bd8201db7f273fb250h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5bcffca3eab74184af7c8be1bbce09f3V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a69054eeef24e37a12caa3856e45cca6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd6d82098fab4f69b5b475977dc23a6ew.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S25d0411add674fe1a2c4bb8b321a4912O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S618ea8de2cdd43d882340662f8bb0c0eE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1305b22f62e4d78a42781ec7227fc37M.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7f290722f07b4d0db308966b2f9e067b2.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S73892f0e1ed84ed2a068c0bdb79298636.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8f098c594350421a8b08f59e501c89f1z.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S02cb1c6d187e4f35a2c9a295f0fefda4p.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S8f098c594350421a8b08f59e501c89f1z.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S02cb1c6d187e4f35a2c9a295f0fefda4p.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7ca78222c84c4b479b23899d9bc3806eG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc336f75eef874d03b5385b4e10ad59e9o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc613b7bdd1e4fb69b4189d5f25bad36C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7014173ad059455fb1fc424d9b95c063R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66a621e2f357404eabca858f709795e3U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4755c3d9f34d4fed98d0d74d3ff771656.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4c05ea98c6845de916980e8c2cd4c39t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd99a04c59484e9f99e5316c777a727dw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e49670c57ee4031820438d55f768895h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9d175b628f84179a5bd83b2a0d43db08.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S208c52f92d6a4abcadd12a15a6fc2b30i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65e35623a2d941bcab62b5b51db970ea2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcd14f0710a04b539149b282222e7ef0A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9af5004f8d6540e88192fee0daffc6fb0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a7df26078574dc99e55cc7e7133a190T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S383e9e1f4ade44d1a482afb990e6454bj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8dff2755ec744cf989777bf713670c2dG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbb11c90750f44e7b3937ec5835b88fep.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36423039e70d430ca52f5ea4a7fecd51f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9a5140a539a4978a4d90eee1fda8647z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd15a897eb4d94ad4a769a97b81d08af8x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb98088f2f87405c87629370d451aed58.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6cc1e4dc81734c98884b34727d514f73c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28ad0ee762a54e5cb46abf630e36040eO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5db4ec5a75a4308b7cc4a099a239153j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8573960944ef4bdd974b0b22dc06087aP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a05c98d98a64b989ddf7efa79c4ce38u.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S32860d28087c46d3b341962f8eeb7cc3P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd21c5af54f604014ab146160a34ff4ddR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c43301ac53841f0aeb23bb567e25209v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3c922dfc722494f80b7df575cb6c64cJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb26152dca4ef4f1b9ad55f5df5602598i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18a03843d2284db890d6cbb101a60313r.jpg"
+        ]
+    }
+}

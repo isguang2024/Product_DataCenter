@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "2d19293957e21f859c3183af23c76b79",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-06-11 13:52:47",
+        "第二层SKU数据": "",
+        "货号": "DG-165733340",
+        "进价": 155,
+        "利润比": 95,
+        "品类": 1001,
+        "品牌": -1646576446,
+        "普货模式": false,
+        "商品简介": "材质：皮，尺寸：20x26cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:53:06",
+        "原普货标题": "Designer Knitted Handbags Female Large Capacity Totes Women's Pack Summer Beach Bag Big Purses Casual Hollow Woven Shoulder Bags",
+        "质量星": 2,
+        "重量": 1.100000023841858
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S16c9d3ef6d644e458d33b76ff26e095aB.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2539b55c39704046b08d05e86b9a5ac7E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6871190732a14637afd31c81f3805eb0e.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S181745399b7d4913baa2ecc425475e92f.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S08e7e16c31194e3d8e102cbf475981d2Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ef978621f9b4c10bad67b992df41c89r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6431112471f848c8a9d01257c52074a5q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09f0b9964a60410f9a5b2a4b953db21a8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S181745399b7d4913baa2ecc425475e92f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb348cc12fd5d4cb8be56ac742ea0bb59c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d3f3ef892c84b23959996dd90bb845aG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6a26ed6ca0e4e37a8c52217253aa635G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf05126b87ca54a5c94e44f956767a3d0R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4fdac3483f148668b4372622b078e51G.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4029b9ef59c848dda80fb2324ee309dec.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S59f951b4f67b4d5ab5f9fe104a816b95r.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S2bccb984171546829279b2f9b0975839O.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S1e245b259f4b4ab78249f5169c47e138k.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Hf948ca77afd544a1af9a346080e286aaT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H2b365b190e2d457eaf4f0b7195173a45m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H3ac5220673884840adef207b1de4f9b4l.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S11d34e12d1c84dae83d05de847714870L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se50635309b724600ae2b67d5555e1e86H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d07f063226a4b74b09fd46deb3c8ec04.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad8b231dd7e649258cd5c7a026626f7ez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6521d7e93604720bbd091c1d4643edfv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S733aaa5612d44b3288b68ab588ee4daa5.jpg"
+        ]
+    }
+}

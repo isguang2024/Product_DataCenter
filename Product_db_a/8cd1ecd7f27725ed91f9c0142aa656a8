@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "8cd1ecd7f27725ed91f9c0142aa656a8",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-08-07 14:25:00",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W466959779",
+        "进价": "120",
+        "利润比": "100",
+        "品类": 1004,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "镂空厚底拖鞋",
+        "性别": 0,
+        "修改的时间": "2024-08-10 14:19:11",
+        "原普货标题": "Summer Women's Flat Sandals 2024 New Stylish Outdoor Glitter Open Toe Comfortable Casual Slippers Plus Size 43",
+        "质量星": 2,
+        "重量": "1"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb89b9784773b41f780fcb281d1638041y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3a8b2895d8ad417795cb5738d9f0d690i.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S212f566876e44af99a29e2e97466c9446.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S212f566876e44af99a29e2e97466c9446.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81b44813e2d8407fa6d51026e63d1391g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S504c7b6e9f3b46c0a72302862fa970c4L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60d3f361a9864af6b9b047335ae011420.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd1ff3e2cc714f7995d491b9622e9708Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc817a42689b043f79fe09615defb5ee4B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S836545f6e38e4989b79f30bf1c380ac5h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4744162760dd4ca79c2f7968836326a4M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68e304ada6624f49b28eef496c9e7662S.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S212f566876e44af99a29e2e97466c9446.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc89a03ef164a4e3693bd6290ae5f1a1c3.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd4a4a1e3a6824426b32e31f43a5cc579a.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S798a020496c643a2bd8c44a4fba82f4el.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S25ddc32ca35841f09a41d951640cb455q.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se8f53ef6f73c4d50bb4cb842b0afa8886.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f86ac4333804f64926daf52417d950af.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac61c69aa17241398fabfef42b51b235Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48099a1a67f2448e88d9c3e678fef21fF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4a4a1e3a6824426b32e31f43a5cc579a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5b1f99ee0ce402da5ec96331f549b0e1.jpg"
+        ]
+    }
+}

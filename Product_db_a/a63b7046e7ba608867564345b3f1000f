@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "a63b7046e7ba608867564345b3f1000f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-02-21 15:17:20",
+        "第二层SKU数据": "",
+        "货号": "DG-154246819",
+        "进价": 105,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "腋下单肩包，重量：1kg，材质：皮，尺寸：33x24cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:55:25",
+        "原普货标题": "Women's Bag Large Capacity Bag Fashion All-match Handbag Shoulder Diagonal Bag Simple Atmosphere Mother Bag",
+        "质量星": 2,
+        "重量": 1.5
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9ee15bf18c2e4db4a8a2f3713c067914d.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc537ee7817934c3da1ee917382afeafa5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef5f1af463174e288cc56d0e08932cd1v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbbcabd3e1a074494a2c81302358a3d493.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se10aaee6900845aa829410d9932b305fs.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7a0efc29844a4578ae31e7f6488c79acW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9152c5faba8455db6906540533e40cdy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0299fdd592149dcb6e0e15fdce990df2.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sfedab25c3652466995e7707dc4881de6Q.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb0d9e9fdaebd4ef0821abedf46c58ca0W.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S2c48253c27424ac3879412c06b7e957cd.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S1960e01eb1844e62ad1b51fe090dde145.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S9fb873d83bd04e6d87a365e303eac03eh.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb72dbc3aa464c4c946ec4e2450c13f5t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5bbbaea73cb4ce1a73e9dc252c0e3e0q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S286c921a9f0f4dff9137a29450628019v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d4f70faaf56418c867a5e5b9ea5a4c0T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad37efb130ab48b2b119a1897f754cc53.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00999fc03bab44b49d8875054ef9a1d96.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S65632b59c32f4a47a2bd02832f3de597Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7563c7ec6784d4a9a72b08e41d734b77.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5dbf402b441430db473a1d33d97e52bU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S797bf2e973be42fc8c2679cc3b6884c2N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c1c1b54301d4c89a8749af0d9ba918e9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S797e3ee079474e19af22c48ca48e4c78U.jpg"
+        ]
+    }
+}

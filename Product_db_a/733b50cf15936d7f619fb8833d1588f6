@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "733b50cf15936d7f619fb8833d1588f6",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-07-05 12:48:38",
+        "第二层SKU数据": "",
+        "货号": "DG-144186003",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "酒神包，重量：0.7kg，材质：头层皮，尺寸：20x15cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:52:07",
+        "原普货标题": "Solid Color Corduroy Crossbody Bag Fashion Korean Casual Shoulder Bag Large Capacity Lazy Style Handbag Women",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0e27aac8097845b0868a279f30d15e39h.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa710eb28086f4cf6ad68318d2a9ab8f3g.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2ef2bd4b7ef443a689e1059468690a6bN.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3ee283df92964acb9bc6391924824bacX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc633fa1eefd4c21a9c0636e4fe74eafi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85aae9d8d65d4a4bb1a03aa094c3d00fl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96ac9959d4f545bdb023271a228a3b9cs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0996be042c74946bc3690f9f4cdd9d6t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf938e76c55914dd68f696cfe645e245ci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80af8797d8a846b6a301d59350d2a120S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S624ed01b15a84c5ab16671114255e3fax.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S704811239b834acc9b7778dfd6a37b28U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd75421bcc27d4428bc2658b042d7b5c5x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8544d6d7814433aa3975f9d312eec06S.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9a7bab361d93488d90da96b0f47340e0r.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0de5c7612231480995e57b7913a54a2cH.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se7f6a95f62d14e74a098fe330f70b411B.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S048454fd01f148618e928487fa2adbabr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c7d5de0c1ea4a3e8f868f2664b056b2e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3cbaa45c2db747c59bfdb23cf16b7c71b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8dec3933a5fc44a29115a205fcaf4166j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea134f514e79496784ac98b108003bc5F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39039e30d65d41968d3218e61a5487f5K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97a2c353fb4a4e9a97ed7e2355500699D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1aa302002d048eba773635aa4a039c2U.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5f01a90895e34fd5bdd110513ec5e07ag.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S048454fd01f148618e928487fa2adbabr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3cbaa45c2db747c59bfdb23cf16b7c71b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1aa302002d048eba773635aa4a039c2U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8dec3933a5fc44a29115a205fcaf4166j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c7d5de0c1ea4a3e8f868f2664b056b2e.jpg"
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "a596a00f8c26fda374ee85cd248f626e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-02-23 16:36:04",
+        "第二层SKU数据": "",
+        "货号": "DG-154244337",
+        "进价": 65,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "贝壳包 高质量，重量：0.7kg，材质：皮，尺寸：24x18cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:55:20",
+        "原普货标题": "Waterproof Shoulder Bag Women Casual Crossbody Bag Multifunction Handbag Messenger Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfcc499bc654b4c349bf67bb90763c702m.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9f97b9c2e6ba44f2846dc563688e91c5E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0843b27cb20a4e88b4206b3919281ff12.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e2e70d521fa44cbafd91c9e0d352a52B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16f74986c31d4b5290f53fea5f1364a7R.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8bdce3377bb04d9499a5ff329854165b1.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6293cf5cf2cf4598a6d11582f384cd2eo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4f64a96f237469eb17f559a1f3bcc6e8.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S213f2d80813f47959639fef608104884D.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sbe63b3ec04df47bcb172b30fc2354fceh.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sbb836825a4ab46b3a4b24e056c5e8429z.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S773dbe746ad04243b26af455160995c7F.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sb115990ac86f402cb8bc85491875db77U.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S435f20e605724864a1dbeeee952424d1L.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc590ae2119334801a8ba5ee399914296d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8e1345b7ac3440ce84d739ad8cdc154de.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sadcbb7e1959c4a66ad99597cfb945b9dF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35af06bcf35945799077042456578f5a7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e474e736e2940a6b2881eee130708fa2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9624cd3b37ba4c2fbe88314d0457c9bde.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4f8bb266c7b4d3f8a7069508d5ad692r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4090401d90b4afe9dee5df0f9be75e7L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S828f4a6dd2924d299da7ea2f0d3fe2e5D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9abb11aaf348447aae4062fde66b0bd1l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a539fb8165f4a6a939c72fbb3bbeb76E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc340599107614c2fad6b6107d0f0cf18r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b8d7df89c8c497ca220ef3f2577530bq.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se65c4db8f4ec4b67a39d9f1245d56873W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed1ebdba698544f89cc7d87fcb8e6756j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf8b1adba9f243129fcfafadfb798fabn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4043329a657b4863be77a67e43750c78t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77f8706dc462427782d6f4e3f220494cn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5dabbd145baf4783a644fce0a5d3a777o.jpg"
+        ]
+    }
+}

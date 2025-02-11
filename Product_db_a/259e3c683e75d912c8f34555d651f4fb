@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "259e3c683e75d912c8f34555d651f4fb",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-05-29 13:21:33",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W993772364",
+        "进价": 90,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -1898907760,
+        "普货模式": false,
+        "商品简介": "新款平底拖鞋，经典百搭，码数：35-40，杏色，平底，原标全套包装",
+        "性别": 0,
+        "修改的时间": "2024-07-21 14:02:52",
+        "原普货标题": "Women Sandals New Flat Heel Platform Cross Strap Open Toe Plus Size Outdoor Sport Beach Casual Shoes on Offer",
+        "质量星": 1,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6783849da5ec45128ff5aa92db179e85S.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7fd1e6b246ac47ac9bf0be33ab9c280fl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S92223765b9b44f97adb001390f86702bI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb13b2e9bfd7e492fb640e117969b9497O.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9b77fd8b9f9461ead7497ff33c8366eK.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6ad7c1f24eb944f48470929b13ba3c65s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed72ba45091f4d69a689a5a2cab658e3j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34cee3ec64384ea5bb98e3c2412d2938v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b9e181cb57943d5b2544fa6e74523a4P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa018258ed1994fb78540e509aa953497m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e547efe83014642aa183a59e9ce39fbX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa3692c3034c4ca38a5491fe3b84ee61k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbe6152e7cd74a62841542fcae3c2c98f.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sed72ba45091f4d69a689a5a2cab658e3j.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9bf3b8552c4d495b9864489fdac18b26S.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4778e9b75a644b599598556d10a3a755R.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sa1632abdd74f443dbddb90c473777057c.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Scf9cb7ce1cc34b52b5b0f3ffcd4f425d2.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3ed133ad9d5241d7a8c05316ecd8e20bO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16614d2fb235421c819087d51eaab0aai.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S103f44fa88bc4d949475fb322d91eb9fo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46ed8ebdc70e4b4e9028355a2c7f7c68l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3b515df97e14fa98a434ed97dbc1064H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46ed8ebdc70e4b4e9028355a2c7f7c68l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3b515df97e14fa98a434ed97dbc1064H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S103f44fa88bc4d949475fb322d91eb9fo.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7cddb3745a814aaab498c5d14418e6e6f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69103bbf0fdc43a484ad14ffcb362ed5z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56038b578c704ccfb381fb4492f99759x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d3c3760fa8f42cea79c5cc7bdeda23dI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e55facc53d0412ba9927a0b276e8e00F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S103f44fa88bc4d949475fb322d91eb9fo.jpg"
+        ]
+    }
+}

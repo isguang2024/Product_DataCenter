@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "196bb6c102e43afe74e5705b60b52bed",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-31 15:50:06",
+        "第二层SKU数据": "",
+        "货号": "GY-W1346935667",
+        "进价": "130",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸：40*10*15cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "2024 Techwear Style Punk Hip Hop Single Shoulder Crossbody Bag Men Women Street Vintage Chest Bag Casual Sport Fanny Pack",
+        "质量星": 2,
+        "重量": "1",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Secd39b7f8a624477bc421cb316f8033bc.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5ac72eb3f46485eb08a74e8783334e6N.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S54bb1018ee354a7d87218aef04e42f61y.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S54bb1018ee354a7d87218aef04e42f61y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3e78506ce72443e81cce4b84a2d969fq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26653be8d9534336bcdad1885ce68efa8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S687a5134a20148a798e4765b972b593aW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20c840287e26411981fd5c2b7fac0ea2a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S835f7d166c6b425a93a985bfdc8adea8g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0005f7de23d045de9852b36e58bcac4aT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S044530336b604e2e9a62649b4cf4dad0q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc7e403400724074aede6ae5a1904290z.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S54bb1018ee354a7d87218aef04e42f61y.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9742290602a949079a176b70d73b6beea.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8ff97bba89e34d4ca34c1cac725682e8G.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb85e6bc3b3f7430bbc5ab989141da19dY.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S58310e6dd65a4a45803169a4ddab62796.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59805d95416140e9bd21de0fee18fff7o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8289fd3ee989480083cca99cd8da3b0ax.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88c9df40ab0344939aab926c9ca8893bp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb52e629db9a4247b02ce9d141a4e953J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff8cefa907e94b3fa0879982f347846cP.jpg"
+        ]
+    }
+}

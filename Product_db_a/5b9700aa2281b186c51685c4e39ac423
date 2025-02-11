@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "5b9700aa2281b186c51685c4e39ac423",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-31 16:28:44",
+        "第二层SKU数据": "",
+        "货号": "GY-W966789739",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 795534116,
+        "普货模式": false,
+        "商品简介": "搭配休闲风的穿搭舒适又有活力\r\n超级耐看\r\n尺寸：15*16cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Large Capacity Multi-pocket Casual Canvas Bag Brand Handbags Shoulder Crossbody Tote Bag Luxury Messenger Bag 2023 Women's Bags",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7ffd1b6e59be4342b32f6c913af5931dj.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S71bfe41a228e4ee79978b95aa330d6476.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4b71da47d5124d4e938673f367f955e9x.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7d010b6665b4d39971fd572ad1c2004r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6cf2d779fdf841b0aa03e37291cbf62dO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e4ef0f531e84a45a7bac78983d4b19cc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac37c3ffda874571907a8b3caa5114beN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34e062b6485442298778191f238f15beR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb38ad47b31264baba30ecf51d6a371efl.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S142ce6c935f24feb8e0b7f3985a59113K.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S5d076d6a59c34afd8b127baf01301218c.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa605727159c6423e9bc0e7983d150ab2T.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S96cb818e83bc4c43a1cc75b82694bb8bH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21cd3e6de0f94ac7a834948fb554928fs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S206dbb0d68774102a80d19bf5ea4b6baZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33a729efdda34917a2e9ae71efab04922.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb04217d9e134e7caf7f838b0a339138n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca8deb27db93420081f4d049e07a0fff6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0933e84ce5f641da9b06f4135cd3dca5D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef25b492dbc84bf1b7b7727941bea069k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4cf51c05104c49579d2600f4e52737fbU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e25e003280e46089fc06e436aaeebf3i.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4cf51c05104c49579d2600f4e52737fbU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb04217d9e134e7caf7f838b0a339138n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0933e84ce5f641da9b06f4135cd3dca5D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef25b492dbc84bf1b7b7727941bea069k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33a729efdda34917a2e9ae71efab04922.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e25e003280e46089fc06e436aaeebf3i.jpg"
+        ]
+    }
+}

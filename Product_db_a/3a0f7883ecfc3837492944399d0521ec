@@ -1,0 +1,86 @@
+﻿{
+    "info": {
+        "ID": "3a0f7883ecfc3837492944399d0521ec",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 5,
+        "厂家": "GY",
+        "创建的时间": "2024-07-31 16:29:42",
+        "第二层SKU数据": "",
+        "货号": "GY-W826994217",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "尺寸18.19",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Fashion Handmade Knit Handbags Women Mini Knot Wrist Bag Korean Casual Tote Bag Reusable Shopping Bags",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S644d7c98068e4c0fb408fb919b15b657D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb5b63bc207c4e7cb65a4879cebd38dcx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b508533b27e431a866b203102b6a7dbL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e4aa150ffb044278081444c233d93563.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scfb7cde2f6d74897addff865ce2f7dc3v.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se32927aa9659458184ecc8be7a06c2daA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S797425a68ff2445485694a43088a8d8eU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2271cfd05a2425081377e928184d979B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5528e989e9e4995a1b56d769b917e3av.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d408cdd4bc849dbbb0e494e8a302dcfl.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc30c42c711804e9db307797327f1c2caB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2bc93ef74c954ed8a280743cf875408fP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S732d9a0de7ae4e648278cef4e09769bdz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74ba83aaa1184f93aeb4008ebc54bbd8w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3abaedf3a374a80bed0d4393ce4868b8.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scf4beaf1ec8e424f90fb45f5aaf757e7u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74c2d0ca797346a5aca87a89395ac4feb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8d608f99908492197c017186033a09bS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c3e03b22b9f4b8785a1def0699b2a46x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63978b73eb274147985942f5082393b9w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed0d25f233e34311a7965d225c6eda8eI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26025863f7964876a654576f2be529fcR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scfef53d9eba54f148c316ecc76451065j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2fb0a5d47384ab6b6b5248be511b805h.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0c2457726eb1424780277841ec9a21a4a.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4e4a33a2701f4985bf05bb0077309a1dX.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se541eaeac8cc48ee919e05e08eea8e77t.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S792f77d9f528489ca9934fe36c4114afd.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5a515251cea042e18d8098d62f35740cP.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S333025cc9e9142e492fb82c0882e3083I.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S319a362351d64e7e8e44be16a4ba47871.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S17f1656a84c1412e84a015bc55031d50O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51537f32b8004bf3b81a1cbc6f3aabf1z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89bfa71948874401ab1fc734afe78503T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc061263030b0443bb141ccde8f20ded80.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S099ff36b89724f6a87553e251fe18d86o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3e2a259293a4e28b388995c74de0d2cM.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc061263030b0443bb141ccde8f20ded80.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51537f32b8004bf3b81a1cbc6f3aabf1z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89bfa71948874401ab1fc734afe78503T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17f1656a84c1412e84a015bc55031d50O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S099ff36b89724f6a87553e251fe18d86o.jpg"
+        ]
+    }
+}

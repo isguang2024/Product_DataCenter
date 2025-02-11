@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "2e74085f0d3eb0afb074b1627ca55bf4",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-09-26 16:04:17",
+        "第二层SKU数据": "",
+        "货号": "GY-W1656382905",
+        "进价": 110,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "尺寸 13*11",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:50",
+        "原普货标题": "2023 Summer Pleated Handlebags For Women PU Cloud Bags Leisure Armpit Bag Shopping Shoulder Bags Dumpling Handbag Female",
+        "质量星": 2,
+        "重量": 0.699999988079071,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4a886ba1fc3c439b96f38a0ff57b3426z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2adb7bbafb9d4fbd9336470be9ea5e26k.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3754eec1460d406a8a5cbaabae09c85au.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ff506d521cd4ccbb0e996b81fe9a652U.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S57c74a91bff642b0b21c9b0d035bd843f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7246290d6eb7467f923b9d5dafeb47a3p.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se7e473c21154489d9b906244ea082b49u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saaca6461549d425ca13dbb582e2f7fc87.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf157f70e27d5448fa31b3c73acb97741B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S211a0655456b4014a28b214d2ce6a11au.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b3426d732504b618e250ab1aa73f6c7o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a8f527d2faa401aac174a993248bf5bP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef0899b0ed314d7b84a8c3ea8684c9e1a.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0f8dd43499a44283b3263eb5d4db9a32p.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S08913604153a49a0a71874ae596f1f30u.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S74c4868c57044a84aa86e045fccb7608T.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S410ecc9aea20403fa187421496f7145an.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4d5a0eaf1d744855b869e8594890935aw.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5071ef5a9e29479b8795ebba42aee2ca5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S262fdfef04d54e469bfe2032a18e38beP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc1b5fad047a41d5b5121235b6d63a161.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1879595bdf94d8088098006820ec6954.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a2e43c777834836a8b8516fa0a423668.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8690e350f7ff42dd884d5daeb684a3d6v.jpg"
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "e560212c8d9636a13ae516e69c01a170",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-07-16 17:41:27",
+        "第二层SKU数据": "",
+        "货号": "DG-169108379",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "手提菜篮子 高质量，重量：0.68kg，材质：皮，尺寸：20x15cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:51:48",
+        "原普货标题": "Canvas Bag for Women Shopper Handbags Environmental Storage Reusable Canvas Shoulder Tote Bag School Bags Girl Christmas Gift",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S81a8a0371e814d149d4dc4780c168f9dP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbbb87a72cf0415db5223f0a171c6601Q.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8b70129ac7e644e084847b1122416887Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31e9abdd6cec4f89932c482126cdb298c.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7f9a2496fff149babaed5d6923ebb2d4q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb049617f8254641a9d2b7b30af1f7e1m.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0d2b52d1a837426885912e7d01ba6a7ft.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1142ce42aa7e434897c114a5175cc03em.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1bde9b186c2942e0a7f468f898836504a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb049617f8254641a9d2b7b30af1f7e1m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e99adc5cf6f4166b7ce8b04bb5e1798g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc740bbbaa1749c88a08f90335b82476o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6d6e9b7b03641adb00360b80585a27e9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61eb2be276654c6382343b90f5e305888.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S6aaea5b81adb48c8a75f1e87f9fe0f56C.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8c1de050a74e4d3e8e49d498ec027d1eH.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4927725895cf4cf192b15319fe15cfbb6.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S6eb6d45c4b33434495e3ea69e61bf050p.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S24f50ba7a5dd43ab97cbf6c4b6621ebbH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94e2d6f82a9b4cebafbd4b7add36cb0bC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09cea6e60fd54b5d8d3b2ad541ed58206.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21cfb1d4ce76411eadd300c89f38ad0ca.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S09cea6e60fd54b5d8d3b2ad541ed58206.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4927725895cf4cf192b15319fe15cfbb6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21cfb1d4ce76411eadd300c89f38ad0ca.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9765a23216a45ef87f6f7bd756a8084h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24f50ba7a5dd43ab97cbf6c4b6621ebbH.jpg"
+        ]
+    }
+}

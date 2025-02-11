@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "4fb24bff1c0ec98d500bfaf6674769d9",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-13 17:59:31",
+        "第二层SKU数据": "",
+        "货号": "GY-W740162306",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1190321189,
+        "普货模式": false,
+        "商品简介": "尺寸14×20",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:59",
+        "原普货标题": "Waist Packs Women Men Waterproof Outdoor Sports Bag Unisex Canvas Pouch Fanny Pouch Solid Color Zipper Crossbody Male Bags",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S02c812de6fd44b87b1857145b2ba92ddJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6239140cc94941abb4f1d6d64977250dD.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S56ba777b2b024617a1ff8dd831e60b53z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S611f6c85947440ba985891316c77bc57Y.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S06a307089e3a49d4ac54209d3ee26b83L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18d188f73b764edb897f3b893b0bbc83W.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S06a307089e3a49d4ac54209d3ee26b83L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S652496dd3d8f4edfab506cf29e69ee03h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ad78b9803f84c52b784cf2870251da5O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa13f9954e632438eaab678c3d2f479b7Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb602e60ea1c41caa845a96117fbf1e5B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98208cfd08f14641995386abb70a0b7c2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2866f67de8894f43ab834a14f735e2f1f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d3a1c8c56b741fbb28b6206203c549fa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf096406defb344ae879ea2dda031ee983.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8ee9e40348cc43bba8da0399a7bac9212.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb4645c6c47f74373b35e63ea978b3813J.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se155b9abedd2416e8a9a429bac0cbc1fU.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S38bffc9209fb4621a6a9003d124eb2db2.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6bec6e50b934ef5a6545347bf9bee3b7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b8e3fa6571a4031b9d0644180ba73bd9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96a48f97b06643ecb452107cf4d46af1C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d5806b5d7804903997d4ff6b823f7777.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7df63d0c6ef84745a9e12b632d57fb6cd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f185afe4476468292ace29e777c3528x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se155b9abedd2416e8a9a429bac0cbc1fU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70cff1af95084c99b7cc92e5d253c53el.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se43b3e3c0bf74a96beb5a088ff44fbf7m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba0025cbc742494ab0f846f3f8c2bcbdv.jpg"
+        ]
+    }
+}

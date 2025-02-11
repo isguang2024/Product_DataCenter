@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "b1ff1e2dfc7c3942a5fbe2426d1dfa36",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 14:32:26",
+        "第二层SKU数据": "",
+        "货号": "GY-W709500563",
+        "进价": 75,
+        "利润比": 100,
+        "品类": 1007,
+        "品牌": -503533490,
+        "普货模式": false,
+        "商品简介": "原单牛皮",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Gold Silver Women Genuine Leather Belt Solid Color Vintage Metal Interlock Buckle Adjustable Thin Waist Belts For Dress Jeans",
+        "质量星": 2,
+        "重量": 0.5,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7b756e85c6fe49c99b9beaaf33711156t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9410097b562b4878afbc3b2a1507e997f.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc625c6a2a64944c4bc66e9ca873b6990N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70dc6f94948e48dc9ba3380f3bffb47eH.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S598a530fe16848b3aad7419531f1b139D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51f7fc76d278404d894c445797f7d8abd.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S10effa15c1e949489eccd72f316a447fJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ad1b136e08543dfb609b2c95b61dc46f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf6f53c48dae40e0848f3f836639a3e5s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5041e61435534786b8197ecc354809d5P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c0bac48f78546c6b3a9f4e325cb80e7H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa82d5bbff3f34f70902bbd79375cc8a3R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51f7fc76d278404d894c445797f7d8abd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8e49d148196d489eaae6f9ec178ac022C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d6a9cb6f1854b8a95cc9668983720c8b.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S28c8ae12c38d48af8d1764dbe8006de5k.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd6abd8ad221f408ca47e24470aa8a2e3q.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S233a3a5e081b485b8b4f0e29ec114c54l.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sbd45a42283724692bd88ddddde13ae204.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa72fd40a8cc3465698a482f23ecbea5a1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf80524175e3f4ecfa6dbc467c965f81bl.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66a36da036834aee8e1da516a368dc63c.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S207f826374c14064b77d74bbb29ee41d7.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa6b6ca6fc9f40fd8a2e339a43c9823d6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb026e926f43547269ccc2a6504e00074G.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f1868890b5a48a5a4a26000fb13d7a6B.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b69f181506c49c39dc178222628d48ez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S692cc2327c18499bbdd0e19962f5cbd8o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f7869895d404299b16edee57500bde1h.jpg"
+        ]
+    }
+}

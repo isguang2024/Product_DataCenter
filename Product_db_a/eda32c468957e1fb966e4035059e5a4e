@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "eda32c468957e1fb966e4035059e5a4e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-07-16 16:28:53",
+        "第二层SKU数据": "",
+        "货号": "DG-169261773",
+        "进价": 170,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "水桶包 高质量，重量：0.68kg，材质：牛仔，尺寸：18x19cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:51:50",
+        "原普货标题": "Stylish Canvas Leather Handle Handbag Bold Color Contrast, Unique Design Leather Handles,  Elegance in Everyday Style",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9ba711ccdae14aa9a8203ffcc5210eb9G.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sada6aaee9a9d4fe186f521d9840495dd1.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6affc2e123af490f914e16d3cfeddd9bH.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf58d254aea8b4d268f869aef0204d056y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2d5554be70f4d9e9b97768da1bf8a35u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd64d95cda0544f58827554f59ceb8091f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52966ba806f245138a5421abe40954339.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S722bd29793bc4220bdfd66b7b76306570.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7bc80cfa30f74da499a53a76cf55226dh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7850d5cd1f8e419baa902824e4e96f8ao.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S12567c0badd3424fae324fe870b7b115E.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S070d797e5fd449edad4fa3793194399f5.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd6116032f0874b968106f5bfd8c9f027g.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7370b126ce54e06a8ef0fa520b6c941f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6116032f0874b968106f5bfd8c9f027g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7199b5b7190e4e61a49379bc903c6503v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78e43dae866849508d87a635eb48725dn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S411f4072e0bc48ef986c022e4343096cR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc358d0cdd96c4179967f0e6435cfb17fC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc56e83d86cbd4d229c8741e4f26a55d9B.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S78e43dae866849508d87a635eb48725dn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc358d0cdd96c4179967f0e6435cfb17fC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc56e83d86cbd4d229c8741e4f26a55d9B.jpg"
+        ]
+    }
+}

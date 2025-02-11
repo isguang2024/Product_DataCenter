@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "b55bd7ee01afc1bfc16ba10684d1ff10",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-09 14:35:51",
+        "第二层SKU数据": "",
+        "货号": "GY-W1871835838",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "尺寸30.16",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:07",
+        "原普货标题": "Fashion Women Butterfly Chain Shoulder Bags Ladies Pure Color Small Shopper Bag Purse Female Handbags PU Leather Bag Clutch",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S92338f9dbc1a49a5985d2dcd32a86071W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb7074104ff0434cbed52aadefd8441bw.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S288b5ea3430c484d9052b7ab37e75940D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7725a88af61748ebb7662e0f4a96496dj.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S997e923b5bdf42d7bb9aae1e46bb03863.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd8fbf7257784e88a56ed11919fcb873Z.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc292be86cb2a449abdf077c299a97ddbY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5a62d1796fb4b358561e4e8cd07c372W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8700a41f520a434a938d5d7a2db492f2s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd377b1ac5fb34ceaae67a5e44e44b967t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc128f10fc52647bf978b8cdfea1d90a73.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S529b1d185f934e06bdbba1d259f69e33v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0eefe8cdc1bc40b4bd7250f64c3569d6s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5ba6c079dec49eb8ca3f63a37ff6c3ac.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S918acb051a1e4f07b7528c213c4f78b3v.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sceb3a22c2ef04489be442ab5ad980f8fr.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S45150b389c5a466aa8a1a910d29ea72fw.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S72e5ee8a9fac464c9c964417043dcd39s.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S47ccc1f327b4463086595d49660a7268t.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9e1626f509d46508969f09feb4209d8m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9e1626f509d46508969f09feb4209d8m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52dcf7c12f8849fc96791d3ca0a992037.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5842536a64a4e73adf6b97548b4a885D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S911c976664a342b88bba5a7ad7c86695E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12efd5a37f234d29b5cc657893537639d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1574a188a2594e2b8d61231c181a9400J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4a13937607e45dfa490f753874cafcdA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf32a674a8d7a4df684c5a055647b0056Y.jpg"
+        ]
+    }
+}

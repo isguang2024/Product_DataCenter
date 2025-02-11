@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "5a88e798200eba153f3878a58194d506",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-06-27 14:45:45",
+        "第二层SKU数据": "",
+        "货号": "DG-167843345",
+        "进价": "105",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "2个颜色，双肩包 ，重量：0.78kg，材质：牛仔布，尺寸：29x20cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:52:28",
+        "原普货标题": "Waterproof Teenage Bookbag Nylon Rucksack Fashion Girl Backpack Women Shoulder Bag High School Schoolbag Black Mochila",
+        "质量星": 2,
+        "重量": "1.2"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4be599906d124eb4a674ffaff450a014l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43f09f9e0d4f45a8b7b096c38918e9e4T.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0e2ff634c85b41bf87fed0b3e134cee9K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0f77b5f3b01465592b10a5c1be2dbfeC.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S02a38190d413484aa00bbc3509503356U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8a868418a7c4ebd84a2de47a565a17cb.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5fb8ee2c807c443ab2dbed475e214d10t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52e3254dcd274eeaba74f09955785007O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7361ebcf44044d0911a0754b881457dS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se5219b926d0c402885a32a1d2b7d0921N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3405adaf6cf640dc85a1971a78031a8ci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24d60e0dad2144f391fc81b13a7107d3j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e8513a4148945d7889ddcd873da2fcdV.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S346b18ca0fc64041a2df41e416fd4c2fY.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sba5a36fccd214c36a5941be80e0d86301.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sadeaa9a29f1a482a8e7758e70d79cf5bO.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2f914793bff54f4a9dace48ff46aa647k.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9900327c94cc4c02b2ae196e0bfba5c42.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd41bbd954bd742ada7adf281e4e9adedQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c3c9fd7d18e499a8c0e30a9bfa2b3953.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S169a2ebb37cf42959251b6b7fc538813Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a9f40cd9e3347a6a399c74780636163x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6ca68e049e6442c81317e166a36175eE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d933fd5000b4862ae35e400302f45a5s.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sad2a53c5c40b4510b1073d9bc7cbaa909.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sadeaa9a29f1a482a8e7758e70d79cf5bO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13bc8a608c0a4232be64943a285accaaK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2eebf59e57f47a692cc6710077cb873p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f914793bff54f4a9dace48ff46aa647k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7dc68c3692914c82971464c0946046b63.jpg"
+        ]
+    }
+}

@@ -1,0 +1,81 @@
+﻿{
+    "info": {
+        "ID": "e3733e88970992d92f8367c268e95e71",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "RB",
+        "创建的时间": "2024-08-08 12:22:55",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W1121856183",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 198398445,
+        "普货模式": false,
+        "商品简介": "Size:35-40",
+        "性别": 0,
+        "修改的时间": "2024-08-31 17:02:05",
+        "原普货标题": "Women Shoe Brand Luxury Temperament Summer New French Pointed Leather Shoe Simple Comfort Single Shoe Sheepskin Elegant Low Heel",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S456d79d51b4644f5a5aab5f4044d73527.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se308b8324a554976b6650f4c152728ael.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b67401a3dca40eb80cf49058be3fe56E.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf692a0cfb2ec4bdbbf249ed2da3af06aA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf33656e9c2254e5aad3c3c78babfef9ep.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6491d32ead324ea586c5466c28592cacs.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5f3fe8751c3f42109e1c11270f51e84dM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf87f69d2491f48728f468772e87e3d6aN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa29df2676474e56af229cba7956028f2.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6f466396ee7642f09e534681e42e05381.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71753f47803241efbced55bf00281833S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b7c12821fea4bc1ba41730ffe9be455N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e0f842657e94838b3b755520bc7cb3f4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10a924b415b64ca9aca7fba3b54697e1P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f3ea17c0153401caa0a9c589edceecck.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02828c5fa18f41f1a5dffe1d0aa0c350m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S698ac6ee00c842ffa1cdcec71c392530Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a8ed083444740e89eb22c6b9981e95cE.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S534499e7a34d4590a855fc6260628d6bX.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S53322b0a02744c35a359368f4e3e3785w.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sfa5cbd694b7c4a5ba5dd3d4d7796a77cr.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2678e993dbc74fce8004a677990d7e81J.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sb708acf7cbe14a0b82623adf83f08ec4m.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3ac16d9b868b4b81badf74aa24637586w.jpg?width=1025&amp;height=427&amp;hash=1452",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f4c024b793748ecb7b8cadda5c0ac69M.jpg?width=750&amp;height=963&amp;hash=1713",
+            "https:\/\/ae01.alicdn.com\/kf\/S49114640f1a34b8381ebb18904011a6eR.jpg?width=750&amp;height=678&amp;hash=1428",
+            "https:\/\/ae01.alicdn.com\/kf\/S9013c2671f95436bbf8c204fabddb4e55.jpg?width=750&amp;height=816&amp;hash=1566",
+            "https:\/\/ae01.alicdn.com\/kf\/S93db42f457ae4f50aa6040dd3273f98e8.jpg?width=750&amp;height=755&amp;hash=1505",
+            "https:\/\/ae01.alicdn.com\/kf\/S2cbab6435f4944089633411f0d03663fg.jpg?width=750&amp;height=795&amp;hash=1545",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a58b168fe7e4398b921f0a31213fc47O.jpg?width=750&amp;height=789&amp;hash=1539",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf7eaf6bb21545118c9ef67d9739ce84X.jpg?width=750&amp;height=1006&amp;hash=1756"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3f7244c127854906a1ec8505ed48cf19h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb708acf7cbe14a0b82623adf83f08ec4m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa5cbd694b7c4a5ba5dd3d4d7796a77cr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6945f9fcfa44c368c90ab25a6e9b68eI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2595a48b1e5f4b4bae6fc22b82935baa6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S683192c90b354a5da59e2f2d3e0f2f54p.jpg"
+        ]
+    }
+}

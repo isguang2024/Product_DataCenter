@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "d7563f44a9162a7c9bf238a81c11ece4",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-11-18 14:43:19",
+        "第二层SKU数据": "",
+        "货号": "DG-180539798",
+        "进价": "115",
+        "利润比": "100",
+        "品类": 1002,
+        "品牌": 198398445,
+        "普货模式": false,
+        "商品简介": "卡包钱包 链条包 高质量，重量：0.38kg，材质：皮，尺寸：19x10.5x3.5cm",
+        "性别": 0,
+        "修改的时间": "2024-11-18 14:46:37",
+        "原普货标题": "Canvas Bag for Women Shopper Handbags Environmental Storage Reusable Canvas Shoulder Tote Bag School Bags Girl Christmas Gift",
+        "质量星": 2,
+        "重量": "1"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Se22d3c18f5714b9bb107eca5944a8602x.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S37f71d03d8fd461fa809d8b63adbe57aU.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sebfab66dcea943c78ef7569f21b71110S.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Secd68286109e400ea9b59f88e886fe64F.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S11089ff92db04148bd1400e8f1558b4aC.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sfdb0160d775d48648b94d82f9a9c5712F.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S1f43be39f3ca487897db8169592e7b2dT.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sfe7585b28e58416dad80a949ce6fabd0e.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Scf463cbc9c29492ca69d95d3c170d97du.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S03194c2475634269b944de697deb1be4j.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S63a30a290cfa4fd6ba521a0af2231a47n.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S8184ba056401463081cd43dcd3c3352cW.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S40773dff557b46d8b2741ee5f4a575d0M.jpg"
+        ],
+        "主图": "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sb063bea98e244d68b7bca37aa94729ff5.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sfca342a6743b45649db993f67d18a43bK.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S86e2007f46a1436abfec477c1c93cd03H.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sa783d10237bd4a86a52674ae165812f7U.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S794b350648094f3e90bf426fd4a6bd47U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb8bd0accbdb40778f9aa34f3aeac35bz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S90fda091afd44b5bb07dd5a0df5af8f14.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07a4a7858de7494e97f934b71ff163aeT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbfe7593a0c0e4244805f36a101f2a565p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ff40a08c66a4794ba018a5367755894A.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S411de6fbffed46d1baaf05b1f54e30beK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8d38de466094d5a8c0c14556dddc0c2F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34d08fc86d674d87a4ababb10137b043e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf19f79eb6a7847be8a15f7b623cd8520B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9e5d75953d94043ac634b4e1b446d28Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc2b0481bc1e4a8eba45dbc090e6a192b.jpg"
+        ]
+    }
+}

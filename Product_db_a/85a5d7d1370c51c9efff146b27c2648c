@@ -1,0 +1,85 @@
+﻿{
+    "info": {
+        "ID": "85a5d7d1370c51c9efff146b27c2648c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 17:02:00",
+        "第二层SKU数据": "",
+        "货号": "GY-W1721317593",
+        "进价": 180,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1898907760,
+        "普货模式": false,
+        "商品简介": "尺寸41*22",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:17",
+        "原普货标题": "Women Chic Underarm Bag Large Capacity Polka Dot Retro Crossbody Bag All Matched Pleated Dumpling Bag for Outdoor Travel",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S86bf66190058426abdced0183db1ca57H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb1c27da9b1c456da42338014e6676adg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c02a18db5f543a1adeaaaec42a6f0bby.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4a6775daab2431a8316b3a4f1e0a1eex.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ca9c475c0514f34b115bda018fe53d6i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4d8e607d62e439b83dc622aaac0048aU.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se2a158071e3145baa55e5da07c0e437fD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81a4b45d6e704aee871e4db046fee095h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18226dd0325a443399c9415f409d4ef5l.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7894e110ef7548cb9b57bba9cc98368e6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5db9f833699e453ebc7c98d6f6ccadad1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20e48b6216594d6b9c55a0738fb639d5k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58248a14ea3a4240a5560989d3d648c99.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se69e63989f304ca193a3814212513033C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae9c81106c224ec584f37e03dd62bb3eU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b9477cbadff42fea57b5f619c725eefV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S396f6ad6a840438ab07fff3bf75c20069.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f534d694cfe4680aeba5ad3f5da71d9t.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S1e9acc6724ae48a5bac16ca2e8eb6ca1T.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7b694d733832424b911672e3dc2d679fA.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S63671e49489e4ceb9fe3b077d5345b31E.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2201c89c83894385a9993d3cda24255eA.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S6063143f1da84383ae7e0ca065c462c0X.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0885bf8d2f814d94b4dd6e29189a3532E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2201c89c83894385a9993d3cda24255eA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad51a2a369494949af4c30fd371e65250.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8872fdd89ff24810bcc9d3a8bf1d6291u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S682f782854ee4834a82218547e7c51f30.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35089fde12684c45b600a2c2337c39dfM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5eb07b0c2f4246de88765680a0ecc1fa5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd08d5b5cf628498096c095ad1287987ez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a61ff9d79e64b9785f196b696b0eab5Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seeec79e47a6441b289d6be3b310488e5o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43a98571d18d4c4fa5df2a750ecc52ba7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc725d16cd55445168ebd7682a340f1905.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0885bf8d2f814d94b4dd6e29189a3532E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad51a2a369494949af4c30fd371e65250.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae1d839804734cb88a1739d6b0ff10371.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc725d16cd55445168ebd7682a340f1905.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a61ff9d79e64b9785f196b696b0eab5Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd08d5b5cf628498096c095ad1287987ez.jpg"
+        ]
+    }
+}

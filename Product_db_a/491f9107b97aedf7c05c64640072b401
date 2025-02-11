@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "491f9107b97aedf7c05c64640072b401",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-31 15:54:31",
+        "第二层SKU数据": "",
+        "货号": "GY-W1549946154",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "尺寸：15*5*18cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Solid Color Corduroy Women's Hobos Shoulder Bag Retro Casual Female Crossbody Bags Ladies Daily Travel Handbags Messenger Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbede3d36a3c749038c7af8d05ca10e6dp.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S56de6ec80f724052b510b8f2774e45d52.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S87a7989e8700456db7e6bdffb19336778.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S69473af68e594c3bbd08991dca20841eN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c9827acf5024489bd757524142cf06dk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8664b4f77a504b1785239bf1525cb947y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S464ed8e8d1974a44ab14707511bd09edq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3cd48fbca3d14447809cfb81ff0eccdag.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e3ed94d9a3f4fb0ae7a9b26f2994fc4R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87b6afa9ffb74b078e0ce1e85cbcdae5G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb41382348b74cd894f1ef62e11ada5cD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdab38d9a2c3243d49c3961d4d783a5adG.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb0769561fa5d4ddda8e357b9bb731173v.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1aa07f5586b5449bb5d94974d08a08c93.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S043ece7fa6db4fd78136100b1a4b7bd3r.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7a7fb4434f40445a96e8aa56387908f68.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S049c7ed667194ef293b992c9b7cc3ee0t.jpg?width=750&height=957&hash=1707",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d27ab267aa545a4a8d01e76f091e59ec.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdff79e6447d94c9a90cec6e8b725c54bl.jpg?width=800&height=800&hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7a7fb4434f40445a96e8aa56387908f68.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S297b6315163c4bba8574274e291ae253j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2728b73cfa24565a0a20c50e6a4640dJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scdb9280709d641109d2921ea04cafcc0E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd66899d9cd304df5bef50a53ac389ba15.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S892a47a32a584b419afee2ffa26d0c345.jpg"
+        ]
+    }
+}

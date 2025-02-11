@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "531a564eee836ac67162382290f01342",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-22 15:12:58",
+        "第二层SKU数据": "p-5@26*15cm@20*12cm",
+        "货号": "GY-W1213963564",
+        "进价": "165",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": 198398445,
+        "普货模式": false,
+        "商品简介": "尺寸26 15  20 12",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Mini Handbag Fashion Women's new Spring Autumn VersatileNiche Designer Casual Bag purses and handbags designer bags",
+        "质量星": 2,
+        "重量": "1.2",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S248b04a8b3824bc090ed5775ab6059a4W.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S83307b965b204a6e87eade8d99c6a1e6q.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S866677b550454f06a577d07d4779b020P.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S97f53fdbb74942be80c4e47008cff59bu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S895e8b45cce547b9aa5905af915d668f6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S840534e66465448ca7687dac00532e1cJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S866677b550454f06a577d07d4779b020P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa60ae45f5bd48babe59540e09b4aaa3f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab18322fd83b434493f9e2fadf02848cu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ea863e8f85d4b2486b9e0a84e0cf00bj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S852841fd74bd4ab1a419c88c18fa1885t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa696f43a86b14c2fa36db1c62a1de47cM.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4b20bd5aecc24bb497b7cfce56867fdfc.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdc2df743071644efb9d8364227724374v.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S26bf4e8ff1ac413982dcac6b58c8006fQ.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3b4d482351c441b2a2c265d57aff800fd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba3c503c73cd4f46ac3522de460ea0e9r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2100a46cdc84de1b0a8ee0a394103b3s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26bf4e8ff1ac413982dcac6b58c8006fQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f8b025e74904cffbd930650d5d0e55aJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S930f41f1d2814361a0095e621cb36f60U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52497821a8dd479abae403827c971d6bS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1ec94c2003544aea67aa826e9aa4099k.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S26bf4e8ff1ac413982dcac6b58c8006fQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S930f41f1d2814361a0095e621cb36f60U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b4d482351c441b2a2c265d57aff800fd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba3c503c73cd4f46ac3522de460ea0e9r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2100a46cdc84de1b0a8ee0a394103b3s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f8b025e74904cffbd930650d5d0e55aJ.jpg"
+        ]
+    }
+}

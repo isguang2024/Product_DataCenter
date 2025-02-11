@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "edc5087cbc4edc248b3f919082ad7108",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-13 14:57:20",
+        "第二层SKU数据": "",
+        "货号": "GY-W1337947817",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "size：29×16",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:01",
+        "原普货标题": "Corduroy Shopping Bag for Women 2024 Female Girls Casual Handbags Soft Reusable Fabric Affordable Shopper Shoulder Totes Bags",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0e1805afcad14f85a7780b2ccf25191aO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S124f52fe3bbb4b72ad81bc100b97ce2dc.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1b625c3e737949cea3928cf42cb7add6J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd60823a075034c9882aef8cdd13decba6.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sda12194540784c97acace6a9314f11c5x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c9fb3eb783f406da9def81d96d44966p.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sda12194540784c97acace6a9314f11c5x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f9dda3e69704239847def513dcb0a70z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d54cf0804b148619f49dbfdc9b8f250X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf95d63573d2447388f137c549dc8d3ei.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6427443cc66148cfa7f91af061e23773G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43b921cd2fd0480795eb23cb7e6d143aj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8d90fb463c44dd9a39ce874213e84dal.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38c7720c2126483c9a4efaaf24b4dddd6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c3bb418ffb64a5fb6a737ef9b16eaaei.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf9a208043292481d9e3fc3879ef440c1h.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S5e05d4b507a24614b0dc12acd5a5482fS.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S671867f8b476458592c07ffb6508ada7y.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5fd54c00c47c422ead6fd611c3c51bf5B.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sce31072b6331407cb5c78a8f7c78a9d5B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S329e33ae6b5b4f6caea97bbc5e0f3463s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H91dae2af481d4b25a9f9f018a50f415bZ.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S371070266bf2484cbdfc3272c8a95314Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa9dee4c3eda4ccfaa2f1563e6161844c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb39e66c57b940fbacf9dd98671ea5dfN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4bf3a76503e3446d86071aa8a8bb138dz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S065a647544034d7da2c2e67d3e503f3fK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbeff14ac791249c1a4bf735e9f9b32f8F.jpg"
+        ]
+    }
+}

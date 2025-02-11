@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "97357bd5a77c248f88aeb6d6a3fdeab1",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-01-12 11:13:54",
+        "第二层SKU数据": "",
+        "货号": "DG-142104343",
+        "进价": 115,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "化妆包，重量：0.78kg，材质：皮，尺寸：27x14cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:55:34",
+        "原普货标题": "makeup bag, travel cosmetic bag, toiletry bag, skin care product storage box, toiletry storage box",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S299e4dfe64cf41ae8a9b01a35a8a1d440.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S499ec903ca3948b79bd7c1c12de9e131A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd48872c0088b428598731769d3d540c0S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd743f26541084ae5963226b2f3d834ddE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b07e01307da4e8b9b01f0f97e788691O.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S941eac0203d840d7968e7d6a4dd4f937N.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0c39555f21bd40a68984913420e29aeaT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S376757df7b0543ee9ad8a6498e925070v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S27e49736193f479d9bd497259f9b40afq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d4d53b890454dcb85660800d6ea3ce5B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1bd0fa880874946aea041beafeaa4af3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb093032123245ef8dadf859d22fc19fl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc42302fc532a433fa775f63de4d606eeI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81e3c9fbd59947a694340e0c0732890eI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81e81072280544b1996af0630046b9240.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7db4bf5659bb4e98910dc313bc0426a6d.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9858d4e22ee64d319b49931551bc5425z.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S37459b7549dc4ae98d2d7af21355ec14N.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S9892aa995b89477d9aa9a40417b457a8z.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S4b6dde68d70d49e688035bb2f46331caw.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf167136edfac4dedb1f16f50c44d67127.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sa730bd4166d549709be19ada130bbe0f1.jpg"
+            ]
+        },
+        "细节": [],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Aaecc9e9091bf4e12bafcf6fc194b00e0M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A68b59df6e0014f7e954537d4a07b1b71r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Ae0747177477f4bc180399c7e4fe6b22cN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A7eae012be3a642b589a8a8246cffa5f6s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A7f5b3378646d496b8d60a99e45229414q.jpg"
+        ]
+    }
+}

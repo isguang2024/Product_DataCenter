@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "d7f82cd5c19879b26edae57f0d73fb68",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-22 14:20:59",
+        "第二层SKU数据": "",
+        "货号": "GY-W901759057",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "配折叠盒飞机盒\r\nsize：16*12cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Large Capacity Canvas Shoulder Handbag Folding Eco-Friendly Cotton Tote Bags Reusable DIY Shoulder Bag Grocery Bag Beige Black",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S312ba6e497eb4f6ead5ad4913d7a2311R.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se891961092f740389fc6b78221fa49d8V.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc00836b970db45d7b39fd385b300fc04x.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8498bfa8544e4a7c8059782562bfc564y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc8d095401a94fc4b9f44a9d38c6f290X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8edb6f9ea58a41c9b5bca5167603c9c2T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebf10cb99f2b4229ac2683da28c51008h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2cc3d01fb95946ebbc36666bbe5e97948.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S947661c6202d42f8a07f2fe9a4c58beeA.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S71de66012dd4477bb2858530dd9f42145.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3ed524f5628f44acb3ff9c2ee7a49d2dZ.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sfe9be6bc6614407da94b427131aa21bd2.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5026e7ebd6df4aabab8d960d8b12591bp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82b81a9e819047a9b5caf24ea1f53773V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28cb9038d918414d94427d929986a791j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6abc9176e15486abbb323aa276c15d4P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1984059f45a405681db2145cc6fddc5o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2885826e792412da44fc18870429b5eA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa633353b598a456eba1fad61e2925ff9w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S316783e997d0462181c87dc1dd690e0fI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5642b26a99040cfa1b46a91e230296eB.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3a6c56fc2f34e409abec62a5df20d0ai.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S434bdaeda5744176b77d435efed42e06f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad0545ea6c5a4cb4866d6fbbb2c878fdA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10d5a2e886f4444bb0c4ccd1bb17d859U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8edc66040ab742daaf4907c22aea19a0o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbbd75742c9174f93bdefe3b84c1466e7a.jpg"
+        ]
+    }
+}

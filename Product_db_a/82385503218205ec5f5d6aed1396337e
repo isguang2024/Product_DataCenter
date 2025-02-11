@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "82385503218205ec5f5d6aed1396337e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-06-04 14:03:14",
+        "第二层SKU数据": "",
+        "货号": "DG-165750962",
+        "进价": 185,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "马鞍包 原版质量，重量：0.7kg，材质：马鞍、头层皮，尺寸：18x24cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:53:22",
+        "原普货标题": "Women's Canvas Shoulder Bags Eco Reusable Foldable Shopper Fashion Print Large Capacity Handbags Casual Cute Bag for Students",
+        "质量星": 2,
+        "重量": 0.800000011920929
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S713535db331b42c5ae2e6152552445f3U.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se1a458f92f814c7ba2092f25763d055a7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3be2b75e774649708e3abbd426c213c8r.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9520eb878c954f2481bf31497c7e23fef.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5a5d19d8ae5e4561b2b9c54adb38b8bcC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab8544312a57480da7be46506f659c67f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41024322d7b546a4adc6a804a0e978b7q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S052584bd3eff447c85586f2911d93ef5f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1bd41e9d2a83413bb2e112646911e15bw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S76ad2548acf14f7197144b4f65115e28e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See29bf0d5f4946bbac7dfd0fd3b135f2i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d52aefdf97345889d419e8e01ba5a68B.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S675e4a3455a94f6a968d7463860ae93ex.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2ab24bb4aa844a569435680321152ac8t.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S5e97410919dc47e5a4dbdd3225ea50cb5.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S9e54a81c6b76426eac434ed173a7656bV.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa8b0f5a48e2411e85a50a22bb93e9f0R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S115f7a40960b4702b44f8264ac8c9acav.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S448d4cb5609148ab932dc7104c0a39f0B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S233946b839734cd587036291035e516dF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b919e3738394c90acbdeceed52a669eF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S378ba09714ef48b4bc4215c68df74f37N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ecd8bafda7a445d9f0a36795456ab4aK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c2dfd34d42b4b0d899ffedf123bc2aeF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b979c34489c41019fcea689da1f74cbo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S172b61cb16b94e1e866f2dd43c1495a3X.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S390109c2021a41018ce3b17cdcd6b261J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9cc3f3b06fd647a2b722ddde56b17fc2s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa968dac056904e9e96e630085fbd129aN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ad35a8f80294b3686d55e2d919e0416i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f0f0739e15845e3913e698f012fa1c6e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8802505833f44c3b445728ea357483co.jpg"
+        ]
+    }
+}

@@ -1,0 +1,127 @@
+﻿{
+    "info": {
+        "ID": "6ba7bbb7f3a57db985117df93d3c3ea9",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 6,
+        "厂家": "GY",
+        "创建的时间": "2024-08-07 17:05:32",
+        "第二层SKU数据": "",
+        "货号": "GY-W572769486",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "笔筒包\r\n复古优雅 满满的高级感\r\n大小适中 容量感人\r\n休闲正装皆可轻松驾驭\r\n配两条肩带可以斜挎尺寸19.10cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:08",
+        "原普货标题": "Children's Bag 2024 New Cute Baby Waist Bag Kids Girl Boy Red Fanny Pack Toddler Waist Packs Belt Bag",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S02a7393707ed4c0ea63778f0fa2d4f68C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secd408feec9d469898c8259cbb2614a1w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4816c9508b8f4f638f2c7f5eba8027f00.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b06faf1d4e94bcd88d5459949fdf1c0F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f503772e59c44fb84d9dbc8daa68b75v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S383d2d3332014409960781429f993eccY.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6b771efdcf35442f842262b9c291d7833.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc73c3b2007ad4239bf6f3536bcc167ff4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6755654cc02452888499ba95d418fd4B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9c53613664d4a16be3433fc654db56fq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1d406aa08914ee3a09fcb518a9fd74b7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a9ffc3e88e84e1ea6f78c02bbfa18efX.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdef112f540cb4a2ab4911e1ca454f21fx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17baf8cf995a4d4ba827340afd1554f6j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93a7d58329a343db992253e32d4d24b7G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b61a0794b6b43b489d2a5a731a41f57W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f3ce36bedf54ecfbfafe26eb25648e6f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4db043d6d27f4ffeb68db5f479df2fa5V.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9549c0a983c84038801e788b049ee62dq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd69c3599c6b94a34b1f1398ac10f0bd9x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4191b7768e34ccba6b9d022151926925.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48ec11abfb2b41078931df8e5bc1a18dt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52fa3a2605534926b0762c57bdb6d1d2q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3981fc4d2d0a4d7fbf2409921faf3262c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24cd26d7388644bdb4d897eb2be4a759s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf894aa4ffc334585a6c88ca8834b3e01X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d3710c02fde4e89839341a8d6d5ca42p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2bc9672b89754a14bc6a019dcdaae79dQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7730c4971a814ff692e79f9878027ac87.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S3d835d843c514c5bae73688030dc004bs.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Scf0cfd4f9b7044e4958c92d73a8cf93fJ.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3ae27396f85c40519bfdb0bd2f3e929ck.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sa52547e9def746a0953511e0c208e7335.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sfde8d54591e540a28cb6a86afd909654r.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S4f42f2bd28a34973ac4e388c13bdf53ef.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc76f770565c14b89ac25e595ec6b3ca4m.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Safdef70342c2466bac09df89e06059419.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa50a02105cb54e80b4ff20546829074fM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec2fb5314d82425491f944a72eb5e0d7q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3245bcaf0d5408fa06069907a5ec182x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11c094dc27294b5c8b01fe1656562e50O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f4ac8ceef874c4fba6ed2da4847037cq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6feea853efd349079f30a90dc21ff344I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1366934e0d2c4a10bd66571c5dcdc8c7H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b4b7db145a747eb95d97ed0a84af95cG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S998f10a566494381a8a35fcdf9689ac8c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89417aded4d449a499eb27914175455da.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S890620b176fa4962bf0583b7b278b3288.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41c1983d90324f428d4bde9305b1a8e4N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S14d13e0830fa449b9a5fd24032349e78T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa31db0b7bc3745789cb21b32fae6b6ebx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5e864c7bc0747e9b08329cecc9e18b0J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9bcda72b113d445eabc0dc5132107cb5u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3aa79b3b9604781be4fbf607ef5d61eT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a8d6527214d44b6be879ad273ccc0ddh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S210a6049c2214f7cbe0620760c419f875.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49ad23a992c0483693a1b8a888c4f06fU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfce399404f734360a54a1ae9a2ee865bu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb06fab170ed48e2b194d1e16d596ef7R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50abf2c9f6bb49f498277b847bbf39cfI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb98f1cf95f7f4bb7b5281e499660f8b0N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62e5422478404d51889609242f30ef28G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f279c1e97ba4de7bb2dd87e5104aef3t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb7dd7d3256740658becd0365343c073Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98ed5a13f41442cab2eefa6567e13810I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ba20d64d68c4fbfb09276930aa41d9fF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ea65e95b7db4fa5b47837b37c8b63bcG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb9c6c84ba6446ffaf7aa39cd6cbefc8R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc9ab4f53e5d43c79182fb1c2c74ee43T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S27ee48e867a1470ebf4c4fb4eac9c573F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9744980fd4946faac3e729c891fb15f6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d461412332e4120bfde3a637aa0faefN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S299a25b5f34045b7be060871c930b0213.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbe3b1cd76c74f67885157f287b00f831.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se08711ce860948d5a9ee73a1474bec756.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sced092437a36440084f3fd929304da55U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S038963bf8ce74ea9a8b41715d85e0975f.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5d165ce12eec4887bb69e665ac4a2767p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0f236d015674545a2fecdb52ddd9ee4Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80f968ef240c4fafbac4cec7932eb192M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37485cccf611446db4b93fb7367fc49bo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6cd69eea1d1749f58e661dfb4e9770566.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S621720d58bce4c939511de2e48c1dcf4l.jpg"
+        ]
+    }
+}

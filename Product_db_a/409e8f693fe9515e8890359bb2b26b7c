@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "409e8f693fe9515e8890359bb2b26b7c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-07-02 16:40:36",
+        "第二层SKU数据": "",
+        "货号": "DG-168237291",
+        "进价": "150",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "购物袋 高质量，重量：0.85kg，材质：拉菲草编，尺寸：29x13x23cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:52:20",
+        "原普货标题": "Women Shoulder Bag Small Cotton Canvas Handbag Casual Tote Female Eco Crossbody Bag Cute Messenger Bags 2023",
+        "质量星": 2,
+        "重量": "1.2"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S445c25020810439aa65bb04b712b08bcX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9721f2433704bcbbd90997234d2cd9ds.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S774c82916e154e24ba746e7eeda5984eP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf63466a434404274a8a9be6e2701555cH.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8a5d97075ac43df887a290b028083ccs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7984e9390c4470fa44031aa5ef75183g.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa125e1d9efa64adf9c3e1cc4fb0f5448u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ad8aae41cb046ce87c94ff4d6cc54c4x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d7d29a1bd0e4c8cbfbfcdcf2cabc579x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc507971eb4ae4a5893b72ff646b1bb7dk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf6917c62e3f481dbce4c6403b88eb61k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secc8d997200b4ce988354b27081aae04r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbd9b78a6c3545e58fee06cd53b27ff32.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf3f535de4674d65aec599f667af6bb78.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7bb397a7ce6d4af9b52306d28702dce3g.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sfa5ca7df208d432f8c42558888d598d2R.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb0fe43258abc4e72a9bc6404fed3bd31x.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S32f4d7d5fe5541db98d3ef412aa3d8b2O.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sbd40f98f7ea947718d70ca941bdcb227J.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S88ee49b8db664415ba989896509f951cW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41aa490de2144c60a9924a5eea38a4f3e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f82ebbf841648f5bd91322589814671r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e3b714ab04f47dc855fcd1c980c85deO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5112e7069e2441e295cbc5f4a81375d8E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef8317cc35094f6e8ce7de9c4fffcdd6C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71b4c3ed87fc476eb0782459a2a881a96.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S355864e36b0e423eb8bece1430ccd0c6Q.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5e0288fb279842ca88b6a5d24f2dea4dI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b502871ebe340288b09f4e0f0e636f67.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48251a12fe70427184fa4798746e3b09s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51e4c3bb98604e29a4305d9bb1ee275cb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S353f5d2660ce427abdc70ca8fd1bed11v.jpg"
+        ]
+    }
+}

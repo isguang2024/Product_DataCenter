@@ -1,0 +1,81 @@
+﻿{
+    "info": {
+        "ID": "85f41cea8f617cc16a19544e1bf1ab1a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-05-13 16:46:22",
+        "第二层SKU数据": "",
+        "货号": "DG-163321892",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "腰包 高质量，重量：0.7kg，材质：皮，尺寸：24.5x17.5x3.5cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:54:05",
+        "原普货标题": "Mens Wallet Long Purse Leather Clutch Large Business Handbag Phone Card Holder Case Gift for Men Father Son Husband Boyfriend",
+        "质量星": 2,
+        "重量": 0.5
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3a5f7714146c4f45a9aa48a196f3c966T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S839cd802867e486bbcc23f12a46164e21.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se82ef244c1fe404b8312ab81bd8799c7x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbae0df5284fa4233b360ea8d4a8444fdL.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd642d811b80b4f439fca0ea7ded3930e7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93b29a40b9df4af89d1db3cbe1b5f836L.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa219dbc0e2bf45f99d0f59f74f80aa16S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed9f03e35b874efc99215b71ffc9112e8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7bb8e28a4ce74ca38463da81fdedc6e4o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19b8d6f35cfa4e7b80bdd1cdb849ab78q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb61db210c79740b3be62f1bd63e2a2c66.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S454821c2744046d9af896a086a8d4c8eJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ba25c0f2bc24aa69de03c8d311aa65fI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9f306596157405ba6dd19a8a541711a3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93b29a40b9df4af89d1db3cbe1b5f836L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49874b60fa834b1bbe542211ad9864b3L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86137c2607e742229f2481641fa6b9a8s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed0bab062c154cefb27804257efee04aa.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa83127bc238f4f588277ddb2263a639cQ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9266d0dd2daf4d68bf27f0e0342d43578.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Scd596018516c46f48a6a7daf9a2395edo.jpeg",
+                "https:\/\/ae01.alicdn.com\/kf\/S41566656490744b785bcdbdfb1e53bc0q.jpeg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0ad4d38ead994b3582a3aabbe43e4a33v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf47dde5b1e954784bf67321d138e1899j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e536e60257348aba0670bd0ee94ac3bi.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S617d3d1aef2744b2817333f50fb8addfD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8eb385871ae848f0ac2f16b4af2f7c3e3.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53ba2334440348e1ac046ef73ca0d051l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9407babb5f5a41a383ac88342c358cbdT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc775ac2002c4f70823d8d78b5c13434C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd596018516c46f48a6a7daf9a2395edo.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41566656490744b785bcdbdfb1e53bc0q.jpeg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0ad4d38ead994b3582a3aabbe43e4a33v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9407babb5f5a41a383ac88342c358cbdT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S617d3d1aef2744b2817333f50fb8addfD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d925a9040544160a5caacf02cfa127dR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf47dde5b1e954784bf67321d138e1899j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53ba2334440348e1ac046ef73ca0d051l.jpg"
+        ]
+    }
+}

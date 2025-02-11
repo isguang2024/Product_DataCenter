@@ -1,0 +1,67 @@
+﻿{
+    "info": {
+        "ID": "872b67239a91c48dc9838cea1b320fa3",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 16:15:06",
+        "第二层SKU数据": "",
+        "货号": "GY-W1085612553",
+        "进价": "175",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "34厘米",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:17",
+        "原普货标题": "Semicircle Saddle Shoulder Crossbody Bags For Women Designer Brand Adjustable Wide Strap Girls Purses And Handbags 2022",
+        "质量星": 2,
+        "重量": "1.2",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0ab07975beda4740b36ecc8ed5fab4d3d.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd786d3ddc9b94cd9a4e88532ff414569Z.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7d9d826f45aa4e789208d8e67556223dy.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sef42afbe41e54dab9a9f463591c245d01.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4a613a95eb44b6ea0003298b382730cn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc36474ec1384cb3a442879fcc26e729M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2e11564a0d940ca8085074c9f68b079D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73e1d6fbb90e4f638e9aac04ccdf48f1m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f7a97c2e04e4983a4e791b841ddfdd7x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se51090dbbd6f4dd0be157279c1224395y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa95c9277a21647f4a2387b54cb6bb12bX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc311a2d2db584b13a9b17a28f723d357d.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Scda0a13fa3e5469eb9f8cc3d6b6a9438L.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S44c5698ccb994477b939927ed4156bb5n.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Scf8522598f6b49b6b80f1b51dd86e0176.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4e3304bcc9914af19793f63e6da66879h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbb1581efe8a438194b173251af42347t.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se998fdec5af14f8a88d0fde8e83fa51bs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2fb276ad47c42a0bc1b7bf18711594b2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S507834219ebd4b03b8971d58838ea0ceO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd934065447e4d4bb08bbb207fe799a18.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce531e17ce214ec4a37e2c3cb858a894G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S873e40adb612469d956ffb8da1407e04B.jpg"
+        ]
+    }
+}

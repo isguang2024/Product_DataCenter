@@ -1,0 +1,67 @@
+﻿{
+    "info": {
+        "ID": "a9c2fd8f39ec12f3af1cecb3cca408fc",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-20 12:23:25",
+        "第二层SKU数据": "",
+        "货号": "GY-W1787360245",
+        "进价": 75,
+        "利润比": 100,
+        "品类": 1007,
+        "品牌": -1190321189,
+        "普货模式": false,
+        "商品简介": "size：2.5cm宽度\r\n牛皮皮质",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:55",
+        "原普货标题": "Vintage Inspired Slim Belt Knotted Design with Gold Tone Buckle Flexible Fit for Skirts Coats Sweaters",
+        "质量星": 2,
+        "重量": 0.5,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S47ee8b20973a4bc5b282f3f4e4da2632c.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S81de391fbc8b424096085709aa4551a75.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8ad6925a43a041c18b01fb662f7446b9t.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saeff04607c9a4b389a3b709f69a0d84dI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S505a52b082c94ce8b596fe2665eccd00l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23daa5a8367d4264b3d3ce42f5d10c2e0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b0804c6c66c4d3e81a5e4f5353ef6aaf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e0db80fa0df4431ac681b879583a42di.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b9bd8c9d1334a559b9809ba05c4bfccR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ea526670cf1433d9097ae0cdbb4b459c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S653115d93e3943a89f1494b0b8d94ecc3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e2501ae3f334c05b8a55cb77d010402l.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf5b15573f37c4009bb693dda56cba95dg.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3f4957be71834b6aba96ba70820f923bs.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S248f10fe56bc48418e566c2074e715fdR.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0b0116f90114df89d06e7f4583279469.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6957238ca97047569bb2292c6e297c86R.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S95508e45782141aa88bad9b7ac0ffbf0f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44af909a1897491db97d8227c34b6b45c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17b411efb4e3426da9a33445ae6c5eeat.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcaea5727cf2452bab8b347c881a57cfr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c183de55eb64037a47c1006258abaa0g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18bb301350b346a4aea5071f0ec8336fh.jpg"
+        ]
+    }
+}

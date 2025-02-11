@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "68e563b912950907a18da2f75315617a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-22 15:43:43",
+        "第二层SKU数据": "",
+        "货号": "GY-W837608644",
+        "进价": "75",
+        "利润比": "100",
+        "品类": 1002,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸 11x10",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Retro forearm bag women's bow handbag PU leather baguette bag Western style shoulder bag Underarm moisture",
+        "质量星": 2,
+        "重量": "0.5",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S027be81bd4824cdfb997a35d8646f2d1A.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf25ac10f163d4036aa8986b1c62a7aacY.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd39944d37fcf457f819439b9d06e6d5bE.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd39944d37fcf457f819439b9d06e6d5bE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1727e454a6d24207983501a46f0bb844a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09454466b2aa4646b1d12550fa329c2dN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61244292e3614a6c9821b4cb23e332bbL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2733d98c61624b3eba22b59c786739c7I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9ea9330956045eb8a4d877c9c208d69j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S026941cc242947beb0a4e617cd7732d5t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0dbdf2ec841e4c2daf45cd3e1d04a18dP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47cfb6cc7e1d445da2a3010dc805fd26B.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd39944d37fcf457f819439b9d06e6d5bE.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Se6b2142c7cda4272b94fe64e79898ad9W.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc01a7a7365d2432191b5bdb6499f16232.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S32385d37a578421b9226ee4c72cf5bdeC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53b08ba107e8485597e57876a1852a57N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb48c2b8d28d4ef8aa0fbb8bf9670069Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd4202a490164c21a4bffd8211c3ece5K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5048e0aa75743dfad59bbfe89bfdb46n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00409e6fd14743d598e3c54ec4b197dbV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c9f4179535545dc90a524dc2b9bd7b7t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S116103cf12bb4588b0c771672dbd4371M.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S92add029150b44d69c2094e8be0538b87.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S534ac90f302441879f7106d03a1a5bbdX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc01a7a7365d2432191b5bdb6499f16232.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a7cbdb5339a4de3973753b3cff8d2adW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S047de0eb0d744efe9fd1c8c0e4b55fa8z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61bdee5ebf9647a4beff7ce6428891d8F.jpg"
+        ]
+    }
+}

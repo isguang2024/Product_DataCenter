@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "9e87cd61843172bf8281e6f36d052abe",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-05-30 14:22:08",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40@41@42@43",
+        "货号": "RB-W2076161309",
+        "进价": 95,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "原版开模PVC，压花LoGo工艺，原版开发 ，顶级版本 ，所有细节都和原版一致",
+        "性别": 0,
+        "修改的时间": "2024-07-21 14:02:49",
+        "原普货标题": "Women's casual sandals 2024 new summer versatile fashion Roman shoes comfortable flat bottomed vacation beach shoes",
+        "质量星": 1,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1e73da31266d43949fba7b151ee281c9p.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S63aca97f2f20473287e298027f7349c2z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc93ffcdd27964fdaa83993b77c8202f1v.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9e38bfe3c7e24fc7b67ca8cccf68cbd1k.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2f11b2558830450d9d940c2ef28a63b7T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S64e500e9ecec497ea9f7ed7600312c94n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0301cb6919da4473b077dfc8b24645b6K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scdfe27115eee4490a7181bec996fceaep.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S939f0f30b77f439ca8b56f07bfeabd2c6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b6ddb224c9b4a619b9f25aff629fd80R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sccc7ca7804684330b4fb9c36705bbadbM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67b4a865c0df48f1ad761dbda278d8789.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S14b59e6f4dcb469a85960d1308b144d8Q.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S6ce69431539a4ff0b82091100400a728I.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sabff81632ba1410fa031b865cd5e06d77.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S765a616300794f939a957bddf81c4bbeY.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S54d970f852014d83b2fcdd4851b415713.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S951bf3d3a0414214b5688da5b4f0450dn.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fbc128115f64526b84fee850b2a5726L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sccfe8290377d43a38ae0b6aa09822b93c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad1e9d56e6044a27ae14cf4c187aebc3m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b20d0e9515647bcb340550e3ed4e4eee.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4e548e99c374597b29d2f8e31beb1a8K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S720f381d20624bee93ea04b53961b14dp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65c43a2fe763423aa3ededbe59841c10T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7be0241357bb457e913f2ed3635c0555S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3c0990d3b2e4935b0d3f92039a972b1W.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S54d970f852014d83b2fcdd4851b415713.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3c0990d3b2e4935b0d3f92039a972b1W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sccfe8290377d43a38ae0b6aa09822b93c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b20d0e9515647bcb340550e3ed4e4eee.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09a318f9bd304c1886a8e991ff6434a3U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad1e9d56e6044a27ae14cf4c187aebc3m.jpg"
+        ]
+    }
+}

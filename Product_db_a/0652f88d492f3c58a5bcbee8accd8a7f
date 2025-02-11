@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "0652f88d492f3c58a5bcbee8accd8a7f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-07-27 12:45:35",
+        "第二层SKU数据": "",
+        "货号": "GY-W996354772",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "size：20*15cm，风琴邮差包",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Corduroy Handbag Strawberries Beach Bag Fashionable Versatile Shoulder Bag LargeCapacity Simple Commuter Women's Tote Bag Bolsos",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S37b105e828244eb38331a7ff14bf7a78Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S268ff045265445a3878a7575e054849cE.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd98570d6c0244d8085ca99da56cfe531N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S113eef9bbf514503838d77c9aa4559d0V.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7436756fcd784bb4b2ccbe28799f216cB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5097ada6acd9462f82c79b10a5d0eca2M.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S472c2da3ad6b4b43954d2f43359dd6cdE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se16656deca5a4f7e9233ebb06158618dw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e1ed9c7d78342acbe631b49766b4d22u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefdc39f728ff49f6b31f5b56031493531.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1e58d74fb7846eeb3d027c92c3870b7q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ce75717fd2143c489dbc14743ed7e0cw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S889f4b6df5d74003ad6e259dfbbc2eeap.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S583094719c074015a354c5b586a8272bt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4593e33b63b84ef79f1bee70b20c7876Y.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa5b12d0482724c239d77628e0898e8e7n.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9aa28e2d7fd9495197d47406ea5c2b22L.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa6e525d14bef4205b57d47471a0070bbI.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S4e215bf44f314431bfb33d30fcd4d797k.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7f77685a68334c1f8cdf5e11fa3a69c8W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se089e8984eed4471a5a1ac19a34718945.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a2678f0d2604d85ae2d918314796ce8h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda592b9ba35d4d98a936e36cb656f41aJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e53f4b60c2e4346b27a9740e55a43aeA.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8c0cfa57fca4a91aacbb33bed00d16aH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b18df9c088c4f2db9f93b3df481d4baZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d689ba4e8db4c1ab18ddc1fab237389s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6e525d14bef4205b57d47471a0070bbI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17529c2d26fa4dd5b7ba094262c031ac5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb20af2718e484c75ad40a6fd57eae84eP.jpg"
+        ]
+    }
+}

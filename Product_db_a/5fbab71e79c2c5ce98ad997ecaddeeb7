@@ -1,0 +1,65 @@
+﻿{
+    "info": {
+        "ID": "5fbab71e79c2c5ce98ad997ecaddeeb7",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-08-28 17:45:46",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40@41@42@43@44@45",
+        "货号": "RB-W60268231",
+        "进价": "280",
+        "利润比": "75",
+        "品类": 1004,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "Size ：35 36 37 38 39 40 41 42 43 44 45\r\n",
+        "性别": 0,
+        "修改的时间": "2024-09-05 17:35:39",
+        "原普货标题": "Summer Slippers Women Sandals Narrow Vintage Square Toe Flat Cross Strap Thong Sandals V Shape Design Shoes Women Plus Size43",
+        "质量星": 2,
+        "重量": "1.2"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3bddb6d9f69f48f5a8d18b0ae1d2cd03y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se5abd51f48d643a5a520907816a737ccm.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8a3944ca1f5046148f8d08d40932af0bK.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7988bdcb60164667b4882cf3590d449ew.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58580d27ad2641388dc8a10ccfef642fv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8171491f456421a8c71a7278662cf04o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfdab749b1f204520a9ebf77ffe1bdcceR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S910309edbaea4d3287c8314f10c3a2d23.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe390ae43e5e4ad9a6cde39744ebcc1ek.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se01b9eb0d1c24bd080f6479e4640abd8Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0b9043bf84a4b4ebee6549d23eced6fx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21ed1cf8044b40678181a235c6ebe252p.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S58580d27ad2641388dc8a10ccfef642fv.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0dec4e7cfda84a80b7c61004d6fb7343M.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S9575b82b08b645d5a35466dad2891bddt.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0738e53ee4b14881b3379a0d052f33b3O.jpg?width=800&amp;height=800&amp;hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4a2d964400f6401b8a6b37dbf2862075O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00becb93216347a5a32d36912a52fd46X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf28b953306ba4532a7d1a0baf2ed667eR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4dd49b8001ee471e91f7bd02d2d7956cv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9575b82b08b645d5a35466dad2891bddt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c5c476f5bca4aa98151ba613016a531J.jpg"
+        ]
+    }
+}

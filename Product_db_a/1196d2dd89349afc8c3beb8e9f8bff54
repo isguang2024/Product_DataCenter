@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "1196d2dd89349afc8c3beb8e9f8bff54",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-07-10 13:25:53",
+        "第二层SKU数据": "",
+        "货号": "DG-146040334",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.7kg，材质：头层皮，尺寸：20x10cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:52:02",
+        "原普货标题": "PU Leather Soft Handbag Large Capacity Women Messenger Bag Black Ladies Shoulder Bags For Women Solid Color Zipper Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S90020f89f9c94e32ba7bd6d836df9a4c9.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S467ddbb1855d4da5a5f12154b195e47cc.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seb8eef778ed34251bf314e864d554ddcf.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seb8eef778ed34251bf314e864d554ddcf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f1756e698cb433382f6aea8b9b05b880.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac895da3f69e46ac9b1e745c487934faz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4600aec723942c7b08c4c3427ebd23dF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96e8d0804d4940e494d62f0e349df16fG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07f5f019d5af421a896f45e3a70f6294R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8235066d67c841d199c5d0766164c383R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77d0a51392524299a4d0c64c3d423df7U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S22cd860e4a4f49d39188bdd423865a84U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1935e7af58214362b6d2710901d92b7eH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57aa9b771ec8460d986d3c7fda86855d6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0bc7ed98841e446ea8f6350b311c2b5ed.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ad1276ebc7243f8b9a03736116d607aK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39c1056fa94e473cab35332ab167de7ak.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b46fbcfa32a4295865838b7bfa7b1d0e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0570af4eaaee4707bf81f1f3b2638c0fM.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Seb8eef778ed34251bf314e864d554ddcf.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Secf8012dc08f4c5d806152d68b9b373da.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S37c32542de4246539f06b618ec9e39b3h.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se5e1e3612048463e84d6c7be269d85a4T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc96d1be5048d4016915a5361e63bd82cL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75f4d7453c6f444998da7645bea4becfA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a13c0d0ef2b46de84b279263367704cL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52351b3e41e34e81b75962f98cb46f97d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S152859b64d62443e9cc6ce5673fc1fcdo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbddbc9d3538f436d9db8cd18cf6c0cf28.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53365b73fb0a46f1a1add77f52bd12135.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S453dbeea7c52496d902f8d26e571a3cag.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae4f90e6d1c64e6fb5fdac18fd4ac0fdM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37c32542de4246539f06b618ec9e39b3h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6347afd33c841f59ef5fbffd5deeb87o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a282073e93741d6bea1df73942fb878P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf76e9740c33417db019e40cc31e9ad7l.jpg"
+        ]
+    }
+}

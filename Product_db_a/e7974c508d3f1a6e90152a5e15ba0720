@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "e7974c508d3f1a6e90152a5e15ba0720",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2023-10-25 10:35:00",
+        "第二层SKU数据": "",
+        "货号": "DG-147782165",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1190321189,
+        "商品简介": "2个颜色，腋下包 高质量，重量：0.6kg，材质：皮，尺寸：24cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:56:46",
+        "原普货标题": "Fashion Large Tote Padded Handbags Designer Quilted Women Shoulder Bags Luxury Nylon Down Cotton Crossbody Bag Winter Purse 2022",
+        "质量星": 3,
+        "重量": 0.800000011920929
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6d8864a499334aa6afda67110b9e6c17W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a53473611a64eb6ac00b9f9a2494500Z.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sebfe126068ef4f1ebe73a328c93140568.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac6f2cfac15c4f0d823d36d806be5e21z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See34fe97d23c4a0581534503b987bef0B.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd45f578a015d40e28534c4ddb50d05f3w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c52381a63784219a1bee2aff14b7e01u.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S37d5bdcb871c4d99b15e68c549c8182dC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7f3a5af820845a4a6d61c0f061511f8w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb260f380ecd4fbf950d88a591fa9a1aW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde846fa983b1472ba908147cb9f7b4f2o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e83ee4215db4d4da10a267fde41d3b7t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b1dc7fe77eb4b428cc12732048f376au.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S705f3d2c0e5b45b7bd51a390c46c843fk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se5bb0e033f7a46129cfe6c94be97425ci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ace60a95c34466fbc5b4b177234a64fd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49aa9a8ed4294322aa308dbf64324b6cH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a63249a93ab4ff29d807e7097b37cd4Y.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7d411f90cf7443ca8908d6a3768c40daC.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Saf926aaa3a1147fe86c0583035b0ccbam.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc8483c8a334d4501ab64e5b802091a5dq.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd27ccfa4afc346db84b58627f765f35cF.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5be9199eaf6b45dca04094184f765dafd.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7c57ecd73c34949b18abdb439a0ea61O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f04eb4ebc58448c8b0f8721349aed9bJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa11a5a2031234a7d887fd0d2431a707ea.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8483c8a334d4501ab64e5b802091a5dq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5be9199eaf6b45dca04094184f765dafd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd27ccfa4afc346db84b58627f765f35cF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa46b6a4817ed44cfaaadb22d6f21d4f2i.jpg?width=800&height=800&hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7c57ecd73c34949b18abdb439a0ea61O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f04eb4ebc58448c8b0f8721349aed9bJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa11a5a2031234a7d887fd0d2431a707ea.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8681cf1060f24956aa70ae6646d0bee5o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5be9199eaf6b45dca04094184f765dafd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd27ccfa4afc346db84b58627f765f35cF.jpg"
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "71f8e7c639b0f7f3e84c3e6de8b3d502",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-22 14:18:06",
+        "第二层SKU数据": "",
+        "货号": "GY-W1833577795",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1003781064,
+        "普货模式": false,
+        "商品简介": "尺寸24*10cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:54",
+        "原普货标题": "VC Simple Black Men's Genuine Leather Fanny Pack Lightweight Sports Waist Bag for Men Belt Pouch Phone Chest Bags Male Small Bag",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3bb6aac3b3844b6b852dbd4104a49167F.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc042a3f97cae47f88daf9776932a863ct.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1d0102a27529436ba3bb8c207cf9f868W.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5ade74bcd3a438db82dfcc8f3aa3eb8M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74769448b60041f98080d96685d97276L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9736634454384d65aadb94e81be51b01D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S45eaeb4fcc594e55b60013b59bf95e13e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5298faea79ec472dad5eecbcaf94a863x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sadc5239c264f4cc9aca032600b42f1473.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf4242d24d7349afbc1e390265af2a47i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f45f59e1eef41499ec645ee9c27210eL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se58a811be4ae4e0da84695d96b511db0D.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4e56b5dc46c946f09f506187b4a3269c4.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8ddc881c68e04f21907b0669a1b2e20fo.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6b26a964e84d4f309edac3f7d1098be78.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3967383b5fc743409b7fd829b92ac98aj.jpg?width=800&height=800&hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scc6e1e65f7d84f0bb234d2820109ca43h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c7c9401a71549abb37587364e52e9e5j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8d053d054564adeb053e2d02fa62b001.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2387e3b2d08c4cfc8c466b85e4d15077t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se15119327b3b4b14816ed2d0e6ff9bd0i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1dc4b38fb99d4b9fa9237be96acf8d69G.jpg"
+        ]
+    }
+}

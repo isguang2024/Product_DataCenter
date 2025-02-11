@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "71a2ef473d5c8d202f8da7fcc7393cae",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "ED",
+        "创建的时间": "2024-09-20 16:43:01",
+        "第二层SKU数据": "",
+        "货号": "ED-W624210305",
+        "进价": "35",
+        "利润比": "100",
+        "品类": 1012,
+        "品牌": -1003781064,
+        "普货模式": false,
+        "商品简介": "尺寸：65*180cm",
+        "性别": 0,
+        "修改的时间": "2024-11-22 10:21:28",
+        "原普货标题": "Solid Color Plain 100% Linen Triangular Scarf For Women Spring Summer Light Voile Headscarf Neckerchief Gril Fashion Accessories",
+        "质量星": 2,
+        "重量": "0.8"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8027050522f24b14b104e53a1db8d32fo.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S03292beb0b214f1198f0a3cb307f8e53J.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S18869240b7e34a14ad0e79e9afc19bd3v.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8602b9e8a52485ea3cd6e63dd927dc1c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7416597aa36a4545bda368c2e9ef6a946.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3452823390f24350aa47ae005a266c1c0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18869240b7e34a14ad0e79e9afc19bd3v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60eab79f90a64e52811c5db94d7e43adh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb513362f80d24e548d46395c366f9f42z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S64292b2976854a1e96c2581d3a9122f1p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4d9f971dc6f4c4a96e3bdfa71f082f5S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae1efbf341324cf789c8fb9fe9e556869.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S18869240b7e34a14ad0e79e9afc19bd3v.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S38abe27b447a4c3ab6be2e0067d822c31.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sfc2cad1e90bd4a49aaafb3654409c352u.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S129e962e138d426181b00ac2ca9f36e6t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18efb12c09ab4fe2af7c76c456f1608fQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc509c6c1dac440e08d8d8703fde9471dh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62636a8d7f51457a8ae536f0f3e04577H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3586e4747b1144838c811e34e5c67ba9y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf55f92c7b714e93bef3c264aaa9572c4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4c53702de444a8588591384b392cfd7H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbafe7fd7dbd24784ab44151c76ef539c7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4955b8e0145141a0b2a19286c4ebd702M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1ff7e663ed7484db367640d799423a5h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37f4573626024f6798441c71a821d71a7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88209ffdcca046ef853d81e356995a6dK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S465cd88ef03d40138605a7dc9ec0bbffP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87911d0592c54940a2ee47c621821d98s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S867b58a77bee406aa13ac2ac235f76859.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1908331d9a746ad828fc5f824c7005cP.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S898d3895dcd74a15b0e21fb5e3468feev.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30135e1a9031486699863bfc35d55b56q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb807db6a67d4f4eacd11d5bbad15f04T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saeaa729eb1a747cdbdeb21afcab06c529.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc1477bb2665488294be9f55a2f84179v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a159450787e41ba98febb3765d9b052R.jpg"
+        ]
+    }
+}

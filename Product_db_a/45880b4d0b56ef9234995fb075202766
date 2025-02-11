@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "45880b4d0b56ef9234995fb075202766",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-05 17:36:55",
+        "第二层SKU数据": "",
+        "货号": "GY-W1802291599",
+        "进价": 170,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸： 25*6*14cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:14",
+        "原普货标题": "Large Women Handbags Interior Zipper Pockets Shoulder Bags Totes Capaccity Vintage Style Soft Leather Hasp Bucket Bags",
+        "质量星": 2,
+        "重量": 1.299999952316284,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sde1edc4eb82340c2aaff38ea9fca942a0.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sebf1030a66254a98b15ec11ec16ce5414.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8ac17e70a21044f1be50ccbbf60823fdn.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8031dc206034d7cab2cfda83249c6bdr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc486678f58914ef68001dc5431486b8ap.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S14669602832842e5b40248a4659ba946D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28f4450a0f7545ad9f7cc8f5d9064124R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ac17e70a21044f1be50ccbbf60823fdn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa4d2616d7c0460e8e134fe045cafe10O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bb1e16e0f6a4bdd97ecf7f678b0d7cb9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea7603ae4b7241d6adc5fad1ab9219d2u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc7ce443bc8f4210b93ca6f3b47574dc1.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf4d454746ee840f9876931572e60f1341.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S53ed7509ee2442c5bdb11872ad51630fw.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa60955167a80410684d42e8eab39ac6d6.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd56c51b6d5844832828b0ac8f364faecx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d28c3a353bb4ec6a9c984671653c2bfw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f6768171e424a3a90616efa65a3e520D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S83fbeea91eb843e5bed8d11d16daf50di.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ea66505035f4298a09bbc3c0993c2f2L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S91d9129433f4469ca97042f1d09b8670W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e8393eacb464ce19698967a878ec039l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7fb55fab8d0e4f78b1f80c5fa0786138c.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S990c4301328a422ca6141fdd75106973c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbbf1259623994e4a97f2b57b982cdbdfv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42fdcf29dfda43e694d964af05fbdf4dw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se78f605fc0de41d4934c19c639166a68D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20382df993ca4a4683d4d60636084ed5G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6d99794258a44669801a9f63b617d7aL.jpg"
+        ]
+    }
+}

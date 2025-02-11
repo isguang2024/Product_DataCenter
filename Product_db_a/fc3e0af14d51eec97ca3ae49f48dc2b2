@@ -1,0 +1,86 @@
+﻿{
+    "info": {
+        "ID": "fc3e0af14d51eec97ca3ae49f48dc2b2",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-06-18 12:03:47",
+        "第二层SKU数据": "p-200000124@34@35@36@37@38@39@40@41",
+        "货号": "RB-W1519013409",
+        "进价": 115,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -1898907760,
+        "普货模式": false,
+        "商品简介": "进口软漆皮\/水钻,垫脚羊皮, 跟高5.0CM",
+        "性别": 0,
+        "修改的时间": "2024-07-21 14:02:22",
+        "原普货标题": "New High Heel Shoes Pointed Shallow Patent Leather High Heels Fashion Elegant Shoes Women Thin Heel Platform Work Shoes Pumps",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S14c9fc9aca594e7f997df5bf80220e01d.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2755ccbab8245bbaa345db66f51b273W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S995322aa127d483d862a0f2c199e8c45f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81522f94218b40acad37c9f30a93814eK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37b7dc1d98874ec39d07acfb8d1b73f9k.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9b4dce6da9c24fd0854d04848b58264dn.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4c9c29370fcf43feb7ac29fe6e321ec6Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S633f7af9524349218634eab91003f19aI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b4dce6da9c24fd0854d04848b58264dn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab8a5864c56e42d683d85ed2d5480974e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79c34ad1ecf5451a8fe8a1927c69b69ew.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf96cc52d3bcb4fcea5147d531ea32be0j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef1cb99b04284a2b87f5ff569aec53a13.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S996a1e9809ca4422ad9cbbaff6459e6dg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb895b81e26244e98692d9bc69baf85c0.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sbcd717c425ad449bb9337992a71be8afH.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S147da9052fad43a1a5a8b8e366b5e3acW.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S34d83b4f5f7b4eb7b765ae4617cfb5bc6.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc11c600adcbc4ff4ba3930ca474d12a8i.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd6ca4ce338ba47be87b2774d338f6d16J.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S646326b920294040a9adc25b3e02d8f61.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4d72d536b1e746369f8b600ed644e98bE.jpg?width=833&amp;height=774&amp;hash=1607",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3df7cc9bce14ef282a925eaa3531fd28.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S641fe824f6e94540b55e0b66b1549709y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S306cfd5a27e04b85930daf47f2b745f0c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d70a4dc6c0a4530b8d5cac4c3e872dfz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35f530d2cf50469faf6f4f19d2ac7db94.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf459948b35a4e84a9f9176a39ff6741l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09ec5c91ffe141adaf49f7fc6142453eT.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d70a4dc6c0a4530b8d5cac4c3e872dfz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S189a15cb111a4df98b5f5d1194bb750cj.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5465f4c30da4093a0e7d42e8e2e2491x.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S89b451cdfd0a47b7adc8281618492f64L.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd052c8cf5912420c81b9a2df4625ec72z.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S35f530d2cf50469faf6f4f19d2ac7db94.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sccc43cc0ba974cb08e931fed07ceaab87.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf459948b35a4e84a9f9176a39ff6741l.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0d1f2094a9d04bf796a1b12a63c98c54y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S641fe824f6e94540b55e0b66b1549709y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S306cfd5a27e04b85930daf47f2b745f0c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d70a4dc6c0a4530b8d5cac4c3e872dfz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35f530d2cf50469faf6f4f19d2ac7db94.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf459948b35a4e84a9f9176a39ff6741l.jpg"
+        ]
+    }
+}

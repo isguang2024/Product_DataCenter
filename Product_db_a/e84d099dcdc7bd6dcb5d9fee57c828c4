@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "e84d099dcdc7bd6dcb5d9fee57c828c4",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-09-09 16:19:27",
+        "第二层SKU数据": "",
+        "货号": "GY-W1208242558",
+        "进价": 230,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "尺寸22.17",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:52",
+        "原普货标题": "Messenger Sling Bags For Men Casual Canvas Small Zipper Crossbody Pouch Simple Small Crossbody Shoulder Bag Men Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S13a5fbeae59c4e648e0e5212dbf123fdm.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2a7353790df4442d9ff489f49c196c80x.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S774ebd07eacb4c8fb6ebb714dd8a9da2U.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8b06f6a0a32641faa9ff0b85be7f085cZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d7382043c494a41a72a536225ac3caba.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85567e2fbf094af68a1d8f5d10459034T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf4a3690094f471cab01cef1bf506b0fr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b02dee825144757a3dcc8f341b728b7q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8907abff8154def9f9620de9645b6eea.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S280b8131c7cc416dbe061b310fa2d590f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa2a052c4f3044449a614407da825d45W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc62d78e3b22e44619fdaf6caf0d951c4Q.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sed780528addd4a67bac1d1149b21a2b7s.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Scb8b81d84a3140d7a4b68405d5a76d32x.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S47645ac201aa4b25ae30e8dd0f5e688fU.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7855aa9ad44477e94f2ae37fda8e773y.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S35defc6bf466475c8d1fb027ca812b37g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0dfe75a6ddf041a18c231ed023eb2b2dH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b4a101e4c684916b13e490330d21135E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c97b696509a4f6db0068d2470ece6363.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d066d12c5a844b79bab93b18d713ae8c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b8d4906cfbe4bd0bb17b722517727e9l.jpg"
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "0c31d0719eb510d8be092543a0830ab9",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-09-26 15:50:37",
+        "第二层SKU数据": "",
+        "货号": "GY-W161772440",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1003781064,
+        "普货模式": false,
+        "商品简介": "尺寸17*19",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:50",
+        "原普货标题": "Large Capacity Casual Tote Bag, Stylish Lightweight Mommy Bag, Single Shoulder Commuter Bag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sab9fd480fbd746d2b575e122c8308710n.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6b479641d0314cdfa86cc93ea2768ffel.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd45b21fbe7c4d4193d7c4f17aa9372aZ.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scdf3225fd8b6486ebea96845f6f6b3c8b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbab469771cb4cb3aab643291958fdf4O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82f799a56d3148cd9189a9c4afc8d847f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ed90b086b0143eaafa8ff7d8869d0b7F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8d904f1c2ee4c359b654a262012e37bA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5dac79c82ab540679ca563d44af2f7daR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3e0fb7e19ba4a97aba07b65ef91b02cj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7a58c60aa554f0dbe04797b6c95c27eH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d1e71d8a9ea4bae94f5eb0de8e580b1x.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd65ddcac26bc4f3587aeb70e2f82c318C.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Seb0064ba9a6345f2a3503ec6c170fd36D.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3fd68702d5ff4460a3018b72bbb95d5aJ.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1a20420139f244209565261349384b59I.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf699e4e073b249518460be7e9881d34dw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb8e2f6616a242e18d95b04948a7029a0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb9a1e550c304a53956194811490c5cdQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d3caaa79cd144dabe6a64c913b1cdc0Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfaa79c78e2af4e9181bb75040f1689d7q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a2b7576b42b4067a6c227ebe1553ab29.jpg"
+        ]
+    }
+}

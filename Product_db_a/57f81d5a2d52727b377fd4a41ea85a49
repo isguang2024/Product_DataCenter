@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "57f81d5a2d52727b377fd4a41ea85a49",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-06-12 11:47:49",
+        "第二层SKU数据": "p-200000124@34@35@36@37@38@39@40@41",
+        "货号": "RB-W639081768",
+        "进价": 110,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "跟高：2CM\r\n尺码：34-41（41 定制）",
+        "性别": 0,
+        "修改的时间": "2024-07-21 14:02:38",
+        "原普货标题": "Summer Women‘s Casual Sandals Girls Solid Color INS Style Garden Shoes Platform Outdoor Sandals Breathable Non-slip Slippers",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S22febf67e7f6428cbe7c3a6c57afbaf1d.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4bd6a585b20d4b7f89f8d6f322fd20abP.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se9a0cc4713c3415f94b1aa6a38b6c74fU.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8422037f74ec43be82db335deb801033r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29bbba551588465f99c7a19d1e229be81.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c148164a72a4faa904b53540e16da96r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b70fd7e70634622ac2ed9d0b97d59e2z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1257ed2d43064170820d4d6162970af78.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c642eee31ba4ff88c4f844ee2585e7bH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S165b7b110f05444e8aa6cf1d91a7c6b2F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a6eca2b7eb34214bafb06090dff1cbbN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1640f4c49caf4d1aa338c7a204d0363f5.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9b7b1246249c4c119e64cf281a2170205.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S06a126cace7646d1897e5b606951dfe7M.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S50281cab0a1c4f74b0b4d5be87cca4be5.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6725c0958bf044e4beca1edcfbc45f61s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5a0f5553ba141c6bea9dadbfdc44298I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfddb5abb29074cc6a9394673f9689529U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57aac23fe9244f729311ab4cdb0df26dK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae5f6bcf80064823a2fae21077741ba2F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4f8141c0b8d43ae8f6fb1fe8a86b017R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69c836723e6e454e9e1b4b9d9dc2c682S.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se109e914bb1f4b31a6b1b0d34ba20ad7l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ec6ef0a796d4442bf25383dbb37bcf2P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09b7bc2e03d44914905d206326186770s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fb258f4c3fb45c684a4bf6e2fef4d79T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f49216872d044ecbf6eec153282b147Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8100969346dc46a1b44ef8054966e0b1b.jpg"
+        ]
+    }
+}

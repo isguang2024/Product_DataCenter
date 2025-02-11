@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "e81f394484316e8cf69af17c20daa3ba",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-13 17:52:38",
+        "第二层SKU数据": "",
+        "货号": "GY-W815375600",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸16*8*9cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:59",
+        "原普货标题": "Top Canvas Bag Youth Ladies Messenger Bag Female Students Handbags Shoulder Bag Solid Color Letter Crossbody Bags for Women  Bag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S23a05080068d45b8bd895d0349f47831m.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S459fd03226864978b4af08cc89b9e271u.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S08a6c0d3a2f14051b8db1bb141adcd5fG.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S13c95a2a47854ce794bf64594794d3fch.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08c4df231be64547bdead8507391376cr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S473f562cd9254d7fa12d8d0295189c90H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S759277ec6cf94def8ee36642f7fb815aC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S718fc4bae0b44ba3a31d277df729db31V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S83c633ee2b804c1fa497a6e87d1945a96.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e2ce7437be84f9c8e40b4831f9346e16.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0889f8ed049b4a5fb60054bf69cf2e25n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4774a475b8a470fa7e19eaa95a56c7fl.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S08a6c0d3a2f14051b8db1bb141adcd5fG.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb2ccf432cf9b44f8b6271db0d464f2d5Z.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6c071c1165074dcdbe6d8bfa341a53ebs.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2cfc91532cf42da9d94f4f3fa419f323.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S762d886c6a314127936637c4d88fdaf1d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf94a13ca04114ca3bf97314166c3c0bbP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb06f0a8d537645a48c5e90e26f1b84261.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39ce6128fc9941e8861ccd85e2bc4fdcj.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S799b4d53974b4720a39e3f3194dc7b4a3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S886d4ac6f81f496c837c220ade228ca4z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17f27553f3e847adb0dbcecaa9c06aaaU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b355f6e9d7549feb7016403dcf56d9dt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf9fe132261b4c4aba27e2dc1f94df3aI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S376a5876287c4e9dab9e2dd3126ee6ffz.jpg"
+        ]
+    }
+}

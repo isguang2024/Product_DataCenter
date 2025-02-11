@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "15e1aff3c6f12a9ec6fed5b6df06f827",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-16 15:41:08",
+        "第二层SKU数据": "",
+        "货号": "GY-W137952117",
+        "进价": 310,
+        "利润比": 70,
+        "品类": 1001,
+        "品牌": 577247229,
+        "普货模式": false,
+        "商品简介": "26cm头层皮",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:57",
+        "原普货标题": "Bag Women's Trend Fashion Large Capacity Shoulder Bag Advanced and Versatile One Shoulder Crossbody Small Square Bag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd12fac819022485f85ae1f908fbdcdd01.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7e98848dfb44fc1ac550d4d26cdcfbdu.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S971377539c0d476d8f0b72c2f74f5d38a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7bfe7d3934894d71bf2e1debc7b10b402.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdad60e24d5de4980a06f61dac9b0fce8a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3abbe1c92814e469f0c966a3d556ba1D.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8a668d6839a3452fb5b2ebe530e7825f7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdad60e24d5de4980a06f61dac9b0fce8a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3abbe1c92814e469f0c966a3d556ba1D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7c59751219e4ecdb9996da369d4f42dL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa86177fe09e843dd9078ed4ba3d70f5a8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sddb7aec1146b4adebfcce96b4471a7bbp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S269cbb978edd43b486748fcbc8ec0640u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbce458dce78541eda4354b1bb99b347cS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2a9e57891fa4a72a5b2e53de4f8e9b23.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8a668d6839a3452fb5b2ebe530e7825f7.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd6887d444bfc4af39c124968b723e9eeL.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S0570e54882ce48a8a6d503a48d986671X.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S6015feb690c4450ebb4ba203c67f286ae.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S17378bc77ad14a41b4cf75d380c495630.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2a57669ba4b43fc994a68725360e81aS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8bba6c6c2b34619af2b86e27610895bl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S430129bd09784980a1cf74c368e82ac9i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd00f6c6c77b0416f93a0a8751bc233a68.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0663739cdb4144959c4f85e262380a78M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0da13a6525545ddb72c07954d1a0ddaK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c75c0b9d45745c597126053392ae419B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6e471c6bd9243d784377974582f9d80N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04fbdbe91b1c45ec9991e4d8a82938b4d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d06c3f96f6e438db4323c0ebefce83d7.jpg"
+        ]
+    }
+}

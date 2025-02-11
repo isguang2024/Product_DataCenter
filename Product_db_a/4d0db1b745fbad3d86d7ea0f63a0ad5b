@@ -1,0 +1,103 @@
+﻿{
+    "info": {
+        "ID": "4d0db1b745fbad3d86d7ea0f63a0ad5b",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2024-06-17 12:19:47",
+        "第二层SKU数据": "",
+        "货号": "DG-166810126",
+        "进价": "135",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "3个颜色，托特包 高质量，重量：0.75kg，材质：皮，尺寸：27x12cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:52:50",
+        "原普货标题": "2023 Luxury Genuine Leather Women's Shoulder Crossbody Bags High Quality Women Handbag Solid Color Cow Female Messenger Tote Sac",
+        "质量星": 2,
+        "重量": "1.2"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3ad9120af455442eac68b13483eebc28i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc523af16561407f88d8468c475d0330c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5c9d9391156429d8c3a5a550670b845y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5e8e91fed8564402928a5d3aaad20adcZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18d5188018c24524897c3f9e50f31a1cd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc78aed7571f146ed8c534d27be2e5ad9G.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd45bd2970c604c03b4a04ef53e171038A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf89a991b684498092bd1e51d23b55fb6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S008bdaf0fc5049d283348c2ee99281562.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3e84719158e64e51beeec23be09ce1d4j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se375847442a7498fad6b90606b912e79s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se00854c31a3a41b3a6aa947dda8106dct.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secd8b051e80c4e45be6703a5b797306f9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc144874708c4375983263bd52aee970x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9dbab53ef2af485e99b7a63289362854Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S726eaab4df0348a6929f07ecfdd9f992k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbea3247542d408281018e127b5cf26dB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd06e29872e924572b282f9430e5facb2P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc11ee11db4b448718ed626bf1e7ce0575.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88b449a01a414b6a8a9788216955f045B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a1a2bbb61374fffa22ab7c6acc42cb80.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scac4260ccd34416c9f68907dec649237t.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8ce716b766e04203b17749e89c04c74cj.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Saf6b9876df9c4a7eb085ff07ae7ac7385.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S073f0a181b234a9aa3a383f01fd4a3b17.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S575a6de90d124164a6f61d2bb68a291by.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Se1e58332ef3a476888cfc8d1e8de7391M.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4b6408fafd584484a620c16887d5eae4L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S622ab366bdd54e89a81774968ae1634fD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15f3a822ad284c298fa3ea8d7b67f03cf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75b2887571fd478fa3f15b2537d12fe9G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9187e53e82534239bb8334f2e7693267F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3b3bccab15c4b41b54373c60c070b5fw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf00606d3aaa4af281bb2b5f74817756g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe91895a0964425a9ac9f608b0f6ca9fV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a304bbb05e143af86413c92116a0b5eh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5adbd688f9e14d39828318466a48415b8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf0f6ad680204fb3bf044ac92f831c773.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5081453d62b4a5d8541b90da81a25177.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e0e617b15d0463895ba1d7fb0b7949cW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0eebbad76754eb7af119ce2bcfecacbh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f45306ba3c140048774dafab6e2e6adY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16c8d7ba5e92400bbf07b4c18a6d3df0V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa862ecc3b9494ff7b206362a51b08fffi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43907a0ac59b4c05bc49e68bbb038fb53.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa564d938edcc471785f9ce7f048c560aV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seeea1ffabc8a44cf816c88e8ea3e0d12T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d72ad54fcc04088a3745ae9eea71249d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ecfedce9bab435db95616171d67ca4fo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S112c3fd62cec4b32bded478a10a5133cx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa6f2272660248d6a0da32ae4022ebddW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf6adcbbbafd4dacbf5c338abd10c01am.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86469bae4d5748f9a281b73956eb21db1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a2ed59ed85748dc86a6611e0f2deea1U.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2cd641ad3ec24804a00715169ecec9b6f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scde8975f29c644909ac102d3ff8dfc0ef.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S497cb7d205eb42bdb71f5b1e7790d7bcO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8bdd62528e54bb6a7119bbb79afd09bL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7e7a748dab3404d9c2ef9a1ef4c4213Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3c40d5a167745baac24da9be7d9a2eed.jpg"
+        ]
+    }
+}

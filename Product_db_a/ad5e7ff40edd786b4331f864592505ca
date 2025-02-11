@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "ad5e7ff40edd786b4331f864592505ca",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-07-26 16:36:37",
+        "第二层SKU数据": "",
+        "货号": "GY-W1895932349",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "尺寸：28*19*????\r\n新款 1961原厂皮",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Waterproof  Girl Shoulder Hand Bucket Bag Oxford Large Capacity Canvas Basket Female Crossbody Bags For Women Casual Tote Purses",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6bf1dc3f9c774cf8b2f0fce725347e6fR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7f97b2bb08c4addba5da4dc30f612abW.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1c50c96deee494aa09b172a1d08269b3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S373cff766db34834abd199360363abb0m.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S477baa7cb52f4da5b777cdff09dfbd00i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S544ec6cd64d74c9c9b1ab12e3c48692dk.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb809ba84bc074314885132eabea7e894r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6ee89c25d964354afd38254f630e3c06.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0db6b53c92164c3dbdb4e9f7e23cf056Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbf7c28994464cf5ac79072dd0c9cdd2G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcac4a655f134941ac5b9ef09c925b59j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04e254e8c8e3496d90d386175941a3adj.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S92d860732aa0477d82bd6978d76a066fc.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S48dfc1eba4bd4f5d8fbd81fdf0769b58y.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se6bec1add499443481d269a8e4a5577er.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S569ec3fb95814b62bb1f02347818fa037.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S58dbd22b917a4593a5619089f14a60759.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S526b31bc92d24a0ba9fe158440a6246f8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b095d98b05d4dd9983a9bfc9c84cc1fd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19b5c4d4406f4809a1450cbf24daf386A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8a06b70f1164c33bf564c1a0ff15b4c7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S957f026119be4df8b5ad970eca24c582x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7896c899a84148edaee8d4cd8b39105f1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa178128168a9468aab43f4b494f2c549i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S655348e9c4254dffa6cc5e3690e12fbbI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S110031ce5a164854bf71d60eef15ca2fU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60d471740ea5420e90b6fcb19df1510bb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb5238d019714095932049e64f5e4939S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23956e6d24984eaf83fe7692f9f10d45b.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8ba4ba7fceba4ef5905e8d8967d7548a4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70f82e8c79244e48a806c1432f28e52dk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33f11347f67a420788f3cb2ad332bfd0a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saca48a406ff8433a81c5b27d3c604be8U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3388c21eab149c48eab5edbf413f56ar.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scfc39fbd4a7045889a4b92b235090e63C.jpg"
+        ]
+    }
+}

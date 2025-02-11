@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "5b80ab303e18ce7219a51c160dce9f29",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-26 13:08:52",
+        "第二层SKU数据": "",
+        "货号": "GY-W2010640746",
+        "进价": 110,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸16cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:54",
+        "原普货标题": "Women Hobo Bag Simple PU Leather Solid Shoulder Bag 2023 Fashion Large Capacity Handbag For School Work",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2607f4a2f3b4d2b8a90d3bded2597f8O.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se658bdbc7441457e9633cc3a43844025E.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sffad003ccb1a4f7d91ac7538c88f06fdw.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcd2bf6f739940beab1e3c01e6b7ad4b5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S958d262b97074d1fa973dfae6a0752924.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40345dabe40547aca52155c841669ad6s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf383441f87ae4184a06b0f200015e4b7N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa676d9bd391344bfbf20a65c3aebc291N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4fcb46787a894201a926e42488237a54W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S32105fed19574623b2d31b39090894e2v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b7c280f35a84b33ab1552fefd3765f1b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40f78b33f8fd46bcad21dca482d462f41.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Scf3bdbc239784a32839100866c730736b.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb05dd940e2b64a16afe54af8177ef7e4R.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S0f48137d61754807ae20a9576e0ba21b1.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S06df80bea5064e9999dddd9c480be623a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd41995ca27614a8b81cce31d70cc13cbP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb24b8f57bce14cd5b7fdff0505c375342.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6017fa49805d4ef98af53b3d75dd7b46r.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S984659eda41f4049b1c7b08552d394e6J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d9021851c55458dbaa59b2add151970K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf328733f50842cdb5fb91356101d1a6C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab09a42eeaea4c9bbf586e040e37128fn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc69faa3b1be94f548c11fbafbb42a966u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf541efb3253949df830c5c56062eb1dad.jpg"
+        ]
+    }
+}

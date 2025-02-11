@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "c5c366d22c3f5f2ccb8b6e2af054949d",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 13:28:38",
+        "第二层SKU数据": "",
+        "货号": "GY-W1459445180",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "size：32*25cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Korean Ulzzang Messenger Bag Women New 2023 Nylon Bags Multipockets Crossbody Bags For Women School Book Shoulder Bag Girls Sac",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S816cea8687f94f88bcc2a229e0d2d9d9m.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S59a365cd7d9b446b8deedc8e4d331e34G.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se365211492a246a6bc6ed7c320d2d51bJ.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S927219b8253d44f894a700a80694895c4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80da70affba24274bc6a8e12f50672b0Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c9a0ece6d9d4a36ba4838ee5219ea36Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa10b35bd957490aa092d6f571d2dddaK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd71c35be0524ea8bbbdb9b0fcf490d1S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf88f6a7ea4441b58b44518d141e96a9M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sddd922d2943d475da57ee7448895ee96e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ca36dd1f8fc45dbb537686f5f5c7629u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7bf4b494af84c3aa13928e7cfed8a52M.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se365211492a246a6bc6ed7c320d2d51bJ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdf6c503513384cf0b7b22edfd13654b3g.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8881ee128ee642eda87f4fabf237d2c2E.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2bb24f435cf349daa0339b0fc53f14b8O.jpg?width=750&amp;height=893&amp;hash=1643",
+            "https:\/\/ae01.alicdn.com\/kf\/S7bb2862aa4f44246a6643756ac64f72dZ.jpg?width=750&amp;height=868&amp;hash=1618",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1843316c1c245f4912584084b6fc650x.jpg?width=750&amp;height=512&amp;hash=1262",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8657872aedf47f5a1e111d0c7981f5aX.jpg?width=750&amp;height=537&amp;hash=1287",
+            "https:\/\/ae01.alicdn.com\/kf\/S25a905fb4e1645af989d1d436bef3da2h.jpg?width=750&amp;height=792&amp;hash=1542",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6a7b2dbb23c40b89de0fb065bfff435d.jpg?width=750&amp;height=798&amp;hash=1548"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S78806e9a96544ba39d8696454ca1c071o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80098824961047d09d7c75b321ddbb8bG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a778807acdc471f9a5f3293fcd4cd65b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8881ee128ee642eda87f4fabf237d2c2E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe23cf9d75b24b00bfe6a986482dee3c6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e66abfbcc974d5f9d45d5be0375ed9e7.jpg"
+        ]
+    }
+}

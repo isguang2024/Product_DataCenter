@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "ae0e02d05c1c1009900d8a1be81797ea",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "GY",
+        "创建的时间": "2024-07-31 16:28:14",
+        "第二层SKU数据": "",
+        "货号": "GY-W803009738",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "尺寸24.14",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Women's Bag Handbag Corduroy Shoulder Bag Multi Pockets Large Capacity Tote Crossbody Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1f2daba8478a4d9399c5f5869c330a9cs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82d4646746ed4cd6a06b8cd6a46128f5L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85d660f75c8b417c9f6243661dc62906n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a1daab7e323434486915130e9bb9facI.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc79da31901a04d799dc4e218beaf183ff.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2af700f18f684d6b8173619904af70a4F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d6d7c28f52c4b2b9d20933ca75550ddd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4d49b14a65b4bdbb587ca530a435f7bN.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4e91f867fb4a4b4586e33e652656b94ae.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fa76fd9fc57442dae41ae452c3e6f5aN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81b69f39c6de49ef9cf345820608884d8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa58be6ada048429388b6bcdc0b4e1967h.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S00083763156c49dbb7c8bc6d2df838d2s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2a149a9147c4b1ca4af092213375afe3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S32adabc78fd9421e8ac079e394b8dc194.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S203393c9d5164118806011120a32bea7I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17b380e656f04c59b45127cd4c3ebefbF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1406c54f7f346339e72d40a45f05a02Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S101f3cf6a4fb4b6798a24b70f0b2f049i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbe121de008543398eb34e226d90f1f9p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa35ad62dbb6b4ee8b1e24dd00e031d60j.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S6f4105d0e9844596878f1aeaedb9ebfcj.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S90ea4aa773fc446385851226c4205c93I.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S41bb395647824d8f97686811897b52a3g.jpeg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sfe0bee73092f4cfdad69c60f4b41524aq.jpeg",
+                "https:\/\/ae01.alicdn.com\/kf\/S557308e5735b4948b965405fe3670afcn.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S4f6d6ec3078f4f39b0b5c282d272f0bbG.jpeg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa81901d23b464db3939ba74fa47083833.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb01922992eb848dcb33ff6f4c443c935L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3a08068d5c34f8b992eae735d3b1467V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52379c2b4428487a994fe4076b31952at.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se44744fd1aa24504bd669710155f219fS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S110f5643c8b24f96a3a7dbb906a9cf0c3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb6d3448fb0b43d4a49da05e391d9796A.jpg"
+        ]
+    }
+}

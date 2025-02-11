@@ -1,0 +1,81 @@
+﻿{
+    "info": {
+        "ID": "f89c1588dc412fb9cad0140249a0f1d0",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-29 15:10:49",
+        "第二层SKU数据": "",
+        "货号": "GY-W73647469",
+        "进价": 185,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸：19 x11.5x6.5厘米cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Fashion Nylon Casual Hobos Chest Bag Underarm Bag Crossbody Bag For Women Students Shoulder Cross Body Bag",
+        "质量星": 2,
+        "重量": 1.399999976158142,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3d3b154e1d884008b29c421e9fa6d1c5y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5cbbe2c45fd244efae1a1cc55aedf55fq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbfb9e4b23dc49ef83fb0260e7c2f4bdI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sceabcef4a8fa4ec096b4f884f56b7a9ah.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbfb9e4b23dc49ef83fb0260e7c2f4bdI.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scbef1eace9134439b900149384dd7488K.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S94bb9e284b724b40a2632152f7d7225aO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a85f990ebcc45eeb8cd667a8d4c44889.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S114b960d71784a67b1d3ccad42afd5b22.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S574a146d6d9d45198b10fc0b5663895ah.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S001eaf6ce98c4457bb285b389bb4d48dk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7d02920d1744aefb91d773ff7e87d43n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S167face18fa74b34be0e18b4945a97b0G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ff72cf550f74ad9b5573053cd554e9em.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00d86e8d9a714d93b5c793a92fc8cccde.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S2d3fc9d8e881419a81abf3ab42745e8bH.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0731b3ff1caa427b8f271a39a4ce047d1.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Saa189a9b2c5d46daabb6892854f7fa824.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S92c7ad1b7c2f4ecc849e731c0588cf05H.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S003dbd54d5f943a78ee86dbdb0f0f036Z.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S4dd2666e70574688be3197bade11f480T.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5ca53a89c887481d99b5393d71f36f42y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb86a1b7e3f284897a5c4d7611fb53e8am.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02217882181a418ba88f59bc37396c4fu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8707acd2ae14cd28273524d6a7f2750X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S731c517d1e39431bb284b1afdd4912f0l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec35410ee9554e0caf36bb6f767cd605g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S003dbd54d5f943a78ee86dbdb0f0f036Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S92c7ad1b7c2f4ecc849e731c0588cf05H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa189a9b2c5d46daabb6892854f7fa824.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4dd2666e70574688be3197bade11f480T.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S731c517d1e39431bb284b1afdd4912f0l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb86a1b7e3f284897a5c4d7611fb53e8am.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec35410ee9554e0caf36bb6f767cd605g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02217882181a418ba88f59bc37396c4fu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8707acd2ae14cd28273524d6a7f2750X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ca53a89c887481d99b5393d71f36f42y.jpg"
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "29c3b4dc4a2e01c852d4edc8fd3f25fd",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-06-16 13:00:18",
+        "第二层SKU数据": "",
+        "货号": "DG-140382122",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "圆饼包，重量：0.75kg，材质：头层皮, 尺寸：20cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:52:55",
+        "原普货标题": "19 26 Bag Purse Insert Organizer With D Ring Toiletry Bag 26 Luxury Organizer With Chain Makeup Bag Insert For Toiletry Pouch",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S28a4242b3a15427ea297d5bf42acb93eg.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S16138ba030fc4d6eae1b29027fd9ffc4L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1301b7e0ab7947f1a2c2fabfea9c4197t.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3e7fb23fab144f45932f0b9dbe368121I.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3e7fb23fab144f45932f0b9dbe368121I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S573c6af9e3474b3a984e48e9a81d6ad0r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe4c781a08f5479da00b1583f5338ee9t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e42cbce29fb44a3b070433a5f3fb6bfv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8c943e573504114928094162747c0679.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd641462efbe94f989ca2031e152d75f5L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d345985291c4ba7bad2f1982f24ee4ba.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc518be7ee53d4c048d24f7f8a80cb99df.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31af78aefb6e45aba32bcb7d1c8cdec7s.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S3e42cbce29fb44a3b070433a5f3fb6bfv.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2b997bcfdd0649bca2fa9c5ff89e6056U.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S37dea7edc5bb4569b5a8eb077030fdf4t.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sdc53facbaacc4c43abe452292c1f5904G.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf855528525f0472090f10ac500c4b1adt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1de3b4469a34b1b931733fe935bb4aeU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87e6783ac52f49119a40a61e7138e817y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se249c7132b5444dbb86aca58dee55a2dZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saebb8a3f266f4772a6ae5787089484d5O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S725cb5d019e946afa7828b37ddb2dd20G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa809da498d8f4ded8de1562b8d619e3fb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S164df08319ac49e195919c5d0d833121b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f0976ad5ce2405ba8b48d057c6c152db.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53c6423c25c74573b558a5adf5e2fca79.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4e63a01c4d1421fba928d510dd0b8e46.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b097bcdb7aa4a608af400c8bec3922fu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e4f045366b447b4b23a647f80fedd79M.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf855528525f0472090f10ac500c4b1adt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1de3b4469a34b1b931733fe935bb4aeU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se249c7132b5444dbb86aca58dee55a2dZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saebb8a3f266f4772a6ae5787089484d5O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S725cb5d019e946afa7828b37ddb2dd20G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa809da498d8f4ded8de1562b8d619e3fb.jpg"
+        ]
+    }
+}

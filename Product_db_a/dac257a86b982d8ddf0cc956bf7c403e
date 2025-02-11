@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "dac257a86b982d8ddf0cc956bf7c403e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-06 14:12:29",
+        "第二层SKU数据": "",
+        "货号": "GY-W1061922375",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 198398445,
+        "普货模式": false,
+        "商品简介": "尺寸21.12",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:13",
+        "原普货标题": "2024 New Women Luxury Brand Vintage Large Capacity Half Moon Bag Leather Single Shoulder Crossbody Purses And Handbags",
+        "质量星": 2,
+        "重量": 0.800000011920929,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4ae5ce10acde47dbb91ba8070dff3651j.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S21e0ae76396f4fad9192013f5b5969d74.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab2127a72e1246acb83d359c3e3d0429d.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3b2d4a8e5a94492fb3d1865d797506e23.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9015730a5fa74495a0a19ef7d9716021j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f9bfce14f2b4e65925e57caa6ed478fP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0e4d13a7c9d4e6d940ad82af53ff0c3r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1bacabfe0f024e069417773dade2945bt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b2d4a8e5a94492fb3d1865d797506e23.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S188f07e51a6341888bdc152b519fd5003.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33a01f5d76c34c3f882f81ed304444bax.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S06e2506ceca14697b7e943befc2effd56.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55adc5d1d7e34cc186f8cff1c0fb275bw.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9de112f67d2b4052925d14a4439922a0F.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S70d7b840c94e451b96db549985f44256s.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S0ccf80e72bce45cb914394eed3060dccm.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sa9f9f58796cd445597acc8b3b8a5a4872.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0481cdc3a444e2dbe8186a4faea83b3x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se93b6503e75c4a609dace8bf987ec6c5i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b7e36f06e0742d496015ca7220a9368g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fcd3fd999934dfdb6aca0bc6e63aa87z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See147186cf054c2980e07d51ac56858dR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S532cc1f0d51a4265b429b91ba228819er.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63b6f2e2856a4e0e82d3be7ca476524ca.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S903f9e596d61410f99c2b2ecc6503f41P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63987cce18e044fa9dbad88a74030aa1E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b26bde5f7ae438497091cdf60290c64K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce0a3abb13b948e9b22adf3494ef8f09C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4397fdcfcaf5487b966f1ad4f93f5321x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4bba56efaf1047fa8a5fd97b10fed64dj.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4bba56efaf1047fa8a5fd97b10fed64dj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd19a7cdd9b924c1da1aef3464eba030dh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf81a74be6d6441d8bdc9e1498a4ec939x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8289f165438442908c1b6a8ba241dfc9i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sced6f74c69d14f268c6eeb69bd706eb75.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ccf80e72bce45cb914394eed3060dccm.jpg"
+        ]
+    }
+}

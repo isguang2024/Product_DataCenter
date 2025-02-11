@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "01ecfee1a4739f0c9c38904d7e92a003",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-06-12 14:54:22",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40@41@42",
+        "货号": "RB-W1788515307",
+        "进价": 105,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 2147368680,
+        "普货模式": false,
+        "商品简介": "正确字母印花\/皮面,前水台5.0CM 后水台7.0CM\r\nSize：35-42",
+        "性别": 0,
+        "修改的时间": "2024-07-21 14:02:34",
+        "原普货标题": "2024 Summer Low Sandals Woman Leather Suit Female Beige Women’s Shoes High Heels Low-heeled Black Comfort New Stiletto Girls Fas",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0418d8b3d72841f1887f19575d168bacI.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se29b6cef85f14a9ca83b3aca347fc07cx.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3e5b8a7badef4c8393f75c0f5ae9c2bdl.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sed33b5db9bbf4122a5f04c4a84d60d94K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf989e54d958a4f0fbb28acb4f26c0c59h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secacc3551f884433ab5398d911c0672co.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7bed08738ca54260a1d077c0e66f9dd1l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfefe95654f9f498cac2a7de0b3c12632E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe50fc5eb69e4df0beb7a8d090f1cc03E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S436a6236ce9a4186b10f58d4ee226e6cr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63ee0c19828348e4bc39b4d8c8b139195.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S191156a641624e6bb4f5533340928bb2d.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sbd460c9de62b42afb1aee91423fb176fm.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1a484b8a9a094bac94410dc7201a5aact.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S48c79ecd063149eabbc5e8032f5de71cR.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd900eb5bf8b42df9094f88a6c831f7af.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4eeabce13674b3e9938d065822324f4W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f7412a7ce584b9794dc43fcb25ac538m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc42e91df6554c76834337f8b02060fdO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6e18313472f4e1db81cc455b237bd65A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S159abdf1ab3a4d068f1220bf0227ec61W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d4ddc11599a4c14bfde167b3761d8d0F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S029a24e27d8b42348141b2e111ff8149E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb600eb56219346cbac975fb241c1d700J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa883c2b1559348aa99aaf73848bbb7adI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd95dd6fc87648bea3d988cdf1c8dc14Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1c21bde1b8844639e1ffee917d0d4det.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S192f6b4664684c43b02a7849602a1466M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd74e70880ced4931bbbd078c3b9d5fadL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb369003a15c6460088b79d2a1e230567c.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb64779ff82344c8f9dfaeb579e5c13aed.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85f5595d95554994bc736d0d2e31852dV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf3dc96bb8154b8ca7629a8d019a3ca17.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd197f2ef3b04d439be2201f5acb8ad4z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21bba1245bb44465bfd694581c8f4ecfE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48c79ecd063149eabbc5e8032f5de71cR.jpg"
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "576f4e35c019b578431cbcdf5d794126",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-24 19:18:35",
+        "第二层SKU数据": "",
+        "货号": "GY-W1759573090",
+        "进价": 105,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "size：20×9",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Black Rigid Casual Fashion Crossbody Sling Shoulder Bag For Men Women Travel Passport and Wallet Holder Organizer Box Bags",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcae187c280a4a32bab50cf3398fe0acF.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4640b2d89744a8ca46e347be8c59161R.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa10b8cbae82741f59a098cf16fcd54a72.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4770ae5e58c407daa90db9e8ef9e850e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d5e46efbad949968619b75f175180ffD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2039f15034a437ca6638cc5fa2f4917t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30d874b96a394c2c83ccf98acec01950w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa10fa42d501e4cb695dbfb788f5df7a8K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe946dd48224460d9dcacc10af604021e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ff131733b0a4f14ac8508de4d901805B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S757ae215874e47439e44a7c402e65740C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d1f991cb35a4c89a89b9d3977709c23I.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa375629db9fe4eca948b27ec3a1ed707D.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S23e89fffafaa4f7ab1b3a97716c8bde69.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S23291a60af894ea585885d487d1662bak.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sec6e75ce07cd4e74aeed3d948de8f7630.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbfc1ea165f414704b2e79e7e05607154L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9452a06bd14424d8d7a8671b2047ee7Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd10d0689950a4d89928e5d396dc73c2cF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf80f90a845bb47a38270174ec57eab9fz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b973060434a47a686d268882b407a02s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd88cb453241545009bccbe96d7ae27c2d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa114196cb60644b58851c2935da35aecC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S091e2ec041694c03b649bf409d81a4adv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ef9e39a915b488f9427369670eb1433W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdebf04054d87476197fb9462d31decd9q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23291a60af894ea585885d487d1662bak.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbfc1ea165f414704b2e79e7e05607154L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd10d0689950a4d89928e5d396dc73c2cF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b973060434a47a686d268882b407a02s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9452a06bd14424d8d7a8671b2047ee7Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S091e2ec041694c03b649bf409d81a4adv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdebf04054d87476197fb9462d31decd9q.jpg"
+        ]
+    }
+}

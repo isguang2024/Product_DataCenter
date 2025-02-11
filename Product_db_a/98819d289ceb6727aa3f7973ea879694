@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "98819d289ceb6727aa3f7973ea879694",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-06-20 13:34:22",
+        "第二层SKU数据": "",
+        "货号": "DG-166935937",
+        "进价": "150",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "牛仔马鞍包 高质量，重量：0.72kg，材质：牛仔，尺寸：25x19cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:52:44",
+        "原普货标题": "Sports Travel Hiking Boys College  Bag Bags for Men Men Canvas Large Backpack Rucksack Work  Backpack Men",
+        "质量星": 2,
+        "重量": "1"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3383123ddfeb4a9c9f29e773449551cfZ.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S89df6c9585734fba850c8f8b33d19efds.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se6e46a21a71040dd801de3dc742610319.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S25c1f3be7a064d618cbd2ff9ab57b866R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8eee191e75d94d4da8bb00fe2647ef505.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sadeb591123ef43beb902678149049d471.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89beb1b6bb7e42a3bd9cc06fb1b57495C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S851478e2f3fe4dc1b46fff1efe4fa479U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74e517a69aae4526802713b91a157998V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc79518b231e34d70b1666b1a5047034aT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ee183448a6e4595b4669d7c9d5b77cdT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36ba703ac45a47f68fef247f7518e6f7B.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S741dce6ed3714ea3938a7a4ced29486dc.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S88e08821d3e749f98b3ba0dbb64577d1Y.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S1789cca1c90748ada533b7d08d468a3da.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8e5fb31b68a443bb452ad5c96e0f78bT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd15c35564bf14865bce64865705fc537H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S22021eac4d2143f9a47dba24def11a3ca.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79a0e5b195b04413975ddfd72c4dede1g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb73cc9a571a4617992448a0cafacbf7P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67c21bdac3ba42d2b505cee42daf66eb1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4113a06114674b69a4be492d8ff76fa1N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf065671682d4b1ab51ced7a3e394ea4U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1789cca1c90748ada533b7d08d468a3da.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd15c35564bf14865bce64865705fc537H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8e5fb31b68a443bb452ad5c96e0f78bT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S518ddae83f254eaea5d85b4ca854d5032.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf065671682d4b1ab51ced7a3e394ea4U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1789cca1c90748ada533b7d08d468a3da.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9651e87bc4c14e4c99fca8a0bc8cace5o.jpg"
+        ]
+    }
+}

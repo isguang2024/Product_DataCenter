@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "bcacef891c6b9ba820b16f68f33c47c9",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-29 14:21:57",
+        "第二层SKU数据": "",
+        "货号": "GY-W1278104026",
+        "进价": 115,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "尺寸：19.22",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Shoulder Bag Crossbody Bag for Women Messenger Bags Waterproof Nylon Ladies Handbag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se3089221de604881a189b9fb47ddcb2ew.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1728c34ebfe64608b27187694c488d10z.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S07dbfc927c6142f88f2fc6747bda980a8.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S07dbfc927c6142f88f2fc6747bda980a8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7609780d1d604c77a1bc2f07f8d8df34t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85d1b5f493934afdbb2f93939b33efeei.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4d3dd93add24c3cacb3f14c67225a038.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcdb15af19224076be92d2f781ed3731b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S422313c918664f5f85411ea0499930b8Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd466e48b17164cebb477a2de387a3bf5j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S567d04cf67d5443f802070ad15e3d533R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5f1dcc89fbe40b58c3af28333b9b57eY.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S07dbfc927c6142f88f2fc6747bda980a8.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdff823a6d4f74236942e6910ad5955dc7.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sb2ae1a98c8cc419eadbd3dc3ff38975e8.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S160137a670934815ae810aac7e5085ffQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S897243e5e636499593c62ee9d2901ed3L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e0718fbae764fc8a11f2aa549b55a95h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69db9b34f5104a3f89e54d32f0d1235dp.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5b5e6bc8a8874f8791670804383485e6U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb9ffbe81f8041a6804dbd8fe440c37dL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S209322d2061243ffa5a44ec644c3ddc2k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f11074e68b5493d9d332fd8d0d1291e1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47023e94eff345aa91eaf19c8bfc5f3fY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S897243e5e636499593c62ee9d2901ed3L.jpg"
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "7f25a58ac7e78b866ba617b6c1bb684a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-06-13 12:48:47",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40@41@42",
+        "货号": "RB-W1857149412",
+        "进价": 100,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 577247229,
+        "普货模式": false,
+        "商品简介": "码数：35-42",
+        "性别": 0,
+        "修改的时间": "2024-07-21 14:02:31",
+        "原普货标题": "2024 new summer women’s outer sandals Korean style fashion design Ladies casual shoes work and party High heel free shipping",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S728d9128b7da4d6a9112c4e4691d810dZ.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S56598518bf084c68bc2022ed6784ea31h.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3fbd92e14c57483ba29a4755ab4e108bJ.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd45f4c5413c84115871d011d13134c03E.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd45f4c5413c84115871d011d13134c03E.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sefb6bc1c148d4bc0921cce7e18275d5er.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S52ef49ae81224cbdac7c3d4a72344d373.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S82a324fd1bf44d54a9fc41d731f0d430e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a78327c54be43aeb3ae98ea7898d0b4J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0c92a6064a14907900dce66311c2e50W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e5e017abc6a4ee1b3e5e6080a40d505t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65a54b362477493ab508f93b5d2f9863m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4adcccbf19149338986b0e067c785f2p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f8b48b015e14eef9d6db0f2b4700805l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23fb8ab8136b4bd08d482590f8c859665.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96d4530197124c9aaef537fc320f8de5W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47e6bcd0cfd043a6b309e1b0c7a0fef2e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab7e5d6aa8cd42a9853811caf1752dccp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa34cf5e5556f40a580ea1b492332547dt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88c7201fd9b74b34906b6ea74993ad38E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3026c11ab4964042bdc465a3f9397b160.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S342e37a45e7b45eb841ef7a2bc0c9d6c1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94c446c044ba4ecd9995bdf060cc8a74k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd57291f84917487b82eac78f59a71136W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S183071b5567e4ead8533bc147d69aef6W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae466502967a428cbb80bdc306b896a9B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a886ce984a7499ba7e3feae03ab8bbdL.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8bcbc1dc83f240b09d76898423def91aH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3ce414d64674f38aecf193f3c167a1af.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S900c55e62fc147ab8ecef173de4ee88dZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc03aea8451db49f3ae23749c12c691a0e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd606db405a26484f85dc35f98cdda384X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02c8104b03e34419a9961275202abc135.jpg"
+        ]
+    }
+}

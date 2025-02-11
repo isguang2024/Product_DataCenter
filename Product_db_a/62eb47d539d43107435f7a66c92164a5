@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "62eb47d539d43107435f7a66c92164a5",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-09-21 15:02:47",
+        "第二层SKU数据": "",
+        "货号": "GY-W450411999",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "尺寸:18cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:51",
+        "原普货标题": "Autumn Winter Corduroy Totes Bag Women's Large Capacity Shoulder Bag Fashion Vintage Solid Color Handbags",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5384bcc8ccec43c6a71520057754dbbaR.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seb79f2e03d334813a2013ff8fdcaaa2fx.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd879c137a7bc454392acc8a672f558cfr.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd879c137a7bc454392acc8a672f558cfr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0072bc210e024fea88cf6678fa2e7d858.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89914cb5d3cc426a850586b061d79d7cU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S45a5137266094a2d9349e976beabe624h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e6b93dc18d34eb687c408446f9eb402Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7253ca2455fc4f0ab779203dabccdd5fA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb26d8ceca634d2d8af65538dbdbda62j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b75473752c545ea9619078464d92a194.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65550b41c08b44319a5ae0b057076385J.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd879c137a7bc454392acc8a672f558cfr.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0db4bcc6d7ad491c90cdd3b9ab759a1eF.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd6716fc654f443abb515f3c85bff73aeU.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2b0e0e6fd18c4616a2dea9cadcae9bc1K.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S06ae2268d0684cd99c0816c50b31f760U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86aa3d27a1bb425bace4351b5dcf12ffF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f91598b30fb4a3e899058dbd1711beeA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0187015c2acc434cb74a23bd740a5ebdC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa32fe4409b3a4be68194537c80403cc9M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b0e0e6fd18c4616a2dea9cadcae9bc1K.jpg"
+        ]
+    }
+}

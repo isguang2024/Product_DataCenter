@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "1a7491f7406b6914bcb8fab8efc62802",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-15 13:11:11",
+        "第二层SKU数据": "",
+        "货号": "GY-W1886731142",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 577247229,
+        "普货模式": false,
+        "商品简介": "尺寸25.20",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:58",
+        "原普货标题": "Canvas Women's Crossbody Bag Trend Oxford Shoulder Handbag Korean Solid Color Student Phone Simple Shopper Bags Purse",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S717186fa52094323b84379fb2fd66ab7i.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7775d7eda9a54edc9b405dd140c79a47d.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se730888d8d58404182529973e9622ad8h.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0465fcb3066c404fb84bd55546c0b7b4w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9412d61b43394672b3a306cf0ccdb2a6b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S336cf0e2afa24e82a825adeaa523456aq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77c5515903ba47b7b4a613bbcc9dc36fD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40ae462da81e4dacb5c0ee62f6f6d8ecf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S120a815d41c04d7e8031576b73a40ad5C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc511578a9e4d43d28983ab9c67f11cd5N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S474e71d9289e4d30a97e43f464f64c78A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1bf54ac2eecc4fa2bdf11628ab53b87eU.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sfff9d93ddfba4694883d9f9ca423f8f8l.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S487964c8110f476ca880409f4413b038Z.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sb369291ae0b9402ba42d349179e6dcb5X.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3068c721a2dc424ca6b718a978b2c537K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09212b6b81f64299ba67b9bcec90d052o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd558bb2ca8f34cc9b6dc998122a1daedx.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7c1e2eff3bd4813ab23b65770ea224bB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73d2715aaee54c6f8a6c1dbd80e32ab9p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbebb34c8fae44c4a70bb17133c1d105H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd698b3909a34fceb0169d01e03a408ec.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26a99e55d3784c50bf89fe73f66387fej.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b0826a146db453b990c30118198e684y.jpg"
+        ]
+    }
+}

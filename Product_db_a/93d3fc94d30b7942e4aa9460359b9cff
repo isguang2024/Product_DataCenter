@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "93d3fc94d30b7942e4aa9460359b9cff",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-13 17:51:38",
+        "第二层SKU数据": "",
+        "货号": "GY-W1021959089",
+        "进价": 195,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸26*7*25cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:00",
+        "原普货标题": "Ladies Shoulder Crossbody Bags PU Leather Women Underarm Bags Solid Color Small Top-handle Bags Purse Female Daily Handbags",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S309656c652144f37af5f8d3ee631b23c0.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd33b82e49f1478c9acc783cbf8e1e29g.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8aa2e0d753f4771b68ef56b8aa7685f8.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8e6cb2ba0e184b2fa7313510ce2ebc7dl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2fcabf1aacc943fba69ff27760d65264V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01c01727930641edb2206f9235d77484r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0037dfd173a40dd8abdf22082df80e9M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b4a6e1e0b1846a2b0b541aa2d9bd3b48.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf677460ea2644909a31f657ef0d43f6e4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S218eb9cad3eb424b83b416745c5fc8e1F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se08ea33f193d456e816b3edd63324bfeg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2146c3613f5d413ba92615094ba137d63.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd9813574f3ca4e7ebdc3c58c2c46a913j.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0c231c9313574981aaf5c1f66c4b02267.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sec49f01601f642c6beac2c2fdd7368fdB.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3ccf987c3e0f4c64a014c9456b15c975t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e3e40c9ee5c424e8b211be422073dd5j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S91e2533e45a243d7908389c1ee84f5009.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc81bf3e9d16e4677a5e0b919e3651b71K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5769855ace314418b1b5bbde5185af13n.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0f3f7ad88e704bfea2452acb563d9a0am.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66fa1afcb560479db12b5bc0b14de7b8y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53f721f6bbcf4cdaab20182471ecd7f4z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf07c9c735eb04bf69286fd19bb9344a7q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1021826043234778a90813ec9eaeeeb7T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S764ddfe547c24447811c51ec1351c2c1V.jpg"
+        ]
+    }
+}

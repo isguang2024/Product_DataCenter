@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "78f2719dbbfcc3c958079578e62762f2",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-07 16:00:16",
+        "第二层SKU数据": "",
+        "货号": "GY-W488823286",
+        "进价": 110,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "尺寸21.19",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:10",
+        "原普货标题": "Cartoon Solid Color Pleated Cloud Bag Minimalist Women's Underarm Bag Kawaii Girl Fashion Versatile Handbag  Gifts",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S855921f52fb14a36a2860cff406d5cecd.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scc3a463effc441e291cde566e9ece8c5s.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf761d7ead4342339f3fcb426bb1f3d4Y.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf761d7ead4342339f3fcb426bb1f3d4Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa59d83b5280c4e1384b861a4368d26d3E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd07a3504b4894dc8a0f714e38ec222866.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se92c4814bd4f49918eb212e3ea739217Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5bf457e404b4cb89a921a2410885416T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S522f592919fc497ebcf7f65f3c8f3d94P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38487e717c634f3588cff80cbd01f368g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd466d089c5bd4a4d9cbc0ad6dfae1696X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf145bfa45c344e72969362be6e47ed51M.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sbf761d7ead4342339f3fcb426bb1f3d4Y.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2ff5998300d24820ac7415c14bec242ap.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Saccd67b8a29841289e7c4352aa176779D.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7996094516054d18b7d7ae31e5db6d8fF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbfdd6f0dcc045178eaba9eaa2ba54aeb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa07c55b8f1ba41c289d345ad17e73142u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd731e4c997d49d7a91e3c7cdb573053s.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7996094516054d18b7d7ae31e5db6d8fF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbfdd6f0dcc045178eaba9eaa2ba54aeb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa07c55b8f1ba41c289d345ad17e73142u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd731e4c997d49d7a91e3c7cdb573053s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd9f734ef77c4bcb9886d0fe9b5205fcD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8d0cf672abc44ff9eb90329a434ea3eB.jpg"
+        ]
+    }
+}

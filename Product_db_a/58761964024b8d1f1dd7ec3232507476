@@ -1,0 +1,87 @@
+﻿{
+    "info": {
+        "ID": "58761964024b8d1f1dd7ec3232507476",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-31 15:21:44",
+        "第二层SKU数据": "",
+        "货号": "GY-W1690838688",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "尺寸:21.5*16cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Universal Mobile Phone Bag For Phone Case Wallet Outdoor Sport Arm Purse Shoulder Bag Women Phone Pouch Shoulder Bag",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6870d78588d84662a6af99b16f3ee374q.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8bc654b0e0194dba91f42c54bab37e6cK.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4a9ba3bf8e8b4ca4bc79d563a23a040av.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4a9ba3bf8e8b4ca4bc79d563a23a040av.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S314508d377ba41e7bffbf2431dcd35fe7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00756cb00e984ae789a270f0747d84809.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c076e0e54f142659fc306375638a9a0J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf68f57ae5fd46c9bc156512ba7f0dd57.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See06ab92b094445ab7b47a6d535b829cl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1ad718dedcd4b53a0da433d49c2a679z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S353809eebc204596b89a1e3d032091c2O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbddcbde42ccb4c0584787950908304c58.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4a9ba3bf8e8b4ca4bc79d563a23a040av.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Se6f9c260c9284577873cd607d59240832.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S77a5350f4df7495cb5827dcb75e810c1K.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S963de0d7124e4b03a8e357d7c932409f2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdafe62f1c1a74db9adc0c0b2cf4db055r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S805491d54f294cdbbede35efda11897b4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S427d67fa92b14c9ba399a60c2743d2fev.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd30b14e77ea347c2bf7fe0c2346b5c96E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e07641aed6542ebab68a73f7eb76b28J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3148fbb08c324c398232e9ea84058304k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58dcc1418ab6406f8956fa417813cbd5C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a4a9ae04942445390d4dc48bec1152fa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88532cb0c4da4e3eaef7a86c3d605392G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf0ede2e37a64a4f9864b098dd3e4404i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01aa4baf6c8d4cc8bfb39bbcdfdb5a18c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b9872dcbf0145f09f20d3286ed04de0k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd66ac9b5b3704883b1117e2b3b6136d1r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5dc53678893d43128a9d34621b0c584a8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2cab7244752947adb819a1b050e0db10h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43574ff09e0b480db9420f1cabdafe49Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S983d436c43c34ec6aba3295ec2682c76V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saca4156b43114f75911d1f2cab6ed2efr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb7c1a730c194e1b8a14a4eea6e745d4K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5cbc72a9983840d4b6d319c8783f0415k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85b87e59fafd43c18882dcb4c255d8c2v.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8cfc24019d474ef0b00893cc2ec4873d8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77a5350f4df7495cb5827dcb75e810c1K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec1d2ed83b994dbea566c4e81cb652b86.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb64c3fa6b421403b9890f79690c2775bg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fbf2f51001941f0865c56e19cb58d3cp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se34c1959120e4ebf8d3a84a112bd6a6fU.jpg"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+﻿{
+    "info": {
+        "ID": "4e30079b626058401d3ed399c98cf152",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-07 17:09:49",
+        "第二层SKU数据": "",
+        "货号": "GY-W1756064717",
+        "进价": 95,
+        "利润比": 100,
+        "品类": 1002,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "尺寸 12x10",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:08",
+        "原普货标题": "2023 New Women's Bag Solid Color Tote Bag Commuting Shoulder Bag Leisure Simple Mommy Go Out Bag Large Capacity Nylon Handbag",
+        "质量星": 2,
+        "重量": 0.5,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S75ffbe8ed9da468e91715869682943e0v.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S47e25e2673c844039db0d7e6e9879982N.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2f1b742da9d4054b532e55326e2463es.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4f3155e2df154e0a8b2f8be25edf7694I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05bd411c97444d2680a6fe8135cbc093W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3e5a1286450452aa9d1df86401889d8f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31fe9e124564405ca425cfa67b21994aL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09fce0c2dbfd47e6ad0bebf6723a59159.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b2cbe17078d4e898dc8f3b1c2ac0bd1s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e979b0c618c448aa41d72bc01ba7331a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4acc965b455c441fb6bf77944885d5eaB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S945a6dbfc4264a1b9230cd3c65e63017v.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4f3155e2df154e0a8b2f8be25edf7694I.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S49c67f0649d04db39d3d604e88a97d48j.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd4ecae0a7ed849ed97cd0d23a2a20b4aS.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd69abb2ffc1411493e8eb5fa2c314cbk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0adc5b992324b3185a12485ecd40345o.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S46d738db00734ce4bd180e18d0159416P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e6c9f0050054191b556786d7c435d0el.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbf78e26c09d46c6b53f4ee3041b47b7j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea9525ef349c436ab2bcf69f2cc4d0231.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scaeebcb19c354e6fba4056e8769325b7T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2814c15ad1e44eb59d4a0154bee6d49aR.jpg"
+        ]
+    }
+}

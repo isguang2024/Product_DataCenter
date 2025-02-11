@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "6278a17e3f46d3c7ae5af2b92df5b645",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 14:31:00",
+        "第二层SKU数据": "",
+        "货号": "GY-W1231662797",
+        "进价": 75,
+        "利润比": 100,
+        "品类": 1007,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "原单牛皮",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Fashion PU Leather Women Thin Belt Simple Solid Color Versatile Pin Buckle Thin Belt Dress Decoration Women Designer Belts",
+        "质量星": 2,
+        "重量": 0.5,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S30a347d8527b489c927d30a051730646V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c7895d226c64733b3e8d7fa113c4228G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S425e60e2a1984df3b10b683a39aab1a9G.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S452b748c2e514e0f8be92b7f901f6922R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fdb86659a654fab84e1ec51a32e30a9j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5def9fa96fd4763976e2fcf96e9e2d1b.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1d9aa01eb4754fe88ebaa528a33d2fafc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c1f0479d01f4a6eb6c71aaac2775e98D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2552922f2ab544ffbadb5f38695630acc.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S58fc91c6481942789405171bca08e95dn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a24720f93304de3a4678c92a98a177df.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ab78e69da74471d8361ae7e3a08dfd68.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8ddb59483ab40c9bc43a20667ae55ddY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53fc3e9de81245e6b982dd745fcecd13e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf238f6514a54f4ab5883435fb6c6a78M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf80bc3abb8574ffa9b26053c124b38e7D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8224b32490ea4aada41e251abbd0e8b8y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1ad759ea16c4c37a169edae3001a941O.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9c9a14b9a08b4fcb9af9f6d16d88abfcx.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S09c177206b4f494e94c9cd8ad68a232bt.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc2b393f82bf5420481e0e25090796b9fG.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S0d7bf07a47784ae287bc8d1e68e07f7da.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S7b6110d0e9784b16989437d6620102cax.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5c92e21c8ed7493fa3c1bfcc1e9f1ee0x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c155db9911442f5bbf4033287ae1e56C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a846b4345b34b8aad9b75261a46fa38o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60d18c1f0f1c4a088b8ca8ca156d1c24Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4eae731e80ff4f61892efb8ec30f24c8F.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b600c046d1740baa569d78ecac69d17J.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S692777906d8642919d867ace7007e8ea6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c92e21c8ed7493fa3c1bfcc1e9f1ee0x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c155db9911442f5bbf4033287ae1e56C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a846b4345b34b8aad9b75261a46fa38o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60d18c1f0f1c4a088b8ca8ca156d1c24Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b600c046d1740baa569d78ecac69d17J.jpg"
+        ]
+    }
+}

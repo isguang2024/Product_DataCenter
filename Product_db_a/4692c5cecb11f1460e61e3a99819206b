@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "4692c5cecb11f1460e61e3a99819206b",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-07 16:39:25",
+        "第二层SKU数据": "",
+        "货号": "GY-W1290648769",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸16.21\r\n升级芯片版本",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:09",
+        "原普货标题": "Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S54f3cc84552a46dd9c5eb0efc4ea63a4C.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se45eaa6f5501403fad4e0d9edad6f391o.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3b8bcf95d94540eabf50b5d1d82ae406Y.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9d6d7b620144fc2b48323ba96b1b574m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab5fdd42cb384b2e9212bbdfbb5d78b9e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe53993a59d747ed9886da55e68bb584i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30d9fcdb302242008df02a301781cd48a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a42c2d5267b4261ad9702135ed674a67.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf2fd8e94e12498a8733bdefc009ceceV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4aec7e90242482a9f0392e67060c581E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55f26718096849b693294ca937daa09ds.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc23f37efbe43475494d3c68e4498928fc.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sbd54343e70f8437e862132d63d3cfebeu.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd0fda2021db944709434a9b9bf0a8623u.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sf6261ed403444f44a51836a4f7d43eaay.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7652759f4f5a439aad1ecb12fdc77c6eD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0bc7232ac4b4e5a8b79985218f5fa6ek.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4eeb236870d0436b8129bf47fc95463cR.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S97241a52585c483ea3936de14ee7b311D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8dccd84b8d084d59aede5b10d7b1c6cai.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7cc5ce216b84732987b3aa9dc11e879X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75a5d550ba5c453fa49cefbbfd094638R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S84a310dc07814ec6baf5aba82cea8f76n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb731fdb13c574716a593943630deaf4aX.jpg"
+        ]
+    }
+}

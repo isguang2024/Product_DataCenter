@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "34bdc526ae850e18053c28379faa955a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "RB",
+        "创建的时间": "2024-08-14 15:39:10",
+        "第二层SKU数据": "p-200000124@36@37@38@39@40@41@42",
+        "货号": "RB-W2053254264",
+        "进价": "105",
+        "利润比": "100",
+        "品类": 1004,
+        "品牌": 577247229,
+        "普货模式": false,
+        "商品简介": "Size：36-42\r\n跟高7.0cm",
+        "性别": 0,
+        "修改的时间": "2024-08-14 15:43:14",
+        "原普货标题": "Dance Shoes Black Women's High Top  Ballroom Boots Salsa Tango Shoes Girl Fashion Party Mesh Cutout High Heel Sandals Summer",
+        "质量星": 2,
+        "重量": "1"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7223824465df40ec81ee39e898dd6a73f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd76c74faf844e6da8bb3d022b9dbef7d.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S633309a2bc4441e6ad5b96cff7045dc7d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12157df3b26e4c798c41bf2e21005c78t.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S100233ea533b4e0c90a124b0219a0a92b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S083ba678a3484dcbab168dec4f1286caY.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se5d1cbd12cd143ca9868c269db600ecdm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbbf3c67cc9074f539b0829c04014334dK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ab1377195d44b8fb75a931dccfd8365X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37e474c0e45d4304a98d18e211ebad5dH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe57f513db4948049f15e0879d4ec41fO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd8d851cc3c04d29a525b717b4cd4ebdo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae268bf79af54462ae761a26e1032c62A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d3ae46a04e74ea1903eac7ab74afd80X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb87f817ff6ab411ca1445d28fe571a719.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd201dfe1e6534155a86443c4e0b3d2ebE.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0f71b125ec154ad586856c212b3bea78w.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S72e4455bebb245b2a0b77ab5e2c97f274.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S7c57cd4908cb4ce387d421843d7d9dddu.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S18975fe98ffb4ae99469d23283dd2ddcB.jpg?width=977&amp;height=676&amp;hash=1653",
+            "https:\/\/ae01.alicdn.com\/kf\/S25ff68adff27463f90fb9522de5634ad9.jpg?width=882&amp;height=762&amp;hash=1644",
+            "https:\/\/ae01.alicdn.com\/kf\/S83bc9990b57e46e58bc18f0bee1f8422q.jpg?width=750&amp;height=750&amp;hash=1500"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0634052b081542e19709aab599a69924K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72e4455bebb245b2a0b77ab5e2c97f274.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S812307d9b17a48edaf5349e796a8105dS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebf69f870f884f97a1c126cea0cb00dfM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5a769a4af414b889ba4ccc2f4d6a4cbx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S988dfb5545a84ed1bd4b6f5af8ce5c4ct.jpg"
+        ]
+    }
+}

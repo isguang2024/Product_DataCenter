@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "d6d67bef637a04935b0864a3ec8ebdf6",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-13 17:53:44",
+        "第二层SKU数据": "",
+        "货号": "GY-W82585912",
+        "进价": 180,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸20*12*14cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:59",
+        "原普货标题": "Autumn Winter New Small Square Bag Women One-shoulder Fashion Vintage Corduroy Underarm Bags Ladies Handbag Zipper Clutch",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S67fb1d050c2843dea1e89ce5207bc49bD.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S32cfbac9bd4c4622bc4a1ecea34bbf5fw.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S75a262787047494c9d90cdb5c1466f98C.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4959459192ce4599b47142d041fd5fa9r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f5c4a292b3e43fa9a1c368ae64899e4r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70bcf00afb8543858eff90565d340a21A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34298cc5e89742ae9401cce725b537b95.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7eeb443cb00a4e7e886c138d459ae7bdT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55ad026b1d5c40e7ab494965caed36c0R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scdba2505820848d9b0e6ec151ebd4858l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57da6c933de246358daa7e8fa910ccb4R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5edebf9e7f67400589002a2fa68ecf7fg.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4959459192ce4599b47142d041fd5fa9r.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Scfcda34126fa45f2b5d3b6132040ed0cw.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sf2dded833bc94967ac5383c35d5646d4r.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5fb7f1435f5c4fe19c18fb43ff271eb1T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2492c70259ca4de7b66b2abd03a75f23h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd26ffd1ae45a46c38adad7199865a2c3R.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2be1bd2f39af4104aab7866020572980p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S995aec86b39f4710bb66174c3944aaa3C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S770d1c8da81049d0b75d4bb96cd69a99o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa32bb19d16a24eb2bd05c20a419911a90.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbaae7256e7e146a5bf6e9df3595af8d01.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bd04fbffcff4654b4bfa739c4a82a4eb.jpg"
+        ]
+    }
+}

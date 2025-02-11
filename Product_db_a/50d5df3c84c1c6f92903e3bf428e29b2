@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "50d5df3c84c1c6f92903e3bf428e29b2",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-16 16:59:54",
+        "第二层SKU数据": "",
+        "货号": "GY-W869716369",
+        "进价": 75,
+        "利润比": 100,
+        "品类": 1007,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:56",
+        "原普货标题": "Children PU Leather Belts Boys Girls Kid Waist Strap Waistband Metal Buckle For Jeans Pants Trousers Dress Adjustable Belt",
+        "质量星": 2,
+        "重量": 0.5,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S30f7df9797644fcfa4006591e2c6751fF.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1d524354008142ccb1db6fa727a3b8a0e.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7d115bd7fd154b9a9f22f9ce7c977f5dJ.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7d115bd7fd154b9a9f22f9ce7c977f5dJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a45de35f857453187b80955bc0619490.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b3d29cbc2eb4d489feb580353a7763aG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ac123adcde94babaca843ab6e2a343fs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S84c979ca9f704facb0e3826202296aedy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S463d29c5e1d44bdea56dd022af7ce9a4q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a1c13d3ea1f490eb3cf3e09080d6604F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sccc2f2c16a8e40f78f44506d5eee0cd4B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se19df82778a54a6eb32b28cf7c4babeen.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7d115bd7fd154b9a9f22f9ce7c977f5dJ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sfa1f2451e40e4fdb870b18517e8d0cf45.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8e1a870108c64ef3806fb1714d8cbfd28.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sed5fa7d7765b4e5997ca385e2be387942.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S979f034ff40d4c6ca182bee44d46c6e8d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42f42a35234a4293a213e92cfe682ec1q.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0903adb2d8c04986a5283dd5dfb33659s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9f74df4469644f78a06d06d300eda06L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88b53f2db9f943e8bd026b3c89f84ae5z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8211e92a51144c95b48b5f711d36e85a3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d71ae128555406d907ffc9a4085447fi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e9aac714f2643c8a75bd8eb94ab01a57.jpg"
+        ]
+    }
+}

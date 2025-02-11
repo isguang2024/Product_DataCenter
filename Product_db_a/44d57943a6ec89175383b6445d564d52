@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "44d57943a6ec89175383b6445d564d52",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-26 16:38:37",
+        "第二层SKU数据": "",
+        "货号": "GY-W679852498",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "斜挎、单肩、腋下、手提",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Ladies Messenger Bag 2024 New Trendy Wide Shoulder Strap\/chain Small Square Bag Retro Casual Simple Flap Crossbody Bag for Women",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seb14925472a74e409b5c3e04da22b013x.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7ca67a3897f942b8ba5a109f3ab269fed.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf928de3614034659b9b841d0b5dd72c32.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf928de3614034659b9b841d0b5dd72c32.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb50b1a4e66864c63bc6f5c7539736f97G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16aaa34ee4c145739cb593c9b3d77c8bh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9874a89518474493a80466696049a0e5C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd8b476a2bab49919b9579fe3f2d85f5o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9937aef7aa84edbae9ddf804c6a2c069.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ca1fdcc86c0408fb78aa0dba8dbdd55Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcfe75ad7b634f31bc99650920e7ccb4U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2bf9311c20014c759f85a93967bf014cU.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf928de3614034659b9b841d0b5dd72c32.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Se68ab0e76a2147deb3479243a11705995.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sf58c29a53e4a419c86e6d223e66cf1296.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7edc4c86408c44ffb161a59e18810d38t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2bc12288ff2b48f3bb27d70878910780f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc7acd7f17a5427e8c7085ac630c1fa6O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc56f95121d5f4c6f9fd8ed4d050efe99c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43db050df4d7498ebbb21de5e453de517.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96b8bd1a8d20476799bb19a31dcd3afbP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S795864152761454796d2bb9fed0b55c2m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7074efb380b4d669a1802c843583ef3Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S215ec7776c4849e8a9b7c53008a0cc66T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94ed77f9120e4c5c8d9379414d3a5ad60.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf58c29a53e4a419c86e6d223e66cf1296.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d3abd18f04242d990cdada28faa397fp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c3b2d54fa254f149b94ac69631f6307O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc59dfa52766c4c5d82fd25c41cd2f539b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ea075642ec84e7e94e37f52874c1b63f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ae24c521e5b4f1b81751089c86baf0fJ.jpg"
+        ]
+    }
+}

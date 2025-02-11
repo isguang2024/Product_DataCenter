@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "fdf70fe9c7057acd2ca7819f7a0c1888",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-06-30 16:22:42",
+        "第二层SKU数据": "",
+        "货号": "DG-133363760",
+        "进价": "90",
+        "利润比": "100",
+        "品类": 1002,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "钱包， 高级质量，重量：0.56kg，材质：皮，尺寸：19x10x4cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:57:57",
+        "原普货标题": "2023 Fall And Winter New Retro Corduroy Shoulder Large-capacity Students Class Hundred Crossbody Bag For Women",
+        "质量星": 2,
+        "重量": "0.5"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S773d9ab2139f402f850b37aca2196a8fo.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6c6cf60fa1d6493c805ae0b89c97d178p.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S62f818115b904c7ab4d3035df7331647i.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S05c6de2f131e4b6b952ab6ca819f9ca26.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S981ee7e04f3f48ca887d3f6407d48419I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3711b9659e64b77ade6cef1c79b3943W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S127d2ebb650a4d3f8a886bb4f162a9ddZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbdc52aedcc5c489e86df42dd18fc4e089.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4383169af16f42a9b7237827da1cd54fO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1316ac63faa474bbc13ac10fe9e4e21b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1043b9f5c0fe42609e24627288d96b0fe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf33438443fdc4270bb9350e848f38ef64.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf3711b9659e64b77ade6cef1c79b3943W.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc41e1af1b53249518544a67802f7b89a5.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa2c1c65359de462fa7902e947042f375e.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa41a9031052441a5a311bc1be57934fcb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8d4151cb15c4019bdc7975650960441h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6241c9c7d71940b0b326a5ebe3845c597.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S441bd8cd74b641258fe9b891d072ca47W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf692b3af8f9a40498a33f2cec19cd373b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19500e4d56074a98aef4e3dc3287138b0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80df84e75ccb46d3b35e42d034e75e94A.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3214c0e3f504381ba5bb24bd87c1e66F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2c1c65359de462fa7902e947042f375e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se220a13342a64b1a80236c109c8aabd2R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8da0f88582864057a9d8b6819a3ce6419.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S897b2788c4594d61b079de98afc341d8c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc7117fdb92a4e3aa7eec9f9c83a0c9bb.jpg"
+        ]
+    }
+}

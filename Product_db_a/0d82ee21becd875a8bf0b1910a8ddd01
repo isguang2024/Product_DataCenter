@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "0d82ee21becd875a8bf0b1910a8ddd01",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-09-21 15:03:58",
+        "第二层SKU数据": "",
+        "货号": "GY-W464097195",
+        "进价": 110,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1003781064,
+        "普货模式": false,
+        "商品简介": "尺寸: 17cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:51",
+        "原普货标题": "Ladies Daily Street Fanny Packs Solid Color Chest Bag For Women Large Capacity Travel Crossbody Half Moon Designed Belt Bag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb3ddbc9017e439b8e5171343d50841cz.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0b3c5b84fef84656b3df45c2abd36d37Q.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5afec1b93f9f40e18812490945f63138H.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S143a28b2af4b4e968ffc90648f664f506.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd70bdfd3aeda4e8aa5da328126ff5361J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4bf021cea31466b89059b6760a57e8dp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6fc69d15c1ea443aa0982467d83b8b2c9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e1b7eaa5a79436db98833fc5d395a8dd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S182957a57bd64a04b6f2aa48ba52ab68H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ae19205ef2c46aeacd41500b053de6au.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d05c835b0254ebc90c4be0537496695G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f507a5fdca4437094e06631f73de8c8L.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S5cf93fefe7f5458babf220a89a3f2b87P.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc50057fcac274e2b834e64bb2d937208z.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sdae55915f15d45d78229bdfe69c5ffaeU.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5f3e157a47de4d379220f3f9e044b079R.jpg?width=750&amp;height=750&amp;hash=1500"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scc889a9b596c403a8ccb047f426ffde3G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb3ba5350a8c4aa898eb81ffa31ad849B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea7a39e76bc54258b573a060dbcbb2ecX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1cdf90741fc545f58faf8f74e1d82522p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17ae474d514d42d2a96060d6bb50cfbd2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6104c116bbbc4b7895650a02b4deedfcs.jpg"
+        ]
+    }
+}

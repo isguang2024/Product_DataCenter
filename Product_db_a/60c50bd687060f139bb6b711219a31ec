@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "60c50bd687060f139bb6b711219a31ec",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "RB",
+        "创建的时间": "2024-08-07 13:48:41",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40@41",
+        "货号": "RB-W750133108",
+        "进价": "80",
+        "利润比": "100",
+        "品类": 1004,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "Size:   35-41",
+        "性别": 0,
+        "修改的时间": "2024-08-07 14:09:55",
+        "原普货标题": "Ankle Strap High Heels Sandals for Women 2024 Summer Platform Gladiator Sandalias Mujer Weaving Cross Band Chunky Heeled Sandles",
+        "质量星": 2,
+        "重量": "1"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6209a9f412804716a69417d4c96127f30.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf384c1a907494116ab82b6e956aa15d1L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf22fdd082b8744e585a15ccd8fc061359.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcb267df0c6844639fae7818f6798037J.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S723bed84eede4c2993bee1035694d411v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S655363897c684522984c6379ee9ac423H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb92fd98d3674fe0a70203519a6fbba9h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4fa445b21473472286a2a127e97914fcI.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3a4e1e98d4664936ac697f186ba77ba20.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58d5bc85d8cc4175b842cb23622e3e47C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7bc16639323142deb202716e6c7bdf1fw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f62387ac9854c559e0b0cc8890ca940S.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S58d5bc85d8cc4175b842cb23622e3e47C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9303f112971496596728b9cfad2f1cfE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30fe9fe9c6a0450bac1aa8259e51c1e4K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b35b1dea9cd44229a6df656c4f1e53d2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d5f5599e06b42bba7af7ca2e374a565e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb51c951bc86949f49edbea69f20767122.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd625b3eee2e048d0a8722a3734092c44B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc24645608a934863811ac0dfe5076bbat.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57cd94448fac427094df8c465212ee4aL.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S1d1b70065c9d4f9882f02cdc60d882e0p.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sa4a2058b0f134b639239b8c17f6003eco.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc2fa23eef71844bc9a43cf0d65d6a5f4C.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S46192263e9d5469dbd9cff622473bc6c0.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc1b3174f612f4e4b9f1a8eacd65571ccY.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc2d6ca6bf15a465eacb6385ad3c9518es.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa03311109ed44d1cb6725d4999a0ff31r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b6e98c3a36941b496eeb7f657011e60Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda61f8f56fde46068e5ca82c0de5b34dN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S896fcb5352a542669116b57ec55900a9w.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc6bea30bef444668b205a2e3be562f2W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2fa23eef71844bc9a43cf0d65d6a5f4C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1645fa06c988478286d4f0b316e589811.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50f7f073c51a400ea3c474c69a1a10e7H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37c6c54f4b0d4b21a58ca50341da53cat.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb171443efe764acf813fc8af32edd3f1C.jpg"
+        ]
+    }
+}

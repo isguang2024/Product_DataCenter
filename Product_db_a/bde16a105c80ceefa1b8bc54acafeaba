@@ -1,0 +1,86 @@
+﻿{
+    "info": {
+        "ID": "bde16a105c80ceefa1b8bc54acafeaba",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-07-31 15:57:52",
+        "第二层SKU数据": "",
+        "货号": "GY-W682467731",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸20.21",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Plaid Women Messenger Bag Fashion Half Moon Crescent Bag Casual Portable Simple Lightweight Large Capacity for Weekend Vacation",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0c0dda91b71425b8b3cba4b8a5ad720i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11f2d84e15b3476093aede0db5d2ebd8N.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S54042d7665a546c79dc2be0a80c04cc3u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7deb951118f343dfbed91b6a0bc85288j.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1de22023df148b1b30b281241d3df08E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa420959b77240269790ab41406a6e92X.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S56b05f5746f4410ba0374029d4a4d80dZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ccc7a173f1f4e7cb5ea53aa9f314e74n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd500fdeb95e45afa3cfa1ca60274561y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S531b87d06d4e4260a65938a58f9d3f878.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda8a75a1b4a445209e86eb675297d56eM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96623145c32447e0b628fd6cd0df81b0L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85d50972b94e4036a86f73d1bba41687i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6d59f4e0b6c4a9aa30e4b881cd3610fZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b52bd7edd7447ff8fb7e63abc288039G.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S5389ddb221d64964b9488b216395af15A.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdabe3e5319f04e859d385b99ca05cf298.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S5d8d63f07db64f89898e8a4aa1c4ec19A.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sdd411c4a6d5e423aab0dfab8ce8bd87d6.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/H911c55074b8b4a9b9b0603999eea20ad9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H1f82026e76f742bf974cf06cff2540ee8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7529d97d43504456b69debf50bf496d0F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3af72973693d46b9ae4f59cdf646c1d0B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56ec548ff5794335af8df882f9cb22e4Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d8d63f07db64f89898e8a4aa1c4ec19A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00be27a3633346aca83c0656efda465ef.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5822ae4fdc344160aa7739917503f9558.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8aa02cc0569340b18753e5acc3c2233ah.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd239002e24e54073aa051be526c08fe0u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd045ac3a1f94d73806a6f590079aeffk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa50ad283e7504f2eb84e0fb3c4011e0fN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sddd7995b8d45498498350e47a864a76eC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1IE6zVHvpK1RjSZFqq6AXUVXab.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB19Ei_oDZmx1VjSZFGq6yx2XXaI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1qX_yVRLoK1RjSZFuq6xn0XXaF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1acZyiK3tHKVjSZSgq6x4QFXam.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa50ad283e7504f2eb84e0fb3c4011e0fN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf3e752a03b24b01a0da95b9986b4bdaB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5822ae4fdc344160aa7739917503f9558.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3af72973693d46b9ae4f59cdf646c1d0B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd045ac3a1f94d73806a6f590079aeffk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sddd7995b8d45498498350e47a864a76eC.jpg"
+        ]
+    }
+}

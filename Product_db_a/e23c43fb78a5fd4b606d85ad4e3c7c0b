@@ -1,0 +1,82 @@
+﻿{
+    "info": {
+        "ID": "e23c43fb78a5fd4b606d85ad4e3c7c0b",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "GY",
+        "创建的时间": "2024-07-26 15:44:21",
+        "第二层SKU数据": "",
+        "货号": "GY-W2146453704",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1007,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "牛皮",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Canvas Adjustable Elastic Waist Band Invisible Belt Buckle-Free Belts for Women Men Jean Pants Dress No Buckle Easy To Wear",
+        "质量星": 2,
+        "重量": 0.5,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7543b3dbd9a84feba1efea8f9810e032V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S32f325d71cd6460eb2e4a1a75f7721896.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46b1a369cafe4846b078c3cab00d29c1P.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S13e68deb8dcb4e9eb55ace148e85c0592.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S769fdfc6234148b9b0caff0d2ab90b10K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ecb27e1714f4b99864f6693065630d3m.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf25def6fb62b49469aa49aed3a2d804eN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57371ffa62b84a368fe83d5653cc7914F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40000ed9e80740bb959bcfc9cf0ab3d6M.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc758c0d7c9bb4d29bee2c3775ad8a4825.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1703b07ad2214553b5ebf5d65dc13872o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58e08f921ee44d3d99344459af82bafcC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sacca2135d9c443e89615745cb522685d0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a51a6e955b2439aa04c02a75a880abeD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff5775fabe5043548cb136fb84aaa95eU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa39cb8f046a04c25b6fcd38abaa87fd3d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6afa3420b07f4a689c09aea12a034eeam.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc44755bbc5bc431ea34f929b16c58d7fi.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8796bf992b36411f934645b63a246ebaI.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S683fb45cb02d48fbaf1495fca9131dbcp.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8c0de15299254e799fd028fc0a8e67acs.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S7a3b66e2d793453d916446a071c10cc7T.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5ffe676f582b437ba35a1ecde8bdf0872.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se00eeaa2e5b94c5a9b064b3c3e4d40bcE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21f40c09f05b432bbb0f93106177c7a5y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1bfc83da4eaf48dea368edc790eee425l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ebb934a25c94d6a9508f7534c3d818bM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4cbbc816aa1b49979cbe0b2bef50dc83d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S22e904d5d299454ebe7417576443526aV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5103a56739c4c50bf30078ac13f7bd5u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfda0a48b638641acbec35ca1540ad104v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ea06fe690264692996a5453d2a37e3fk.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S21f40c09f05b432bbb0f93106177c7a5y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad8abbb4bf774e77885358c7cfe8bb8a6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secfb9af0d5564c4992762fcce7edcd97Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4cbbc816aa1b49979cbe0b2bef50dc83d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S22e904d5d299454ebe7417576443526aV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf86e60d6c86a41918467853d2e9e920cv.jpg"
+        ]
+    }
+}

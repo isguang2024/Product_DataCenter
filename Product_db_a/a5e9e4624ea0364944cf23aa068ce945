@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "a5e9e4624ea0364944cf23aa068ce945",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-31 14:41:05",
+        "第二层SKU数据": "",
+        "货号": "GY-W391681182",
+        "进价": "95",
+        "利润比": "100",
+        "品类": 1002,
+        "品牌": 2147368680,
+        "普货模式": false,
+        "商品简介": "尺寸 11x8x2.5",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:53",
+        "原普货标题": "Women Small Square Bag Retro Versatile Wide Shoulder Strap Large Capacity Casual Portable Female One Shoulder Crossbody Bag",
+        "质量星": 2,
+        "重量": "0.5",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S107cf74ad4444b48a7fb1e6ab4a6520a0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c9ce86f0d1a460583e972c3ae06caffS.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S378bb293c0ca42d282570fbfc5f4c86ef.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e2b8aeb1357454b83ebd67f85d46f25X.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4614940bdf74fb69613407f2815b96dk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0ea277a30af4a74bd7a6b5461e0af996.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6e198e44fd33455799865d47157ddecbd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4614940bdf74fb69613407f2815b96dk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0ea277a30af4a74bd7a6b5461e0af996.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe3fbb6cb8e74617a766fedf1b7c5c53C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a87f6ff9e4b49f6bb8e586724efc6816.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f06bbcd67d943c9856d04a329ff6246M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae2605f3e06d4ed088efb722e51b7cf7Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb1e6514cb744632a3e59b4cd76b60c4H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2435e0def82f42718a794535477c4065V.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S37afec0ad9f9448ca4dad197547b6415I.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2a2fd06014f04a52ba6336317a165a4db.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S87c813c1c9484b9688c13ed6b0f41194I.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S324ed9b7656d44d9a80f43e15023a9abo.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5f488faec1db4b55817b7ed1f21344c3e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08681bf89cab46c49e382f68204cc32dK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f614b1a6eed4d11b4c8dd7a2e31d654L.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S526256e3fe7e47bc8ab7205c81c87e23t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e70f9b9b98c463ea858ee95a8ecb8a3c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34459f347c4c444fbaf5912555ac18fdW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S771eb2a477af4fa7b612ca871af84560l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2507ea6d07b43e3adda3e4af32e0552o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86215524f5d44209a11738c87919d9b8U.jpg"
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "3aea2279e8760d346c42f6e841d76f17",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-10 10:26:08",
+        "第二层SKU数据": "p-5@40x28cm@33x27cm",
+        "货号": "GY-W1526317547",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "大号尺寸40.28\r\n小号尺寸33.27",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:02",
+        "原普货标题": "Lightweight Casual Nylon Shoulder Bag Unique Fresh Gentle Bow Design Travel Bag Solid Color Soft Large Capacity Women's Tote Bag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6523724347334247bae2af4669df95d7y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb393f76076b4457aa95fd35c7acaefbfY.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd29257dcdf4545ab8f0deded92d0fc85r.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd29257dcdf4545ab8f0deded92d0fc85r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07f1f794869b409486f5bea14febea4du.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec7777d96c2d4bb3a6f2f7e964eb1a7bP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab3365aa02db4860925d5d6e28f643dcI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f2340e2f02940cb85fbc53fef6cc5cco.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8267264fbc4d449189b98875ea494286E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S816de167aad3453cbbe602307e7bb270F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39612ebc708d42ac832cdf45887633f84.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3bdabfa964104cc1a9d302ba1b4edaefX.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd29257dcdf4545ab8f0deded92d0fc85r.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S329dfb17ae5844ff98cfbb028435da79a.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sfbc2829a63e74a96be44bc190698a7d0A.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb83bd7f5115448aeaf00473a8da4a32d2.jpg?width=750&amp;height=1156&amp;hash=1906",
+            "https:\/\/ae01.alicdn.com\/kf\/Se99b8b53c8a54451963127aee4b05f3dW.jpg?width=750&amp;height=419&amp;hash=1169",
+            "https:\/\/ae01.alicdn.com\/kf\/See177b6d5d2146b289fe907147455960n.jpg?width=750&amp;height=931&amp;hash=1681",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa240f709a6c4110b1f9cbb23e3386f9j.jpg?width=750&amp;height=886&amp;hash=1636",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd180fb62f6774739aefc977a7462af4fK.jpg?width=750&amp;height=1740&amp;hash=2490",
+            "https:\/\/ae01.alicdn.com\/kf\/Seabe72e9df62411daae3c4b53020383er.jpg?width=750&amp;height=1325&amp;hash=2075",
+            "https:\/\/ae01.alicdn.com\/kf\/S4fdc27938c9546f19ea549a380b16e90F.jpg?width=750&amp;height=1740&amp;hash=2490",
+            "https:\/\/ae01.alicdn.com\/kf\/S16f3bccd2294405c941e89d4a2dc8d269.jpg?width=750&amp;height=873&amp;hash=1623"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa90565a4073f4f028aded87213b5e650K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8501743e69b94f209f511eac5dc9bbf3x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb34dc9b4130842b7b61601bb697e253ds.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd15c476f1f84b2184dfe4f94f3729bad.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S326dd53b8533462cae867f17e06955b2g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53325c4e0316457bb4adf96925e8ef4bV.jpg"
+        ]
+    }
+}

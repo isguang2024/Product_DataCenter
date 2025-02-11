@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "6f2c710a0f8a9c9b74d25a96d5b9a97c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "RB",
+        "创建的时间": "2024-07-22 15:18:24",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40@41@42",
+        "货号": "RB-W275255813",
+        "进价": 95,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -1190321189,
+        "普货模式": false,
+        "商品简介": "Size：35-42",
+        "性别": 0,
+        "修改的时间": "2024-07-22 15:40:13",
+        "原普货标题": "LMCAVASUN Summer New Black Square Head Outside Wear Clip Feet Thin Strap Cow Leather High Heel Sandals Women Word Flip-flops",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf290b307751a438795d4e8a288ea3133l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S522cd3af3d1440f5a0a84463b1f6c0e5U.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf29ee314e88c4cc8ae2077e75e37cb61l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd4ff93e69ff498889c9149aa740ad107.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2426b92b4b284ba0bd6ed0a97ba5ae23o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8a6084a163b478bada6b64d278e0300v.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2426b92b4b284ba0bd6ed0a97ba5ae23o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93a3b5fb4aab455f83f8f455a11b6bb80.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73892690068e4011b3a4c2a1260044dbe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S086b35832c1b4054850bc7b0cc3c2228W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c179ab4a2584e5c8a0ea62bf66a8847x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae1b1dc011264eefa299aa125c666784g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0414d1b908e5490694a96e50e32168fcl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S609a4c3379d04e93bdeecf3e9ff950ecQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e2ccbee5d5c4bc9bdd96a8ef7b922dc2.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S357cc4e7f9f64c4eb01c79dfa60c8f61G.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sba30530143034708b11839f623a99603C.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc9647a9520b54886a99c54b12df2a282i.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sda70f82d216040a881dd344cc11f8f608.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S220e8fa8d833478eb9b98dcd31e1e208X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6fbff356c3dc4afab25caeee5dc144e3B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9647a9520b54886a99c54b12df2a282i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8cb6199a40644a52adfe447bd7dae75bR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa24ba335cf4641bab3e168cdcf8789f3O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8040176a7dd44beb66038cf76c75930P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda70f82d216040a881dd344cc11f8f608.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1608d6ac62d748a990ee86ae22f4055fK.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9647a9520b54886a99c54b12df2a282i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda70f82d216040a881dd344cc11f8f608.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1608d6ac62d748a990ee86ae22f4055fK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce43fb12f82648fb9e39aa05037159fau.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfcb3f081bd3b45468b1fdf5b6c777e66D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8040176a7dd44beb66038cf76c75930P.jpg"
+        ]
+    }
+}

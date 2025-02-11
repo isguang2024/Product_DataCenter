@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "70a7e315541eb2055b1a898ee6cf5bfe",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-06-26 15:32:34",
+        "第二层SKU数据": "",
+        "货号": "DG-133345747",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "2个颜色 ，手机包，高级质量，重量：0.25kg，材质：皮，尺寸：12x19cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:52:31",
+        "原普货标题": "Men Messenger Bag Fashion 14inch Laptop Oxford Waterproof Travel Shoulder Bag All-match Large Casual Single Bag for Male Handbag",
+        "质量星": 2,
+        "重量": 0.5
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcdd4e357c70438e919dd29d172dc7d69.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S90ebcab83def43aca017ca64cedf0a9em.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb389a55e4c4e4c889a30a32411d04842Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5bc3008c1be745d2a7278addf2fe87b7P.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sadfbbd41cc1b4575bd18649ebcd78081r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7046278d20754fda957d124c9b55f3c6j.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seda5638108384a32a4077d790d98e4a8i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8047c08f52854132a9ac15251d24cedcs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S415fe45e5a294acfacfcaeb2a027b0ddC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca86bb225f94431dad6bb8697c515f77m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S662d01937e0144a398964a8e49784571J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca7004f46acd4a1f890e15382f29e8ccF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16e73725c44f4e5eac342ed0a7b5b14bQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87cf7082569e4b4da29c433edf28be63r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc066078b70d848ebbefaa6c921b9f8d6E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S720af49f4c2649b1a279d1976cb6e4021.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf720a30f849145c89b46dad06a75a66cr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2643960b3d204a398c471f4b9900c377A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5dd048b38b1a48d6932721701518f6a9b.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Scdc0dd0bf56a4beca0d14b7599d33168A.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Se5cbb8cbba4d4b55bca99053cedc1807D.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa25b053dc2234392a807d2cf5a93dc85u.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S043321702a5448c383af90ce0451d050D.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scaf9182b8f654331bdadc7508088d8aek.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6c390c86e6940248920aa6267b962d7X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S286df54683554c64a7f2d69a24dbcd6dp.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0b542884f99a49ad8e7069cbdf534ca0n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1273f948c27948248eb2466d48a81f562.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63de69560d5441ab8e7908056d8ff46eg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa59effc36b6847e6a7b61ba13f227269X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f9dc34a9129410ea35d2f558a3b0ec1h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S477c3f0d406b42e1999be78686a266e38.jpg"
+        ]
+    }
+}

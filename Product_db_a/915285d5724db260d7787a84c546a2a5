@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "915285d5724db260d7787a84c546a2a5",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2023-10-28 10:24:41",
+        "第二层SKU数据": "",
+        "货号": "DG-148051648",
+        "进价": "170",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": -227904089,
+        "商品简介": "枕头包 高质量，重量：0.6kg，材质：皮，尺寸：20x12x14cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:56:44",
+        "原普货标题": "Luxury Women's Bag 2023 Fashion Women's Handbag Free Shipping Luxury Brand Handbag Genuine Leather Snake Pattern Women's Bag",
+        "质量星": 3,
+        "重量": "1"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S11ac0f2ab7c74646af25af70ec81cb1e8.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S17561dbcf8af4583be9ced3a59e5524eF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5cb17308ee7c4e75b4efeb1b4344ff300.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7ccfc3c5f1604247a293af42fea6a5dfq.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1c7d315018e4ad8b02370a72a64aa72f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f3de2e9d673468f953647adebb009682.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4920691e5b8843e7a7007224163e4f4aA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S619aa2e5e8ec49c2afb401dcbc0ac192f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4861803e3b04846b75820c7052b833bv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d52f014a31a40388343196c92770dc2c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seac72747d3184795b73bf5eeb3d9cadd1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc54c10f94c74e3ab793aeb3d4bd9f69N.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S3a524586c3574cf799c893a659698d214.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2c1c9b1fea5a46efb95e5cb52550d6d8V.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S68859dfb8d884749bc8217163238f991f.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd00c894e3be9434582960d8b1bd0f6f7K.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb37c8379094246b7a0324c8afc200a6cs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfcfcf2dc1a514f2980f80ff0413bb4beJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se5e700e3a6b944d5b6ed47b755ce931ck.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe2c444dfa184865b1cd10c6cb543191G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb95f7b57b4a4a8493a45cfed4c960ce0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec66da7f7c974e55afb706105a2ba35eO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ba0121837cc4fe6a89fa6da1875fefaV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd811749a8cb642c9b64f78caba01d079u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60e300868a3a4cb1824074bd7570980cG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81d58236d5ff43fcb84dce86bd397579Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sacbb54e142bd40a692f984a4c185c433h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd653f366cfc4a4499363f3e89630322H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70d659234f8142f9a3065c1194a7a42bi.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S91aacf70f35b4d2eb4d2dc00ceaf72d6Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S22c9c794b5924338adeb879a7013ff57E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf74b38430e044e28a42c3fb2f3780e51W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a956ce25e064a60bf9f4a0fe10e2e0d6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ed382f292e240ca9e4e09dbdadcf6e08.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66df521e18484f3e8ed8e23455271758s.jpg"
+        ]
+    }
+}

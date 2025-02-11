@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "b1189451433f2601dbae995e7e7d2d7a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-02-21 15:09:52",
+        "第二层SKU数据": "",
+        "货号": "DG-154247047",
+        "进价": 105,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "贝壳包，重量：0.85kg，材质：皮，尺寸：28x22x11cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:55:26",
+        "原普货标题": "Black Multi-layer Large Capacity Bag For Women Practical Single Shoulder Handbag Large Capacity Messenger Bags",
+        "质量星": 2,
+        "重量": 1.299999952316284
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sed0898dc63f84aefa1a11835b91d5329x.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3e2e82be5a3c41399d337c15a106993aL.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfaa570ea68014d7a979ae9188e96bf66L.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Safff9bd6314247daa0eb0a441091d84cs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6177152313244a51a46f1bc157269f30y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b8140965f5c40db8260fb6f5a18b1aeH.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S983431a8e3b644db84196392f791dabaS.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S880ef74c01c74d6881259aedbf9c33367.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se92236b1b3204998b153814889377debt.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8939d87d0fb4aa5a410bd32bdbc800aa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3910d569b7444389692442d46e271ffZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4daeac5752f4975a6d63a7ad4942d7aS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S353ee0db49c042c68278a34276198b50J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9fb9f72e8c04488999e05e068bc71b13k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd00def093ae407289ee0dfe1a8bd14eb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97372d64810a4900a64dce79955e4c39m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80de4a01276744ce8b71943e9389cd62I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bf06d3f479440469456b24003843d88P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11b13d8486c64bb3802a0fc7bfd37616v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S382de06ce5914c54affe252bfedab40aJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9169d242dfcf45028313144ae38db70dK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2cee08a28e3740018ad77df08d85e57cx.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S86a6f89d270a4141b118a35d35f9df531.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23e8ba309f814d028a159a7197b9ed38Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0573ff8b09254847ab9f60b7dd487029c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbd675653ed94fabae6925b7e3d20e083.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68753ea448a44a079cf9478fdbafc2b0b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S84986356715845e580381b61628c239bm.jpg"
+        ]
+    }
+}

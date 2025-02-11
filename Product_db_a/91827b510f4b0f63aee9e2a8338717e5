@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "91827b510f4b0f63aee9e2a8338717e5",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "GY",
+        "创建的时间": "2024-07-26 20:01:30",
+        "第二层SKU数据": "",
+        "货号": "GY-W413382158",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "很酷很百搭\r\n任何搭配都能够轻松驾驭\r\n时尚潮流\r\n尺寸:18*12cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Women Corduroy Zipper Shoulder Bag Small Cotton Canvas Handbag Casual Tote Female Eco Crossbody Bag Vintage Messenger Bags",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S047e117e07a740fbaa185db3a2879a4cf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed1608c11c3c423180df0d7770e4cf2bE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8c92198c2de46ba8428e227c4c481e76.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3962b217c16246e79d70080a432925aca.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98aeffcb782847b69d52e33c387c8938h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6bef4499b6484d8784d0fa53ca52330bt.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4cae76ac5ed74c90884e59c539855e1dL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c33d4d00ad145aaaacb40c93389cffd5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a20cb470ff248af9bfb973afaba1ea93.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc94638b112e44bf2be0e0718bd094882M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S193327b2e8744dd8ba94a14117cba22da.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa19ecebb05f64e6e97574f47eae81baap.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c33d4d00ad145aaaacb40c93389cffd5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S037922c3c29340c7b289ac820e239a52e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ab3e6768bea4f83aaeae4fe95b9d849K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4476f5b77c74a56a7e5c3dd283d2e56s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2855ee4f14164e25b07b587d61596ceaR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3164dcdfa5a64f3c99b323815ea93ecdQ.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb8540f50a6ec48d7a5aea5a519e3578af.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3c9a8d824c4c4da995a28bf3fb40bbc2s.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S2b3edac1dfed4fc2a4487481437ade5bl.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sdb2b85fe8ae54ca494b86bf9eed2dc2be.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S25363c7cd33d4be3badfd898aee9a80cX.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S18f2f06dfb954f5b81e481dcd7dc2be7Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a2d0b3006c44ae6b0d4872bf3176ee3D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20b3c8f53e6f46458458b0c3af0aaa16g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ee513daff8b49088ad1a5053837d4946.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf90b38953cd74eefa1e56cd2e2a7a77f1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82226190e6524517ac8f80fd407027f2y.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S18f2f06dfb954f5b81e481dcd7dc2be7Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a2d0b3006c44ae6b0d4872bf3176ee3D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20b3c8f53e6f46458458b0c3af0aaa16g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf90b38953cd74eefa1e56cd2e2a7a77f1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ee513daff8b49088ad1a5053837d4946.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82226190e6524517ac8f80fd407027f2y.jpg"
+        ]
+    }
+}

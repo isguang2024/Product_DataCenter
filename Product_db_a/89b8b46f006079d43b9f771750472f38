@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "89b8b46f006079d43b9f771750472f38",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 13:26:48",
+        "第二层SKU数据": "",
+        "货号": "GY-W278135399",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "size：21.5*13cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Nylon Hobos Crossbody Bags Solid Casual Zipper Women's Bags 2024 Fashion High Capacity Solid Color Single Shoulder Totes Bag",
+        "质量星": 2,
+        "重量": 0.800000011920929,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S68c198870c7744bab8f882fff960b185c.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S75a387d226b84b66809ef990e5a8e3b8k.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9d07be09aff643ddaa0f9398a56f8871w.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4a72944d3c34b9ba8fba422e7fb399eU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0ea21ddf7814e51a8a8f1593581621bx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1be8958ff6174f32b73f108d04c7a173O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2f1a6631dde484489120433b08b2618E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1bd8c0ea7ccb44cba737e713a9a575760.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8a937e91e1a407a9fef286dabfb3ec1m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S625399a4e14a4898b792e30bc9a9df9aP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3fbef2f6a9484b5abf0187500dbded64B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdadc28f7676b4c41ae793079066f8c7dC.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S23b4f79150104f05800fb98840bb98e1j.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S55ca4f2df93046b189a19dbc6add167cO.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S265d5a1fc40f45fb8cd42b1167591a39X.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scb01cd666acd425ba8ce0518863868c3d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb04e4495a623454bb514e469c5508fbbM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5bc53b285aa0475ea9979335b5632fcfW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb3bdcd9f57e4ae5834ea4fde407d206z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2497077ac53841d19c52a10948573a4ay.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d3b4943fa9f4719adf1bedc7a5590dbt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S194bbb9ac64f4fe2844322b5f2dc17b1U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ac7aa7cf1584a0d87fedd26d46c8561T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf465c69d713480c9c22f699b5729653C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8a8ab8f30954792bd278a4370a3bdfdk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa51f257a3fd241c6b1d41a38ca10d178S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6987971cdbf046329758398918e7f771y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S674b781ee25449d4a41d86a4d9472689C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97b71af454b8477ab582d3eecf74707bq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e7aeaf8405e4f53acf4d9ea7262bda6y.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S08e7349de5f04226a19a09d2b6839da30.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc06548c9463d4b7ea19297d45d0b216fO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S222b88cb393f49a5826561e3d29eb5d95.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6db67555a2ae4e089ef14803013d4ad3x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S92d512cae6cb4f26a31ab8f2efe27f6c9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S403770d9a12b47a48a9ce21c65abab2b6.jpg"
+        ]
+    }
+}

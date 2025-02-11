@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "d31bad1019b78c96abdb43b19316be3b",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-06-12 11:43:25",
+        "第二层SKU数据": "p-200000124@34@35@36@37@38@39@40@41",
+        "货号": "RB-W1092661854",
+        "进价": 85,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "码数：34-40  41定做\r\n跟高：6cm\r\n颜色：酒红波纹面料",
+        "性别": 0,
+        "修改的时间": "2024-07-21 14:02:38",
+        "原普货标题": "Sandals Women Shoes Summer Open Toe Women's Sandals Beach Women's Shoes Wedge Shoes Woman Non-Slip Sandal Women Female Footwear",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0896be6bb1424629a4b1a70fb535a71da.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3b0917333604f1ea4454efd81d95e8aq.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7386480863b341a4b7cd1aef3ce4d9a48.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa86d8b8fc60140e5a583b6c4bfdce868E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f7326ebe8724d39b2008349a6acb9030.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c05481f3a27444dbb0240eba5952adeR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3186b4738c06440d960002cd44867b01m.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S5067fac39f1148e1b2cd35b3b959e0ab3.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S6abc63c56f6f4889b90230ac9565378ee.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd9858ed75ec54975af493af0e9a1b1a8y.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8653fa8a680447082248985dbe13bccP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3822f3024b6e4f5f867c572b7c745821w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f19d03607124c5590f910ba51ed4414F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c4e1014d0874f99b8b344434958f0c9u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d75b5d800ff4b8f9c6bcf686e4dd84bT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3009be7681e640f78929718646c95563v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b3c1223169a4bbab5a8d1af4962d816E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd6838a2bc6b4d57bdf6b7916ae2d05ct.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b49d2ee2fc642f7a1fce525a9b59d43U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb00ebd8a71954f30825d7dda265f280bH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f8d1ea738d646ef88dbe7c5dcdeaa29p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1dea01382af341d1897a7e32f38f0a8fJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf149017b1aa493081b3af1ca502a668h.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S44c178e9c44445948ccf8c6c4b6973b8J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a63c37bed3f486cb977052bb432d051n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb8cc9b6781b4ab8a539af972b6f0ce80.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7564fcba17747e192e4904d00c44029U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S483c809ff9c94bf8959564f6f25aae94H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89a56d1b5a644d29ab5d52c1e88f7f36o.jpg"
+        ]
+    }
+}

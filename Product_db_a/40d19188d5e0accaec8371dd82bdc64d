@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "40d19188d5e0accaec8371dd82bdc64d",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 14:24:22",
+        "第二层SKU数据": "",
+        "货号": "GY-W1339348601",
+        "进价": 170,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "size:16.12cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Underarm Shoulder Crossbody Bags For Women Genuine Cow Leather Handbag Fashion Small Square Bag 2024 Minimalist Black handbags",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5c587e0a2aa4e958d83644d12601ca4w.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd61b758114dd4a358e7d0cfd172e9dab1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3bb2d275fdd44eab9aa7894f9a76b59dP.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S57c8c5461b1e49609a55c2c5db0d421ez.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S22838e7999c8426eb8beda83b914c70bP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb678ed1976f43518805958d38a7cdbd3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S147aef15bca649ce9adf02d7eeddb919c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd14d626ba0bc441fa1739babf52816f30.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2c6065454734295b8a18b9c9833cdd3g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7000c185290c4d8699f6cf3e838bfccdp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d9cb4fc9b82403fb638ffa1097a23d04.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31019901edf7446a9d017fb294360370a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c8570e6df8747d7bd2347b65f437a59h.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb2c6065454734295b8a18b9c9833cdd3g.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S22fe44a7206e4525a41159afe0788b0bB.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S03ebf09b1c804ab2861f0ec2a4167841J.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sae9302febcc9457085405514f1c79184G.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6979da7f586e4970ad493933e2e1b616y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se931f37d28e646ce907737d1c590bc4eZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29e48755365d4be19dd280249247e326L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S094f6e9cdb9043d29935add816c7701e6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56d37cd1ca7244719ca94ff477f515184.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1538bce66a94364869a02f582e70b7aQ.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b3e0a0f3d3c41e8a231817f8852af4eg.jpg?width=600&amp;height=800&amp;hash=1400",
+            "https:\/\/ae01.alicdn.com\/kf\/Scae0552110b14e14bc06e2f722dacffcg.jpg?width=600&amp;height=800&amp;hash=1400",
+            "https:\/\/ae01.alicdn.com\/kf\/S15db90b8d2d8473189c3b91080eec0c0y.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c00d7a7e5ab4285be90035117cf559fw.jpg?width=750&amp;height=750&amp;hash=1500"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6979da7f586e4970ad493933e2e1b616y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se931f37d28e646ce907737d1c590bc4eZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15c2f8ff654e4c708a401adebb5c39far.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56d37cd1ca7244719ca94ff477f515184.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S094f6e9cdb9043d29935add816c7701e6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29e48755365d4be19dd280249247e326L.jpg"
+        ]
+    }
+}

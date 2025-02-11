@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "a8a0e50f11c7c5b6059dd87016867079",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-30 15:17:01",
+        "第二层SKU数据": "",
+        "货号": "GY-W284584764",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "size：23 15cm\r\n小号手提邮差包",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Upgrade zippered linen bag simple gift bag stylish shopping bag",
+        "质量星": 3,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4d894a1f42e54a9f820b719893df716fg.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5e8b0bff037741c5a1cf48192d74ddc9i.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5610c3d4185843779c790e1885975bfcO.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8c51342356814f8ca9f40251bcab39f1K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b00f0224eb34c088528032a1309db24K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S619119737a3444b8864085aba4c53335K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ea77e02b4a848ba8b7bc9db5ea1b0e39.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ceeaa0d014c490d858fb479b85bd071E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82192d75e6f645b3b313d55883551cffH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S275fe46cf5bd41c28eace0f2d8072361D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6371477ee9a7478e95bc48cedfd83797J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8d7c87705f64c66a4c6b36196c74490u.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S471131bafbf940918dddfb35c10bfec3x.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc3afbb3ae91647658068da72e8f37023B.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S73512a6afdf34642ab8e9944cd49cf47o.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sead8173163b2469a867c83949167ef7ey.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se2600e347ac0453b97db8469af8c7f2bv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf875b9bd3e7043f98d622143da2fb262C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbac3f2373a6f4f6c9a12bff4a0267eccb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S90e45c619a054d90b1da956a9ecd0693s.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9caf49df0774d9caad5bfeb1ff162fcZ.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73a65fe82de34873bb4c0def9e85db55g.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73512a6afdf34642ab8e9944cd49cf47o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f2f0a68b7914b148e9598fee45e241cO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf231099abb9d48539ad26a21f8e767f7Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9f9de1e30c8454d83a21147b0ca9d3b4.jpg"
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "24bdd83b6eed44dfc7e70d382e3dd22f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-13 17:49:08",
+        "第二层SKU数据": "",
+        "货号": "GY-W1834399681",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸13*10*15cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:00",
+        "原普货标题": "Women Corduroy Shoulder Bags Striped Cloth Fabric Handbags Casual Zip Tote Canvas Crossbody Bag Cute Shopping Bag for Ladies",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0aceddf105364d6cb648eee19649c98ee.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7b07135e60054125a847ae097d0ba7423.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb814b48a30bf453d9164b75383880e00i.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb814b48a30bf453d9164b75383880e00i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c8086ad47f24978b159c121d3453743q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5b2c235d4f645eb95741198f9f35aadz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1a04734462546ac81c5bf499d547fa8P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa911a728e643477993e6b0fc7bdbaadaP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d27fbd875e64b24ae16877534938a9dI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6dff6f6e4ec4966b17679caa4e93e43b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0425ee6cda354be2acce45c950a0c2e58.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c52d07f43184f55be4a070ac4996a70L.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb814b48a30bf453d9164b75383880e00i.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S145d88a337374d1cb2f492d2085d18bd6.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S2117c9d3aa94442bbfaee057c9b63816b.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S85d8bef6d4d644be84e1b9e6cf8adfe2p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9ce88fcc50a494c88d06fa95a7f8a46J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69e31458ff8a49839977c05f177caa1bj.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7256f484f9454ce381d68a819746f2b8N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef39abd91c564a51ba27d0f14a0ca019m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ce37c324d704a6883c89598615fa97au.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69fa94832e014b46b73ed399a0cbb348C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfad33a025e314110994b7a0252561ebeu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6292df28e3024393bb1d250231fe32e3N.jpg"
+        ]
+    }
+}

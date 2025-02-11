@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "28208337c4c05306c4a7b19838602f10",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-26 16:00:10",
+        "第二层SKU数据": "",
+        "货号": "GY-W1788062940",
+        "进价": 80,
+        "利润比": 100,
+        "品类": 1002,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "尺寸 11*10*2",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Shoulder Bags For Women Crossbody Bag Designer Wing Decoration 2Chains Straps Big Style Flap Zipper Mini Black",
+        "质量星": 1,
+        "重量": 0.5,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9fbb0542bb3d41d5a94429cd637795016.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb04b0606fc984171ab0330801bee0f359.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S47a6677d1731464db622af8a7d5c4e693.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S861b1bf407cf4538a70e96fc433da36d9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S361dbe2f830844b18e788d9f5c9afce3w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47a6677d1731464db622af8a7d5c4e693.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S024f7d3a92c441d9bf7d28dee854ecee0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4720557eb4154578a8b0298e60fde1c9i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S091a9634520d4ee89cbf15d955772fd5D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f99c0a211034b35b77acb50c88d9405C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S06136de3b5504216880e9305f79374825.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2661e07f127a4ab68d0c0d08a831b741A.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S68e21ab57e75486480ffec4ccb6172c6m.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8620c1573c2b471da2b82db5677fdc78r.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7cd72bf402264f61aaf8a5610ecb6e4fN.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7cd72bf402264f61aaf8a5610ecb6e4fN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fdf954c13f24299935c27a90074c70aF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48a708ada44e442ab45bca0f58685a1cQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96a45536ecee4b1d86a9b3accc086f32Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1a389b84756491399d3f50d99fc64b5A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04e6f90fb9304194b61222e58c5d0570h.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S04e6f90fb9304194b61222e58c5d0570h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7cd72bf402264f61aaf8a5610ecb6e4fN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96a45536ecee4b1d86a9b3accc086f32Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48a708ada44e442ab45bca0f58685a1cQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fdf954c13f24299935c27a90074c70aF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1a389b84756491399d3f50d99fc64b5A.jpg"
+        ]
+    }
+}

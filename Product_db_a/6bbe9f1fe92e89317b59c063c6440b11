@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "6bbe9f1fe92e89317b59c063c6440b11",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 14:25:55",
+        "第二层SKU数据": "",
+        "货号": "GY-W717085098",
+        "进价": "120",
+        "利润比": "100",
+        "品类": 1007,
+        "品牌": 577247229,
+        "普货模式": false,
+        "商品简介": "原单牛皮",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Elastic Belt Without Buckle Canvas Women Buckle Free Belt Ladies Jeans Pants Waist Lazy Belt Stretch No Buckle Invisible Belt",
+        "质量星": 2,
+        "重量": "0.5",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc2888e684074aeca04d34ba5ae74368v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd62f5166d9f04e7c8fb6d02450b3031cy.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saa2fa475d1564fada7cf43be352354020.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42ea4466246c4086905f351547f0524ct.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S187c4602272843cc8101c5d7ef93d627d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc9579e7bcc344c88221d9bc4487c4a6s.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S247a78afc9bc40738c5b3ef58f9ee359X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S546940c44ac4447fbc2ff8cd3c64f854m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde0748087e784d61960926d32a75b202r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scfc8eeda3ebe424583fb364d87f5f1d7W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S590a6e77cc9347848047af834520da0cf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b3c505012bd41ed99447278474ecd66h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S357db3bc9d6d4a89a6c12730b1d5565e8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9064cf076f9b4c90a35a81ba244a2e4fI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59bcb32ee2534962a7a5b166888c07d12.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7a27e757e7a64bccabdef6450156424aF.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2dfc92da9cbb484aaf8cd8def148f2d0D.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc093223dcfe44fa4b5a1c07948bf06b1O.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S89166e082a8d4d8f90d81e2e7e171e9bP.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd09b080c7f444239a90c088d916553c8a.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac227bc48a13495f943598cfbeec2515x.jpg?width=800&amp;height=800&amp;hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd583d86a1d5642f4b5eb59b72688dd5dC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf04b0c360386483fb2f611618ff5b989i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c7aee8d813f45f7b5cf891f060972af8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c1d84ed975d48f295aba813990a59e30.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ba0e9571180419f90b0b2243be2e68fW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24823f3ea187469d924fbbe7afcd73ca4.jpg"
+        ]
+    }
+}

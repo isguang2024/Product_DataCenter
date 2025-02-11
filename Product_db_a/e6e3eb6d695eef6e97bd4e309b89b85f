@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "e6e3eb6d695eef6e97bd4e309b89b85f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-16 16:45:02",
+        "第二层SKU数据": "",
+        "货号": "GY-W520228903",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "尺寸20*13cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:56",
+        "原普货标题": "Bags for Women 2024 Women Pure Color Casual Tote Outdoor Bag Canvas Handbag Zipper Shoulder Bag Luxury Bag Bolsas Femininas",
+        "质量星": 2,
+        "重量": 0.800000011920929,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5835cd876a554e0f9366cec999ac919ef.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfdc727001a4a4c95a224d46b50cdc583E.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S63fd33f284864cf4a46bd9445f571ac2L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc19c899e3cab4edea0fdeeff4ace65cau.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S38949d00110f415692650192b73e12cam.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a1d7c10963540b7b94a4f404189cb42Z.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9cdb03946ad0437d84d50f1001307632T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a1b19096dc14b168215a163913c9a22T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b489dfcc61049b48204822035e3f70dQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8ab93fe6cef496e8e5c06a7e1911bdas.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf199a91723434975b0494855c6481e3eD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S442e69cb8ff84185b07d8f1062d7d33e6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b6176a5583d4ebc86c4813667b7a1c93.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82097427d7b74403a0926c5297b76057G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa10bbd3b7c664cee967cdd056c743a2cm.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7de6d2a360fe43a688369af4d162eb2ch.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2bbfd75bb9fb4a4582ba2b4cb4c824a5k.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sda4ec63e77ce470a836746af53a9f6e38.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2f8cfd0b5fff4d52954636d0c996f3e9n.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sefe1841754f14e1fa1caf954c2daf4e8t.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se3ed8e66e3304b3690acc3378eff2b41f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S683fea8b08204bde9888d82ea825a887U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17bf5b4009744bda80ed84e974cce51dh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc8363df1f26485685c0acab36d5b7f4h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3b425ed6f6746d4af8747a7de3cfa7dS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01dba0028e9d45b695b56c865a33e444L.jpg"
+        ]
+    }
+}

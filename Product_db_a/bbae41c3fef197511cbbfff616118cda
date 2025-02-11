@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "bbae41c3fef197511cbbfff616118cda",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-29 14:09:16",
+        "第二层SKU数据": "",
+        "货号": "GY-W344231587",
+        "进价": 190,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "size：25 14cm\r\n新款\r\n马鞍包",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Fashion Plaid Quilted Shoulder Bag Cute Pleated Bubbles Solid Color Tote Bag Large Capacity Embroidered Satchel Bags Women",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5316c0e1e1143f09da4ba10a40e85b5Y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S49c427800dea4826a8383148b4071c1fj.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se8a9ef4ad6b84768b4acff6ac33a06b4m.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se8a9ef4ad6b84768b4acff6ac33a06b4m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c77c9b2c6654811a8ecc0e022d02db1e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S298a875c0f694146bdb85e964a1f5064c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf13cdfe8fcba4b0782c933a84604e2ebr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e9273baef9e4a58a27497c80cfcf8209.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S948cf3df1e18448396ddf8ebe43948e42.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfefaef9be6b541589ea3ffbd6bd89b199.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87dd33a9722f409cb9957d1692c48c6ej.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf65116cee40641ee9d07a6470c33abf3k.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se8a9ef4ad6b84768b4acff6ac33a06b4m.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf7eb3234568146c3925d9da28a6c36a21.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sf16c06650d69465b92b93a78e262f488q.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S57a3bd181abc4d02b4a912e10aee4074s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a1daf53f10142c99b794f7516a80719G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd939a9dfe47946a4bf9b192d4349832d3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4642cc1910a94b9381a63436ada4d0ccc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93be749e1304495faae664be39464c8bY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0de7427acb0441ccb3d0cbafd6d1a72aW.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7f1fe920483548f9b3370737f2b31b46w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4204db3892541fcb17608fdd5e36eefi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31b3b43691fd40d3a4ed9201e481229eq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8abd26bbb98413ab03c77e59763d7cfR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc781be9c09224a3fb9758e73c155e778g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ae62e6b3ccd4fbd8cc613ce9bbaa574Y.jpg"
+        ]
+    }
+}

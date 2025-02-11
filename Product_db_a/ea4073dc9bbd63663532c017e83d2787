@@ -1,0 +1,67 @@
+﻿{
+    "info": {
+        "ID": "ea4073dc9bbd63663532c017e83d2787",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-07-15 16:50:43",
+        "第二层SKU数据": "",
+        "货号": "DG-141120706",
+        "进价": 185,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "酒神链条包，原版质量，重量：（0.6kg），材质：头层皮，尺寸：20cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:51:53",
+        "原普货标题": "Kawaii Banana Shaped Crossbody Bag Cute Cartoon Cute Girl Canvas Bag Canvas Shoulder Purse Cute Small Coin Purse",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S971e77c6961d4b798dbaa13c2fde9fa1e.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7283e13c34cd45cbbf9383b6946a25f7K.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8fe98fbf439c4b45b6fac5a95ed08b7d7.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S55835325b3544ac1bb20e2bdcdb945b45.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S234ef43030bb4cf9943373b4e4f4680f7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba2eb379c1b64c6fbac17e5c9066cae7a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S54f2ea1dc3eb4938bfbbae13e673e58dx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b9c24e5b1984921995c69d6bf086aacY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33e082d309b5488499b127f8737b066cL.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S87299753d61f4777b11d07f31129f571U.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S11f8abab77be4cf4a97b8bccaf695f0e5.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc6741165c08645729abc164ff180538f9.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se190be37fdee402997586e0b6304bee7m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S454d2340ba5e4cc1a8137d517df31188r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S218d2d0fa32b42f087673d3d2495e4383.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd6dd274e9304bc495b659420bed07bff.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf6b3ed800934be0b1d73f0d1cea5b8ej.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S476db677ebdd499fbe0a8b533d0d8ff3Q.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0df27ec01615469aaff0911fcef08442k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43970c1d8443400284c94bacac772a451.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07290c58f57d4cd78b71bafa0c459a68z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d17b17e2ae5425bb9f290d2d03390beh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1573487e2b924832829bfc4cf377c3be5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd759cd5ced5742ee837d8408e3b84370P.jpg"
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "6329b9301cae1b002e73ccc60834cf24",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-07 16:42:18",
+        "第二层SKU数据": "",
+        "货号": "GY-W1979101227",
+        "进价": "85",
+        "利润比": "100",
+        "品类": 1002,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "尺寸 19x10",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:09",
+        "原普货标题": "Corduroy Women's Small Shoulder Bag Teenager Girl Crossbody Bag Bolsa Cute Tote Student Street Korean Harajuku Messenger Bags",
+        "质量星": 2,
+        "重量": "0.6",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S243e00a4a34f4b629dd3eaea46accaa0Q.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S13e196165fb04ed59d1644b2b0f8afbfD.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S56c273ade4c948a3929d8009cc57279dG.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S11dd558bd9e045db94a5aa122d9f1335i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7fb820a073de47aebf055bf1f8142d95F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d3924729d3c452da10eb72ddb193e33a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b88a33ba3184f1d8b82bcde28917f2dk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4c93f3b4a464de581aac11b84866da8f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55d22e44ce684e3b9212e080c75ff3af9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fca4e23c6204d05a951fa62f67d93fff.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40c4172e1bdb46e0b878bbeefc4607c67.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbf06cbd17724a9d93d842b0ebfc78aeA.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S5c2355216c8f4606ab474f7c4a2d6c5fp.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3a48d1bd923647879815e3898788cbb0K.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa2b9d7a353a047a08f8196431b21603e6.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8099bfa65c984cbbb0c456e424b9eb16H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2b9d7a353a047a08f8196431b21603e6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S172cf4c6562e4ab1b89ca7d5278cbb24E.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf67bdda93f2547a38537d3b8f72fd750s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac127eff74d8490aa4195c654db3acf0Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c5a50ab42a749ecb90064ded1784d64d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5033d322837643d2ac8f6f95c077b5dd2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S002fcb0d53754a3cb15c7211f35f2f8c3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8099bfa65c984cbbb0c456e424b9eb16H.jpg"
+        ]
+    }
+}

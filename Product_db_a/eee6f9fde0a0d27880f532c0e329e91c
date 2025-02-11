@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "eee6f9fde0a0d27880f532c0e329e91c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-29 15:29:52",
+        "第二层SKU数据": "",
+        "货号": "GY-W1267348368",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "size:25×15",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "YS version Underarm Bucket Bag Hobo Single Shoulder Original Tote ROSE",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9cf13c9689f54b0c87b245762567b07d9.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9b1aa3436cf2461084b63032a1a26ca4c.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S621b7fedaa63495eadabfb1c80370da6k.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se4b1702b7f3a4ffca4bafa0988dbb209I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f28629c700446d58b0849e15c7b8b3eb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51327516421c426bbf61b86c002ed761T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S954aa24373214421b0de1e1a33e7be4bf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59143f84c85c47c39ea70cc6dfe8b7966.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S54b3e4996bc646baa4cd3b8b94b76a4eU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S877f802e7ccb490b8ea9bce56eff11dbB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S145238b4a8324d4a9c10d608359c2b27F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e4b9845a254463ba1ea2a72f56891d7O.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S114d01a5a63a457cacd65483518d98311.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S5eec02bed44e44298c9ebeb1ab1160a08.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S127a229169624159be78508d57d3a9e5K.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9e8d4495e74440aaf64e06967dc4f36T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87a9d50a394243a89d5f8b9d78fc560aQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c89024361eb4a95833d5a0571359b07x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44fdb28b072145a19ee416b3c38d373ez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d725a5664df4c2fb3f031d46ef7aa8eP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1588e95caa9b476bab3b33a6dd11b9e2Y.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S127a229169624159be78508d57d3a9e5K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa514809c0c654bd886ea371926b48bb3Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa439bcea8b604170a41381d1b00a65bf2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfac0af949a3d4ceb9bb78e9b182eefb7h.jpg"
+        ]
+    }
+}

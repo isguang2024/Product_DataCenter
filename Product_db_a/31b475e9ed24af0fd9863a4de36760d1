@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "31b475e9ed24af0fd9863a4de36760d1",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-07-26 19:59:43",
+        "第二层SKU数据": "",
+        "货号": "GY-W1718589951",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "很酷很百搭\r\n任何搭配都能够轻松驾驭\r\n时尚潮流\r\n尺寸:15*11cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Canvas Splicing PU Tote Composite Bag For Women Luxury Designer Handbag Purse 2024 New Casual Large Capacity Shopping Shoulder",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3d966c885ae948b08397078a126ea09da.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6976f708a66e4758ba09c2be829255d19.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc786ceaee1fb49a6a6ade64e96e7660aV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6839c10d55c14fe09b67480f77e89fd4j.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sde93f31256564df7968a5b367901b068o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07587ef15c654a5786ae6e08443b221aE.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf95ede0799a74f99a72dd8da092f35abb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3e09476e9ea4108b62c4c9fddd18778B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72bd83b2bf464ea0ba995e69b69b65ac4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0e57fc3512e4c19bd3250eba31ef5d6K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S467ae20237e740598d99393ff38df6c6X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81e94e665683444baac60030dcf5894b2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8cca9e343ddd4541b0f07189e99d5183N.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf55168c2014e4d13956655ac06fcee280.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S60b29e5ce4414ab1bf6b56a958f57216q.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S74535758c8174566a0b5bd98711e3c27t.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Scfa0c0968c7b434f852cf527247acc2cF.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S92f0afc3082d48bf8a4c0b065f49f97eJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb08a46c7da8b401a882468e143e878a1Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfae070e034b24c47a5180b2fa307f9488.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scfa0c0968c7b434f852cf527247acc2cF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66184eca342c4c1fbd3d7ac34cf1b0a2b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15da3eaed456413aa4ae0bd887229892J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S226e3f9580ff4c3c839b8e30e67a46d9P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8536ac1327f477080a126509a3c0406b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74535758c8174566a0b5bd98711e3c27t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf2ca5dc7a2d4dad9a290f9daa53c268F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75aebd8788c74a5fa9abfa8d5de314f7L.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S92f0afc3082d48bf8a4c0b065f49f97eJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfae070e034b24c47a5180b2fa307f9488.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scfa0c0968c7b434f852cf527247acc2cF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74535758c8174566a0b5bd98711e3c27t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66184eca342c4c1fbd3d7ac34cf1b0a2b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15da3eaed456413aa4ae0bd887229892J.jpg"
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+﻿{
+    "info": {
+        "ID": "596adeae6dfe5c3f1bbb0541743d7a70",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 13:49:21",
+        "第二层SKU数据": "",
+        "货号": "GY-W1910107379",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 795534116,
+        "普货模式": false,
+        "商品简介": "尺寸：20*5*13cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "New Women Soft Pu Leather SHoulder Messenger Armpit Retro Lady Pillow Bags Purses And Handbags",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S37cbbb936b9740d9b01f9a79cf7f48ffJ.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1e72443296e843e194dfb397dd1548ceE.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S74ce02746eda446692aab8911a65b065M.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd69d8b8a807e44c484d80e05ba902880T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c0b15d33ba34a53822400d78f8fff5ei.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ff4cafc5edf458b8fa51567979505abh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e8a34cac7a145c4a93b57a7844fe97db.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a1c56267a9c4a45b0a71e227efcd26dO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77f640595e3942d590e65dce3713fc4bE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad87d1e129b846e1a70fdf5272fec1d7S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa250c877c585406293c9f8546b1c0212z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78d8de3eee07420486ead1f762cdc417J.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S277149e7382441e2aff52ad505d18b76F.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S724424eb91564411a94b3f3e16b3b3dbq.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8c910f06f3234109bf93a38739714a66q.jpg"
+            ]
+        },
+        "细节": [],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc814f74f25534c52b7fd60ce90c050ff8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69af163b8c81426f99da3ad1c5860feed.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4f7ee65e51145c6986e02a50d92c92aK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S379ecb677c9f4293aa2e1ec12912e837M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71d65a222413457fbdf592f66853d9fb3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fcbc0bdb0504651a2cc711af5bfa0ecC.jpg"
+        ]
+    }
+}

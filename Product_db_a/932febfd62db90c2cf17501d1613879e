@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "932febfd62db90c2cf17501d1613879e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-11-20 13:29:15",
+        "第二层SKU数据": "",
+        "货号": "DG-177077422",
+        "进价": "155",
+        "利润比": "100",
+        "品类": 1007,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "腰带皮带 高质量，重量：0.35kg，材质：皮，尺寸：100-125cm 宽度：3.5cm",
+        "性别": 0,
+        "修改的时间": "2024-11-20 13:29:25",
+        "原普货标题": "Retro Small Belt Women's Jeans Belt Thin Black Decoration Minimalist Belt Soft Summer Fashion",
+        "质量星": 2,
+        "重量": "0.7"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S17c5f7ad5d0d47ef8f721df4289ed70be.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seae7e3ecf8f440c18cb1bcda4921c740b.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se8a65108be374f2f8028a69e5d979689q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc045cae624414064a84c273f41eacf67u.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1f86aa481c58429380c588ec63d59d908.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc21e10402498416a840503e95eb3974b8.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S02ad121e36704290a01ed29110677342k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8809135095c1455dbc694040d165ac4di.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8115538351f4b67a8e66d65d636f484r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f86aa481c58429380c588ec63d59d908.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6053faee5b054581a24a951da559d623W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37c88799713541e2b340efced18ad4833.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8809135095c1455dbc694040d165ac4di.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc3711b5305f44c02b9e2ef84e8be133bh.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S42e587ff4f614226bcb022bedbd10ae2q.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sbe55ad8052a34949baa6ecedada4f86ej.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf848611b06f843d3a5319f2c62499fccU.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0640f8c09a744d2b7a2afe4dc37c6e4N.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a834f83647041d0bbb2c63e5c72ce76A.jpeg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S42e587ff4f614226bcb022bedbd10ae2q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe55ad8052a34949baa6ecedada4f86ej.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd53a9bc23fba4480b88b717435d03290V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa89d6d71c86452983c36443e5ca5beds.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19184dab53e746e7982f8018e32b14429.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1b87824888f4eb38c9b2a028482d77a5.jpg"
+        ]
+    }
+}

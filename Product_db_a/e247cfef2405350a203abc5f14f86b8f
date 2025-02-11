@@ -1,0 +1,60 @@
+﻿{
+    "info": {
+        "ID": "e247cfef2405350a203abc5f14f86b8f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-21 16:51:51",
+        "第二层SKU数据": "p-5@20x17cm@16x15cm",
+        "货号": "GY-W473390036",
+        "进价": 190,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "尺寸：20*9*17\/16*8*15cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:54",
+        "原普货标题": "Chic Colorful Shiny Handbag Women Underarm Bag Simple Pu Leather Totes Bags Women Shopping Party Shoulder Bag Y2k Girls Clutch",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S349af84ccd8245dab4036082de9bbe77j.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8032baf6a67342c6b3e5faa1e2f08ccaa.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4d95760631f3481aa514b3d0e355f49bT.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9cf92f72f5514058a239bc32850dab20K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8362eae8e7c74915922923e58c9cf5109.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd300178f8d6c4983ad3aea968b6d1cabP.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4fa6c16d01144cdd9c1992b6705eaa7cU.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S09f1dbf1791946f18fd3c61bbfa7391cH.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa288c331309e49cbb13b96bbe7a6350ah.png"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3cf40f77a0d84bd2863633ca0ccfce9bq.jpeg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5c89bda3d9ac419e8329c8aeed99fa5aN.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b0967b27eb5489e9f6e39423b6ecaa3C.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b90b05833ce4a1da3fc5eed384a1afch.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S11c73b096484452eb9b16375bdfa7ee2q.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b70886348564ce68012802687c4a011S.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f571b2bac174e7281bab7688493c1056.png"
+        ]
+    }
+}

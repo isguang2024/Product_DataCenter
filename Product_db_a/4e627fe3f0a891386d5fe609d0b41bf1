@@ -1,0 +1,84 @@
+﻿{
+    "info": {
+        "ID": "4e627fe3f0a891386d5fe609d0b41bf1",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 16:05:04",
+        "第二层SKU数据": "",
+        "货号": "GY-W1413305305",
+        "进价": 75,
+        "利润比": 100,
+        "品类": 1007,
+        "品牌": 577247229,
+        "普货模式": false,
+        "商品简介": "牛皮",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:18",
+        "原普货标题": "Dual -use Designer Belts For Women High Quality Knot Soft  Leather Waistband Female Waist Wide Coat Corset Belt Cummerbunds",
+        "质量星": 2,
+        "重量": 0.5,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S320999f1d69545fabe82fc885dd15b151.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sacc1498aebb84b39bccc4329879963c69.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c3887d11d414ebf9f5957dd7f05f36bK.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se6bd20ee625f4092a99a3555bcd67d9ec.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a351a0f29894ee18981a3e92f36e158i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd20b81a6249144649f1e059eff2716fb1.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa55b406a5bde4c1aa67336ab48e27f1cB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa92d0a4baef847009ee61eeebd30cbbeN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe9ef8ddc789454385e103072fa5c5a2X.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S913fe6e301c945fa9a56177866781f67t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S76ffd7973c7d44388deca85208a42ef0V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf55e846d03b746359cb11963f2838d62X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6abb9f70339b440d800363a6e11c76dfx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a8b8eb2dc1847c1b34127d9f6d1f2c9F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f2274bb1e214164bb3460d83ced52a6d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S492d9b6bd0be4928a84fafd537cf644ef.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9909538df9245e6b3bf69c55c677cdcY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe9ef8ddc789454385e103072fa5c5a2X.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb2763c8d02c54bc6a11ce62c69d3aba2p.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S270ada3ddfad4a719aef00a0399c0998N.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S5c18ae5480274dd39d7d68ab0b3f2fb9j.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S65009d1f773f43f1a95304f5600eda83U.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S36882e918b8c43ffb617fa7d62ca4865P.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4d42a2c3809d480596c1ac383de81c71M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S934e5e7e7af7419dae30b35157e9b90fq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See35d2fb5e1d48588d039b73eae13c0b1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5865f80fd6c2458bba086fc7f06ce02ck.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S667af48e62bd4c88b8d95d195764b98dh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ba4bc5895e24f50ba826ce93274e595t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c3f5faab1ec4bab8349cf1eb4a485e13.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f9d30e395d74b08b348973a78b86138t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21c542a9f8ea44b18609142882ab27f8D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97a602c950b049638c5a142b395b16c8H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb481f93323b0444e970c643f627c56fdf.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S25a74a0d222b478d9a7fe0253dbe0827w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0592a129bcc441be853d0638159cab09B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb554ef29ca645768ae761a27e239daec.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd95e69a402e54d5a89f08c4c883d6046G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7ff6b1e5fbe42b6a1cbe645f8d171c09.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6763e42f93bf4346b4a8a55c33737ffc6.jpg"
+        ]
+    }
+}

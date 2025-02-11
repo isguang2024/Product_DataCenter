@@ -1,0 +1,67 @@
+﻿{
+    "info": {
+        "ID": "a6df68f5ffeee69712c747d90baa7858",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-31 15:43:54",
+        "第二层SKU数据": "",
+        "货号": "GY-W1869589877",
+        "进价": 105,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1898907760,
+        "普货模式": false,
+        "商品简介": "尺寸：19*6*25cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Nylon Shoulder Bag 2024 New Summer High-capacity Women's Crossbody Dumpling Bag Versatile and Niche Design Messenger Bag",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se7e8d22a8adb4a3383fce4d07f689599z.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0b4031c9d714ff4a091a259282e7a1aJ.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8d83455113d74fc3ac5910489886a7aaj.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8d83455113d74fc3ac5910489886a7aaj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3d6a723b5b34f28b7d02e4605441fc38.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81c2d200d840483392da018ab73f9b30L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72d16415a01e40da94892da1b099a5157.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S275e41458f4e443180072ede1ecc2b74L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9140fbdfd40425f829da46a3e43c9c5e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S95ae3d0c49e3499c9157786a400f88efH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ac2eb7fa82d4bb79466e30669b5f07ah.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d2fcfc3337c430aaccc42a4e47ba963v.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8d83455113d74fc3ac5910489886a7aaj.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S68dde93123364b869361f18754f39ebdu.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sb3bfbae4b1154f62a86b3881ed8fc2e0n.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S538e4e7a07c344bfbe45e9b9d61acde2L.jpg?width=750&amp;height=826&amp;hash=1576",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e6e3d4cdc644be591338c9f5a654bce3.jpg?width=750&amp;height=1390&amp;hash=2140",
+            "https:\/\/ae01.alicdn.com\/kf\/S43fb6ac319c54496914f1b9df9926f55h.jpg?width=750&amp;height=924&amp;hash=1674"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4e88bf4ea10f4727add2352608181b6az.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S84a0ea3eaabe48148eff2557fe54cca6x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21d178a41067472493cd07ce87ef7caaq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S632f99a97ed9459db581d7de4981ca3cZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S297385e8cd5f46bd89d15618236bb1f1D.jpg"
+        ]
+    }
+}

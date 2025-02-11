@@ -1,0 +1,81 @@
+﻿{
+    "info": {
+        "ID": "f15bfc0d2cc39eefdd0aede81df4a673",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "GY",
+        "创建的时间": "2024-07-24 19:27:24",
+        "第二层SKU数据": "",
+        "货号": "GY-W485493201",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "size：20×14",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Large Solid Color Simple Large-capacity Twist Shoulder Bag, Daily Messenger Bag, Oxford Bag, Handbag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4e4cb3172b74b90affdebd8835190cbq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ff609dbe1e3435baaf57fae64898b19f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S840ced6bef584b2e9b6bd05c89d493b6f.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd2e705cc5ac4b88b3cc88cd7544cea8o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29db4462a5ef4f4290ceef35e9b3001eE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6017dbf05a5f4a9d9362c9dcff3d5d4dN.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4700ede278c042d6a72963a7d83147ee1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S511fd2d1424f4f819a933bf576cf98714.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc53ad727168043e981e4796eda619fd3E.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S81efc8c9dd5b446a9af08aca4dcf228bJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbea3959481e84d228d402643a4832c848.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b6cda339dd74ead880333aff4c2b49dK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6087e3bfe2f9474ba7c4f1b51da6fde67.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6900e2c88da44b76a64e936d2345535dg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb41f283d9ff46b0af7a55f892218431B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S710e27e94ede49adbd12a39eb8ebf0bfk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62e517c7b362477fb9b17e68ee61574bF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb32a0ab0c8142b0a31e6e1b1e5e55a0h.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf8139c04d23f4fc689a5864e915381c9u.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf38783f8b61e4fbfbc934cdaf8fa1f1dw.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd2f337aef11946acb89e31c5ff11ac7ds.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd2f337aef11946acb89e31c5ff11ac7ds.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd2f337aef11946acb89e31c5ff11ac7ds.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5dcb53a22e849bcbe43effd14c1cf6eQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S676d61bada564e5c8aff751970eea2c1R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7fa58e9fd9f64d6d9e6ba0d4a7078818s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0903798ac8e4434ab9d12cf5c749631fS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seab86a93cbe244e6989078afb45ad4e8h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43f1f664a7954771b6da10a1521691edS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3876d929de2f4249aa8892a6148adfa6P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43493f415e87429aa6c8cc6be7d0d2697.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd447706d18a48ae8bcecf7787f8f045y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6cff7dc952154c9a9d2016ace03fdb86S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b392845f584446b872325838023eb5dT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3677a1b6ad9b4ade9e466504853443c21.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10dfe4ed65994a32a4ffe700ce6e76d43.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf939ca781cef43b7a835e0aacc9714f8F.jpg"
+        ]
+    }
+}

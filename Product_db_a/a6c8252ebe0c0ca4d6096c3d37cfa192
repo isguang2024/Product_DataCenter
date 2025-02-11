@@ -1,0 +1,84 @@
+﻿{
+    "info": {
+        "ID": "a6c8252ebe0c0ca4d6096c3d37cfa192",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-07-05 10:32:50",
+        "第二层SKU数据": "",
+        "货号": "DG-143497325",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "邮差包，重量：0.76kg，材质：头层皮，尺寸：24x23cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:52:07",
+        "原普货标题": "Small Drawstring Flap Backpack Women Mini PU Leather Textured School Backpack Fashion Travel Commuter Bag Girl Bakpacks",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S679b86a5c5854c8bac63cf34099be51fB.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se733408188444a21b8c6aef6ecf80fe0u.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S47a9bb37f2564911b7a740f6ca0b91ff8.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd598ff0d44f04680a75a5e04a5384841e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d1b7245d6f446d2bb6e0c1d436db562k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce2eaaf081fd4ae293c90ac1388476b4Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9524928ec2024194bbdcbf06ff1399e8M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb08263417ff1479f9f7f9d8120c65ebb0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08c9813e60f34e6eb2fa737e118b16720.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3417bf0041524a329360ce8228b5c072g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42c72bf45314449e90164b5e92de0cf92.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7bd3d9b50525476f80d00af55a6b3f12w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S411d44f73d7645b39dbb20d55f8c92c7V.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S47a59f1280ea47979dac62c7cd20792dN.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S435c13daf43a45a087444cced7e290f6J.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S89f9e747bb2c41408d38485d23497f2fx.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8c6d4808fbd2440a973296aba80b0b57n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S188a642230744c8485b7650c2d915c0fA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa24d17389d8e44c3aa960a12686d03473.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ac5564cbc41409698db981b3e0aa8da3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04113c5711cb40329010b28fbc8b25b4z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S012a92c5b94e4aa58c5c416bf92dd70aR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c365c3c3cbf46a296edf76064dea048e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3568a22162c744d592d21a58b47762857.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf4c9177c8204b67a5a94f62aecd7ba5Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a7765638f4d4ae887a3a0ecf32942c1L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15d5bfb9555249ecac621db82fd0a716D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa203a4a3003a4eee936279d7e74e91b1u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8aebf0ef3f43491796336dee22aaeb92T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scaa8550a1dca458cb39308c3ac49fef7q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68196af545a44575981cf9e9bde7ad91D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa11d2df9d3174e248e58819fb624c5210.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1a4ceca9051460aa1ff29548471bc14E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72ae9c3098514de2a584d7e41c0a6488P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6c58c4c2fcb443fb97c7e849c860bf8J.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1d3897878ac04684b3c7d066dd0d9624J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1628affb54c74bd9b07115baa20874609.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdec53f9051954349b38f33638931f3d8q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac1c41b691c1498ba7f246a9fe96c809X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35afd8b3623d47c08dbefb83e9d10ca4r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b11d32c02854219b1e4bbe02d75ad60f.jpg"
+        ]
+    }
+}

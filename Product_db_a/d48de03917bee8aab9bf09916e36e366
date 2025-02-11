@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "d48de03917bee8aab9bf09916e36e366",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-12 16:51:45",
+        "第二层SKU数据": "",
+        "货号": "GY-W408798517",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸16 10",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:01",
+        "原普货标题": "Shoulder Bags Women Underarm Chain Bag PU Candy Colors Zipper Summer Simple Students Daily Casual Handbags OL Korean Style Chic",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sef625f05604444e2a17d63902cca0716Z.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saaa2549fc7c945d881430de274a43ee5u.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6eafd21439904325b358959a57b7d657o.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S740e8c215b7d4be7a11b2b8b78447aa6H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c3e319d24c24a8cb655df9f24e15cc4G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d41a3bd54374c8a8962d3223c657ca1N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se998eb9674b243f498a66ddbfb6e193ds.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3e962471ea64acc88ce8f1b80f2869fy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1998323368dc44dba7f608cbd2bafafdt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b54aa5924a345969b954c1202b89d7dh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3525adbffdca43569eb82e1e55f71c66U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7955fb278664449d92bb3b091bb0d620F.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S740e8c215b7d4be7a11b2b8b78447aa6H.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Scc594256b92f4774b02cd9dcb7582965G.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sb3a5a56d7a3a419c94b1d8c7284abf8d2.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa74b86aaeeed4b7098b79ae2392de205T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa28ccda3ff746de869b85f1744ff613g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S424f4c3f69734c6d997322eef0df23baX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6d7c1ebeaba4c0f860c78590978aa9a6.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S78c47060f43c475aa9264839ad9b0918z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd691513023d442048fb5853bf5d693c0j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8fc64a60a6a43288a4f68f81cdbcc56T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5e8e40c11e64291900ba661158e026a6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S166059a3ffe846a5bea50928922481c1F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51296675ffd5473b8a83d6669d656fbf8.jpg"
+        ]
+    }
+}

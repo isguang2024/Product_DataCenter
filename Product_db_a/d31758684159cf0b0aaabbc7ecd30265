@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "d31758684159cf0b0aaabbc7ecd30265",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-08 17:03:38",
+        "第二层SKU数据": "",
+        "货号": "GY-W211068004",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "size：20×14",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:07",
+        "原普货标题": "Canvas Small Bag Vintage Women Handbags Small Ladies Shoulder Bag Female Portable Mobile Phone Bucket Tote Hand Bag Purses",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scd2adc918f8547efbc8b95dfe6a62c0a9.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5b4289b8778448d4ad6ddbe36700236cU.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S13b038f011eb4e04bd3c96cf526d1aefq.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8f2691dc0c0d4c17898fd412dd7d571ax.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a5e5253ab3540799c09dc8e635020b8S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3596a4ffb9fa423294c98181cef1edb1J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a971e0cdc8d4c15ade6e4c52592f850H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96efabd7beb0412d91258e3a05f4ea9dB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59a70cf456124987a3844a494148def0y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ffc7832c43e458cbf909fa3a5337f77W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61a26390e54e468a8266abc22a525e5aV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se76476c9efc04834b7841ed27dd798c23.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7f04b8a52e2749b283164e6181d7e1fc2.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd5996b337c134c06a4336f6fc2c29781g.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S5c3ac137c32b4200a69b100df48333e4l.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/H2e577563b9bd47c79a51c5936ec28d933.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S103b23b0ed494db0b9904904e1a1b9c0g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S32d384d4408a4497b2e1cbe8a76f52e2q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c3ac137c32b4200a69b100df48333e4l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57465428cd6644efa737b2c206478506V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26e42aef9ff04bd7ae62c150bc748582f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40c4814f3f7442618a36df5c2ebe541en.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d1c1178ae264f5bb99cc5f4e1efe205T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c16fb1e7ee54a2e888aa3efae665bd3m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se16e48c4ec0e44eda819ec71ec8dc7cd8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21324c6e763b45c8b3701b2cefd2475bu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5185be6a0a854f5fa64840a659311326k.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5c3ac137c32b4200a69b100df48333e4l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3fa9e1be6cf84082ab5c6a599ac8bb5cX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a3872e8419e4024a11e13901d314983r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26e42aef9ff04bd7ae62c150bc748582f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d1c1178ae264f5bb99cc5f4e1efe205T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5185be6a0a854f5fa64840a659311326k.jpg"
+        ]
+    }
+}
