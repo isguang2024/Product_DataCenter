@@ -1,0 +1,380 @@
+/* ===== 基础样式 ===== */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+/* ===== 容器和图片样式 ===== */
+.container {
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.image-wrapper {
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.image-wrapper img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 5px;
+}
+
+/* 图片序号样式 */
+.image-number {
+    text-align: right;
+    color: #333;
+    padding: 8px 0;
+    font-size: 14px;
+    font-family: 'Arial', sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #eee;
+}
+
+.image-number::before {
+    content: 'Model ';
+    color: #666;
+    font-weight: normal;
+}
+
+/* ===== 模态框相关样式 ===== */
+.modal-base {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.8);
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-content {
+    max-width: 90%;
+    max-height: 80%;
+    object-fit: contain;
+    margin: auto;
+    display: block;
+    border-radius: 5px;
+}
+
+/* 导航按钮样式 */
+.modal-nav {
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    z-index: 1001;
+    opacity: 0.7;
+    transition: opacity 0.3s;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-nav:hover {
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-prev {
+    left: 20px;
+}
+
+.modal-next {
+    right: 20px;
+}
+
+/* ===== 按钮和控制元素样式 ===== */
+.close {
+    position: fixed;
+    right: 35px;
+    top: 15px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+    z-index: 1002;
+}
+
+.close:hover {
+    color: #fff;
+}
+
+/* 顶部信息按钮 */
+.item-number-button,
+.item-introduce-button {
+    position: fixed;
+    left: 30px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-size: 14px;
+    z-index: 1001;
+    display: none;
+}
+
+.item-number-button {
+    top: 30px;
+}
+
+.item-introduce-button {
+    top: 80px;
+}
+
+/* ===== 底部按钮布局 ===== */
+.bottom-buttons {
+    position: fixed;
+    bottom: 35px;
+    left: 0;
+    right: 58px;
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    padding: 0 20px;
+    z-index: 1000;
+}
+
+/* 购买按钮样式 */
+.buy-button {
+    height: 40px;
+    padding: 0 25px;
+    background-color: #FF4E50;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    cursor: pointer;
+    color: white;
+    font-size: 14px;
+}
+
+/* WhatsApp按钮样式 */
+.whatsapp-button {
+    height: 40px;
+    padding: 0 25px;
+    background-color: #25D366;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    cursor: pointer;
+    color: white;
+    transform: translateX(-10px);
+    font-size: 14px;
+}
+
+/* ===== 提示和加载样式 ===== */
+.buy-tip {
+    position: fixed;
+    bottom: 95px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(255, 255, 255, 0.85);
+    color: #333;
+    padding: 8px 15px;
+    border-radius: 6px;
+    font-size: 12px;
+    text-align: center;
+    max-width: 90%;
+    width: 340px;
+    z-index: 999;
+    display: none;
+    line-height: 1.4;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* ===== 加载动画相关 ===== */
+.loading-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index: 1000;
+}
+
+.loading-spinner {
+    width: 50px;
+    height: 50px;
+    border: 3px solid rgba(0, 0, 0, 0.1);
+    border-radius: 50%;
+    border-top-color: #333;
+    animation: spin 1s ease-in-out infinite;
+    margin-bottom: 10px;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+.loading-text {
+    color: #333;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
+
+.error-message {
+    text-align: center;
+    color: #666;
+    font-size: 16px;
+    margin-top: 50px;
+}
+
+/* 添加缺失的样式 */
+.whatsapp-modal {
+    display: none;
+    position: fixed;
+    z-index: 2000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.8);
+    align-items: center;
+    justify-content: center;
+}
+
+.whatsapp-modal.show {
+    display: flex;
+}
+
+.whatsapp-modal-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 12px;
+    width: 80%;
+    max-width: 400px;
+    text-align: center;
+}
+
+.whatsapp-modal-content button {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.open-whatsapp {
+    background-color: #25D366;
+    color: white;
+}
+
+.copy-number {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.close-whatsapp-modal {
+    background-color: #ddd;
+    color: #333;
+}
+
+.toast {
+    visibility: hidden;
+    min-width: 250px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    text-align: center;
+    border-radius: 4px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1004;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 17px;
+}
+
+.toast.show {
+    visibility: visible;
+    animation: fadein 0.3s, fadeout 0.3s 2.7s;
+}
+
+.details-divider {
+    text-align: right;
+    padding: 15px 10px;
+    margin: 10px 0;
+    color: #666;
+    font-size: 14px;
+    font-family: 'Arial', sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    border-bottom: 2px solid #eee;
+}
+
+/* 动画 */
+@keyframes fadein {
+    from { opacity: 0; transform: translate(-50%, -40%); }
+    to { opacity: 1; transform: translate(-50%, -50%); }
+}
+
+@keyframes fadeout {
+    from { opacity: 1; transform: translate(-50%, -50%); }
+    to { opacity: 0; transform: translate(-50%, -60%); }
+}
+
+/* 修改body固定样式 */
+.body-fixed {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    touch-action: none;
+    -webkit-overflow-scrolling: none;
+}
+
+/* 响应式样式 */
+@media only screen and (max-width: 700px) {
+    .modal-content {
+        max-width: 85%;
+        max-height: 75%;
+    }
+    .close {
+        top: 15px;
+        right: 25px;
+        font-size: 35px;
+    }
+    .item-number-button {
+        top: 15px;
+        left: 20px;
+        padding: 6px 12px;
+        font-size: 13px;
+    }
+    .item-introduce-button {
+        top: 60px;
+        left: 20px;
+        padding: 6px 12px;
+        font-size: 13px;
+    }
+    .modal-nav {
+        width: 35px;
+        height: 35px;
+        font-size: 20px;
+    }
+} 
