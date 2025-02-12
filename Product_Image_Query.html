@@ -76,23 +76,49 @@
             color: #bbb;
         }
 
-        /* WhatsApp相关样式 */
-        .whatsapp-button {
+        /* 底部按钮容器样式 */
+        .bottom-buttons {
             position: fixed;
-            bottom: 30px;
-            left: 50%;
-            transform: translateX(-50%);
-            height: 48px;
+            bottom: 35px;  /* 统一设置为35px */
+            left: 0;
+            right: 48px;  /* 给右边留出48px空间 */
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            padding: 0 20px;
+            z-index: 1000;
+        }
+
+        /* 统一按钮样式 */
+        .whatsapp-button,
+        .buy-button {
+            height: 48px;  /* 统一高度为48px */
             padding: 0 32px;
-            background-color: #25D366;
             border-radius: 24px;
             display: flex;
             align-items: center;
             justify-content: center;
             box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-            z-index: 1000;
             cursor: pointer;
         }
+
+        /* WhatsApp按钮特定样式 */
+        .whatsapp-button {
+            background-color: #25D366;
+        }
+
+        /* 购买按钮特定样式 */
+        .buy-button {
+            background-color: #FF4E50;  /* 明亮的珊瑚红色，更具吸引力 */
+            color: white;
+            transition: background-color 0.3s;
+        }
+
+        .buy-button:hover {
+            background-color: #FF3B3D;  /* 悬停时稍微加深 */
+        }
+
+        /* 修改WhatsApp按钮样式 */
         .whatsapp-button span {
             color: white;
         }
@@ -278,45 +304,95 @@
             right: 20px;
         }
 
-        /* WhatsApp相关样式后面添加购买按钮样式 */
-        .buy-button {
-            position: fixed;
-            bottom: 90px; /* WhatsApp按钮上方30px */
-            left: 50%;
-            transform: translateX(-50%);
-            height: 48px;
-            padding: 0 32px;
-            background-color: #333333; /* 黑色背景 */
-            border-radius: 24px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-            z-index: 1000;
-            cursor: pointer;
-        }
-        .buy-button span {
-            color: white;
-        }
-        .buy-button:hover {
-            background-color: #000000;
-        }
-
-        /* 在现有样式的后面添加提示框样式 */
+        /* 修改购买提示样式 */
         .buy-tip {
             position: fixed;
-            bottom: 150px; /* 购买按钮上方 */
+            bottom: 95px;
             left: 50%;
             transform: translateX(-50%);
-            background-color: rgba(0, 0, 0, 0.7);
-            color: white;
-            padding: 10px 15px;
-            border-radius: 8px;
-            font-size: 14px;
+            background-color: rgba(255, 255, 255, 0.85);
+            color: #333;
+            padding: 8px 15px;
+            border-radius: 6px;
+            font-size: 12px;
             text-align: center;
-            max-width: 280px;
+            max-width: 90%;
+            width: 340px;
             z-index: 999;
             display: none;
+            line-height: 1.4;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* 修改图片序号样式 */
+        .image-number {
+            text-align: right;
+            color: #333;
+            padding: 8px 0;
+            font-size: 14px;
+            font-family: 'Arial', sans-serif;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+            margin-right: 10px;
+            margin-bottom: 5px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .image-number::before {
+            content: 'Model ';  /* 改为 Model */
+            color: #666;
+            font-weight: normal;
+        }
+
+        /* 添加加载动画样式 */
+        .loading-container {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            z-index: 1000;
+        }
+
+        .loading-spinner {
+            width: 50px;
+            height: 50px;
+            border: 3px solid rgba(0, 0, 0, 0.1);
+            border-radius: 50%;
+            border-top-color: #333;
+            animation: spin 1s ease-in-out infinite;
+            margin-bottom: 10px;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .loading-text {
+            color: #333;
+            font-size: 14px;
+            font-family: Arial, sans-serif;
+        }
+
+        /* 初始隐藏这些元素 */
+        .item-number-button,
+        .item-introduce-button,
+        .bottom-buttons,
+        .whatsapp-button {
+            display: none;
+        }
+
+        /* 添加分隔线样式 */
+        .details-divider {
+            text-align: right;
+            padding: 15px 10px;
+            margin: 10px 0;
+            color: #666;
+            font-size: 14px;
+            font-family: 'Arial', sans-serif;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+            border-bottom: 2px solid #eee;
         }
     </style>
 </head>
@@ -340,11 +416,20 @@
     <!-- 在货号按钮后面添加 -->
     <div class="item-introduce-button" id="itemIntroduceButton"></div>
 
-    <!-- WhatsApp按钮和模态框 -->
-    <div class="whatsapp-button" onclick="openWhatsappModal(event)">
-        <span>WhatsApp</span>
+    <!-- 修改底部按钮结构 -->
+    <div class="bottom-buttons">
+        <div id="buyButton" class="buy-button" style="display: none;">
+            <span>Buy Now</span>
+        </div>
+        <div class="whatsapp-button" onclick="openWhatsappModal(event)">
+            <span>WhatsApp</span>
+        </div>
     </div>
 
+    <!-- 购买提示 -->
+    <div id="buyTip" class="buy-tip">Please purchase according to the item number on the current page when making a purchase, and ignore the product image when creating an AliExpress order</div>
+
+    <!-- WhatsApp按钮和模态框 -->
     <div id="whatsappModal" class="modal-base whatsapp-modal">
         <div class="whatsapp-modal-content">
             <h3>WhatsApp</h3>
@@ -357,14 +442,10 @@
     <!-- 提示框 -->
     <div id="toast" class="toast">Copy successful</div>
 
-    <!-- WhatsApp按钮前添加购买按钮 -->
-    <div class="buy-button" id="buyButton" style="display: none;">
-        <span>Buy Now</span>
-    </div>
-
-    <!-- 在购买按钮前添加提示文本 -->
-    <div class="buy-tip" id="buyTip" style="display: none;">
-        Please purchase according to the item number, disregard the product image in the order, we will send the product with your specified number
+    <!-- 添加加载动画 -->
+    <div class="loading-container" id="loadingContainer">
+        <div class="loading-spinner"></div>
+        <div class="loading-text">Loading...</div>
     </div>
 
     <script>
@@ -441,31 +522,15 @@
             lastY: 0,
 
             loadImages(urls) {
-                this.imageUrls = urls;
-                const container = document.getElementById('imageContainer');
-                urls.forEach((url, index) => {
-                    const div = document.createElement('div');
-                    div.className = 'image-wrapper';
-                    const img = document.createElement('img');
-                    img.src = url;
-                    img.alt = 'Product image';
-                    img.loading = "lazy";
-                    img.onclick = () => this.openModal(index);
-                    div.appendChild(img);
-                    container.appendChild(div);
-                });
+                this.imageUrls = urls;  // 保存所有图片URL
             },
 
             openModal(index) {
                 this.currentImageIndex = index;
-                this.scale = 1;
-                this.translateX = 0;
-                this.translateY = 0;
                 utils.handleScroll('lock');
                 const modal = document.getElementById('myModal');
                 const modalImg = document.getElementById('modalImage');
-                modalImg.style.transform = 'scale(1) translate(0, 0)';
-                modalImg.src = this.imageUrls[index];
+                modalImg.src = this.imageUrls[index];  // 设置正确的图片URL
                 modal.style.display = "flex";
             },
 
@@ -665,40 +730,113 @@
 
             // 获取数据
             const id = utils.getQueryParam('id') || 'c56eac82075b89a661b6a3b6400209cf';
-            fetch(`http://api.alicdrn.com/api/mtop.server.AliExpressHomeGuide.get/1.0?id=${encodeURIComponent(id)}`)
+            fetch(`https://cdn.jsdelivr.net/gh/isguang2024/Product_DataCenter/Product_db_a/${encodeURIComponent(id)}`)
                 .then(response => response.json())
                 .then(data => {
-                    if (data.stat && data.code === 0 && Array.isArray(data.data.imageContainer) && data.data.imageContainer.length > 0) {
-                        window.ItemNumber = data.data.info.货号;
-                        window.introduce = data.data.info.商品简介;  // 获取商品简介
-                        imageHandler.loadImages(data.data.imageContainer);
+                    if (data) {
+                        // 隐藏加载动画
+                        document.getElementById('loadingContainer').style.display = 'none';
                         
-                        // 设置货号按钮
-                        const itemNumberButton = document.getElementById('itemNumberButton');
-                        itemNumberButton.textContent = `${window.ItemNumber} (Copy Item No.)`;
-                        itemNumberButton.onclick = () => utils.copyToClipboard(window.ItemNumber);
+                        window.ItemNumber = data.info.货号;
+                        window.introduce = data.info.商品简介;
 
-                        // 设置简介按钮（只在有简介时显示）
-                        if (window.introduce) {
-                            const introduceButton = document.getElementById('itemIntroduceButton');
-                            introduceButton.style.display = 'none';  // 默认隐藏
+                        const creativeImages = data.牌货.SKU创意图 || [];
+                        const detailImages = data.牌货.细节 || [];
+                        const allImages = [...creativeImages, ...detailImages];
+
+                        if (allImages.length > 0) {
+                            // 显示货号按钮
+                            const itemNumberButton = document.getElementById('itemNumberButton');
+                            itemNumberButton.style.display = 'block';
+                            itemNumberButton.textContent = `${window.ItemNumber} (Copy Item No.)`;
+                            itemNumberButton.onclick = () => utils.copyToClipboard(window.ItemNumber);
+
+                            // 显示底部按钮容器和WhatsApp按钮
+                            document.querySelector('.bottom-buttons').style.display = 'flex';
+                            document.querySelector('.whatsapp-button').style.display = 'flex';
+
+                            // 处理简介翻译
+                            if (window.introduce) {
+                                const introduceButton = document.getElementById('itemIntroduceButton');
+                                utils.translateText(window.introduce)
+                                    .then(translatedText => {
+                                        if (translatedText) {
+                                            introduceButton.textContent = translatedText;
+                                            introduceButton.style.display = 'block';
+                                        }
+                                    });
+                            }
+
+                            // 先保存所有图片URL
+                            imageHandler.loadImages(allImages);
                             
-                            // 尝试翻译
-                            utils.translateText(window.introduce)
-                                .then(translatedText => {
-                                    if (translatedText) {
-                                        // 只在翻译成功时显示
-                                        introduceButton.textContent = translatedText;
-                                        introduceButton.style.display = 'block';
-                                    }
-                                    // 翻译失败时保持隐藏状态
-                                });
+                            // 加载创意图（带序号）
+                            const container = document.getElementById('imageContainer');
+                            creativeImages.forEach((url, index) => {
+                                const wrapper = document.createElement('div');
+                                wrapper.className = 'image-wrapper';
+                                
+                                const numberDiv = document.createElement('div');
+                                numberDiv.className = 'image-number';
+                                numberDiv.textContent = `No. ${index + 1}`;
+                                wrapper.appendChild(numberDiv);
+                                
+                                const img = document.createElement('img');
+                                img.src = url;
+                                img.alt = 'Product image';
+                                img.loading = "lazy";
+                                img.onclick = () => imageHandler.openModal(index);
+                                wrapper.appendChild(img);
+                                container.appendChild(wrapper);
+                            });
+
+                            // 添加分隔线
+                            if (detailImages.length > 0) {
+                                const divider = document.createElement('div');
+                                divider.className = 'details-divider';
+                                divider.textContent = 'More Details';
+                                container.appendChild(divider);
+                            }
+
+                            // 加载细节图片（不显示序号）
+                            detailImages.forEach((url, index) => {
+                                const wrapper = document.createElement('div');
+                                wrapper.className = 'image-wrapper';
+                                const img = document.createElement('img');
+                                img.src = url;
+                                img.alt = 'Product detail';
+                                img.loading = "lazy";
+                                img.onclick = () => imageHandler.openModal(creativeImages.length + index);  // 使用正确的索引
+                                wrapper.appendChild(img);
+                                container.appendChild(wrapper);
+                            });
+
+                            // 处理购买按钮和提示
+                            const shoppingId = utils.getQueryParam('shopping');
+                            if (shoppingId) {
+                                const buyButton = document.getElementById('buyButton');
+                                const buyTip = document.getElementById('buyTip');
+                                
+                                // 显示购买按钮
+                                buyButton.style.display = 'flex';
+                                
+                                // 显示购买提示
+                                buyTip.style.display = 'block';
+                                
+                                buyButton.onclick = () => {
+                                    window.location.href = `https://m.aliexpress.com/app/product_sku.html?productId=${shoppingId}`;
+                                };
+                            }
+                        } else {
+                            throw new Error('No images found');
                         }
                     } else {
-                        throw new Error('No images found');
+                        throw new Error('Invalid data format');
                     }
                 })
                 .catch(() => {
+                    // 显示错误信息，隐藏加载动画
+                    document.getElementById('loadingContainer').style.display = 'none';
                     document.getElementById('imageContainer').innerHTML = '<p class="error-message">Product not found</p>';
                 });
 
@@ -711,18 +849,6 @@
 
             whatsappHandler.init();
             imageHandler.initEvents();
-
-            // 处理购买按钮
-            const shoppingId = utils.getQueryParam('shopping');
-            if (shoppingId) {
-                const buyButton = document.getElementById('buyButton');
-                const buyTip = document.getElementById('buyTip');
-                buyButton.style.display = 'flex';
-                buyTip.style.display = 'block';
-                buyButton.onclick = () => {
-                    window.location.href = `https://m.aliexpress.com/app/product_sku.html?productId=${shoppingId}`;
-                };
-            }
         });
     </script>
 
