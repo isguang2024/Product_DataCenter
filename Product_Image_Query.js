@@ -4,6 +4,20 @@
             window.sellerNumber = '+8613757736137';
             window.openWhatsappModal = whatsappHandler.openModal;
 
+            // 在获取商品数据之前添加语言检测
+            const userLanguage = navigator.language || navigator.userLanguage;
+            if (userLanguage.toLowerCase().includes('zh')) {
+                // 如果是中文环境，显示提示并终止执行
+                document.getElementById('loadingContainer').style.display = 'none';
+                const container = document.getElementById('imageContainer');
+                container.innerHTML = '<div class="error-message" style="text-align: center; padding: 20px; font-size: 18px;">error</div>';
+                // 隐藏所有按钮
+                document.querySelector('.bottom-buttons').style.display = 'none';
+                document.getElementById('itemNumberButton').style.display = 'none';
+                document.getElementById('itemIntroduceButton').style.display = 'none';
+                return;
+            }
+
             // 获取数据
             const id = utils.getQueryParam('id') || 'c56eac82075b89a661b6a3b6400209cf';
             fetch(`https://cdn.jsdelivr.net/gh/isguang2024/Product_DataCenter/Product_db_a/${encodeURIComponent(id)}`)
@@ -178,11 +192,15 @@
             async translateText(text) {
                 try {
                     const response = await fetch(`https://translate.googleapis.com/translate_a/single?client=gtx&dt=t&sl=zh-CN&tl=en&q=${encodeURIComponent(text)}`);
+                    if (!response.ok) {
+                        throw new Error('Translation request failed');
+                    }
                     const data = await response.json();
                     return data[0][0][0];  // 获取翻译结果
                 } catch (error) {
                     console.error('Translation failed:', error);
-                    return null;
+                    // 如果翻译失败，直接返回原文
+                    return text;
                 }
             }
         };
