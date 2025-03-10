@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "6cb168ea5b15c33bd3139b297bbfc364",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "ZH",
+        "创建的时间": "2025-03-07 13:54:34",
+        "第二层SKU数据": "p-200000124@34@35@36@37@38@39@40@41",
+        "货号": "ZH-W2087107743",
+        "进价": "105",
+        "利润比": "100",
+        "品类": 1004,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "皮革鞋底饰 幸运星符号\r\n意大利制造，跟高6.5cm\r\nsize：34-41（34\/40\/41订做）\r\n",
+        "性别": 0,
+        "修改的时间": "2025-03-07 13:57:02",
+        "原普货标题": "Heels Sandals 2025 Spring New Pointed Toe High Heels Mesh Upper Breathable Comfortable Banquet Wedding Shoes",
+        "质量星": 2,
+        "重量": "1.5"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8a534f3678554e6aa3c47888bfa63b2c7.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S58f5a9d5b63c4dab894ca6bbe173a5b9N.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S64d86a12f97f4fe6ad48d129fa727021L.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7ebccafb34d646c2b6db827f7028f5d4L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad58270b732e473296c44ecfcb0535cdc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S83fe8471f036439b83cc38c388cde970h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c2c52d1cd3f4ba688878e73465e73204.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a36032d764f4ff48fabea52b7d73bf5R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd74e65bd0c244c1d9f36da636fa61485u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbfe80094b7044df995e81bb1b2e204fe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6d22f2af4b1452eacd608522bc4015e6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3075a151a2d4634ab57e36ac28b1b06f.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S83fe8471f036439b83cc38c388cde970h.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf30792aef555449d8fe8eb06f114ac23x.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3681b05d78f54a44b4e36d2704c74ba6N.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se35d4f435a9d443bb3a5ee37885b350al.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa55449daea5146f59b9dadd90c66e73a5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3752d3b92c944684855350478a535070l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S753d47576fb7416fa5629ab6619a15ffE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8260cd38286448b9b188509388f2089g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1704cbcdba094790aabe33bc31ccef90D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c921ba96130451b8b21716eef3eb88au.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2253f6e652ca478fb78a0307a0d0a51bc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa770088f1cb84fea82a8f61358023a187.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8368c2da097044dfaf98105ac9a434dfv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7fea285ca2e4791841a2bc4f4dc62c0L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se379aa1267074d658fc1339da18c03a0V.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3dbe312570254edb9928f4626b6f1065D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2299d81b78cd4c62851f9f547b260d58a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2868b5a0bd9b4402aad6e76acd6fc6eca.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03391e45bdcd4fe9b7cfb7ff165359ab7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3681b05d78f54a44b4e36d2704c74ba6N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50dc27cc284f416086316d7c5e0e4d8fs.jpg"
+        ]
+    }
+}

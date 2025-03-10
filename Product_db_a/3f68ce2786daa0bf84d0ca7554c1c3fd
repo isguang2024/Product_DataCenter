@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "3f68ce2786daa0bf84d0ca7554c1c3fd",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "ZH",
+        "创建的时间": "2025-03-07 13:24:39",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "ZH-W1870558732",
+        "进价": "105",
+        "利润比": "100",
+        "品类": 1004,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "鞋底镶有G字母钻，面料：牛皮，内里：羊皮，\r\n跟高：2.5cm 6.5cm。\r\n码数：35-40（41.42.43 .44定制）。",
+        "性别": 0,
+        "修改的时间": "2025-03-07 13:25:00",
+        "原普货标题": "Colorful Big Size 33-45 Thin High Heel Stiletto Women Ladies Wedding Pumps Dress Shoes Party Evening Shoes",
+        "质量星": 2,
+        "重量": "1.5"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa442b982f5254b818ae1f663ae82006dM.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7d6bd6759e1842bb8e6ec87b38d906d4N.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3d108c72f816482eb4ee8b49a5c605307.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sff1e9c900708487bb69b931ca181641fQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a08c4ffc2da44b6985cdf3d1fec98492.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0b1cb7270f3451089dbbcea7f68bc3dy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S84a07eb2142d4314bd80fddb86c2f9e0T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S588398c008eb4b51a5564072302f881fo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6942d8c50cb4147aee8f2a3da79b03eZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd22cc385ab7a4556bb0cc8f8a013fe79Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d108c72f816482eb4ee8b49a5c605307.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S3d108c72f816482eb4ee8b49a5c605307.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S55edae4e33dc43b1bdca410216a12ea2E.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/A08ed9328804c4eb48e858639248f9a48A.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/A7c13db1c8c7f45fc85cab800e4a6d5c4c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Af71a1fd12a33407f95722b6054e1e28cl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A1cb9491365964048a294b30c55ce070fR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A8dd58c1ff15645b7b646f5d82a9ec9ceT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A656fcd94aea14d7c8b0ea0760b388fcfx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A70effa425bdc4f819ef60189090a1a77e.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/A1cb9491365964048a294b30c55ce070fR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Af71a1fd12a33407f95722b6054e1e28cl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A7c13db1c8c7f45fc85cab800e4a6d5c4c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A8dd58c1ff15645b7b646f5d82a9ec9ceT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A656fcd94aea14d7c8b0ea0760b388fcfx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A70effa425bdc4f819ef60189090a1a77e.jpg"
+        ]
+    }
+}

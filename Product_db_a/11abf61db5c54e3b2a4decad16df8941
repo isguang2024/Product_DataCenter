@@ -1,0 +1,82 @@
+﻿{
+    "info": {
+        "ID": "11abf61db5c54e3b2a4decad16df8941",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "ZH",
+        "创建的时间": "2025-03-07 13:51:32",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39\r\np-326@Heel height 1cm@Heel height 6.5cm@Heel height 10cm",
+        "货号": "ZH-W1891438800",
+        "进价": "105",
+        "利润比": "100",
+        "品类": 1004,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "意大利进口真皮大底 \r\n真皮包跟 1cm 6.5cm 10cm\r\nsize：35-39（34.40.41.42定制不退换）",
+        "性别": 0,
+        "修改的时间": "2025-03-08 13:39:36",
+        "原普货标题": "High Heel Women's 2024 New Korean Edition Thin Heel Shallow Mouth Round Toe Low Top Shoes Waterproof Platform Large Heel Shoes",
+        "质量星": 2,
+        "重量": "1.5"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S739fffc1b3a34a5da520a0f0b882d6141.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S43b047c555574ec6a5ddcb028a3d3de9D.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se36d2adb2b1d40b1b39995928632786eO.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb605b56e23447b68e9f8e6141bc8badk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec846e6995fa4bddbf9e5ae2909334ec4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65496f4c76e046328c2f638a70653f39Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb97a4807c885417d9e1992ce9651e013q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab2fbbb7ddcc41de865f74d9b516e59cl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb9d16966c5d4741b4d39bde5883a68fW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se36d2adb2b1d40b1b39995928632786eO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5303e9274b0a4573a4e4340a797cb474h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1863fe7ca62d4a9a9f7f214f385db2be5.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb03df310083b43b1a670d9fcf6f2aba4X.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1ef702e742274a9f9a8b1945af2c88465.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6c1968d2ade3446e8d279c89f56bc27f7.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3d355a0c60524a03a1673317a2b2b2bbf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S90cc3491e3a0473f83c2dcb4c2ab1580D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2c03979f0e042c087ac29d41720016fY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc5be820eb9c489f91ef161d663852dba.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd798ec08a94d418e906b5e2d3993bea8K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d9314cefde94601ac2fc53caa37c53dz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe99d01e819c4010b80ffde5e884a1028.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca89ae4deafd469fa95074762312fc4b4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd45ff783e32b4bfd992c0da00c89217bf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See8a4185689c4ba0867dfa5c668da814B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se386cab1920e4237b27ed18741b6023eB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab9de941f6e945a38fc33d683718f869G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6ba4087e1354f2981008fc5d3bd961ds.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d9e215d1dfa4dea84ae7bc29ed326880.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c4e058cbcff4c02a1a20dec49988ac9C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26b6c87f3f174c98b3e45e41e2761921H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb178f3abfd284c469c7f2f686679b92dY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03ea43213a5b49218f27003f58bc3a3bu.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd798ec08a94d418e906b5e2d3993bea8K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41bef6f24c9a4005a71fc237de7ae6455.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S90cc3491e3a0473f83c2dcb4c2ab1580D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See8a4185689c4ba0867dfa5c668da814B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se386cab1920e4237b27ed18741b6023eB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03ea43213a5b49218f27003f58bc3a3bu.jpg"
+        ]
+    }
+}
