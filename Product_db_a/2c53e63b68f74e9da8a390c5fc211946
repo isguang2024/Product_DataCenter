@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "2c53e63b68f74e9da8a390c5fc211946",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2025-03-10 22:03:38",
+        "第二层SKU数据": "",
+        "货号": "GY-AAA",
+        "进价": 80,
+        "利润比": 100,
+        "品类": 1002,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2025-03-10 22:03:38",
+        "原普货标题": "High quality Genuine cowhide women Luxury bag Women's handbag Crocodile patterned real cowhide bag fashion Bags for women",
+        "质量星": 1,
+        "重量": 0.800000011920929
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8835942df409497e820c823b0facd34bQ.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb31ecb67421f48e79dca66cbb633b247G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a31bb1162ab4e2abadbe4bd1284096cD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd93513bc7bc0409ca208bdecb32f386dW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8436fc24728e400eb18c532788534b53p.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S82e9d722ad164632bbeabcd9657ffcafX.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S82e9d722ad164632bbeabcd9657ffcafX.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S82e9d722ad164632bbeabcd9657ffcafX.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S55a3fb40035a4b479ed31ca46742fb0eF.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sff3426b44497480494fd2a1185dd5142d.png",
+                "https:\/\/ae01.alicdn.com\/kf\/S744f5a7282f94640beb66d28943ca543k.png",
+                "https:\/\/ae01.alicdn.com\/kf\/S83f50777916248d0b597525cac6b0fceT.png",
+                "https:\/\/ae01.alicdn.com\/kf\/S56ac2820bec448c0966fea04a46998cdy.png"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S15ef998395f24ab290389bf3fbc2504cN.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3212e8d240141e082d4614d0b7af1f0l.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S4aaadabf31634cdaa63a7eea6e3c57e3W.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S93cd2d03c9da406d8e723e86670e96e82.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S0bd3324b5d824d00900f5fcc4f96da50F.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7bccee612b04f90adf0f38f754713e3Z.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ddc80744805490b9d3c98602c316385C.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S22d17ba6e727408da8cc8955156bdd67K.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f3a6bc0481346c88110206ba75f51der.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0c9ed148ab942b7907a64d068604251R.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S606639ff8dc44d0eba3a747d16149c33s.png"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sff3426b44497480494fd2a1185dd5142d.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S744f5a7282f94640beb66d28943ca543k.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a26c51d15b44f2b99272730a22c5acah.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S83f50777916248d0b597525cac6b0fceT.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdacd4b32ede047ba85c1a379e41ac8109.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S56ac2820bec448c0966fea04a46998cdy.png"
+        ]
+    }
+}
