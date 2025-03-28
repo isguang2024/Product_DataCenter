@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "fd2cb79f6a9563b1e41ddad1ccab494f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "ON",
+        "创建的时间": "2025-03-13 13:34:11",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "ON-W103047723",
+        "进价": 105,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "标准码数：35-40\r\n颜色：黑色\r\n跟高：9厘米",
+        "性别": 0,
+        "修改的时间": "2025-03-13 13:34:11",
+        "原普货标题": "Ultra Fine Steel Needle High Heels Auto Show Metal Heels Women's Shoes Pointed Toe Patent Leather Sexy Single Shoes Women",
+        "质量星": 2,
+        "重量": 1.5
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd951d60f47e7450284d52e7489e963ccv.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9bfda16d196848faac1cb65019a954b5h.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6908ba22f02c42cc8378d01b04ef1968K.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0f83361b9ea2498dbe13ca7406dc20f8b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79f4eb0fdac34d0aa4da617398cbae52c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scca324ad504b4a90a8acd2ff9ffb249eD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf52b474c55d4435f8533574639f61b880.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S085bdeb7deb5490597ca0c38d2637b56x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seaea01e88b044416a254811830550eafz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4c96d805b0c4ad1b8417ee743169c50p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Safd7629e99a4420cbabb28e15d5a3c0em.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f917b78ad584e7fb4369bdd0f7d2917L.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd43604d4dc794fc4992bb55a7e490fe3o.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0f6fa0a528c541d895ca487fab5ba1b2K.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se8277f5d6baa498ab5a621ab17e9cbf4K.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S28b3164ec785435792cf4eb16ebfb383L.jpg?width=1018&amp;height=243&amp;hash=1261",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf16850b7ade34ac6b02ff5d13d670719J.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad7ae64c8dec45d88d722c8113918a27A.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S4fcd76e04aec472b8322972b4890ef1dw.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S02cb0dd0adf443bfbb2f27a9b7a28b7aZ.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S4bdfa0169f854fbaa42cfcde468012del.jpg?width=800&amp;height=800&amp;hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1daefe4515ec40fb811cea460c9cee99w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8277f5d6baa498ab5a621ab17e9cbf4K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97a48152400f41d0980dc186a5814e7aj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd00f9e9435e344f2834405b103d4b996c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e4750f65e0a4eb9b47fe4d60fde4f26F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secd66221f73444cb984e2f2891b329a3O.jpg"
+        ]
+    }
+}

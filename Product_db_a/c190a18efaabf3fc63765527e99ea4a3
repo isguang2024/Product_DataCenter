@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "c190a18efaabf3fc63765527e99ea4a3",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "ON",
+        "创建的时间": "2025-03-13 13:28:59",
+        "第二层SKU数据": "p-200000124@34@35@36@37@38@39@40",
+        "货号": "ON-W1262764841",
+        "进价": 105,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -1898907760,
+        "普货模式": false,
+        "商品简介": "标准码数：34-40\r\n颜色：红色、黑色\r\n跟高：5厘米、",
+        "性别": 0,
+        "修改的时间": "2025-03-13 13:28:59",
+        "原普货标题": "2024 new  Fashion High Heels  Women Shoes Thin Stiletto Banquet Wedding Shoes Sexy Pointed Toe Ladies Party Shoes",
+        "质量星": 2,
+        "重量": 1.5
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8e94d0707fbb404caaa4b516ff414bfax.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b65dc2ab7b24f35ad56398a91626e54B.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9619879b27545e7a703a59be2660dcdE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07fe859b35c448ceba7504f3b2186fc7X.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S38e284929dbe4c7488f103437289ac9ex.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c79f8cae6d34ba79912bab827f294b2H.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S74c201570deb4a11b22f758630c58bf1m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda093b7d31984ebdb0c51e6acb458dde8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc445e12acfa42bf92fe374cb2c2a4adP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S156411ee2e97456fbc46fd036c1fe1c9v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5be46f0902d74f738ee05152de1e264es.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf45bf98856e747f9a5b235f1936e2e18c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38e284929dbe4c7488f103437289ac9ex.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf0ac5f96f4d445783c50b29e955508a6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e2a832b2ff14ab08c979a8ce135f322k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33358329e8504471b514356e7074fabfn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e98d197520b4cc6ab1763453191ce28e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1339d8dbf8ea4e67b071a64325aea63dE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb4447e9efc14baf9348786a8e40db0eE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se350b67edaaf428ba912cdc42614552cO.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S38e284929dbe4c7488f103437289ac9ex.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S6535f805a15349f1a8afc19052dc54a86.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S813651df3306498c9bedc0826b9e5bd1W.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2fdb8d1aa8f245d3a8186bfc2548a563e.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5128964f79ea4badaf1770e40b24e910n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c2d1e3dd1264ce097eb35c7ef13a6042.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2fdb8d1aa8f245d3a8186bfc2548a563e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S813651df3306498c9bedc0826b9e5bd1W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa39d60b38ce04b1b8bd9b641e2477b38c.jpg?width=783&amp;height=792&amp;hash=1575"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2fdb8d1aa8f245d3a8186bfc2548a563e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S813651df3306498c9bedc0826b9e5bd1W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63854bb3d3e2436f9b9c86465a9b06e1U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc85ab174f4734d65b4e4ed700555ca6d8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c2d1e3dd1264ce097eb35c7ef13a6042.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5128964f79ea4badaf1770e40b24e910n.jpg"
+        ]
+    }
+}
