@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "0f64a35bb18982d2d842e842773021ea",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-05-08 16:54:00",
+        "第二层SKU数据": "",
+        "货号": "DG-192935261",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "纯白压花枕头包 高质量，重量：0.7kg，材质：皮，尺寸：25x15x11cm",
+        "性别": 0,
+        "修改的时间": "2025-05-08 16:54:00",
+        "原普货标题": "Women Canvas Shoulder Bag Smiling Face Print Ladies Casual Handbag Tote Bag Large Capacity Reusable Shopping Beach Travel Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8110cd74be034f298a1fcd0796b9df01b.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S01d681b13c0a413f95024854f03b6abev.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd077ade38aaa4af3865699bbcdb862925.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S295a02ba14704f959962b63e94c997caJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8c0e182326345f0ad4e8b1131615a24K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1636d9224a304cd49ce21767ddd79354e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01c40fd5acb544249966c1eb0c03c3788.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9748e875976949fa8becdd1bba66aa0db.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd077ade38aaa4af3865699bbcdb862925.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb544d6ab1cbe4e03b9777e652fa2162f5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28766f0b65c8406788fc667e4e018935S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9495750a80be49ef9f8044b11616c581z.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S01c40fd5acb544249966c1eb0c03c3788.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc7ded2a6a6fd42b7afba0d788de17424v.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se897ea618be343f786ddcb39ac700abd6.png"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S23fa5aa7a4aa4c3d9e8efe08b3ce0a13P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb501dacfee30472488495f76936f6c26D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ab4ec3dc406411183b99d2c2b292a3e3.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d24bbab9d624d2fa945c955f5704fddT.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Se897ea618be343f786ddcb39ac700abd6.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S90964405fb0f45d290f1e621b748bbd7Z.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S302d34139e9a4dcab44276f4202bc50eI.png"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1ab4ec3dc406411183b99d2c2b292a3e3.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Se897ea618be343f786ddcb39ac700abd6.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d24bbab9d624d2fa945c955f5704fddT.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S90964405fb0f45d290f1e621b748bbd7Z.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S302d34139e9a4dcab44276f4202bc50eI.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb501dacfee30472488495f76936f6c26D.jpg"
+        ]
+    }
+}

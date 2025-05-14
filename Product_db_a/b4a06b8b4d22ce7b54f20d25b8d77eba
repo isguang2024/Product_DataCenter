@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "b4a06b8b4d22ce7b54f20d25b8d77eba",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-05-09 13:38:04",
+        "第二层SKU数据": "",
+        "货号": "DG-194679856",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "材质：尼龙布，尺寸：22x22cm",
+        "性别": 0,
+        "修改的时间": "2025-05-09 13:38:04",
+        "原普货标题": "Women Trendy Tote Bag Large Capacity Versatile Handbag Contrast Color Leisure Armpit Bag Travel Shopping Commute Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8255e6e864c14cefb5590cb8917c764b2.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S19896289536e4d20a0cbd98c7fb76ea31.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38b760cf14974e1eb06132380be50cf9L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97858be96fb448378f8d6b5bdc1b5b280.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0e058711cd154488bd1239e526ad397b3.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd6c3d24b4e945b29b2cd59d8f61f1daL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fdb0edf374f4f53b12facb77f64a0c1d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e058711cd154488bd1239e526ad397b3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1682768516ae479fb8905d16fa766897E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf31b60d2cbe349b69f1f62c77f267f73n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc679a79e4149468c8709b95f48e8e88d1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf588f3748f0f4f19b0377a782732502az.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4195b0d3d48443c6aecd6716f489d281R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sffbbc6bae02444e899843bb491c83c50h.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0e058711cd154488bd1239e526ad397b3.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd49f0b5f74cb4e059de32ff90365ffe5g.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc0ae2c10746d46e38183a3d749d4e0686.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sca9a143543bb49cfa9d713c441b93af53.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Scdf8dc584bb24747b2a9dc84df20ed50t.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1cd724ecad045108430dcf138701b76c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefad433f14c74ec4843e0e374c669572L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c8c4a4c1c0d42f5ab85fa0c0cfd5eb27.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf739e9d7e9ca4584a0ae7af4799cff91x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0ae2c10746d46e38183a3d749d4e0686.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3fa4d73481ba4a528e468be9dd844141s.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sefad433f14c74ec4843e0e374c669572L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97bb76c290d84ee3839d07b807562d728.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1cd724ecad045108430dcf138701b76c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb6a83d9434c4172aab8ae4729e5e956X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba422955cf16468d9b891f69dafbc1ccE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scdf8dc584bb24747b2a9dc84df20ed50t.jpg"
+        ]
+    }
+}

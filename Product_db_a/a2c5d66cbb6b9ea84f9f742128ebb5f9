@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "a2c5d66cbb6b9ea84f9f742128ebb5f9",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-05-10 16:42:03",
+        "第二层SKU数据": "",
+        "货号": "DG-191388687",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "相机包 斜挎包 高质量，重量：0.72kg，材质：牛仔，尺寸：26x17cm",
+        "性别": 0,
+        "修改的时间": "2025-05-10 16:42:03",
+        "原普货标题": "Fashionable Shoulder Underarm Bag Light Small Solid Color Satchel Stylish Women Tote Bag, Suitable for Daily Work Outdoor Party",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sba41b7a748d84a5d8af2f22d0406ab05Z.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S01bac90d86414dafb5e3391c7d1def8fr.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S30b65e6db55643d2b5b29109f9c43d5dp.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S72a352bde0ad44409e5a6e0824828fc5A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30b65e6db55643d2b5b29109f9c43d5dp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b27813da2704fa284b533fc947d0b8dq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97c7cbb717924b588e69e094be040373d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sacb97cf74f304c3f99ca276eab76e0bcm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S975dbbc127bb4231a1c16360b701a808a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c7b558dd59045928356892d23f914eds.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0943feddca40460da5f6ac4318b128c0Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S707f0c17b99f45278d3905449fd2e380o.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S30b65e6db55643d2b5b29109f9c43d5dp.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sfdb11f622e2a4b839dc1286a10911610x.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd1bb1e550f014b6185fade381c19b2c1M.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S35cb1738d9954e83ab0c7fbd3bb61fe4R.jpg?width=750&height=752&hash=1502",
+            "https:\/\/ae01.alicdn.com\/kf\/S06d2e9fca5cf4267b6c9b3eea1905e8cN.jpg?width=750&height=762&hash=1512",
+            "https:\/\/ae01.alicdn.com\/kf\/S2baf6591dd5445ffb4461dca41355676r.jpg?width=750&height=763&hash=1513",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a9d8ae6ec9247d19b74510219946551z.jpg?width=750&height=759&hash=1509",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc066a8ae0bb947a6a0718057b11c46e2d.jpg?width=750&height=764&hash=1514"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scfefdbadaf0f44409803214f00fba503b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0dad401e5044cc6b41f85c622ab0effI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b1add6813c64005919e8d5d438d3aa8A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9e50b2a912749328899092ec4755b96O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97973c7fdf114a1dbb13a6a3057f1bb94.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f06a8f931604ef083085b694dd9c59eE.jpg"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+﻿{
+    "info": {
+        "ID": "8109a2d3248cfd26b146fc47f9741c1e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-05-08 14:14:44",
+        "第二层SKU数据": "",
+        "货号": "DG-194607596",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "便当包 高质量，重量：0.7kg，材质：头层皮，尺寸：18cm",
+        "性别": 0,
+        "修改的时间": "2025-05-08 14:14:44",
+        "原普货标题": "Preppy Style Shoulder Bag Unisex Large Capacity HandBag Casual Versatile Solid Canvas Bag Student Commuting Zipper Square Bag",
+        "质量星": 2,
+        "重量": 1.100000023841858
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S015f98a45c45473996c79acb8ec26a71E.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sab73e4b4f05f4e9196b99a98f03beb38a.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se5b8a878735340df8615f63440cb2011k.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S903fc97ac2014b28a10f9569ee70ea65q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S224c2166e7f14ecfac22e86527139d89Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6335e9a8432847ac9055cfcac4b177783.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f340348aee647c48e62350cddca7cb44.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se5b8a878735340df8615f63440cb2011k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f8e72846afa4318b60c9c6e38113e26R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fbaa8b85e6f4439b39a752b3226e5e4z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc26eb159fbc2400db37b699b1470ad71h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78d3aed6f3a04e829d1c79347eaa38c8l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5abda4e525854b1cb44dd0c54e5a4afei.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se5b8a878735340df8615f63440cb2011k.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S588cc1fe83b14c73b28248515b7f517eS.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6205f7b4410e4ccc961c8f10e3abcbe0p.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se03aa85aa4474f18bd4e4df25c5cf2adJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8e35d529741b447aac880d068e05b256F.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S505fbd2b9242402b8ea9e2aeae32cd98N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S741c0264ad724c5d93505e18a4cf4258S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d3574cd373245f7892cfa8ab939e938I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6205f7b4410e4ccc961c8f10e3abcbe0p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9db5fe4fba784480b8a09054ebc8dfb2N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2957ad537ea74ce89f18bd920b782517G.jpg"
+        ]
+    }
+}

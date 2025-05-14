@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "7ded5ff01e18db1479d18d4fc7fc1fb5",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-05-10 15:48:30",
+        "第二层SKU数据": "",
+        "货号": "DG-191391173",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "斜挎包 高质量，重量：0.72kg，材质：头层皮，尺寸：18x16cm",
+        "性别": 0,
+        "修改的时间": "2025-05-10 15:48:30",
+        "原普货标题": "Trendy Casual Soft Textile Women's Shoulder Bag Large Capacity Leopard Print Female Retro Crossbody Bag For Commute Outings",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1018526c9d8349c99d7fb089964fef3ab.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c80ec789ba94526a09fac6cffe111ebN.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3e393815831e4c7cac7ad6c3a9d71d249.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8285bda923014aaaa215cd9433543af1j.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1786aa56df6e4535aed245bc06ce9b69J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7227b1390e554a0da2f43fd74278e2dbz.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1770cf22e8ea44b89fb827fdcde94275v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0c214271ddb460099e8cf4a98347a2eX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7227b1390e554a0da2f43fd74278e2dbz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcaec06e34c94699af79c7fb424d3b5e1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff0bd48d7b134ff4a87b7795df76a6b6H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S45f668c3ba1a40ad8d50f65ab6329f6a5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18faab77613049998ebd588fb441fe77U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53defb9d469c401f8450d227c41225f0L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea15140668164b438238cc2ed0cf949aM.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S6abfbeec493e4da8b7d33dec193556b3A.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4b5273497c4f4005b128f19baff57959I.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7642f7a414c74656a8ba3a1ae154f603C.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S59d361aa84c04d32b140ad81cf242e75c.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3ef92c0508fe4f51acd5104fc5930414w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b49efc331744509882e01feb3b7dbd9u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7642f7a414c74656a8ba3a1ae154f603C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59d361aa84c04d32b140ad81cf242e75c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69da0c8c4956401ebaf31c25a37590d9o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf06aae366b6642d59f05a072e61f780fr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d1535289d5841128e8b8044175a82f82.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd85ef352edbf44f4a396178fc6a8b789p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e170521e9cf4e999a3c1cdae4b440588.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f596d0ea6ab44ef8adda585d052c7dco.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S92741cbbb3ba42f2b3771c3ddabf1eb7e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ef92c0508fe4f51acd5104fc5930414w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb979d0bcf2f4db1a90718185fe5c171f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d6590bbb5a449c5be0f5093d88b4232X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16fb0108fd834e27bfec76036be5d397x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se784788cdd7c4c50b9a4f88e745c059dZ.jpg"
+        ]
+    }
+}

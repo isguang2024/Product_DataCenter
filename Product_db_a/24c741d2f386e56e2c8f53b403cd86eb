@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "24c741d2f386e56e2c8f53b403cd86eb",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-05-10 16:29:21",
+        "第二层SKU数据": "",
+        "货号": "DG-191389707",
+        "进价": 175,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "手提包 高质量，重量：0.7kg，材质：牛仔，尺寸：17x18.5cm",
+        "性别": 0,
+        "修改的时间": "2025-05-10 16:29:21",
+        "原普货标题": "New Fashion Messenger Bag for Women Trendy Large-capacity Messenger Bags Casual Tote Light Oxford Cloth Simple Dumpling Handbag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5e9cc989a3a4fad95db3382ec105c845.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5e35e6cdb614349ba0f874e5993fd8dw.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf465bb0d073642e7b92cb8505d28f4a7q.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4b0c28bb8fc8449e91c084622d14013eW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8425450b6e641b6980f45973909661dU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf465bb0d073642e7b92cb8505d28f4a7q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7829079fe54b4d80a3c9e778db5e8ca66.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89da3e40fe2342c38ea52193e1196a9es.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ae0d006cdd34ae9b9a07a0a7b170692M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3c5d144bcfe4260bb441dd87bea6c05x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a3ea10fec044bedab3f51663a5bb8e2G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c287422f72e42dcbdb137573c6a389do.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf465bb0d073642e7b92cb8505d28f4a7q.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2a5fecd1b06f4bfc880fc6b31fee9d82I.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S76979db8e3344ab785bcd4b100276d21Z.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6b6d40d3f9f4d1387c532fe4b1ce6cet.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f5d2f4bdd234d419846da2a0589cebe0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4136355985d24b4692754b3eac48bab8f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d268d820baf4c3cae9c6a9c3fa541346.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S413b9d0a948f4cb1b43f7c0c178e2593o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52a2f5f193f04b33be81ceeb7c4e2954F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04587b79e0d94720bfa7b12e5678b077j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbd82ef9d9c6428bb917b5bbe97d30feM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f3940c6544f4ae6a46d90d09e530728i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1bfa4140702b4356b063969d31577b58u.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7da8aebc04394574b6a9a98a51c028aeG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbd82ef9d9c6428bb917b5bbe97d30feM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f3940c6544f4ae6a46d90d09e530728i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1bfa4140702b4356b063969d31577b58u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19d18b11549a465f971c2880e5e2cbb51.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6b6d40d3f9f4d1387c532fe4b1ce6cet.jpg"
+        ]
+    }
+}

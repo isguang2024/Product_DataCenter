@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "f11fb4275b0b6dce91ac4e4f4968cf36",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-05-08 16:46:59",
+        "第二层SKU数据": "",
+        "货号": "DG-192935388",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 198398445,
+        "普货模式": false,
+        "商品简介": "单肩斜挎包 高质量，重量：0.65kg，材质：皮，尺寸：17x27cm",
+        "性别": 0,
+        "修改的时间": "2025-05-08 16:46:59",
+        "原普货标题": "1Pc Retro Forearm Bag Women's Bow Handbag PU Leather Bag For Outdoor shopping",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se6c1d1e02bdc4525b333d3963dbeedb19.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdeb80945792746d99e1882818a1cc940V.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb586c3eba6cd40bda5dd2824a9d4d1b0h.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S36d4ed425ac74b92a76b577a12a2f59fu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea0ebc2752a44eac88c4035c3407c4adp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82d55668c0b34bdd91969e16e9206211a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb586c3eba6cd40bda5dd2824a9d4d1b0h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S395928638e7a475bab4fada18607b5e66.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52bd52df46dc417bb5b3285fef4683acO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6401938ba5d44d36a01ebd342d9bff59c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73c61f5bcf404117bb59be72e1876fc8y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41df59556a194944a045b01f19c42ddat.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S82d55668c0b34bdd91969e16e9206211a.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sadbe5e5a226340fb911db391de78bf7es.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S60fbb89280114e51a9dbf3adcfc8c4d1n.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S90a6d7447c204bd08330cce0d912a3c2j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60fbb89280114e51a9dbf3adcfc8c4d1n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda915cae1e8840e1833b008b696c6ad5c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S071333e42f81441c9b8349c1fd4ec1aey.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0590c5f89e6d428ea17407544426251fr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15f22209e4a4402ea7a86b5d2988da8fr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1344a51aa5db4e31a786efd85995a232X.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0590c5f89e6d428ea17407544426251fr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1344a51aa5db4e31a786efd85995a232X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60fbb89280114e51a9dbf3adcfc8c4d1n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15f22209e4a4402ea7a86b5d2988da8fr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda915cae1e8840e1833b008b696c6ad5c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S90a6d7447c204bd08330cce0d912a3c2j.jpg"
+        ]
+    }
+}

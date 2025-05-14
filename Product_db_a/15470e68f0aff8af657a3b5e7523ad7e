@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "15470e68f0aff8af657a3b5e7523ad7e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-05-09 13:32:58",
+        "第二层SKU数据": "",
+        "货号": "DG-192933651",
+        "进价": "195",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "马鞍包 斜挎包 高质量，重量：0.68kg，材质：头层皮，尺寸：21x16cm",
+        "性别": 0,
+        "修改的时间": "2025-05-09 13:33:12",
+        "原普货标题": "Stylish Women’s Minimalist Corduroy Crossbody Bag Lightweight Zipper  Multiple Pockets Shoulder Bag For Daily Use Shopping",
+        "质量星": 2,
+        "重量": "1"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sea40974ddb0e49c6af3c9e76a98b6491u.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6c8b24d84c704488b528fe2eb9dcfccb1.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7a014d84940748b8bade6827d0bf36532.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb005e2e4be0744ea8376e9036d2b490bw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6723a657644d4749882844fa9b2cf626O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2ec19b77fee4cde8f1c2f4424385682d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33b096b45275456ea7fc641d53df3ef6t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac999e3a51e24e6e9c93ddb48ec3227bG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S368dab0bfe194d8c87130ef0c0fb37b3N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a014d84940748b8bade6827d0bf36532.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82b614508ebb4b9198092fc78031d613J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7540470a5b3e4764a41c37a0f96b5057g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8bd48ff523b4c088a9340cf19e0233d8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc390981afa5b49029ab5065f3e96df2bv.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S368dab0bfe194d8c87130ef0c0fb37b3N.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S360f6b3e28444175a08cabce45d27adaP.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8a3457843e1d4fd4bc0252519c883402k.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6ca1313128274fcb815f7c1ceb7075a9y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34b6f23142b74424805d9c82e71bf0b0Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c060a7cf6484d0f823059d2c2b5679dO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5443d48e4e494feeb44f5cabd39d2069l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1239d9ca42b403e94bf3aa3d2ff4727T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S91537f546ad14e16ad4c397be4f8d092K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe4362ee882e4b35b9baf69cc60e372eF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4213795a64f243ac9faac28f2ace8ea9P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a3457843e1d4fd4bc0252519c883402k.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S34b6f23142b74424805d9c82e71bf0b0Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ca1313128274fcb815f7c1ceb7075a9y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c060a7cf6484d0f823059d2c2b5679dO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5443d48e4e494feeb44f5cabd39d2069l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1239d9ca42b403e94bf3aa3d2ff4727T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S91537f546ad14e16ad4c397be4f8d092K.jpg"
+        ]
+    }
+}
