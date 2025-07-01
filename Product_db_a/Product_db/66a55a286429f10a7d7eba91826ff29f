@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "66a55a286429f10a7d7eba91826ff29f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-06 14:50:04",
+        "第二层SKU数据": "",
+        "货号": "GY-W361251719",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "尺寸：23.5*7*17cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:13",
+        "原普货标题": "Designer Puffy Shoulder Bag Women Quilted Space Cotton Down Feather Padded Large Capacity Handbag Winter Shopping Tote Bolsas",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S301223dea2a24d41bc3fa238924f7c63j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5e95ab102dc486292febec4f4f20925f.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S716ea45a09a646f4acc2289fa5c859abi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8106aab047454e8da0c15a415f673f58V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S171644b543f94e65b821cb8e27b60741b.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S986899b74a2b41f09f4a56bcd6077907v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03c271f64f1a43968c065d069a74ecb3N.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2cb08b77b374d028c72ddd24b608ba9T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c3f522adb6b49a2a5a30ed4a308a21au.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S188994ebdeeb408fa18d1e1ad2360bbcp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d7ca831c10b4af1ad97018f810be38e0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8a4efbe48fe42599d9dd3f2e20854daU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9329c8b2b904083bd4e6b050bd3a69fI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S555df5ff4b3747729fbb3124bd040b19o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9180e9ca49044b0f81c69d39753651b4w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2459e1aa1fb4cc5af4b53f511134843D.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S2356fb706d92413f98290b3bd284eb6b1.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0eccb75d7cc44b7db493609c9bdd905cM.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7791ac368e2d4bf490eb83ba22c8b040H.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S53016a5c21984f67babe235534a3d4ecu.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S1cd1b3417cae4f26aa39fe50bcb0c9da0.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S71d3a816b97a470684eec484d67a4edbm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcaaf8a49c444d9c947626012aeb361c4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac061c4ea5d04066a083d59427b1539dp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5691ca9f7a4547faae7467f2476afc2fv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0726b82e2c541c4a66157f06c57c3ddA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd64ab26b3c684512881194b2aede8403t.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7791ac368e2d4bf490eb83ba22c8b040H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd047af6c7a84e92813bd1e032923e40A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e50fe3581b14b2cad02990c66571bbaf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36c29023fd044118b12f19edb002b3e28.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53016a5c21984f67babe235534a3d4ecu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seeb1a0c84b2e4136a42fd3d1d2c39314L.jpg"
+        ]
+    }
+}

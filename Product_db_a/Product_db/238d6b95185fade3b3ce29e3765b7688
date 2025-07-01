@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "238d6b95185fade3b3ce29e3765b7688",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-11-18 15:01:30",
+        "第二层SKU数据": "",
+        "货号": "DG-180538935",
+        "进价": 105,
+        "利润比": 100,
+        "品类": 1002,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "拉链长钱包 卡包 高质量，重量：0.3kg，材质：皮，尺寸：19x10cm",
+        "性别": 0,
+        "修改的时间": "2024-11-18 15:01:30",
+        "原普货标题": "1 Piece Large Capacity Tote Bag fashion Shoulder Canvas Bag Work Commuting Bucket Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sa43aea140a7643c28b6a8080e8f5eb7eU.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S2cbc16e99e39477dbcb1656ff5aed6d9U.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S2894f0acd04f4426afb023ab4a8c7ed9M.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S3998908b53c546da9d32dc6909e162b4d.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Saa89f4ac251041ec97253bde901f5df6F.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S32fb98ad08eb4b82801ede0c5c2eaa4ck.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S509ea559142e4c59afdc52866155bf4aW.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S2894f0acd04f4426afb023ab4a8c7ed9M.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S2b72561751b64fb0bb9846a44cf05aefI.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S6a1c0b30276e45589f211f5ddf26d253t.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S9dd9c77219e642c2a2180bfe7b6a432ea.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S69af263b0b154112bb5a4f5a0ee4fdb5n.jpg"
+        ],
+        "主图": "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sedc75140c2d24bb1a8785211b69322e4o.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Se850a85957624c3aacd6465a02f45eeca.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sf4dc07d3d928440ea8afacee7e387358G.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4dc07d3d928440ea8afacee7e387358G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c0efcc225914a0d9566cb130b281915A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc065023d2c2b4b8eb4f4803227d58fb28.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0faac3a9c8243a5bbfc5532eddc8fbbo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb7be07ebc314c499ce24d00eaf318a0v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa67f72a656e45eb994001a21c71aa41u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S589e68d2f1aa4af1bf4bd2a07dcc0a72k.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seb7be07ebc314c499ce24d00eaf318a0v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0faac3a9c8243a5bbfc5532eddc8fbbo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc065023d2c2b4b8eb4f4803227d58fb28.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4bac8ad7e43245d5b16d3886a918f565M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa67f72a656e45eb994001a21c71aa41u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S589e68d2f1aa4af1bf4bd2a07dcc0a72k.jpg"
+        ]
+    }
+}

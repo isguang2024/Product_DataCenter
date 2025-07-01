@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "b70c49a33b13f7ed2c41c5b063a307d1",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-06-06 12:22:19",
+        "第二层SKU数据": "",
+        "货号": "DG-196890850",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "手提方胖子链条包 高质量，重量：0.7kg，材质：头层皮，尺寸：18x13x8cm",
+        "性别": 0,
+        "修改的时间": "2025-06-06 12:22:19",
+        "原普货标题": "Vintage Large Capacity Shoulder Bag for Women with Soft Solid Crossbody Bag Retro Tote Bag For Commute",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S403bb913b3ef4eceaba8433815c6186dT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secb0d5cff9f243c4a6a53f0aaec6e399j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc51f96ee1fe4a899a5da2f0cfcaf63aG.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8e8000fee74a40fe896b555e2382f3e7Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc287efff76364a7ab7228ec198920ed6W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd8eeb7d6a0444c7a41eeaea28a2d5eaY.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9bae48be6fe4b4da0035670c9565107b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a49cc4a9573405b8786ca10cffd3b0aF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31c30a0a9c214cd195734347bc42369f7.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se1e4205267334b2eb6bcd3ab9c6bc26aq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01f710ef2b3847cfb948637773715703B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49c105ae869e40f2b8e078876f8914f6A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4dd5b0517c51495fb2853333660ad48dT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30255d7c90e0471cb2d472873edd849b0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf53dec2857c04c27b565612de4190938f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4af7c4dad5634d299474adc452d88e44o.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8a95ece69db04eeb980c52fcb76ec68f7.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sfed27a99260c4d7680fb72127ffa38726.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7efa362d038a4847a96d92606b4754c7I.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd9d42aff413e4fe8a462e2de2a9dfcc1k.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S94fc3d9a8abd440db61b217961685856T.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4b07967b58442878fc6a6d3f3b96dee7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3795696d8a614c3d9f9593912e9255d9f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94fc3d9a8abd440db61b217961685856T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9d42aff413e4fe8a462e2de2a9dfcc1k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7efa362d038a4847a96d92606b4754c7I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e536b3e172d4dd6b324e61c4197e7561.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b8029cbc2614409b70e25281877a594n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3fd0725a42524a8e8cd32b753516b0e0o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4a0de1572ee40f4960ef85cdd85afb8N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c9607ed4a8448de8c3d33f7e2986df6Z.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9d42aff413e4fe8a462e2de2a9dfcc1k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15f7d378089c47649c77fe30d99e461dp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3fd0725a42524a8e8cd32b753516b0e0o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c9607ed4a8448de8c3d33f7e2986df6Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbfff3c08e6846a39846c4f918e27ebel.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S395d4eb4e44d43168caea9e72cf4a44dS.jpg"
+        ]
+    }
+}

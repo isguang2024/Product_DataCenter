@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "45d35d26fab8dd1bada5716217c241d4",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-06-27 15:29:12",
+        "第二层SKU数据": "",
+        "货号": "DG-149593668",
+        "进价": 100,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "2个颜色，钱包 高质量，重量：0.45kg，材质：皮，尺寸：19x10cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 14:34:32",
+        "原普货标题": "New Shopping Handbag Women's 2023 Handbag Large Capacity Open Fashion Felt Shopping Designer Tote Woven Bag Shop Online China",
+        "质量星": 2,
+        "重量": 0.800000011920929,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9b3537ca5214bc6873d07bcaa275d91I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38a1ed58157e47e9a6809a6586db2b64F.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scd90b3bac5bf4e96a696be3252c74df0C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S976d1015f36a4beb849a2891972a74b2g.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S762e03b7c2334b9e8680a5a49b15c747F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S06c169f3b6a14162bee326aba8d6b6e2P.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1f01e5a67224b40a8717f454069a48a1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd50717807b284408b00bf8f8b46b9849y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3bdfbc2181304da6bc886517e561a6d2i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saba21fe45c724b1d88f89d9860bad16bQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S54a102bce98741259036b89838f240fbl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb39fe6afaa4435f99cc7fcdf95e2f16X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc21dafce09e5497fa240f0498b6d40eaZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2610dabb126d49a4bc0b0698ae4487d5f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35e89295c02c44c29780a18653ad57fcj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca86c827f2e94034a5e951fef55753e52.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd8a69f76326443fb7675a797493c9126.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb4709bf6c3ec4d8db0780a855c7f8b04k.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sfe8f3683b7a846e0945a379ce483bbefX.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd4affcb76c4a460fb115a616223cb060t.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S43260e2d7eb448deb320b849fb883220L.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S09fbba56cd9b4eb3855831693eb3a56dH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ff8d241105646f5a32957569034e818T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19b91976d507497aa66bbc4e72a3fcadH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S492dd6c39e2641bcbd6357e261a0729er.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9702b1753724378960081ad77361797u.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S75e2e5a89b954d5f82ae58e6425afa8by.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5b0fce5910049aba1c8455e8c772aa74.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8aef16f50fbe491db707c806179759afs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d4e572f636042619278c76365c7705d5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d4871052578443a8668711d091228e8v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0bca5219ffd04244b054022ce490ed31e.jpg"
+        ]
+    }
+}

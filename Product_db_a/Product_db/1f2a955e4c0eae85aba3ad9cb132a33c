@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "1f2a955e4c0eae85aba3ad9cb132a33c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-06-19 12:48:18",
+        "第二层SKU数据": "",
+        "货号": "DG-199667009",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "单肩斜挎包 高质量，重量：0.7kg，材质：尼龙布，尺寸：24x15cm",
+        "性别": 0,
+        "修改的时间": "2025-06-19 12:48:18",
+        "原普货标题": "Multi Pocket Tote Canvas Bag Handheld Crossbody Bag Minimalist Design Versatile Handheld Convenient Meal Box Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0f6346ebb1c44f2782c314a431ef07c0b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S45cddf324ceb4262b59e99ede54c3eabm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c86ed21a86f400b80175f9f53d2db55B.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S680c7d7d58c54437823480a7548c4d22W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89db0a4aded84f9c97cf27ee47b09d2bt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa610cc00de4c49ca8d01cbfbdc3264eaM.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8aad5de854844a33995f8592944dd043u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd59dd857f2c2455484e91252c5ebae33L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e63c6c239084838b2c15d6a6ec8c4f6W.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0351334a21134c8f9858556741597484q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f886dc96d9847078cec70325cb34150I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f994aa2cd4148908689f12b1dc08f9dZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb325ffe420334ea2b171b2a030b1fb87Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S099c10bc3e4841958d4b372dba0f5f85s.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S1a7bb02274d94455aef4463ea3dcb1b3Z.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9e5669d6841f4de6af49e43c33f646588.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S88365224445b4073baa4ece13f99c51bM.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5349dd165fe6457bb553c5a57e3278c55.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S3fc09e58e1184a42ae226fedd98454deJ.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf9bd378658d41cc8299af1ec801f10ed.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se80ce9c589bc4593a88736cc081e9be6N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefc5a36bf2d144a09e4c92c6b7757e75J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S92e1dd99ad5e444587c4cd08516975f0f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S430629a2d83c4edd97190ddd919983bdY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc13873e2298949a2ad971cdebb488a60M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se53b863ccbe24af0a6e6684d496a9ce5D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se83a95a9c1444dfeb4b75c790381b7487.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68f090708aa24af2bf65c541a113387ar.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0d13b5417bc4988bcd4f198aa177bbc0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3281b2a3f5e0462da1a73df068b3c174J.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa576415f5f8d417185a158caa35aab21u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b9220937d4c46198ac31da7dc13e17fp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa581afa170f747239a74f1d63b33855dY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b5dbf7792eb45cc94f8bfc89ba7b7e3L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S117fb810cd01455da11fea68f039a864a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdda256617aad4a71a87f2ff3f0e84032U.jpg"
+        ]
+    }
+}

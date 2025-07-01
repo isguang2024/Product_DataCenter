@@ -1,0 +1,60 @@
+﻿{
+    "info": {
+        "ID": "00ce05427edaa85a854d657fef150f8a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-08-07 13:35:28",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W195306705",
+        "进价": "135",
+        "利润比": "100",
+        "品类": 1004,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "雨靴 35-40",
+        "性别": 0,
+        "修改的时间": "2025-02-26 16:08:53",
+        "原普货标题": "2024 New Platform Martinn Sandal Peep Toe Metal Buckle Car Stitch Roman Sandal Large Size Casual Sport Women's Sandal",
+        "质量星": 2,
+        "重量": "1.6",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd7426ccdf104f6296b6af02d8e168048.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb92c5ddcc5b14514834c8f2732b5c967C.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sff281ffda14d4066953778b83e4b4972e.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sff281ffda14d4066953778b83e4b4972e.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sff281ffda14d4066953778b83e4b4972e.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S5151879bf2634686acff05e9a1705e3bQ.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sf7c75fcbb8ee48b7872986369c64a61c1.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S55b29db523dd49fcb773df29aba8db7fr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfd7eb2ed0bc49939461ad755e1acbcdk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e8d34e1d78044dc88326903ae688b25l.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfd7eb2ed0bc49939461ad755e1acbcdk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e8d34e1d78044dc88326903ae688b25l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9fd8e5e8065f4d558af7c210018bcefcE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S203aa7867f3942448378810190633709n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b4eeb0c3c364efdb06857faad325bc5k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7c75fcbb8ee48b7872986369c64a61c1.jpg"
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+﻿{
+    "info": {
+        "ID": "8c3ce284dbdeb1294d07e8a3452376d3",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "RB",
+        "创建的时间": "2024-07-16 15:39:24",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W1533524592",
+        "进价": 105,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "进口印花、跟高7.0Cm、私膜真皮大底\r\nSize：35-40",
+        "性别": 0,
+        "修改的时间": "2025-02-26 16:04:48",
+        "原普货标题": "2024 New European and American High Quality Women Shoes Bow Knot Leopard Print High Heel Slippers Women Slippers",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S59722140a69548b8a7d306988b490eeeo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5fd0f95d5ce43d0936c2208aaad7bd5q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8442abdc161847a7978878e5ccc1eda1m.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S64ce3c8e595e490db6a1b614a24609b4o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbdcffa9bcf64be2adb03932aaa42e9e9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98e08412ae9b45208c1f88e021df7778b.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf302a8ef7cee461aadc7f402d97e865c6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sddde8ae5131a48f9989ed90e2dc6cd653.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S119d34c68df04b5285c34537252576716.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Safe4be13447147c09f87e5fd5204d03f9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S942055b895504518b416ae4df5148cb3J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69e6401aea3a4dfd81b4e237e867c1099.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01e3ad01a158426093177a78480d3067A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18d28326179b43df954f7b03c1370c5dD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd17c3b0f4774970a7b5fc5fd442386ez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f5efa3a35e54c7c877024cd810750d9W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8175b88d02874fe5913b9a516b33a6c1e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7f876c889164cf2a0efcc0216b14e33w.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se0975d65271d4b25b53f6e0841268613n.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7b0607ce2157464abd465b2335f15b8dV.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sf167059bb6a542178d0ecfbf57f20a70b.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf167059bb6a542178d0ecfbf57f20a70b.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf167059bb6a542178d0ecfbf57f20a70b.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S570fe5f9060547399a63542a963f0932S.jpg?width=1000&height=1000&hash=2000",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf167059bb6a542178d0ecfbf57f20a70b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb125f47afc6f4f38a541e210986bb07dc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c85c4a8e98b465698173472f8192bc4s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac70bd5616f44fb590efdb94101b77beZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b095894fdfd47029dc0771a3e973415k.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S40c0590d54394f1d9dc15719bdc73170T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef6204067de84b7a9d0788af3a2505700.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b34b667dea74b069d99e240f303644aO.jpg?width=783&height=792&hash=1575"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb125f47afc6f4f38a541e210986bb07dc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac70bd5616f44fb590efdb94101b77beZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf167059bb6a542178d0ecfbf57f20a70b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40c0590d54394f1d9dc15719bdc73170T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c85c4a8e98b465698173472f8192bc4s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3caf5ffef9444832b7e67f83c4a8202bc.jpg"
+        ]
+    }
+}

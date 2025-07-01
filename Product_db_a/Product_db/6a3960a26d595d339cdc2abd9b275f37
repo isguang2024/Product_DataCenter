@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "6a3960a26d595d339cdc2abd9b275f37",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-31 15:53:15",
+        "第二层SKU数据": "",
+        "货号": "GY-W1907672937",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "尺寸20 13cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Shoulder bag for women, new niche design, large capacity multifunctional briefcase, commuting handheld crossbody bag handbag",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S71065f0e9e6c4c9992fc03086e0e1631e.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7b0857fa773b49cdb9ede5a41b54efcao.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S377b3a2f071045ed989ca2b25fee6a6df.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S377b3a2f071045ed989ca2b25fee6a6df.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc681baa6d2da4a5b813ff0537f964176l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b88a06242374e26a969c6d68fb29620z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S127f0d1549594da5b85a74619c055f86y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3dfeea44831469b9080d10d94478ea9M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0cba64fda1c8461ebba6265abee20105i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S704fdae7efc4497791de8e5e76b2fc01i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05933c13ac424e49a8956a2eb4c2102fp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5cd1dd9ed80f42f48f8c61edb35f09faB.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S377b3a2f071045ed989ca2b25fee6a6df.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S09302146345246b294f1f6d5d3f88e5ea.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S2740045ecb0a451488a3a50e0c68833at.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbdbbc7d8b9cc47f7879b36f0acfd56a8X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se06427c39bf44c44b216d42c8d3f7b7d9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d6e9373ed184900bd4ff6a7a5ffb8f1g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8f2f6f3f5274eb2bf41556fe1c5b2799.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2740045ecb0a451488a3a50e0c68833at.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2bc2ae293ada4c5e8a5b867313d04739H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37977d8d52004c229bcdfb6f1344493fR.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saa2b08defab74c63a702e8abd4d2988bd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd7fba21316d432db24aa8b9de05b4d1d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12398424b0ab419abb6dcfa07fecf34aa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fd8540a0b72473890992124d1e648e5W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2740045ecb0a451488a3a50e0c68833at.jpg"
+        ]
+    }
+}

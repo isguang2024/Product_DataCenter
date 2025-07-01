@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "a830b7bf6415a4ac703de978faec2ee0",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "ZH",
+        "创建的时间": "2025-03-07 14:00:46",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39",
+        "货号": "ZH-W959436458",
+        "进价": "115",
+        "利润比": "100",
+        "品类": 1004,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "鞋面：进口澳钻+pvc\r\n内里：进口pvc\r\n垫脚：进口绸缎\r\n跟高：10cm，7.5cm.两个跟高\r\n鞋底：原版意大利进口透染真皮大底\r\n码数：35-39 （34.40，41，42.43可定做）",
+        "性别": 0,
+        "修改的时间": "2025-04-07 17:01:40",
+        "原普货标题": "2024 spring and summer new brown comfortable all-match high heels women's stiletto sexy single shoes women",
+        "质量星": 2,
+        "重量": "1.5",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S279599ce266e414f81a073a9fb396d7af.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sabaef9b19a5b4c77830d4366d7ad51e8S.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5d06e1c34e444906854c6e7db8a834b11.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5cab9e0745b436987063a8bd3c42fd5u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0cd0b6a06bb1421bb041d510c53d8301N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ed2d97aa21d451ca4c31bb95128ae63Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d06e1c34e444906854c6e7db8a834b11.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d40f86565494f70a6f85d774b20dcdd7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S085a7cd4237944b9b45b9053935036b9s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6cd672a26bc340b099557be8332987bfT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30e8138fe84f401c86d61dbef9866dd1q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b069c28f7eb46e68483ef1f45b0527d7.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S5d06e1c34e444906854c6e7db8a834b11.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9b7dc8b7461d4b29ba4603c8292aff7fb.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sea4272bde8dd4710913bf87ad2468b5aG.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8243566bac34ddc9aa7f534e111754db.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea3046e1fb48434fa06b56bd005a406f4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6fc6decd8b5d42ba83c7ea75c4a04e7bk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e84ed1ce2e941b28f89826536279eceS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77515677280c4f3cb552aa85cfa95c08Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S575875c49f984fccbe43e5adfeae73d2D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8c5070562254f188704799753371be3h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4e13134e0294d17b972d86ce3b20f91M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5da9a408154e428182cb8603444bd3e93.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S131b39a08dc2439da2417aa97e4f0a648.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdab5020812174299bc4b6e2d7923ffe3X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se33838f7268a4554ae812efa9810e9c13.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55aaf006d805466084fb7b8e060c7e44N.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Secb6c91b4d0348c1a981e43a19a621c3e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f2cf538a74d4189959762660001c9ffn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f8535b3fc33463ea731a36273b69e2bN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S896f1bc427364284848ab87d4b62e716p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4601985fe30d42fe9b098e489e70ed35f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdab5020812174299bc4b6e2d7923ffe3X.jpg"
+        ]
+    }
+}

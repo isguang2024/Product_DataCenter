@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "0198a0560aa18ac918988d1fdbee4f90",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "ZH",
+        "创建的时间": "2025-03-07 13:56:37",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40@41@42@43@44@45",
+        "货号": "ZH-W1503561114",
+        "进价": 95,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "鞋面：防水面料、丹宁布?填充90白鸭绒，内里:  进口混种羊皮，鞋码:35-45",
+        "性别": 0,
+        "修改的时间": "2025-04-07 17:01:40",
+        "原普货标题": "QYCKABY Home Slippers Women Cloud Slippers Fashion Simplicity Soft Sole Eva Comfy Indoor Sandals Non-Slip Flip Flop Men Slippers",
+        "质量星": 1,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbeae17bbf7db495abea3b61e5b2d3205P.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd74c3f93bfb341098b4cb546a179d205o.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6d6484b5cf044086bfc27fc3e730e9f9r.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S99821c8568ce4a0cb19533cb3be391812.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0df738908c6847e88290e9fc3c00180fl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d6484b5cf044086bfc27fc3e730e9f9r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7372c76a3d014e23be6d9485afe74923Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5309b752f143418991267c959b5726fa3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1996cab5fd334676a496ec1218c6efefa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2494e1ca090a49f0affb2a5627463dd0f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00b39e5a331b441cb80fc073fdb6a602O.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0df738908c6847e88290e9fc3c00180fl.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S343943dc9fcb458cac385877b9de1014M.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S837c51b4fb614d2b805b9aa1fd4d9ab9Z.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S208d0b2abe8d42e5bc3dd623356f5100T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa353e8a8d9884ae591094023b9da1c520.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7dd2f15688b9482e846e0b2b729480bfF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf73c4062fd45438eb52301d960500d03U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S91ba508e3a044a2c9a1ed2bb94db1e34m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See728f32fbe24434bfa215be240c910d2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf1ab8dbdb694d6b866243e95581e64c9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37783606702b424f8794eecd2a52afabr.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S02959ef9dca54028b26d76c3e2768366d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ee27aca483b4bed97078a5788a2de2b5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2790a5e2aa794cacb1b80da6fbe870f7q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36229ee0bcbe461a8bee2f0bd0cdfe543.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2341a5735bd4562898ae51d87dcd924U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e8c312f11fc4dc693d19b61c5bd0750H.jpg"
+        ]
+    }
+}

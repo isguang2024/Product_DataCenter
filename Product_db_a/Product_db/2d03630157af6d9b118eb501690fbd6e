@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "2d03630157af6d9b118eb501690fbd6e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-22 14:17:26",
+        "第二层SKU数据": "",
+        "货号": "GY-W1760105612",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1003781064,
+        "普货模式": false,
+        "商品简介": "尺寸20*12",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:54",
+        "原普货标题": "A Simple Crossbody Bag Fashion Small Versatile Can Be Used For Shopping Commuting Men And Women Universal",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S94fbbd399bd040d09a30926365335baaw.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa629579fdbd84ac09f466caa9c71f27dg.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd73114ffa938409b95aed94b2fca2f0cO.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5cd101372ba4702b5f737216a14663bs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seec36c09a150486fb2737b8d2decc235E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebe923c0593043508f3f311a2afed1d6e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefd136d7ba9947e3ba378927a0fa6d3a3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac6dc7028fc34564be978a95ced84004A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a57c1293cb14ccca4ef45b4f5d9a0fcl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4624681f07f4feda2fb4c9015c43d46l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7380bbc85cd744f2a9e5d17f7948757f5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c746c0594bc43eab77d9bda0388bc2eO.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S817dbadd539b4ca7b24d4a4a7d9316bbm.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7b3e97f2384148759b6305c14c12bdba6.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4c4c1b737fd8411c83dded3697b90726L.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S681cbb2f3d194a50a7e1b91e4d648a8dE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac2a0035472544c28803c5399d2220e0f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda227138e59848549ba5cd8b9758248ez.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3aa2c35945214570abb531824bd6544dL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96c1b1fdfbb947d498cd5485f80f2c79o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5feaf915ba504d53a3b2688a6c66c929y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb313ad8eeeb8408285c69852c4c0c62b8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b8c73acd9ab4b9f86323e6d17fdd45aM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb25d5119035641c483dc4d367f489ef7k.jpg"
+        ]
+    }
+}

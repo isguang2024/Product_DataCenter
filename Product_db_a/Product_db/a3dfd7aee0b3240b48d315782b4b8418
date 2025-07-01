@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "a3dfd7aee0b3240b48d315782b4b8418",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 14:51:54",
+        "第二层SKU数据": "",
+        "货号": "GY-W1674989166",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "尺寸：23*9*16cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Handbag Woman Fashion Luxury Denim Blue Shoulder Bag Briefcase Messenger Bags Large Capacity Work Study Street Tote Bag Purses",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S10bd8fcef851492ca4fa0bf91d5769e2T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56823fb3f3924e7c90a5923b68eb4ca6L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb420273141c042bf9945c12f8ec87ebbx.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se498ddbea3dc47988005de7884dd90e4m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04b1578772a246b48006770f0cb1424dI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f7e900ea5624d5698a2ff40e7cd9d74t.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4fc23fc741b34e8dbb9343a75f9d19f3J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8fba4d24e3349a4bf736a7d03b266c9f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S32c96178665e4cb7a501226663beefdfW.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S608f99af9c264f24a780c067433233eej.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1144ef7bc2b14411b68a6f556664fe07M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7a4243df96b4610ac112fdc24a8f50e2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5716d6bb860d43e7961c6fd636a8861bD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47a280370dd1465eb82a9367e6815206X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S535c726f539c466a9258ff05bd5e000b0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8061bff39174adca2097703927ca875Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4dfc275f5bf448f0a5ea946b690bd4b1R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80906dd555cc4e6981d739d41bb5d51dL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S589f0576c6884222a436b6ca3ae3f3ccB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8fba4d24e3349a4bf736a7d03b266c9f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S32c96178665e4cb7a501226663beefdfW.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Scefde0d8c39c4e61b31abe35b13862927.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Se871c601263144a288fcebb39f776ae0r.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S62aa15a2a9b4484985838766f6236239U.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sbace41c52bcd4cd1a3a15f5f558e49e3J.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc79aec1f08b64fb0bdc5023c5bbf6805A.jpg"
+            ]
+        },
+        "细节": [],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2d4ec668ac648f2a350a739af1307ec4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52e7fba4d55946d087b67ddf3f3884c0B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdae27fc8e595435483f3b8e52087ad416.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79f4b9fec7da4f77ae19e1923eee67da1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62aa15a2a9b4484985838766f6236239U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbace41c52bcd4cd1a3a15f5f558e49e3J.jpg"
+        ]
+    }
+}

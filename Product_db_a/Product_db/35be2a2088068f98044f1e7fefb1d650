@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "35be2a2088068f98044f1e7fefb1d650",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-05-10 14:40:46",
+        "第二层SKU数据": "",
+        "货号": "DG-191536294",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "手提包 斜挎包 高质量，重量：0.76kg，材质：头层皮，尺寸：28x21cm",
+        "性别": 0,
+        "修改的时间": "2025-05-10 14:40:46",
+        "原普货标题": "Black diamond check embroidered thread large capacity down Cloud Women's shoulder crossbody dumpling bag (without pendant)",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2f66903d188548248229dbc68d1ec5ae4.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S46c9c78996ea45859c60e02e65f1e83db.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S545f41e1f3c74a42991b0154f0ddb841C.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb03573ed678443a9b4d466c9f32a326O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1e8e66dcd01430ea22b36d7e45f3617i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2521d06dd5a4f2783eff473da72a186d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6134cffa3fb4ef183b77dc369fc6925e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b4f44cbd0eb405cbf02eb197f4b9b5aJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ca2d72512974af883e43027003e09e3F.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S545f41e1f3c74a42991b0154f0ddb841C.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S35b9f11c391e452e93828311d2be04e02.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Scf6feff077ae485bb8ff8a6967218dfaO.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3e267a2f5bbc470690cc891e3fca4b69h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc56f16bb53054730b8f068579ad6ce6bV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf7a35544c35493f92f0a8e9f5224394b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S297e4999d9534b82a7107fe4a85ebdb1O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd07943bc97624a42ab18db89c74561a9Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00ac320b26b240118718b2afe108baa52.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf6feff077ae485bb8ff8a6967218dfaO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9c3c26777d7411d97fb25ca6e0016236.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41d5149416a54439ab5665ed750b8fe9j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S669d1688e8c444c28eaa9b2d9cc734c9L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c68d147b4744003b0f82202a407d4dct.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se471bde844c042b9affc4d6ae38065c20.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e9d09434a8146ebb774c816c66068a4b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0150909987214dfcb873a0df93d4efb1s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8aca47d9dd8046f2985f3cd9bd56c8d7l.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4c68d147b4744003b0f82202a407d4dct.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd07943bc97624a42ab18db89c74561a9Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf6feff077ae485bb8ff8a6967218dfaO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e267a2f5bbc470690cc891e3fca4b69h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e9d09434a8146ebb774c816c66068a4b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8aca47d9dd8046f2985f3cd9bd56c8d7l.jpg"
+        ]
+    }
+}

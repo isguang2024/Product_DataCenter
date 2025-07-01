@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "baee6c5229546d487d27346f352a1ccb",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "ZH",
+        "创建的时间": "2025-03-08 13:54:51",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39",
+        "货号": "ZH-W381112688",
+        "进价": 115,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -1190321189,
+        "普货模式": false,
+        "商品简介": "鞋面：定制进口小牛开边珠、绸缎\r\n鞋底：ZP真皮大底\r\n颜色：黑色\r\n码数：35-39（40可定做不退换！）",
+        "性别": 0,
+        "修改的时间": "2025-04-07 17:01:39",
+        "原普货标题": "Fashion New Elegant\/Comfortable Party Pu Wedding High Heels Spring\/Autumn Rhinestone Sexy Prom Women's Shoes Zapatos Mujer",
+        "质量星": 2,
+        "重量": 1.5,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfcbec0fb03524b689f934e66ae618542y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf547a3a14234bbb8aaa46070a063c9bC.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se63c92845be742f68c73b8578a793afb3.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S92f34d2c3ebb4642ab400573c43e4140w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87f23ef325f24e9cacc0cac9afb46bd9J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a46b954183740debcca217f245332d9t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se63c92845be742f68c73b8578a793afb3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec81ffb25c114894b54e9fe5da39ed26G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S06200dfd0aa24479ac19715e8b8dccbdV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf552f43bf5234333ab5483a617dddae5H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15e86ff5d679494f9b85915ce22d8c66w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85d3063784e243ed96a483accfb632d3C.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4a46b954183740debcca217f245332d9t.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc73b2617fec94df389809fee4ee6d719B.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sbf64a17a78024776a79e21c96bbd8e4en.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb855ac265cc74089a8b2dfd63e3bab8dt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b1abe8322ce44ef800515f469eeadfdr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbfd5b8f04ba9418ba740d4eb63e65ec1q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc87620b032a84ea6948469db9d079ff3F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d883e14b60643e08cdda848cf36d4dbk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se17a4af1096547feb15354b4236111c7Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf64a17a78024776a79e21c96bbd8e4en.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c239fa4488843afbd4958e83c2628ba0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbfd5b8f04ba9418ba740d4eb63e65ec1q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc87620b032a84ea6948469db9d079ff3F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d883e14b60643e08cdda848cf36d4dbk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se17a4af1096547feb15354b4236111c7Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf64a17a78024776a79e21c96bbd8e4en.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c239fa4488843afbd4958e83c2628ba0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40b5f7de509e431b99bba6fe7dbf9883j.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbfd5b8f04ba9418ba740d4eb63e65ec1q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc87620b032a84ea6948469db9d079ff3F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d883e14b60643e08cdda848cf36d4dbk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se17a4af1096547feb15354b4236111c7Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf64a17a78024776a79e21c96bbd8e4en.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c239fa4488843afbd4958e83c2628ba0.jpg"
+        ]
+    }
+}

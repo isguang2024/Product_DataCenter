@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "739f07557030dc7b4945c2144a76b806",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "RB",
+        "创建的时间": "2024-08-16 16:05:50",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W1253915839",
+        "进价": "100",
+        "利润比": "100",
+        "品类": 1004,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "Size:35-40",
+        "性别": 0,
+        "修改的时间": "2024-08-16 16:36:16",
+        "原普货标题": "Summer New Slippers Women  Trend Sexy Large Size Square Toe Thin Heels Shoes Ladies Casual Slippers Heel zapatos",
+        "质量星": 2,
+        "重量": "1"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S30626230009344e888e6063860b297f2j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S809b11ac23da40adaa82553f7c6e523bN.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se568dffe50db4ce58fdc0132e73859e8k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c33d344f26f42a4b83cb65b1189ab5aH.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4d8f9827939d4ea8a9e2f525a5c154edL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S712450cb317f436bb386a9f695dbf2d1p.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7382797ca6c54ac8a2939ae984868d4bb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6e6c0b32b0241878e384689d50a86a8g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98c0b737818c4e7490b4cab1e76da731C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12486cbf27f34f6fa41986342dc49a19T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98c07f5375194fedaabe9e8ae687ee088.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Safa7c0a949574c9e9c77c62b6466fb42C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15f669e994a64e3382544aa5daff58013.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S332931046cb04177879a5f633b467846F.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0f551d48be6d46bbb26230708bdf88a1I.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sade468d3786c454a902643d7786e8671V.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa214d179223d4e5aa75e24f8ef3fad424.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Se296e5e207b94523901d6d8b5224b930b.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3310c756aac3490284f5cb075360fb391.jpg?width=1025&height=427&hash=1452",
+            "https:\/\/ae01.alicdn.com\/kf\/S65e32f646a304f139a02aa9cc11b8aa4U.jpg?width=750&height=1083&hash=1833",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f190fc022dc4e5690f6a68518da2908R.jpg?width=750&height=1293&hash=2043",
+            "https:\/\/ae01.alicdn.com\/kf\/S7204ea6d3fff4f22a9b3a09038afb5daA.jpg?width=750&height=1185&hash=1935"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd22cf0b2ae50418281329443beb44c1fk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81cfeda7975242918c4a1f01c863f3420.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43710d68f43e456ea6c06c798d8bd8ceB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41c2ed429b39441fa3fa51bad87a1c8ct.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf516e1ff09e74024bbabf47b0c40e272O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S354e36c9e3db4e70ba820287c33e6a26m.jpg"
+        ]
+    }
+}

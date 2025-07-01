@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "ffc0f57502cb9e877098befaf1b71b81",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-09 17:09:18",
+        "第二层SKU数据": "",
+        "货号": "GY-W1120823513",
+        "进价": 270,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "32*25",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:03",
+        "原普货标题": "Y2k Crossbody Bags Men Solid Color Large Capacity Hobos Unisex Harajuku Japanese Style Nylon Waterproof Travel Shoulder Handbags",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sad31249878614041b51184bc9948afd1J.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf11b0f3d48e446689eb7bf13874a15051.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0308cf3a3f3a48e29683b580d5e706c60.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb79bb510f0224de0914c01ab343667ffc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38250c7f9bac44f3abf9a6105944b0bf4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbff2a3bebd8449789a53ae0a772f4283.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdca236d77d424687a8d53e9a462a0935Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d728b57c85f402ab9f3f252b8987846a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55f4de0cd4c54e26948d96dbe9b6dfc2S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8e1644d7da8445b95d19ba487b1de8e9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S539cbb7f4c8f46a797e60d70d787e7f52.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9affd80987104ae9a590bad20a00d6deN.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7e84891eefee46ad9fa8aeb9ed3c9a69N.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S41d61952558244e98e4a49cea8265a66n.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3bfb812a3f2942568724525f7cd8abebu.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S97dac96ffa9d491d97097a74cb7afc59w.jpg?width=750&amp;height=925&amp;hash=1675",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0ac4c7a13e44d0397e2bb79759af610k.jpg?width=750&amp;height=929&amp;hash=1679",
+            "https:\/\/ae01.alicdn.com\/kf\/S880c35e8bbd541f8805ffe37ce0d752bb.jpg?width=750&amp;height=421&amp;hash=1171",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f058086a78140aa9ac0ae3b5a7be516g.jpg?width=750&amp;height=766&amp;hash=1516"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S363dae2725334585bb02de966a8634f2D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d5231a6d47b4e9aa27e8062e4af0fdaM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0419f10d3f5c4163ba0e4efe2d63a59a2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2824d6e3c1541dfbf8cb7b707741d2dD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5e71014dd764c8f9188aa52d318c87d7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S522ddacba8854ea6bff3b2f5628c75c0s.jpg"
+        ]
+    }
+}

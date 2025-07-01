@@ -1,0 +1,82 @@
+﻿{
+    "info": {
+        "ID": "f42d7f46f994702d148e9a59fde6d779",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-07-30 16:14:07",
+        "第二层SKU数据": "",
+        "货号": "GY-W446951156",
+        "进价": 200,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "尺寸：27*6*13cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Cross-border small bag for women 2024 new fashion versatile mobile phone bag exquisite simple shoulder crossbody bag small round",
+        "质量星": 2,
+        "重量": 1.299999952316284,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S098da4db623f46faac7e99771f9abb6fR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d073059b564429c912ebba9c85c07163.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8415c2e90f042928a721b039e251d46G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e78caf5e51744088fdc5ca24216cbc1D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d727a519f5344bab7ac5f27fe758ebaT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa92f57d425f744009c15395faa23d6165.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0f3118c440f4f3983c1b799f81fd677G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3eb104f971e844f381c6b92db3ee365ey.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc283f4dd93d24b28833987f2e323ef1fY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3eb104f971e844f381c6b92db3ee365ey.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6aa366f546334cf2a97202511973d8d2I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde2bd1b5fd2a43cdb465b580f94f9f5cz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c06adaa23ff40098f3708f3bfcccd20w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc80d734969214ec89395ae65514b6356Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ece2cdc26e9452e829f271b70f04256V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41a07f3654a24002ac19b8e2e7c997fcX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf418bb1f3f7d44dfa90152d209e722d5b.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa365b8ddb1a14faa8c4fa7716db2bbf9D.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1d10327d5d394968abe99b5df44323dbC.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc705b8ef8bfa44bba8d0b0f92caba49a7.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S440548fb10cc4ef5b9dbacbe01ad19518.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Se8096627901548c7a6e0fa7bce9de9baa.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sfec7f854bdc1478cb99b65db46774abdU.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S887eaae795c3437c9b690c20eaba357cH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40e2c44c7a5846fe8e0ca52ae1cff756P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S323ce227ac1c450894e1545d6de0d472C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05f73e45cf8b4d3bb17fe1f9dd09c56c7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f159c7df0ed4020a5b5dd5ea086fe9dL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfec7f854bdc1478cb99b65db46774abdU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc705b8ef8bfa44bba8d0b0f92caba49a7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S440548fb10cc4ef5b9dbacbe01ad19518.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8096627901548c7a6e0fa7bce9de9baa.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S887eaae795c3437c9b690c20eaba357cH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c7fb7a7572e4484bd2a1970b8560aed8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f159c7df0ed4020a5b5dd5ea086fe9dL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40e2c44c7a5846fe8e0ca52ae1cff756P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05f73e45cf8b4d3bb17fe1f9dd09c56c7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S323ce227ac1c450894e1545d6de0d472C.jpg"
+        ]
+    }
+}

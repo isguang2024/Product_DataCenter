@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "bd8de8fdc3e8dee1abafaf7acae18c11",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 15:29:45",
+        "第二层SKU数据": "",
+        "货号": "GY-W1040305648",
+        "进价": "175",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "尺寸32*16",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Comfortable Wearresistant Shoulder Bag Large Capacity Fashionable Versatile Nylon Tote Bag Student Class Simple Commuting Bag",
+        "质量星": 2,
+        "重量": "1.1",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S502e504055bf4e4e96ec1cb1a3fb1372D.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Secc1efe23c124ec5b3a471b84f3731ba9.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8a01865528264270a0bc96c64dd36f34H.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S322eaf49ddda45fbb97255c705aa31c0V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82a1346baa864955881471c6250c7410B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0400c9a43574d8586d351cd85fec8674.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3df67e14a3b141eaa5c552d668aa32e8R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9063832458e49679480a6ae3157c803S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a40c8d620414d0a9bf84cf4486de4c8d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca195edd4ef24e23b59cd71ac5765801e.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S603add6dcb6b4c0ab5d1f26e4aa308768.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7681d1190de74c70ac7c09cc4e0734e0z.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S09e48b49c1184b5ba37ce0f262f847a7C.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd460b6bcc5c5472ba9fb7ddcaa03db96D.jpg?width=750&amp;height=897&amp;hash=1647",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f1cdae0270341999de4d925c9e387524.jpg?width=750&amp;height=774&amp;hash=1524",
+            "https:\/\/ae01.alicdn.com\/kf\/S4dc2e5ed749c46cfb280e58f5a2569bbF.jpg?width=750&amp;height=920&amp;hash=1670",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf72e703e7cfe48afbae914fbd5af3dd5G.jpg?width=750&amp;height=838&amp;hash=1588",
+            "https:\/\/ae01.alicdn.com\/kf\/S956de283948849029e8425d9e69ef1d7T.jpg?width=750&amp;height=830&amp;hash=1580"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S01308e50ca54421484dcb9d9e7ffc93b8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9356df4070e43d6a883d7fb7bad8058r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ba355113b44465294562cb87e3b84a6H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4943fd76d1b4a4eb23ac163e5581a1aP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1b7b6eed2c0419dbf53949ae3273313c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf19743afc16a47af924c4ac0d52a0a530.jpg"
+        ]
+    }
+}

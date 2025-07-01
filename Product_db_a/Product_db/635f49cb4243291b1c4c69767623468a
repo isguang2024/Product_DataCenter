@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "635f49cb4243291b1c4c69767623468a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-30 15:23:51",
+        "第二层SKU数据": "",
+        "货号": "GY-W961113907",
+        "进价": 110,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "新款 饭盒包！\r\n尺寸20 12cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Minimalist Black Shoulder Bag Retro Male PU Leather Crossbody Bags Men's Small Messenger Bag for Men Suitable for Daily Use",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5e08d8f9b22b4ba88128a4ee4cd5f4f0S.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8bf7a8c092248d7817707dbfe688a2ct.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8b937ce2a0c4d5797986c3952133449r.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3502d67ca3494b2288cf2e150d6541e8U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S090c351057b9474e8b2f88658812cacae.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S797b6376f8054995bbd947cc3482ec10u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S857de7daae0b4ebe9fea56f7d9017e24B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae16d193e08348e1bf23bddefe556c64Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39e94e348a8e42a0acd677124da1b42dI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7422945898ec41f2bc2b98b8e699563cm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a6fd45143ad403fb118538c6b6b155cc.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S60d57a24f9be4299afd15244061b028ct.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2f5439f6208c4b1fadb062e7217e39ccc.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S44c7aa1ec4bb4737841b9564d3229945G.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se2afb56203104134ae2950b7ec4ca77aT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7dad192ae8e44ab7a498020cdee406a66.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saee82aeb9f754d668d099fce5d34804aj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c6f6dc793f44fdd97a87ae9b7b30b00E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5030fee83a0345eabe82b20fc6fd49022.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa66640364c6b45fe98196c8607c8c776t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26705480e3be4a1f85c8e0e7cabba93eZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b09c5d77a4f4dc19088fe1929bbbaecY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbbedb83727d4281bc6b117a1e830ab1q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e3ae8a963484c3491d60d43ab70841dK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e6b58c56f2b43489be9d7e18e743ccbA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e3b19ff4a8d4d4083bde20104400217w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2c7a94490a64f108b35a76a6ccca6d6D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S363100d5e8ca4059ab553c5bdf34c63aE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19f1e4a234f140008b7005d798d659d9d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d1af52aef854996a0ecb2a78f7e470eF.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S019013622a77476aa9884501685c2cab9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41cbf9ed7a2a4e619a65572dd95f7465r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2ee3ebb21534faa8d7573d13878c154c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d8810629d9d4ff5810a7cbb1ade3cd8U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfaf4dcdb989e44b7854105655eaeac9b2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6e8476b93614025ba75bd80879a262ae.jpg"
+        ]
+    }
+}

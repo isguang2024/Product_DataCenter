@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "0b7852b3fd8056189f61782f501113fc",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-22 15:53:05",
+        "第二层SKU数据": "",
+        "货号": "GY-W185991347",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "机能风,秀款单肩包\r\n这款皮革单肩包采用几何线条和建筑感廓形设计，实用又精致。饰有皮革细节，搭配容量充裕的斜插工装口袋，翻盖衣襟饰有涂珐琅三角形金属徽标。千净利\r\n落的几何线条与触感柔软的Re-Nylon相得益彰，百搭\r\n休闲，彰显当代魅力。可调式编织尼龙饰带肩\r\n带，翻盖涂珐琅三角形金属徽标，侧面插扣翻盖衣襟q。\r\n折叠礼盒 尺寸 27.16",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Female Crossbody Bag Small Daisy Cute Versatile Modern Minimalism Large Capacity Students Canvas Women One Shoulder Bag",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6d29696342db44fe8791428c32b3529dn.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9211a1007d2343dfb466d2e6d52aa56eb.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S95ea2ccf0ef64a888c7ce8025567c80da.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S95ea2ccf0ef64a888c7ce8025567c80da.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se5d893f2f16548d985d97bf7bb80285bF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa14310c03ef34927b31813c20d0d92346.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S538eda08d0b74cd2b2476cfc84a0f72dY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c31e5f7b9fb4a429dde61027cee2afcw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S388179b56f3749a98f8952a369e1133f4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2740248df95b4207b356333001093d47M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbc54cfd6f2b4574bda9c7a9edc630be3.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S115ae3845de6403884387794689cf5cbC.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S749942aaeaf748f2888ca53fb2b64f0ac.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd71d3c9e259a4c68a6a75353c5e3aca1E.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saa466244d9b14cc387eb51af9ce6192ce.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S870505122cc0437897716aab37df9553n.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S61d656110fc04ecabc67f879e4c70f429.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S854ef29542344321978de0bf50a8c45be.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S25794238ec114a7dbad8c7d68bfc59b4b.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S1bd7912a032a40f98efd17597c7186faV.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S0309908eecb344d899c8b22dc697d5aan.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S98d1aa8c5274409eb599dabd997493d64.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S14246ba806eb45e4a2ef67459d1f36d3q.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1b58268c46f434aaa853ef4f3ade066G.jpg?width=800&amp;height=800&amp;hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3c143ce9aada496991797045c651abc0o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6fd9da875787460c9e108baf5f25c617Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfed3a0cdb880486cbe34d320caabe88c5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd71d3c9e259a4c68a6a75353c5e3aca1E.jpg"
+        ]
+    }
+}

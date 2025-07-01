@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "7533e8e585ffd819a24e46e34decf279",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "ON",
+        "创建的时间": "2025-03-13 13:35:28",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "ON-W1191924131",
+        "进价": 105,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "标准码数：35-40\r\n颜色：黑色、红色\r\n跟高：10厘米",
+        "性别": 0,
+        "修改的时间": "2025-03-13 13:35:28",
+        "原普货标题": "Women Classic Round Toe High Quality Spring Slip on Square Heel Shoes Lady Casual Comfort Spring & Summer Red Heel Pumps B39",
+        "质量星": 2,
+        "重量": 1.5
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se47ccae0f9024a12aa3cc63d53523aa1a.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scb4115370480412b81da78a504fd17f7Y.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc67636fd2dd44e0e91d227443324faf5r.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3c3d50f1e5204d308fef360b071eb3879.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S45c291ec7a9c4d68a35e3172c8f913e87.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc21eb9207814ccd9a5721e52844a114q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8873844acf1439eb7440904129b1b1aU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf443282260b740808594762047b3124bD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ea160e734b84dc097582975f8247e14m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0592645f4fcd430a9db14599278e09a0f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f652bdf30c24a2c84d442c655ac8c83d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf691fac067f54dd3bba382f434fe50b9R.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S6b8832bcb54e41b38c7cb7bb60333a72h.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S33545d81c7274e27989b61fcc0dc69a6D.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S91cd4798d3ae493fba1aca3187a154a0S.png"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf54e2aa543f499abc2f9d4533b9d0ccW.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S91cd4798d3ae493fba1aca3187a154a0S.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S32a99d75b8a2476aa35c0641e32edff69.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2bbb9852dee43978647c94db53b6a0bI.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e8b89e52f2f4c5c9f331300fc80a038p.png"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S639dcd3d141646e1b004a64f89e5bccfF.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf54e2aa543f499abc2f9d4533b9d0ccW.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S63c5a02fe647408cb7ffe129d926c61ey.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e2d28b6781b4fbe9a2e9e8db45e497db.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2bbb9852dee43978647c94db53b6a0bI.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e8b89e52f2f4c5c9f331300fc80a038p.png"
+        ]
+    }
+}

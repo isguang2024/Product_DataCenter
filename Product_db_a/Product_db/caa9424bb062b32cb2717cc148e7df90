@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "caa9424bb062b32cb2717cc148e7df90",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-06-21 14:29:37",
+        "第二层SKU数据": "p-5@25cm@20cm",
+        "货号": "DG-133632693",
+        "进价": 195,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "马鞍包，原版质量，重量：0.68kg，材质：高级布，尺寸：大25cm小20cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:52:44",
+        "原普货标题": "New Ladies Handbag Tote Bag Soft Simple Women Bucket Bag Fashionable Lady Shoulder Bag Luxury Thick Real Leather Bag 2024",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S64969607547f41a3bacd0e4adb376215N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3cd0fd5d425744d69386bbb35c90e33eu.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa35469381ce74aa199cd8c47d07242f3P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3489b67d80f34eed817217aa8a17c9dbm.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S23549bf7513043f2b5a0ee06b7c756b7K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a038a55c7f14532ae4dc9bd7d620e01F.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4409405d9a5049b991ef86b995dc48dfI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S138297e79fd14aefa832e2365a004059D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a038a55c7f14532ae4dc9bd7d620e01F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9db36e651ec743a58da08c83b4b9b0b8h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a1bcfa8a9734ad8a2a4cd54bcf9e8619.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb7b13d10c2341b1afa322c9a6ea614ed.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9562fb65225e4557812aa031762f1803B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdda35e8320c64c46aea3e495f5d8eca7K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S342c65ddc55443deb981adbacee77c5ez.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S54c3e9a690b54f229592a7d35f78889bA.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S05c616cde3e7482ea05135e70976345c5.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S2c840fd5e5954174bca666d348c9b9dfB.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S1d7d1e75829a43f1b36298523b3c50788.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6027d2e6c85748c2adf50e19337560feQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0527a86518aa456ca9bc6a0866c2503cC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b6f25c040704cc8b0b5362a9146f7740.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98aeaa977bcb4cbe87edeae99813408aK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd13e1d71b504235a8238d959d5f9545g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d27d4bce32a4223b0bcec77881325f9J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S232bb93749644f938dbfd8552f048e23c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb48a811c39504bfa9c674d448bc8e8b2y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c3bfb4e4d19484bb59a125cdf1f88fdt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ec326bed9c545f69e4943984200510fg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8e633ba318ee487d85731a5c2c213df3p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc1dc633d6f0430bbcb05caff4aef41aX.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S25aa0a30bdab409690bed65341d9f4c1M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b627598e23a4c429c8b8b928a237328X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcc2442eca2c4fc8980e50f991042988t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd501cfed345c4227b0feedc29066975ce.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5f361aa0d854311a0801e37e83947ffK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77ecc84813dc4830b9162c51a8f861fdL.jpg"
+        ]
+    }
+}

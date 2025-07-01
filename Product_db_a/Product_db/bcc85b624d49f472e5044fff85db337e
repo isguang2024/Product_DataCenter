@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "bcc85b624d49f472e5044fff85db337e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-26 15:38:48",
+        "第二层SKU数据": "",
+        "货号": "GY-W950848845",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "尺寸27 20cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Fashion Large Capacity Retro Women's Bag College Student Shoulder Bag Commuter Tote Bag Simple Casual Shoulder Bag",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S904645f816514c0d85e6bb1812d99110z.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfaf9cd0678ec4106ab9d8b2cf791fc75O.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6ac1e460eb564dbd9e14aad9a7e0376cp.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6ac1e460eb564dbd9e14aad9a7e0376cp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c6268c03f8e44b4b2ec66c2a7fae42b0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S27b0b57708a9482ba784c132e7e07f605.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S462d36fbf17f483cb3da13644668c8785.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35a90d1e1b9e4ecba257e31ee5b95256E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc1963f2e9f44fae8c3ecc9ad4daa214j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S022018c9145447b583b498082f592549l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S894e7ef85131468cb2825296fde281fdj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1a7e7753274471cb119e12d50d70fa1o.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa594a350fc9a4f12ab0d076bbc56b389S.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9fd676af384c4433b763a2c9a239c88aY.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8b418ad8f65d4aa5877aa13b975a91b4x.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1f02a888fb0b47d5b6eeb9de21a21226R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2655956bf48c460cadb2cf158add04b7F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a00c8f0bd33492d80c34cf353865b2ea.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd6442843eb441c9b08128a9d5360d8bN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e6319e72ad945b7bcfa1779c5383e367.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66eece0e13494689a8760abe9fb0879fN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S324f24a9393f42279dbb517f852c14a45.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48fed4b299d1438cb0e9fa828dc6a9beR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65e48541d6e04d26b872735a0c54e8bb0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12dbe6e41af34ca28ff4767623016624t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0008b036cbb4cc1b213e5befb974db6I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5fa9ba74c9a4f1a88fd21f6c394bf801.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0936bacb1ca84561928d2e52bba4e05aZ.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sec98b77bc7d04cde910701c13bff117b6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ad8eddcb00b41e6bb626d733b2c1a3cF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1756dbd852fd4a77afe0dcb163901681l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2eb559f5d87f48bdb9f46545169b4894a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S649aa68493a94946a55fe28ab5583262p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0a3ec9590ba414eb607cd432e19f63bQ.jpg"
+        ]
+    }
+}

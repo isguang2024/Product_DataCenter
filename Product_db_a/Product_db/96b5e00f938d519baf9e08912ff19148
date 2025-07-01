@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "96b5e00f938d519baf9e08912ff19148",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-09-20 15:31:50",
+        "第二层SKU数据": "",
+        "货号": "GY-W1967230997",
+        "进价": 95,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "尺寸19.10",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:51",
+        "原普货标题": "Fashion Versatile Shoulder Bag College Wind Commuting Corduroy Square BagUnisex Large Capacity Leisure Portable Crossbody Bag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S34e19a95201349f6a5ebfb8bd7108a04z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3dd781ec4514dd89f0d4df0f976ec9dU.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa223bf8d2ab490dafd44f12810c77142.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S974b963a537b4ca7801d6bf47ada6657M.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7b74d02c8abf4fa1b43e819a809f7c8f4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ef6b92f72f74edcb86919f0f4049a1cu.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd75dc7f4547f49f399ec7879dcd69027d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd35f82d38de4400bda4ea4f55b34b947.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa066ababaff74ca5aaa1b5440a4bc7d8X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4885f7fdf1a5450f9c8a197552a2c564E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See1ae496660043c0a2cf219c573e0fccP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9ef90b0ac9b474dbc7330d4ca955a29Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7071a74377de4550963ec10597d5fed0h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd954058f42c24a2fa5d1ef023ebbdfd5X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a3e8fbb5a8444cf8c4a2448cc90f6a52.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sbd4b96409a774cce8227c881362845dfE.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd37a5c3a2b894694b22d5729054e0ae8Z.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S61d61c5417254b92a3382a1b10a1ffedj.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5a635275ebdf463cba57b7cb7425a792u.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0c22f41002ae405cb80dc25b115f82feZ.jpg?width=750&amp;height=750&amp;hash=1500"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8886ab3791b04369b1419b21b53d47d5c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3d4c88a2ea34e44b291474c042ad72ae.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87e8e666625f43b0af97178bad0eec2bd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11e60f4534594e5c9055fef08ca3ea4ad.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebdf9ae3b47049dea0cc90ed32ac40b95.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S78331826cc204161966d9381a6f260ccA.jpg"
+        ]
+    }
+}

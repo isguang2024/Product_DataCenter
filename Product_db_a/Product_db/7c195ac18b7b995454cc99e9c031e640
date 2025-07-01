@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "7c195ac18b7b995454cc99e9c031e640",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-09 14:49:16",
+        "第二层SKU数据": "",
+        "货号": "GY-W1404573424",
+        "进价": 75,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸21 12.5cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:06",
+        "原普货标题": "Minimalist Black Small Square Abg, All-Match Top Handle Purse, Classic Shoulder Bag For Work",
+        "质量星": 1,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sacc1b81c570c47c585e54917e51f136fs.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S92f3584ed7984826878cac8f17472f5ft.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa795156506304f2c9629a6b9965500bbp.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4834cf8d4dd48c4b031f1721ec61a6e3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b15f2fd2a634400be3dffe26f04a75bK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S457aae21cf644a77a71876cb8a5d32a9a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d2ebab0bd274d7e84a1d89c0ef2828dp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf37cc9d7b5ea4324afd60a918e92f03cQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S118730cda2724437bc440f778d392b6e3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S518bdd3b61774601b807953421b54e87m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9973bea19744e64982e61dc1cef7508P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S84151b5930d8419696de1cd8bb9aabc8z.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0f60240d96634b00adb476dd0391f065N.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4f16e67dc2db4e3bb843ed38e505c2fcV.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S0d2f0a730f284cf29364d20839acd7afI.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S534a3e90667e4aac9a3a85cd563b3035z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e4c78ef12ac49db831ea8b51fa585e14.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6392914272804ea8870c5ec0faa11d2cC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sded0a98c36b744bd807dfba17d7f59b9O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8258927ccebe46efa95e0015564f2ff5r.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6392914272804ea8870c5ec0faa11d2cC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e4c78ef12ac49db831ea8b51fa585e14.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S534a3e90667e4aac9a3a85cd563b3035z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sded0a98c36b744bd807dfba17d7f59b9O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8258927ccebe46efa95e0015564f2ff5r.jpg"
+        ]
+    }
+}

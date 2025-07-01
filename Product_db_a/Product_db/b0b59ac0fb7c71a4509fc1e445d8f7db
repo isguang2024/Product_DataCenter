@@ -1,0 +1,84 @@
+﻿{
+    "info": {
+        "ID": "b0b59ac0fb7c71a4509fc1e445d8f7db",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-06-12 11:36:45",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40@41@42",
+        "货号": "RB-W559405301",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "进口小牛皮\/拼接网面",
+        "性别": 0,
+        "修改的时间": "2024-07-21 14:02:38",
+        "原普货标题": "2024 Woman Tennis Sneakers Fashion New Comfort Sports Board Shoes Casual Shoes Female Spring Summer Ladies Female Women Shoe PU",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd45d6f90594a4282a1094556067943d31.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1f911bad14741e4bd70ff625c9232a6e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S937b894009a5429c9913872fb951d7a06.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef6cdebd14224322b46cb02f50510f8bM.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc962ae617fcc4361abb55a373211f43cG.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4834cbdde8c54d6888a54bc0380aae7bR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07b63d4edf6f49acaa88de17df3ad739B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67dfcbc278d84e5a8573c83cf5c71ff0j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a912cc8442940218c4be550854b743ce.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67c2e9cfdd204a70822521a8aea3be0ap.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbbe1a6bb50004cdb894ec25d0d8012efJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d75f81f2cdf4cc08c4922bc82e111c0U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4155d6ae86e49d8aee683ab5f9bfc1bs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb52df260eea94970b3dfa59fb7b3fd0av.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se379b5fc3a754b42be7547ff14cec8468.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc37d815c3f184ccc8cde57e0e5dd9515D.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S24c8c938e361403c81db56c6ddcef920u.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S3123712d6f29428bb97a792499760cb5t.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S3e195e732c264f069755962654d7e825e.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1d39f8c53c9043c1a26217862a7bbc7ay.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94fce47706394d1397aeed45b32d9a9ar.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se97fee123d1249bbbec9411a6e3032d2Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3123712d6f29428bb97a792499760cb5t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S984be785f37645d1abcbea41a07d29adP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2ea67e9bafd4d438a08c2bbd68cbec0Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0fab0cd63ef425f91f9e7b967a52b9e2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff88f633304543d79821c944a45521b3s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S121b8da1815e428f922fa2232485cbf6V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e195e732c264f069755962654d7e825e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ac6c6885a91445a91f94c740f268e01j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37f725b5fe9b43508d43bf267e99021e4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7c3181e86a74d32a7d7187bca48b884M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48a673aa726e47038ffc70a325d6287fR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24c8c938e361403c81db56c6ddcef920u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4978dc5eb1504714b6687c6f6b882b95w.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3123712d6f29428bb97a792499760cb5t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se97fee123d1249bbbec9411a6e3032d2Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94fce47706394d1397aeed45b32d9a9ar.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S984be785f37645d1abcbea41a07d29adP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2ea67e9bafd4d438a08c2bbd68cbec0Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0fab0cd63ef425f91f9e7b967a52b9e2.jpg"
+        ]
+    }
+}

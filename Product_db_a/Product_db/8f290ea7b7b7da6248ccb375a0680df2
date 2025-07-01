@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "8f290ea7b7b7da6248ccb375a0680df2",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 14:58:43",
+        "第二层SKU数据": "",
+        "货号": "GY-W1137529438",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1007,
+        "品牌": -503533490,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "New Round Leather Rope Dresses Coat Decoration String Waist Belt For Women Solid Fashion Long Waist Chain Vintage Waistband",
+        "质量星": 2,
+        "重量": 0.6000000238418579,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8116371e5acd40c9af4d9e960f1db361d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41a76908f6394a5ba85d19b2a4c6ec54C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5cce8add66274bbda66150aab7f6c128n.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd875e4c39d374366a88d9bcc6d86a0c4W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e39ac5f4c8645bdafe9da6a170688e0f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S254b9c91ba9e4694b1a5fb90a13e2aafM.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6f06accea2334ef0b924e0a6fdfb75ca3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8eb499f961224d65981103cdd4e0ef9e2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebb1bc72ba0a44a296a9ee0aafc74d82O.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S07b99305105b4fb6810b951eb322575ef.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S371807ac8e4e42459dc9571e371262aef.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0678e58e51b46d4b724d749fe9bf9e06.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa75c12a83dd14044bd6f6f48e1e93e61l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3af2b3cb69ea478297b6da7fc6dd5e66P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfab5b39767aa47c089f0932e5d61d645M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef4e28215b874f7fb81b57610710e43aY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e5ede14ec6b4474ac71cfe06c62d8e8Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9a8fbc45800400f95878fe5b8dace54a.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Scf6ae6ec46734f7aaaeb1359cb66399bZ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdcd0ab22c94f49c78eb86a7246692ccfE.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa3a2eb4a410447fd8f46a5e552e69a11h.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf28730d34a164a0e9961136ac536a18a0.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf28730d34a164a0e9961136ac536a18a0.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sae992d5a35154f6597e5ace543ddf6b3l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S825312753bf94b3a9e066eac9c98bedf8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2cd639d838a14f80a32c7bc7e7c73584L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c0971a4fe7545288320e18fc3db4df8W.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9d1e39a79ff548179c0f990a81575ea8d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa294905d4b24191834bcdd95be7b36dl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ab1a240fca34b62ad5d41a8424f9495D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S561f9b33e3bb4e8f83a7ba882dc879f5z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb01997798a024710b004223fa5c0f5fc6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3a2eb4a410447fd8f46a5e552e69a11h.jpg"
+        ]
+    }
+}

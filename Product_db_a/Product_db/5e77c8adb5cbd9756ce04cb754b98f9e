@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "5e77c8adb5cbd9756ce04cb754b98f9e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-30 17:04:11",
+        "第二层SKU数据": "",
+        "货号": "GY-W2040470845",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸：22 10",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Fashion Double Straps Shoulder Bag, Casual Solid PU Leather Versatile Crossbody Bags For Women Festival Gift",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5dc17e2406a4fadab631ae7b2c20979K.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5bcc09245e6470d957c38f20546371aD.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5bcf533e3f6343adadc4fbddaba8365b7.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S56db474aa7524c5ba10ec02b9a7f3807f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S54b6274d78494813b4620928d5a43fb1q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75c587733d2944379b6d97e1e6619f8c1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09a5587b2da04993932944990f63fed9W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd503c8c30dff437ca8eeaec0fab72a31R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb4b4c2fcaf64e80ba858d9cff922072M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8c7e911a20f4665a568c7874ba63a96E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0edf88ebc9dd4a8899e480cefe6dd87eY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86d4eb9f556042228dc89c036f7059d4l.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S199d132f54e24885a066452fc05dbbb1K.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb59d63e50eb34430b1925575cb8110335.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S213ad457fc604f19b9ca2135395288768.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0385c636ef741f2825239eb72431cf8e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b97927a6f434719b4e1afd52c3221e82.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scaf679fc71a64422bfa1626dfa7b2103Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S267f7b0d4e44478cb55de898c303701bQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sced5979b067e4a8d94786aeb29cd6ee8w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65e775f25842485d820bf0f4595612ffq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f4cb7e7eb0a4aed8fe669a4593f4608G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se2ad7183fdb145c7bc46d81a98e3f2feN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S622136e9886e40dc970218805f8368b3U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S612d0d65a3f24fa4960ab4499a638736E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f7d134b3b6e4736b7da8285476a777de.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02f9c316cfb3471cb3a8be4206e6203b4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S563a445c367a4f89a51b9fa0bdf95a2cg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S226adcb6975c4ff3a445cc5c087ed919b.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S977e27ca7c0341369b5c3c7f8c596821d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67938c40d6644a679056f58066a88c9f4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad245b9018c943e6939578b5ee5442c1H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ad99a54deef4ce99b4f453d68738302V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf136c00746304e37af0c675f359976f3v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec2364d418f640118fb22728a1efa5bbg.jpg"
+        ]
+    }
+}

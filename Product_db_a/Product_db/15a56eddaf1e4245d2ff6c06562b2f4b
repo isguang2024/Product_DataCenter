@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "15a56eddaf1e4245d2ff6c06562b2f4b",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-08-27 13:01:16",
+        "第二层SKU数据": "",
+        "货号": "DG-171440192",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "2个颜色，购物袋 托特包 高质量，重量：0.85kg，材质：皮，尺寸：32x28cm",
+        "性别": 0,
+        "修改的时间": "2025-02-22 11:48:35",
+        "原普货标题": "Retro Soft PU Leather Women Shoulder Underarm Bags Casual Solid Color Small Top-Handle Handbags Ladies Fashion Shoulder Bags",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sccec60cdfaeb474db48001187b4ecaafK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S92f69d0018124939a1caa1d25f9110dbo.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa82e54bbc6e2445a9a70bea5a34ee264K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa52bf627b4ac49e0bfcaa8a697837009e.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbd1e802ee6740d48fb40b05d98b7569X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seeb75f7a9da04cbab8caabfc70fc63acG.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se55952e8866a425aabf4a8c3a833fb70w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seeb75f7a9da04cbab8caabfc70fc63acG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70c4f7f217eb404094ca5db9eb26ae97g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1606b602c88f47daaa22bff2c15f5ab2q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7fb3f3940c5c48288b9cd92585367c43v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S439a64c391704a9bb8dfef13f6f1c66eb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb03d8e3854a46c596704e941786e581q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se2fd986cb7374e61b70900bad7eed805H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9218736966c48dc87ac42810cfd69acZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61b186473d7140beba8694b8ce4fea2fh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc968c2e62244812b11c85129e0a1752G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81c4ff5ba9994cf5a970a535a7d26c27p.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9c24efb402344ecf844590488b929071x.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S6d49127beb4b4ca889597d7d9edade57l.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8ebab49bad714c44842ba96588b8fb68a.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sfb5649c2dacc4db7b354166091852627Z.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf69253e576845f0bf40ec2627ca3274Q.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2777931f5a2246479633821916e3d53fj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc16863d8acba4856b33accceb0168ac1v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b5ec790f5a14c8e90996beeb0605c38m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88865c7fa52c455eb18e7b7a1c23c3f0w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3be47fc41c214a37b5bb6ae9e6e527dfB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44d8cfc52948438ca24d9ce37b1e901dz.jpg"
+        ]
+    }
+}

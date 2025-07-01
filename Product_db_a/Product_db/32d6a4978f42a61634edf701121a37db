@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "32d6a4978f42a61634edf701121a37db",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "RB",
+        "创建的时间": "2024-08-21 17:34:33",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W1383960840",
+        "进价": 260,
+        "利润比": 80,
+        "品类": 1004,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "Size：35-40",
+        "性别": 0,
+        "修改的时间": "2024-08-21 17:34:33",
+        "原普货标题": "Summer Women Pumps Sandals PVC Jelly Slippers Open Toe High Heels Women Transparent Perspex Slippers Shoes Heel Clear Sandals",
+        "质量星": 2,
+        "重量": 1.100000023841858
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3c38528226c47d6a56667a24025cd7fD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02f6a89a44fb4a5892f8a5d682c2dd13w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7d085b69fe74173a05464789e551c8fv.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf868d0fe51f44777bc43642fd830ceadd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4ee21aa7ec842ba88796ad9239abbe91.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S165b66269ff54dce87c60e0517168224w.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc40efa5bf9334128b3fde9893402e2a69.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac53d774f76f422498eb01288f7421a2f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S903ab72779d5439b8a6906aaef1c3baaF.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S064a51e32f3246538f38f4d296965f44L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1d558a494c649a19cdd12488b1ac2d0c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa111b137fc2d4cdd935fcdcfbf373459q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se33d0b090c95485eaf43e51a2e91a8baS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9d00291d28646d2877c60539f378f05L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8dbd19ff5f542908e521b44bc3cde8eY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e0b2466c52a49b5a29368ba7e03d0eak.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba599e299c50437a9d3814ddd65250df6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde247bfe6b66436385356337eba554beL.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S657672e76fbd489287d3401816939c30G.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7d179268b4c54900b6aafff4f5d3a446x.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sceaf74ba617e47c8ae627e336400b0a4R.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf55f36901b1d43dabc60f635a7b6dd12Q.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf55f36901b1d43dabc60f635a7b6dd12Q.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3b168e093e514218a9e0ac880479dcc4Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb53eb1e02f541779c4343100da1c65fI.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S640b3787bbcd4a249d3ac61c0c523658w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S956cfccd8afd4883ad8c9eb07da2d97cn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58d8972ba54f4df5b0f8a62b0d5864d2X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S940af01347504d468183566e8ffe88930.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sceaf74ba617e47c8ae627e336400b0a4R.jpg"
+        ]
+    }
+}

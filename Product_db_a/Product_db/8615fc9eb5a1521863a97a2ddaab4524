@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "8615fc9eb5a1521863a97a2ddaab4524",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "RB",
+        "创建的时间": "2024-08-31 13:53:56",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W130911451",
+        "进价": 105,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "Size:35-40",
+        "性别": 0,
+        "修改的时间": "2025-02-26 16:09:11",
+        "原普货标题": "Summer New Women's Flat Bottom Roman Strap Sandals with Non slip Rubber Soles Fashion Women's Shoes [FR-W06]",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4c32b2a49c814fe78b1c9a77409dea65x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89f337516fbc4834972ffe79f8fa35a8h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac50eabf973c403e9623f9e90b0d7033J.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfaf4cc43ac3d4bf09ca0db47fe6bc4952.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S76fec09a788c4a15a15a2ad73363bb82J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2154396c2ca84f96b31765e87224f33fx.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0d2bb8e90be14ea3bdf34a71f5a5644au.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5930568a57724cf4a00f63e87347dc33a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94b89cfacc454b6fb9a3379dbc63453ff.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S093f6e4a0af242c3989f4ffa2998ac12A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5ee19f1bedf4c95907005cef3ea70985.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51d6eab3f1d94a4395b89b50c0c6a7b7F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S693bd754e186488799002706a46f85f4i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc761b666a0ab45abbdbe504d7d0894944.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1ba1836e74f479185559d8bcf80cd270.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7d3508aa16f4f228113ac6013b8c038x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc86e7eaaa52b4441b135ee86e838d4fe3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S878b0a955db743928705293fa143d74dz.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S247fd6c6ed1947e6b7db5c20e9dc85a7g.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S913111bbbb9b40a198ad2064c9a3f2caW.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se8ae3e20eacf40d08ee43ae287e4bd52d.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S58fb1437ed874b8c8e780c4a5d976456J.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S8bca0365986442f0af8c2976561e94f3d.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0b26faaae7a242dd8e9bc0fc9952f05e9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8779360bf2a45479d75d4dcfd3de313p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6a9075efc1745aa9d27833a46b1e26a8.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf240772924e24cf0bffdc2adb314dceeI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6a9075efc1745aa9d27833a46b1e26a8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8779360bf2a45479d75d4dcfd3de313p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9fe1ca3ee2254dc98cd22e17b9d08febm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ac21498af454f04885b66e053ef05deV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0df4d9f0da74f9c96e233c9ce97c0d8U.jpg"
+        ]
+    }
+}

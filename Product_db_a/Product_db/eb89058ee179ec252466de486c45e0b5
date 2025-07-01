@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "eb89058ee179ec252466de486c45e0b5",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-10-26 16:04:32",
+        "第二层SKU数据": "",
+        "货号": "DG-178524185",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "饭盒包 手提包 高质量，重量：0.6kg，材质：皮，尺寸：19x12cm",
+        "性别": 0,
+        "修改的时间": "2024-10-26 16:04:32",
+        "原普货标题": "Retro Fashion Women'S Shoulder Bag Casual Versatile Large Capacity Tote Bag Simple Solid Color Canvas Bag",
+        "质量星": 2,
+        "重量": 1.200000047683716
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sffcc77126e344016bc5213222d5a0160q.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sad72d7cdff664655a318281c4c6f7430V.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe17a73d5081488e85e66274b5a480d3h.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S88c34011dbbb420d97508dfe0bfbe1331.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12995a83e8fe469da17bdb44d8440a2av.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S605edff4289340fc9e0ecde886b11d859.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c060d3853f6484690af4477d958278dR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18ff239bddbd4878822d436c8cc680e9t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fe95d2f88a7487f948770562e81be47r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S983dc955b309402198b0636c20dd9ec9i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6fbbac8e064c4f71a077f5bc9c1aeb5bG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seda0a94d739f41d392d3d07dbf1f5396k.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sc2e537d6f5804a68af2622b48c9f12e9M.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S18884eb4bff4427faa31078834d0152aL.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd17c8d4db3cb483284f3cf5bbf23c1526.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7859f835080b47bcbf9ff6b7f1e3c561W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5bf225572f464b709e25bfa6907ed67bM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3834dd1c166e4bf789fb4748bddad80bD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42288b8467a24f538b4fd5ace04b66ecx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4bb2e734e2604c91a96f74a494ab16096.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd403137858094abe9db7f146289f58eaE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7afa3cf7c0a42c8a086ab69bb9f73d3u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66f7a73c2d0d4e7ab76b2a3b0121bae7p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9cf9cb5913c148f6ad5b248149430083e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5882b7bdc437498f9e42608c6130ec5eE.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S99b1338f93964abbab254b136f66a1e6B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3834dd1c166e4bf789fb4748bddad80bD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42288b8467a24f538b4fd5ace04b66ecx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66f7a73c2d0d4e7ab76b2a3b0121bae7p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9cf9cb5913c148f6ad5b248149430083e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5882b7bdc437498f9e42608c6130ec5eE.jpg"
+        ]
+    }
+}

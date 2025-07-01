@@ -1,0 +1,81 @@
+﻿{
+    "info": {
+        "ID": "7279b3f262fdfb5200e6b2f5dc0f1128",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "ZH",
+        "创建的时间": "2025-03-08 14:13:44",
+        "第二层SKU数据": "p-200000124@34@35@36@37@38@39@40\r\np-326@Heel height 5.5cm@Heel height 8.5cm",
+        "货号": "ZH-W437509787",
+        "进价": "95",
+        "利润比": "100",
+        "品类": 1004,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "意大利原装真皮大底，跟高5.5 cm8.5cm\r\n原盒包装 码数34-40",
+        "性别": 0,
+        "修改的时间": "2025-03-31 17:28:45",
+        "原普货标题": "Zapatos De Mujer Women Cute Pointed Toe Brown High Quality Shoes Lady Fashion Sweet Spring & Summer Anti Skid Heel Shoes B9641",
+        "质量星": 2,
+        "重量": "1.5",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scab29ef6c08741a59d82b408f29bba34G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6259743653b74e5e959fadc4db134026j.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb48e19cab5994e66ba32e5c0c89d8db7f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb195f2cdd07b4b63a02982e4591bd73fd.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S81dbc087ff5d46eaa2f8e4b425f35f9c0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1900af1aa0bc4d97a7422d184631a0bd0.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sec88db81c6a842e0bcfc281738d14556x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0aa4976546e9408884085228d31e0759k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb262817e68d40f69098a2363b2ea5215.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed1f8ff74f584c018d01756c453ea040p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81dbc087ff5d46eaa2f8e4b425f35f9c0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8470e2188d44a6ea1d879f00c2ce0faD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc30de563722a4804ab1822a2ff9610daH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd89563b2665e4d1d8cc6c423335514739.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb8f932df29c4748bcff48dd7be27e4f2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfed705f7ddfc485b8dd327d9561e38cbU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10736086c8e34005997ffa502c9d3978M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85b8268d08e84813875aff7edf0b3581i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S403dc9103e78487d85af4b7228e048b6i.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Seb262817e68d40f69098a2363b2ea5215.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S5ad2bca6b65d4c1c86047f67f9aa88abt.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S903def10f65c45ecb3571c700c8c4a58J.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sfb8fe4550f0446cbbdcd8dba5170dbcf1.png"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6a8ce357dbff4e54aeac95fcc1f9ef56b.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S03696847abb64ffaa3083acd3b430cbbs.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S978555b21def47c98a10beb2ce2fad300.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4ec1ea59b294a36b1d8f51c9cbce83cv.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S43b12666c49e4fa29d72798b07a0496ai.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S9cb63b089b4d4ed1aa7e50d0536b8695u.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S903def10f65c45ecb3571c700c8c4a58J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb8fe4550f0446cbbdcd8dba5170dbcf1.png"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S03696847abb64ffaa3083acd3b430cbbs.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S30e0486563b1443eb5f096882b786dbbe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9ba552e37ae4086867c46f0b05d51616.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a6ad2de08e24c88aa5e994473cf2df3F.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S978555b21def47c98a10beb2ce2fad300.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4ec1ea59b294a36b1d8f51c9cbce83cv.png"
+        ]
+    }
+}

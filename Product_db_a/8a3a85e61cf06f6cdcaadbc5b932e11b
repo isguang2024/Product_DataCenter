@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "8a3a85e61cf06f6cdcaadbc5b932e11b",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-06-25 17:02:40",
+        "第二层SKU数据": "",
+        "货号": "DG-198739979",
+        "进价": 195,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "牛仔托特包 高质量，重量：0.75kg，材质：牛仔，尺寸：29.5x34cm",
+        "性别": 0,
+        "修改的时间": "2025-06-25 17:02:40",
+        "原普货标题": "Vintage Pillow Design PU Leather Boston Handbag For Women Casual Large Capacity Shoulder Crossbody Bags Fashion Shopper Totes",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seab17db71e884ba2870439ddae026b11P.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sef5bd1e8722f4a168b6931aad0f38e94j.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S67e11a9887ab4337b7836f2d6d6c64cbY.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S37c8ac51497b4a62b6c16d6abcd9681eh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12d0a0839e184c72bd7ead9ec069f0b6E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67e11a9887ab4337b7836f2d6d6c64cbY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd886691f9cc144c8b14aba1d2878d416K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbaa2daf9be9f4065a4c3273266ffe917S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8c34d9465f34124a1b11ef9c3fbb870l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S91412d756fb24ddda8211f6933631b2aB.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd9c383985c2e4c30a9374cd987879c4aJ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4ee3aa72a56f452e90e5ead8737e5d6c5.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S431a3438da5946c083b2cdf5e2bdded7Y.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S79f6a30d2b794acf8c1e532f25d20d929.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4be4b45999df4e4cbf38f34338499eb70.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bab0cb42769413ea210bfe34d2db5abH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd60b3a1dfdab4805a4f50ec880c5e0aff.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe653ea2d73a4708b970d53c0f405af7J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se984dc8fbb874bb0aa027d6f9c125aa7V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb94833022394a9aadff9d99e087dac9y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a937e8aeff44bfba57952c83728675aC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fbd8b5984554f90a49519d40272d11bg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9923555b319a4397ae096c2f41c93c9ak.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7a11d4cfd71412794d06e080f946d731.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1f5d5a0f8b044df2b4f651b5f3a8dbef8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38b94d4212d54d40b52a1a16a9c074cbk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S961a8d82b2774040bc090d9dce5616455.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c83a145765845eb94fe6c187f05bda86.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e0c770b563e487793a5d06ea1b47a13K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26a3f56d0c5d41f094918843241a438eI.jpg"
+        ]
+    }
+}

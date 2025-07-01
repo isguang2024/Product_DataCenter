@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "a7cbc40bb34299b95c57e8340e5f0b7c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2024-11-20 13:40:20",
+        "第二层SKU数据": "",
+        "货号": "DG-177076681",
+        "进价": 100,
+        "利润比": 100,
+        "品类": 1007,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "腰带皮带 高质量，重量：0.35kg，材质：皮，尺寸：100-125cm 宽度：3.8cm",
+        "性别": 0,
+        "修改的时间": "2024-11-20 13:40:20",
+        "原普货标题": "Women's New Small Belt in Belt Simple and Versatile Korean Decorative Fashion Trend Professional Fashion Jeans Belt",
+        "质量星": 2,
+        "重量": 0.699999988079071
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbecdbc2c6c36489fb5e5a898d2e7c1f1s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sffd1924d8a4e41eb8a5014ef572b22b64.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5871edf86c8b4f518d01cfbf880b6ab5E.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3e4080795f14f0ba7ebe6a500ee881eF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c4e44a3099a4fc5a2062ef42477b33ca.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb281cebd647f4cec94af28cb0d4619c8M.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S352af9599316470085e176806178a03fe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94b57fccd6c3469c8f42c4ddd7c29b6dT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20f47006bf7e4f1fa293c27a84b0b1cfO.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S034bbd6500c94fe29f355338214867ebD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S90f7962b5f674f86af653ae79edbbba8d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdef4f1b3f3684645bc0ccedea4cf17d6k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a3d359cb770408bb8571175f369f7b88.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Scca2bd739b3a4b67ab1986338e92ec61f.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S42528dd3324e497bb89454caeeaafbb7R.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S50b995598cad4544b1738e29dd200e5dQ.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S8bd49eb6a77e4cbc866eb69c61ff2fd47.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sb913981fce114dacbdb6168434ff370eF.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2c99fc431fe542df9dd823c03b077d78o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce29e5b8a541437792e815c6d86ebe00L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1b3fa22812e4699804a864c640ecb76Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b19d0461ab645e6a58c7f4066e6dc7d9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S086217d6e12e49e1855e36634d93e415V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78c62ece39b545cca5ae41b7eaf53d97Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1286132a5e54736b21f6e511d0d3230Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42444d39efaa4dfc8c43e7a7be7f2313P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11eb8790da5b49f4a8e0ad76063658c2s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40f1376f1bc943aa980e302877b5a55e6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5393c762935a43f1843dad918d4cc8c85.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0dd1dac94985405c99d138eef3dd28afF.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb913981fce114dacbdb6168434ff370eF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f063f7ee79d4cbe921dce4dbde62537O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50b995598cad4544b1738e29dd200e5dQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bd49eb6a77e4cbc866eb69c61ff2fd47.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se09a1e1a4a784ed1a7bdabe996d20acf5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa533dcf20b674bda9616fd1284165400p.jpg"
+        ]
+    }
+}

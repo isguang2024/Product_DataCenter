@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "539514c700ce6cebc0bf1f159204aac0",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-30 16:50:50",
+        "第二层SKU数据": "",
+        "货号": "GY-W1106461966",
+        "进价": 85,
+        "利润比": 100,
+        "品类": 1002,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "尺寸 19x10",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Stylish Suede Shoulder Bag, Letterstick Details Chain Trim Tote Handbag, Lady High Volume Tote Bag",
+        "质量星": 2,
+        "重量": 0.800000011920929,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S69a915bb0acb45b099c2bfe9d9736f398.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scda1c9972140424f8ef6a1f8f477a5bai.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se5d6d7dc4bcb4fc8a95931d6aee00384L.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1fdb8fda9f584c01a3151a1e3c5e93c77.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d4c3ad9e0b648e4a3085d09e32a8623o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd8091ea9a2049a7a01fda81db81a0e1q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdeaac07aae0a4c06a2b29280476f336az.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seeef5bfc358349f1b052aab19e932d36P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf5cf7eeef804551bee4542aade966c2p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbae7c9620c545ec890bd71d9c965c33b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01834849a9b84908a8b6d31b4bb4e683h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf363f17192f940e9992f20e8804a1322s.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S70aa4d22747342e6b73692cbfe43a072C.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd96273d3cb254e24af91d48f175a5791S.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S906fdfa356cd4abe97594460178c3ad0x.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S906fdfa356cd4abe97594460178c3ad0x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S819b5f291299403eaea384be1dd70169O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47ca4b0e721e4613bbbe3d4d4cf5591cW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S520ad592504c41ae9972cc1708a38c7dL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S649c0602d48f4115b399d3f5175b0f18d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9fee7346361a4bbba76db6c02ba6bf20x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S569eef7984e942cdb98dae4ef9cd52ce4.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9fee7346361a4bbba76db6c02ba6bf20x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S520ad592504c41ae9972cc1708a38c7dL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47ca4b0e721e4613bbbe3d4d4cf5591cW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S819b5f291299403eaea384be1dd70169O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S649c0602d48f4115b399d3f5175b0f18d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S569eef7984e942cdb98dae4ef9cd52ce4.jpg"
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "dba1071d90f1675c9640928ecca03112",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "GY",
+        "创建的时间": "2024-08-16 15:43:59",
+        "第二层SKU数据": "",
+        "货号": "GY-W2012906299",
+        "进价": "170",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "20cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:57",
+        "原普货标题": "Embroidery Crossbody Bags for Women Large Capacity Handbags Shoulder Messenger Bag Female Popular Fashion Hobos Shopper Bag Sac",
+        "质量星": 2,
+        "重量": "1.1",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9d41fbef0ae2495b883b6b939880da22X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42aa1101f6db458695e7f9c9c269eafaI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb92f8addb97946798eb1afab96a3aed87.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0ad9a9ce16344c5bfbce6b506bd3bc3T.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6de595f1d0454b61b67f9bc35d6793a2N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc1d7627e5f84b92ad2538ea47a4b025d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d5b8c8794854f8fb391bbf26b59b94bK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40dc2be2ad4a479b91f5741340d4fe43i.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S549c9a73e99c4e9b96c75ba3b609861aU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb33b73d0075f47e98d26c760150dfbabI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf68f1e814f4a42feaf690ebbd3095060f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03cbeb15aecf4cb19a88985421c77145d.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S20841f3158b24a5980885c8701a304800.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S077832073177423fb99f56d551aa3b0bk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb83b959eb84c42cbb19cd78ee134a633k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2604146cd034becb41ee77e8c1f431dP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S883ad10fc24046c582b48e33ab8d107fx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2e0fd03e5f549b490bcf914c25ce858H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26d273c0c2bd4f8bb7c08e680f06bab4t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbb04047c6324ce98a07edaf2ff3d17eo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3f5840488434427a732d1b6fec08337c.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S992b6d9ea3c643c28e5b233e2336ac46r.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd0a09e5e14e64558a055bb3beaeddc9dd.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sdc0e83bb93304e84be6bc8639e750e29X.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd48d556d130b448aa90f51e67c764065F.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc1100f49c16843c9820d697468a84d6bv.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S870bb12466f84333bb7072959087108d7.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S925bb391abd74fa8a6d5094c0f4be99d3.jpg?width=750&amp;height=752&amp;hash=1502",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ffee06db0064031b790eaa6ba816255F.jpg?width=750&amp;height=858&amp;hash=1608"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9ae756ec710c484ab724a7ff4f99824ft.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb6cc450c9324f069e6304e2452c5b5ax.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc447e0529d2647b79531987dd3558d441.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7547935e18ae4b50a7343242074e2790K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b9159ef5d6e4dbdae6c72c01e11d48at.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97803318e360456e9422193539667ea8m.jpg"
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "4758509c5d308ea726573b66dd28c073",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-13 14:51:43",
+        "第二层SKU数据": "",
+        "货号": "GY-W1775214570",
+        "进价": 230,
+        "利润比": 85,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "size:26×20",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:01",
+        "原普货标题": "2024 Fashion Drawstring Shoulder Bag Travel Casual Nylon Tote Bag Large Capacity Waterproof Crossbody Bucket Bag Women",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9e037f08504b4483b2f46d27bc65cfb8V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0dd06d437f014ae19fcdf7d66ce1eaa5d.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S16ee5c6bf74f4f659d0f5524820acf22x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ea46f0e193c4aeb98451a448a08b00dF.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S09ffc2ddf0d84c0184760419f59a56d2W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2894e34da114b31b61c6468f18beda3i.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S09ffc2ddf0d84c0184760419f59a56d2W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S950082e330464b9b92afc633ce104a617.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6694890fabb4e8eba6aeb9dcf268f7aA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38f4f33b901e486fbcd3dd1e37b185a8j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf32e7d4fddb543ecbd39ef70178cc4f0m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff29f1a51d5e4a1e91b6fb6028463403z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b5ec4f2dc384b93a5db3502491dd8a0U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se995b53f634b43bdbf3b1a49e0f9f9a24.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39ef148fda4e45b58c463ccd84609f16r.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S09ffc2ddf0d84c0184760419f59a56d2W.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sa18eae75469b450bbae041ff8d581544l.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6e6def8c8deb43658cffa475d63622c0g.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S8d3b19b2851c4b909b6113528e85f2daY.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0696f575efd4b7f85d25adca7a56380l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se28d7e2c8ed249b48513442fcaf302eaF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7de0132cadc74b7c87e59f6f9a342041a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4119064b7f94033bc632c946481f5ca3.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0696f575efd4b7f85d25adca7a56380l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb3c286aa1964c85bf51550440f5ff71m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55fd3c4381ba4472a0bfd89842b61200q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4a0e80de235426992672201ab3a2ce8r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1dac257835134efcb9e897f356dbc400v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se28d7e2c8ed249b48513442fcaf302eaF.jpg"
+        ]
+    }
+}

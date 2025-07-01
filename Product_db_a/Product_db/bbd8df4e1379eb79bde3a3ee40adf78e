@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "bbd8df4e1379eb79bde3a3ee40adf78e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "ON",
+        "创建的时间": "2025-03-11 14:13:48",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "ON-W476397216",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -1898907760,
+        "普货模式": false,
+        "商品简介": "定制布料?牛反绒  ，定制牛皮里，码数：35-40 ",
+        "性别": 0,
+        "修改的时间": "2025-03-11 14:13:48",
+        "原普货标题": "Sneakers women Summer Flat bottomed Lightweight Mesh Breathable Black Fashion Original Sports Outdoor Hiking Casual Tennis Shoes",
+        "质量星": 2,
+        "重量": 1.600000023841858
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S435a4e52fd524076820170d9ab77661eH.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0c9accd512cb4590b29f6aed3d69d1616.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0e70164e0ba3445faf2f68014aa156c7J.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S06defffdcaf040c3b302ef795ae14baaW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef8d9887c98c4397b0dec0753bf0ff48B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2413c07471264d289311c210783ac3fci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56008f00964a4a52b0a3e0f97538034fE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7ff9fefc4c64d26a2c37708ae0b0daek.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b98efbf42a343aab11aaf2566e6b8d5m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65e4899a7ac64184913519508adbd578s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9e1a149552a4e1687ebf815779880a9w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7bd2cbad5b340dc9ae049fa99e93d41y.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S97343d70e94b421f9331f11c0718b23aG.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S28d2c937253c41c8b12da47805be906dM.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc23dd22fc315453eb196d861a8a5e406x.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7df6d0868fbf4e36a2e9e8f01e3e3c93j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc77d867f3521428b9dab6218f4c82570H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f4f5521c85d4e458f4eedc43106872d6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se57140bb1d90409fab071dce88926803L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a71ee9aef6a4776bbe114000bf4a5b6B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e18e096f29b4e539d61a15b5e68e91cO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sadb0d3593e1e4712bf67238a8c8fc21dD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ff805f83c1143398317dfb2c867b3a9D.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S73b91b7b9484494fba069ac3cb3038c2p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S914eab09a9834b87ab3d0fdcfa539b1ap.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6a5a484e3444bf0854891da8896aef07.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc77d867f3521428b9dab6218f4c82570H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8962475a10b54149913296c130828d68l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd15322d8bb4347448d723fcc98fcebe3k.jpg"
+        ]
+    }
+}

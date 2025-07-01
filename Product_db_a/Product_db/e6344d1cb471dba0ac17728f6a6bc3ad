@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "e6344d1cb471dba0ac17728f6a6bc3ad",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "RB",
+        "创建的时间": "2024-06-13 13:16:44",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W260143413",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "进口小牛皮，内里牛皮，私膜真皮大底，全套包装\r\nSize：35-40",
+        "性别": 0,
+        "修改的时间": "2024-07-21 14:02:30",
+        "原普货标题": "New Summer Concise Solid Color Men's Home Shoes For Couple Cosy Slides Lithe Soft Sandals Women Slippers Gent Indoor Flip Flops",
+        "质量星": 2,
+        "重量": 1.100000023841858
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scd9aea170e8b479ca6589ee4de733cd9U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80b9ae798dc64e9e9bafb026b8b63224d.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se4fae6a510264a9fa07fe540b7565440y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb28bec7852a54865baaf888f0bcf4546l.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb73c1b6f581e406cab48e05b44202c20i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sacacd6eef07149d5a41b55880a1752e3U.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S36d150b071a34d96b207b0e1a5eb9ece7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S388d412351394eb8a88df82b769010fcj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26659684c73e4af2b0f07058db85057fk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68142646a9ae496fa616235302f5faf3F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30944d6454b245bca8431077bd2d88dcM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b9fee08bd3149f08d95f7f82fee7749M.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sab0ba684b6b64609818f204067d497838.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf0a9c236bc0142afbb2c5f544cf13d3aH.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sb8752aba68b84cb8890f81ee937187edM.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sa1331ee115714498981df198add88e3bS.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf3105aae0c346c0862cb32c1fe34b73W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70e95f04989a4d37b36476d768475760H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67a1d7bfd3504ebd8dd3d8b9ce050d14q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0bb9a305610e420aaf8d7fda9d4e32da8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0f2e5a47e374a199a49d72cc930ae7fH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc09adbb9996d4d46b4041bef7b1297ddU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7a7de1c5ade487dbc257370f76ac9a81.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2784f04721244b708936b44e046207d8S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1197d679fbae411d8997a7be29b640e52.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99b7dc0c278447bcb62e98149ffa527bC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae83d218168a491bac7232434004f43f7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1af81e5dce3f499fbdefb3ecbe58cc774.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S02270010dd8a46cf8e35c5e39a43fea2e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81fdfe861cf64eb6940a2b465b3252e7x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1af81e5dce3f499fbdefb3ecbe58cc774.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S233796a1a2f0480dbe9c9bc75393707aZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcf8c47994cb48a292a58cc07f21f2d6d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ceabf3e284e43388fd7455c7c636015W.jpg"
+        ]
+    }
+}

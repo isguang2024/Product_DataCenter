@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "66c00791c1e531469be46d225e1f6ed5",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-07-31 16:20:36",
+        "第二层SKU数据": "",
+        "货号": "GY-W1375613341",
+        "进价": 185,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "尺寸20.11",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Foldable Shopping Bags Reusable Grocery Tote Bag Waterproof Oxford Cloth Handbags Large Capacity Shopper Bag Pouch for Travel",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8ecaa28b9d34a1bae9d8b08e5b1e64fH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6b2cf34c9c14dfe83ca11e1f6a153eak.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0e4807af25b4a89b83ade75338f4447W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bc2caaff32042ca959538a0950f5f79v.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4593e498260141cc8ec9563c11911d55p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3018ffdc42ad41c0b1804f12729f208ec.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S29e3d97be5a14c26bf2e9374f9c4b1a9c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa377cc33375e4a1aac8901557d71766eZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c7701639a044ce3bc6798a4baf4735fB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23fd572adb2a46ce862a3feedb28f554C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc049bf4113b04d608451339df6cd5e94N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbbc05485ab194b36b9b3228211a46b8aJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35606a1037474ace96d2c233427113fc3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb21a21878db84600899b1e6ac73f4a9br.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S90a52d9d2b154af1a6bcf067a2121979u.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S605c78d203294aeb98dd27b5bbb03096X.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S479842ba99ca43c5a8a86f82f8188e48d.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S11636b5a88c84732bd70a896b2309641X.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5e4a752867a846f0b7488215398997e3J.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4deb9059dcde4358a5d3c8a6f7a910dfY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c2181716c5a400a974660aa376afe27O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S27d2b4ef5b14430986c5f4a003e59958f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a121673bf7d40c2860fe59bb8bad183J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40c63b75736446f3b54b7d587342e8f6m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8117319d2a84ef39df5768c0c7ecdebe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47c3dd3bfca34fb19e14dfbb3aced0b6A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47c3dd3bfca34fb19e14dfbb3aced0b6A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0abb6260b80e4a6aa80efb46363db0aci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9ffd5d2ac714e1c8b3e9cc4f264d3aeJ.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2d1195d911614a47958ab7a5183747582.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S560c46945b834acc86261394fd927530C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f915dd6b95d42ab887ba5be8a4b092b4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b751252e14a4bd281b118849f2d8649J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52c9ef9694574b85af9ba34d1aee9bed3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8a1c1561e754364a1899dd03acc96e3B.jpg"
+        ]
+    }
+}

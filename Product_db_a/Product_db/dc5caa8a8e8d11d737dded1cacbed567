@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "dc5caa8a8e8d11d737dded1cacbed567",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-06-03 11:05:15",
+        "第二层SKU数据": "",
+        "货号": "DG-141304328",
+        "进价": 230,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "原版品质，2个颜色，邮差双肩包，重量：0.78kg，材质：牛仔，尺寸：22x17cm",
+        "性别": 0,
+        "修改的时间": "2025-03-15 17:14:35",
+        "原普货标题": "100% Polyurethane Pure Color Single Shoulder WOMEN'S Bag Fashion Chain Cross-body Bag Underarm Bag",
+        "质量星": 3,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa582c70826574a22a696ad02f4c7b559E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fd8a77116f14da0ba04773ea115cd23F.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scccc18cc602843f6a284a6571860ff8dw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f7e8a06b2c94428b51ce02348d0953aM.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saf155896ade546258cb1b926462d1753g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75d98579cbf241d0853e6d499b689fb7w.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saf155896ade546258cb1b926462d1753g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75d98579cbf241d0853e6d499b689fb7w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd01324eda70742589bfca43fe83c4763p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See22bbffbb4f40fbb0595f0c17c0d6ddM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4eb3c92d49a486cad984e571f19f520q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1095f08484345a99845c6c652fe26477.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf155896ade546258cb1b926462d1753g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S186f18fe575145e7943b715a87699ba8N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00e1624f87ce4c01bcd3142f03c5da15O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1e757ba43544fa4aa325478f09b0ee8l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3967831a4924d018065b88a489b3dcch.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S342c7f9ca2cc4af3b5cf5010cd71c168C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9ed25210c614e21875aff78b2754dd3B.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd01324eda70742589bfca43fe83c4763p.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S968cc2f3edb647758cc8ef6c7243f304W.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3182995e46b241278169c7f925177690p.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc3b236c131f54ce196b2ec07da9411b0T.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S04dbc0da45b6479b855a076c30312514K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f6ed305b7ba45c8a148d82bb9f4bfe1C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S627f052c98f3485588d7a73503363ed5Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S902da554b5334049bc8c89a3cb2a7cdd3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sadb3dd34ee2d44b3b095fbb2001458647.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6bb283f98a824814bcc83434362f3bc9Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scffbcbf4d224417fae9a4ac49ec5f436H.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3f6ed305b7ba45c8a148d82bb9f4bfe1C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04dbc0da45b6479b855a076c30312514K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6bb283f98a824814bcc83434362f3bc9Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scffbcbf4d224417fae9a4ac49ec5f436H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S902da554b5334049bc8c89a3cb2a7cdd3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sadb3dd34ee2d44b3b095fbb2001458647.jpg"
+        ]
+    }
+}

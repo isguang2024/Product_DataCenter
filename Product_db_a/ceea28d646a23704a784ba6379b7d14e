@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "ceea28d646a23704a784ba6379b7d14e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2025-06-20 13:58:43",
+        "第二层SKU数据": "",
+        "货号": "RB-W1777843476",
+        "进价": 100,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -1190321189,
+        "普货模式": false,
+        "商品简介": "原版开模 代购版本进口牛仔布私膜真皮大底全套专柜包装\r\nSize:35-42",
+        "性别": 0,
+        "修改的时间": "2025-06-20 13:58:43",
+        "原普货标题": "Shoes for Women 2025 Summer New Women Flat Sandals Bottom Roman Strap Sandals with Non Slip Rubber Soles Ladies Daily Sandalia",
+        "质量星": 2,
+        "重量": 1.200000047683716
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S374fad5e08454ed680dd04d91049c7500.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scb5cff2c20414cb8a1b28f21d9b07a40z.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3ebfc59a30b243d8a5346d2e8705a7ddD.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S55933d71290f48f785ea680acef8fbeeA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf2e4f72a2be4e738aab5a2474b672b80.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86265517b5914ab3b5b23cb123eb73a4n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8265c990a5894d758812062fa2b75e5cn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48d6e238165d464e8ad0c4c5d37837b0P.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S92d7eb2fd8d741eaa407606b3297d4fah.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S199d37ba5a314236b49e4fadb4b26b96l.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Saeeae14a410c418dae30419e6ba0cd73k.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd74d516de0d649fca7d370c67d8c1348m.jpg?width=1340&amp;height=1668&amp;hash=3008",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f72486305d9426ab608e87d0a9108f9z.jpg?width=1340&amp;height=1340&amp;hash=2680",
+            "https:\/\/ae01.alicdn.com\/kf\/S988beaf5f42e4851a7a6986752de1b54Q.jpg?width=1340&amp;height=1340&amp;hash=2680",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c6d7e9764dd4ea5be47e82a69413537Z.jpg?width=1340&amp;height=1340&amp;hash=2680",
+            "https:\/\/ae01.alicdn.com\/kf\/S8e6066c4af1c46ba8d076e8eeb8ca6d2N.jpg?width=1340&amp;height=1340&amp;hash=2680",
+            "https:\/\/ae01.alicdn.com\/kf\/S8dc76385621940aeb3fbba9c7aa36dafC.jpg?width=1340&amp;height=1340&amp;hash=2680"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S85fe187ea4794d20b1e15650a73caf8dv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb820b62e30bd417cb6130143a755ba72l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a7220f9fb1c4fb6939f45db331b9221x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S138ae9e634b94f57934e644509b650bbI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55d9f3230e864210bb48851d9d72e132I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f37748bc6594c70ae15f21c53a83b6fs.jpg"
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "2e39b0285c4ee059b256025102f6a2db",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "PH",
+        "创建的时间": "2025-03-17 13:15:19",
+        "第二层SKU数据": "",
+        "货号": "PH-189025456",
+        "进价": 2,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2025-03-17 13:15:19",
+        "原普货标题": "Heavy Duty Wipeable Polyester Tablecloths, Reusable Crochet Table Cover for Outdoor Picnic Camping Dining Table,Brown and White",
+        "质量星": 2,
+        "重量": 0.1000000014901161
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfde85a9024ac414b8a80e831faa658e8h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4deac0d77194fdca26caa9d19217c63s.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S29f08c153e1b4b24ac7d593e8ee7ed899.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S165004cf6ec941ed9570be86f0471998d.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se4c25a38014e4b54ac0f7c4388c20906s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saccfa8c6378e4072be502a4b1f25790aR.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S69329168a4c44394a7058ad7c0cc8690w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8087c40250747ce8682374e2af42375s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6331362e8d3b43749b556644a91eb250z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5550ff941b9847a886fccaa41055b663S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0b1384d572a46cf8811cc80fd3f46dfh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S812de99f01e74f2790557d07619fd26ea.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1d0ea7546bf4c3ab743063b6bd9a147R.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S47b32db5171247f28fb7789d18decb60K.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sfab72f00d406419dbb719656f1dfa0afK.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8a8257bc003c4272bedcacc8fa241ac3c.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S4a5be7fe9dbb472db6aad23f493283e1C.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/A3c88c0574e1d40d1b46bfbda0c395edbi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A936d1c89ea294c6c9e730db44a1cd594H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Afe931a51e50c42819e0f324761c3e353B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A93baedade23144e5af66474718c495f3i.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1c21ea8fdb394e6c80a9ad1fd289346bP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbbf4e0b76ed74057bbfef0954b043c347.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb78b8aced7394aa8a4ed67abcc762a86q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A3c88c0574e1d40d1b46bfbda0c395edbi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Afe931a51e50c42819e0f324761c3e353B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A936d1c89ea294c6c9e730db44a1cd594H.jpg"
+        ]
+    }
+}

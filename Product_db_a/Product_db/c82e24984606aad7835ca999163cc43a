@@ -1,0 +1,67 @@
+﻿{
+    "info": {
+        "ID": "c82e24984606aad7835ca999163cc43a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-02-21 15:40:12",
+        "第二层SKU数据": "",
+        "货号": "DG-154244436",
+        "进价": 65,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "单肩包，重量：0.6kg，材质：皮，尺寸：23x15cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 13:21:05",
+        "原普货标题": "New Designer Women Crossbody Bag Soft Pu Leather Shoulder Bag Good Quality Messenger Bag Small Size Purse Ladies Handbags",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6ccf5d7032e43fa969627688b0a1e72t.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S01c0a385607349ddb77e5d286023f5b2Q.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa298a058eedf488f8e77c731b5d4a797Z.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S18926ae0b8ee47a789785c7e0a6360ac6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa298a058eedf488f8e77c731b5d4a797Z.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S33c7f9c4501940d5b2cb32807cf6f6c4o.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S96fda9a5757a452d8bb9e98b07aff7ecF.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6761f3e130f742239c47fba3852a566dF.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb7d71229cde43a594f7c6f0bd910ffdL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e187140a02e4f7280245b2f4658102cd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5866cfcb89247f99a5528c572cf5c9fP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c62150ffee54bf4a26fb0b7a86deff6x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1fcbb5efcd5d41f6846d075200da609aL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sffe686aceb3d475cad6c8b14ca5214b2l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13b4fdf268814d35afd01ac7411347a9v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8428827c220641f5a64a9154357accf1k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d76c7cf91ba4f92b410c7d30aac2b19s.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1b7d9166e04442ac927d69c320795e0cE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S83bfae23f6424c83b6db03328c3abecbw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10b17698637d40ff9a980b183bd805ffU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd39553259947458e8e176e3483c8f93ef.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3ddd69e9a9d4c73a3b67a19e74de32fQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6761f3e130f742239c47fba3852a566dF.jpg"
+        ]
+    }
+}

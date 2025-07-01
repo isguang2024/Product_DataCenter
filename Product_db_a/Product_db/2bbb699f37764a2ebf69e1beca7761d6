@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "2bbb699f37764a2ebf69e1beca7761d6",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-06-11 13:04:36",
+        "第二层SKU数据": "",
+        "货号": "DG-165952828",
+        "进价": "155",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "手提化妆包，高质量，重量：0.5kg，材质：毛呢，尺寸：17cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:53:11",
+        "原普货标题": "Women Stone Pattern Shoulder BagsPU Leather New Trend Crossobdy Bags Pink Handbags with Chains Shopper Clutch Cell Phone Purse",
+        "质量星": 2,
+        "重量": "1"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb336995776d497ebeca0bcdbb088e74i.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saa040ba054b447188a9d17f87c4eaa7aP.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8939e083fbc441e28a2df64fe606f616Y.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S96aa1a4600924f80acc9b37f46bf4ad3U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd09559c9fd964f21a3ab3c1d1e18ea39h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6efdec3b8997459bb93df7d7b33c7c3ff.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S915a1b5d08c544a2a6ad798ac0c4f8b1R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2218cd7ea3824a499ea5e7cb5e5944b2y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e99445eeece454bb8d94799f9443b37h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8bb85d857504e099864607942bda829B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e11aedb423143c9a2fdc175f6d8e8f9R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb207a4159b4e4290998eb0f0bd20e7e0w.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S19ed273197a14c52a8474a28a7a95697z.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S73818ac3f400468d9621c3e073990610t.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4c7a30375d9a4879a6e6ad2aa71be10aR.jpeg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7ce9edfcf0894599abba52b21f12538b3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4497300b578b43bd99ff7d0d2bb2bf62u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3bb1bc53cab3466a88463a1e2c0c13f0C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6151b90ca4a144438d9e54bf9fba166dc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b7f038739c04bd5b2d0cc3290fcb6c84.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebe889dca1ce49e28a8d6a6123a34dbdz.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4d74bc92c5b4e1e973d102d1c0a2dc2p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S522fe96327694cd58ca09f0ecfc1acecM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S25e341094be54bc387c8363da361037fS.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1021391878f847d8a48757029c5f5ec1N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb424313647174a3485c75456573ac105Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4fa76b483e91414680bb2864aefeb13e9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea0af90edd9d459db9a8b40e7ca4a950y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seec81bcb333b40b2982833dcbcce62ebk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S83a9d8ae6ed74c34bfaa1c382afbb0f1D.jpg"
+        ]
+    }
+}

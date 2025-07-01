@@ -1,0 +1,93 @@
+﻿{
+    "info": {
+        "ID": "5edd59d8b510919f0fa51ebe5e048cc9",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 5,
+        "厂家": "GY",
+        "创建的时间": "2024-07-29 14:29:02",
+        "第二层SKU数据": "",
+        "货号": "GY-W1942412411",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1593490208,
+        "普货模式": false,
+        "商品简介": "尺寸：15 16",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Women Girls Solid Color Color Pleated handbag Mini Niche Design Simple Shopping Bag Oxford Tote Bag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0116736099394417b018e1764bebc336V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f0a5751ccf3474d85a1e0abb71ce7d7L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S257b4bccd6e74a67bf7b35c3727cb87fE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75571da50eb344388a2a02dd05a9facaZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5bb6f848d3ba453096f80509ce2d7b21r.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S275b5b7f84114b71920a0f6b652a9439H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2063e16815bb4a988b7bf458ee22e6ecz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebbf9789ac4e442dab372737f963806ar.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S256e1c1e00dc4be18ce81e59f388d91di.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S332038ac09514f62a5c323feb11f72b8m.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S14b708740869498ab690396f681e8ff8E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9813ff807e040bd95f1eb84412b18b2X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S25f3b21a1ab0480db1d2a245f5076e20U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d9a3c04c0b34adbbf2cf85f125beeef0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saabf6b3e381149f48188837755d35991s.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd52d657ff4a34c199434879bb5d9a0baX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6cfe6e11719b436aa81a0cc0bc6b86acv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2bdc55e2f7d4b189d803fa95a03c916e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S25f3b21a1ab0480db1d2a245f5076e20U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d9a3c04c0b34adbbf2cf85f125beeef0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saabf6b3e381149f48188837755d35991s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbfbfb8ddb40d49d581af09431b0ba8d99.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d855f281d6249e491b00ee66c412599z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1832ec413074e5e8418bb00a0a027f39.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se74c86b002934cc69d19e9a64b7167b4U.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S47a6ea7222d544649d2e5b0164ecf231V.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sf058fab6b8a3449380ddedf4eb70e6c8Y.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S29f6935efd9e42b38ffca5762126f7cfm.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S371e673006a54e179f13328e5cbe7c19E.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S29f6935efd9e42b38ffca5762126f7cfm.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S371e673006a54e179f13328e5cbe7c19E.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf41cccbec5b640dbaae7af60e6964551c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec849c90a83b46bc9bc6edb8c5ba1095M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3d102a29fe040e39c460c490c05a3d8b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc41cdd7996154aac9e099efcc170bbb0B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5776ba70c62d4c848317a957c2bd4009F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5d18f4da5d34ef3b5ad076e5164d2b4N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8943f0c30024657971e71039772ca9fr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ce9ebdb19fe4d52906de7695879a667T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b164716cc054a20a00f655b49a2606fV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb665c7b544ab4875b7d99bae27eccea72.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd0d0e2655ab46c6b949c1eb88d5a711G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc687dcebe2e0481480d3bcac2aa2642a8.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8728f7e220dc4482a84d80734bfa5ff66.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12ec759459c140bc984c48d935166891Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8943f0c30024657971e71039772ca9fr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5776ba70c62d4c848317a957c2bd4009F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b164716cc054a20a00f655b49a2606fV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec849c90a83b46bc9bc6edb8c5ba1095M.jpg"
+        ]
+    }
+}

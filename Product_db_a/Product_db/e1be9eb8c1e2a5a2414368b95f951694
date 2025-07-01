@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "e1be9eb8c1e2a5a2414368b95f951694",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-06-14 13:17:04",
+        "第二层SKU数据": "",
+        "货号": "DG-199301741",
+        "进价": 210,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "水桶包 高质量，重量：0.72kg，材质：原版头层皮，尺寸：17x18.5cm",
+        "性别": 0,
+        "修改的时间": "2025-06-14 13:17:04",
+        "原普货标题": "Women Handbags Fashion Soft Genuine Leather Crossbody Bags Large Capacity Shoulder Bags for Women Portable Handbag Phone Pocket",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3db1424fcb9d41728bf076fd42a28ca0Q.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S871cd901a4ec45e583b68840602ff234E.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9fbfbf0f746a46c595f5347e49520bcal.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se8e14b3ae2de4b01810988e135d11568K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c9a4a1e56fc47dc82bf71cf77ae3f893.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7bdce36dccc406e90dec322f5644e5ca.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89179096c9ab4ce68025198c603ef752r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69530c80d2dd4f96a22ab6a0602e1613X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8b45a83d2734981879c1881adab22005.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39ffd4db444c4cd483b2d5d355845af0h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S252f7946149b451cbddd23b8235b43b7M.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9fbfbf0f746a46c595f5347e49520bcal.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S28d0b53f7a9d41a89e7b9366a331affai.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S1aa40d5cc38a46288a71484c31a15c67q.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2293daea886444a5be850306bfff94c8X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbada7def0e244ee9acedcbddb9da017O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4da7c5e6b8994c9c911fb38c76985047c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb286eec07772489e9f61a913b23c66b33.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe4d49bc86ca45649c277fa2ff3f7040J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d1294a30eb84527b4215c105cf6efebk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S085a3a78db3f41448e53e92dc3a06e57r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31a8f4cc0fb244f4a51ac5a4e2c0f691p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd829a69328e408ca77cc7cf5bb7f49aH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb59dfa9929954fa59163da7aff4c53dfc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7c5c66558c04e83aa86c3f49bc1d981o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11da896846364a33a372400ae3a0aad3a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2704c9395a0f4a5f8a72d91f0876ab01N.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1aa40d5cc38a46288a71484c31a15c67q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S090669274f6d4beda2b5dabda02ff1f1z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc14263f9a31b46778a262cbc64c01785S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6870482105e44f09772c33d3d8546612.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3a38336127a460780f2eda40fb00c8eb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S83415fcca1bf4a66a37720e362d1489em.jpg"
+        ]
+    }
+}

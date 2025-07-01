@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "f2d127f93bd81895b684426a86af56c5",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-06-25 16:34:22",
+        "第二层SKU数据": "",
+        "货号": "DG-199300615",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "黑武士链条托特包 高质量，重量：0.75kg，材质：头层皮，尺寸：25x20cm",
+        "性别": 0,
+        "修改的时间": "2025-06-25 16:34:22",
+        "原普货标题": "High School Students University Freshman Multifunctional Sling Bag Shoulder Bag Casual BagMinimalist Flap Canvas Messenger Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5600ad0e61db4beb90cff177be40dd2fh.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S16e5e69845ad4950ae00bf949aba6289N.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S20f0aabd10864c0db68a32c9b3a1b2c8a.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scaddc7e9bb0249c38e93a28b9845473e8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7e863347cea4e9c8d7c36df9427778a0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ffb00ed2ddd4e509a0c7a3b8ae3e2d5Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb16e44d904fb4f3cbb0c7f98fe8ea60dm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50e3d30119364df5a2ec71b58bf2d282u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf38ef25dd55144dab84a3fa89d446281z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd60a1922bdf4d70937798c856e3979cH.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Scd8f0e46739847e2b51fd3ddbd4c1a674.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S38b15f0b202b40c1b4f71e2492438e9dp.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se11f0c4771ef46febf12361c2a3e0898c.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S10933e40b346433287f3045bcf0becbfd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb32ac7393714b26ae4408a6e7ac319ei.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f783e1215814ee0951ea7563fcf743b3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2eb1e333846c40ecac35e1c775715e97q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0bacc94b3c6e40b69d9e301f6123b3dbs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d1e99153abe44229569f8146df1ba4fM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f0294b511b04fd2a8a7bbabeb6e0c2d3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2aa5dbf317f84c7db2039069b8cc3fc7O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94237fe4395f4239b1aa188f7bbe722fN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b0c3b4482204206a5d35fd65104b7a0o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S92c7d3b3b7544835ae0455acfc90f16ac.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S603d48ff871d44469d4535c6e697b2ceh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42db8516328743f09425c8aa94d7d419v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18300e033b0a4de9a2cf93c25c2aae6aw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb94208318d94b4b8e5bc89251a7d3dfX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6d5cf1acff5406989a0102c98928d89O.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S723fb796da9e4f89b5a44e1e2ad28ad9g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S76955b1a109d4e3fae2be0d46399ad79A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d55be3fb03f4ee9b8b906699cde2523J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc7fb9a5b94c4166af9411569b6e4fb9a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se65c2cee159049e89899c05913825b98Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd843c868a494332855ab99a6c264bb64.jpg"
+        ]
+    }
+}

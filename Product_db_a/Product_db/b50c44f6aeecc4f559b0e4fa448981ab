@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "b50c44f6aeecc4f559b0e4fa448981ab",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-05-21 19:03:05",
+        "第二层SKU数据": "",
+        "货号": "DG-142790584",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "材质：皮，尺寸：25x20cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 13:45:09",
+        "原普货标题": "Luxury Row Lady Bucket  Bag Lychee Patterned Tote Bags Woman Shoulder Bag Genuine Leather Handbag Tote Sac A Main",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb54d2079d1bc4e06975fafd1e30e9b92g.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8170fac32b724fe4a7319d0bb4873462t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcb7c439a7b84694b1c5519d4e270b82V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S855f8c2a115e447e9e5c2f41ba8fc41di.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S19c00c631f2c4777bfb577e5b614ac34A.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se278f9075fae40c78425790eae95c808i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbfc47c01e8a14634b9782fa788df198dB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74d7d58b61094d7e9a43aa692b314739k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21d937c72faa49dcb73e3048fb32f8f5k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc66b16b1e24e4196b0a5853723663aecW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5d1ce178813442db39c72692cd2d5426.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03e03645e30349458c9d7061cea9970e8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78cd2405887d468295fc5594729a9f54G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23f3c439ae814ba096f8ff57ca884f17r.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S04c485ebf77b42a0a6e6266bc4d47851p.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S56d2f2f06c764d67b0d3062958d88209z.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S25b6a1089ec24c8e92119bbb323f9f1cJ.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S200e55a4863c4e84a6daa130cb3d504bP.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S61b7e5ecb5f64564ac5a7e9e9494d845M.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S52f3e35fd6ca4d8db4a50815c41707c4I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44ff9b3f268443d7a545e4636f0d8d7a0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61b7e5ecb5f64564ac5a7e9e9494d845M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4de36b741804c6c8fc734f38778041e5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8cb8c8540db348eda230fb848a890a5cg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87c64987b3804fc7bf5bb8817a486250a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S25b6a1089ec24c8e92119bbb323f9f1cJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74b20e32113745a59cca50f7ed17ed03l.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S44ff9b3f268443d7a545e4636f0d8d7a0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87c64987b3804fc7bf5bb8817a486250a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S200e55a4863c4e84a6daa130cb3d504bP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61b7e5ecb5f64564ac5a7e9e9494d845M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4de36b741804c6c8fc734f38778041e5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S25b6a1089ec24c8e92119bbb323f9f1cJ.jpg"
+        ]
+    }
+}

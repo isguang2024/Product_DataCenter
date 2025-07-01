@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "c8e697aea6238cd0cb6f9d7d11f24d30",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-02-19 16:33:38",
+        "第二层SKU数据": "",
+        "货号": "DG-185555037",
+        "进价": 105,
+        "利润比": 100,
+        "品类": 1002,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "丹宁牛仔卡包钱包 高质量，重量：0.26kg，材质：牛仔，尺寸：12x9.5x1.5cm",
+        "性别": 0,
+        "修改的时间": "2025-02-19 16:33:38",
+        "原普货标题": "Large Capacity Fashion Canvas Shoulder Bag Women's Leisure Literature And Art Simple Solid Color",
+        "质量星": 2,
+        "重量": 0.5
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S47c01e065ba6491e963375d5a6570511w.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5cd903d8cf244eabbb4f5989962f29d4x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4df119862bfc46ac9091a981a9c2cd27w.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1c83c2c3056422d9178a56c6ad63abdh.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5fa9fc58f7604053982d8788c2ad6cbct.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34036712b8b9430d9f6b1801400f147cI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc896e2fc6e9a4796be9129116a782622u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6d89569342a45ecafb76ba415e81eabS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1c83c2c3056422d9178a56c6ad63abdh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d741e4a87764e1c842a2ecebb43c9dc1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seeef4f368c8c40de9d3382389ac0037el.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8baaa901fc2461aa397ac97c89eaee3v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbefc2660eb864593b81bd7b0d0e202bfK.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S94d0c954b6b54d61ae884524448ef22cR.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S70824273deca4c33bc7915b20db56e60a.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8e9122dbf09d451ba3758074df99b8d71.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc47bd75981194e0b9869c6d57330766fK.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5c698fa1a30b4a6598e48652ff72ef4dB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c698fa1a30b4a6598e48652ff72ef4dB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se956f57723684eb19f53569ac84a4129W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se956f57723684eb19f53569ac84a4129W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scecd2b10943c40f5af72a7bd84d1a452s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scecd2b10943c40f5af72a7bd84d1a452s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d677d970cab48ee80e92bdf31af0e0aq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d677d970cab48ee80e92bdf31af0e0aq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S471526d509f449299e124080dbbe39c4a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S471526d509f449299e124080dbbe39c4a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S218aba12c28d4c2c8c8c8299a18e9f85X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S218aba12c28d4c2c8c8c8299a18e9f85X.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5c698fa1a30b4a6598e48652ff72ef4dB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f5e0a7768674fafa3fcda33403a41d13.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc944b1f144a14829a9bb7706a15944e55.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d677d970cab48ee80e92bdf31af0e0aq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc47bd75981194e0b9869c6d57330766fK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S218aba12c28d4c2c8c8c8299a18e9f85X.jpg"
+        ]
+    }
+}

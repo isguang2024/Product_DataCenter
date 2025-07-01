@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "77c35b5cac25e07987f40ea52db78f5b",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-11-20 13:55:09",
+        "第二层SKU数据": "",
+        "货号": "DG-177075320",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1007,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "双头腰带皮带 高质量，重量：0.4kg，材质：皮，尺寸：100-125cm 宽度：3.8cm",
+        "性别": 0,
+        "修改的时间": "2024-11-20 13:55:09",
+        "原普货标题": "Retro French PU Leather Belt For Women Unisex Belts Buckle Luxury Belts Female Jeans Waist Belts Men Waistband Thin Belts",
+        "质量星": 2,
+        "重量": 0.699999988079071
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2158d4369b434a9f84a4efdc49113717h.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6ed2f0afc09243958d54584721df9252j.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3431d1fca20a40aba8149f7df075a895f.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8bbb39905fc94702bee281f064b711abI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8df37c9ddc16468e922066860fff8234j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcdbdb30147b487596bcdfe73ea423edw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3bfa8fcc9d534f319250126399cc2c1cd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S45b350dd61b24bfb84ef0031562ad7ae7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d8f46119a03488fa931bd251a60c00fB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8161d21e6974af18a07af6f64e7f1d5X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S825fef5b1dba48e38c6aaf752ef01f17t.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S568c4985569a422cbd3127d48aec772fD.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3adc1a14b75542648ca635ad2ac81993v.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4f7e28b3740145499c967eb5ca935590r.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8cb3f97bd617456999bd6a0e61906e14e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1950c8affe3f44dda9f35154e25d43fcT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4a7f33de536491a93c10483ce779e4ct.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se63f60523a0f44cbb369d8bce1b36626I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb656ff21e1fc4e46879f0d23fc80c595r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a77b3b53c7a46f6a168687f7838ca1d7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf01fad801e75457b8190d15d016268e3R.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se63f60523a0f44cbb369d8bce1b36626I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1950c8affe3f44dda9f35154e25d43fcT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4a7f33de536491a93c10483ce779e4ct.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb656ff21e1fc4e46879f0d23fc80c595r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a77b3b53c7a46f6a168687f7838ca1d7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf01fad801e75457b8190d15d016268e3R.jpg"
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "cb88e0e01f5437952d2f257a9727f098",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-06-07 11:51:23",
+        "第二层SKU数据": "",
+        "货号": "DG-196293008",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "手提包 高质量，重量：0.75kg，材质：皮-刺绣布，尺寸：27x20cm",
+        "性别": 0,
+        "修改的时间": "2025-06-07 11:51:23",
+        "原普货标题": "New Large Capacity Tote Bag Versatile Handbag for Women Commuting Bag Messenger Shoulder Bag Multiple Pockets Mummy Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S53b0fe76bded4d70aecc3d03d6834302V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4fbb9c4cd1714143ab1fb2a729d3c201t.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sba9d78b737dd486398153a9fdca708aaa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6627351245b4d2583099696fa651a921.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S25e0f728bcea42d58d34cec1e22a84a7N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb437da1f169543b5bc67bafe8b5b9c01Y.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S35edade8fa2a490088a3cbc5acd30437x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82ce962d022a4744bdc2a99d114b44e2v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb57d0a87a28f4ba4adf84cb9784da125P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb437da1f169543b5bc67bafe8b5b9c01Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1aa29fc225d4072b090b5ac6afe27751.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b60e129a98546e69fc855a7b78e4be8S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S115e191ac4a54190875ebe116547ef5dM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S487b517fcca34d70b51335905926c713H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebc671cdeb444703a2c63aa6b8e3bfc7J.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S900b97ab6cb14d6bb5ae4fcd2deca1131.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Se865ab5b8a3b4b7ea10bece4f80055b6A.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc10381be3e34401fa5a7c9d03007d3a1D.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf62494912271496495264ab414fcbbd1b.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb914b087f76e4b4d9162e3b0e43f089eK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb7bbe37f2ea432d8e00c811fe73ee0bJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S765330c91f22447c8c7d465206e543a0x.jpg?width=1000&amp;height=1000&amp;hash=2000",
+            "https:\/\/ae01.alicdn.com\/kf\/S66c6e58444f6405fb0550c2bab52f029t.jpg?width=1000&amp;height=1000&amp;hash=2000",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd291aacf2a04431f9ba94abb3974239eS.jpg?width=1000&amp;height=1000&amp;hash=2000"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0f0a9c5977e44429bebd76837e12855f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S988fc34b56824859814cb9b7934cc06eA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2599cc4f1b3049b8943be6b37b09b3f4W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S91b7768ec2c647ae88ec5a74bb2cd425c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1bb327cbacd43509cfdf6f2af963fbeS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb7bbe37f2ea432d8e00c811fe73ee0bJ.jpg"
+        ]
+    }
+}

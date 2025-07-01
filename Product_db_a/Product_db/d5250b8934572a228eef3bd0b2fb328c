@@ -1,0 +1,86 @@
+﻿{
+    "info": {
+        "ID": "d5250b8934572a228eef3bd0b2fb328c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 5,
+        "厂家": "ON",
+        "创建的时间": "2025-03-11 14:59:05",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "ON-W1805879425",
+        "进价": 110,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "鞋子码数35-40",
+        "性别": 0,
+        "修改的时间": "2025-03-11 14:59:05",
+        "原普货标题": "Colorful Big Size 33-45 Thin High Heel Stiletto Women Ladies Wedding Pumps Dress Shoes Party Evening Shoes",
+        "质量星": 2,
+        "重量": 1.5
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S28797ddd88a843e0bec611b530705e7dt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f1a9ec25f164f4c97f9d156541e0347E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69864ed4bba144a7a437a378e41f681cV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S92b6426b319d4df2a486e139aaed3908B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c98e2c2ad9c46b2a70c6491fb0c97069.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6f74e66e57ba4e34a31be681cee98f46w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb911a7fe23534b0f9747eb8e1e511270L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03f09958567e4486a2da036fa9dc4d87F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd9aeadb62974114b5c9e73fa4274611d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda2ea811038a4c6fb7e153920f49ac7dU.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3ad0b89149db48a399ec00038e0c44496.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S321adb89905643bba07f713d0e4a844ew.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5460177ec75b4f0a8d07be50808e2b5cm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f3a2c75dddf4e6c9f151d9e8dc55586I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b7e5e55b9b74f66a43f2639a10adbf8k.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5f3a2c75dddf4e6c9f151d9e8dc55586I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b7e5e55b9b74f66a43f2639a10adbf8k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7a6f67ebd3c491b8c756fa6edc263124.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ad0b89149db48a399ec00038e0c44496.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3af8bc3b0ee04ffd84a3b9e7fa0bc31e7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1674724b378426d87afa6e0e3bc2d0cb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S321adb89905643bba07f713d0e4a844ew.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8978343953148a4a13151cefbf3f5efK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5460177ec75b4f0a8d07be50808e2b5cm.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd7a6f67ebd3c491b8c756fa6edc263124.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7b5c15ce31ab405ab0d281b0162ce47ap.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/A2c98b4e4ed39484dbbaada6f43cd1cceC.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Ae68e08ab2d63400594f02367805d9eb57.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/A8b634c2ae2bf4cb69015e61c069ac826S.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/A08ed9328804c4eb48e858639248f9a48A.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/A5302bbd6be0c49108630aef761cfc47dB.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/A7c13db1c8c7f45fc85cab800e4a6d5c4c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Af71a1fd12a33407f95722b6054e1e28cl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A1cb9491365964048a294b30c55ce070fR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A8dd58c1ff15645b7b646f5d82a9ec9ceT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A656fcd94aea14d7c8b0ea0760b388fcfx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A70effa425bdc4f819ef60189090a1a77e.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/A1cb9491365964048a294b30c55ce070fR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Af71a1fd12a33407f95722b6054e1e28cl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A7c13db1c8c7f45fc85cab800e4a6d5c4c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A8dd58c1ff15645b7b646f5d82a9ec9ceT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A656fcd94aea14d7c8b0ea0760b388fcfx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A70effa425bdc4f819ef60189090a1a77e.jpg"
+        ]
+    }
+}

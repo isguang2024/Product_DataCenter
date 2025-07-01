@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "ec80e460e4dff0f94a86da41ee843b46",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-06-25 16:51:15",
+        "第二层SKU数据": "",
+        "货号": "DG-199299503",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "水波纹贝壳包 高质量，重量：0.74kg，材质：头层皮，尺寸：25x18cm",
+        "性别": 0,
+        "修改的时间": "2025-06-25 16:51:15",
+        "原普货标题": "Women Canvas Tote Bag Solid Color Designer Ladies Casual Handbag Shoulder Bag Large Capacity Cotton Reusable Shopping Beach Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5bf0c5c4f0ca4166964112b22b3dab1dC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S575044104e36488783ab6a5c6eb96f80x.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S54fd4a89f5f6498ba06517ab8839f91e5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S209690542d45473aa1456246631ac24dX.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0b669e230e454bca8ac9a256604b7b2bf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed4cf91a14c54554bd11dc7f43a71cddA.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S100c6ae09bdb4ed1bc219f1ddcabd3dfd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a92e1a11e5f4ed29a7450aaaa589918J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe114a2263e8466797a9469591b585bep.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9f3d101853d4913aea76fa61c7fd993y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S285e8ffe2fef41b4bd6fd036bf4d4232K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52ffe75eaebd47b18a0f3ca2f574574dK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc87c7e7f0fa04dc99576f469ff35e0dd8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba2d8aec083240028f48a850204506a3B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b669e230e454bca8ac9a256604b7b2bf.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb38574f2545744379c619bc4c1295f9fB.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc5dd5207f71b49dc983b37df6d6a0d25k.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa794b2777fd24ecc971071450bce06b5p.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf067258fd82c4412a317134d338020a4j.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S819b5cd112e94bbf807fa6a689001824Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10663313ad3248b08c22db45b5afa006b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41c588a1abd94b448c0cefb5cdca1fa3T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S912cff657a4244fb871aed4d5f3b1931a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scfbd1634f7c849ed898239eb5856b3b2L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8cf6addb4bc84471a39683eb4c5fd4fao.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d2a9fac56af4c05b2838769d5b912f5y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S998721034fad473a982d1f5680692a0a9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S64a2248c224b4f9fb54f221b8ba605a9w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11c315ecd10b47fc9a97e329f0a4c556I.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S711cab63970a4e3dac3b1bdd49a3de06l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S190b89a34ecd4852b8be083df5813cabG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb23b859b87e946b49f1bfcdb82132c9cd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ac349745fa0422192471e53fc7f21fbL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa794b2777fd24ecc971071450bce06b5p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd962991bdcf4f6bb3dc1ba7f7e34fech.jpg"
+        ]
+    }
+}

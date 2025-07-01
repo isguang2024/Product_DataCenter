@@ -1,0 +1,89 @@
+﻿{
+    "info": {
+        "ID": "c2dbd3502400dabcff2ffb1cb51eb17e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 5,
+        "厂家": "GY",
+        "创建的时间": "2024-07-31 15:15:22",
+        "第二层SKU数据": "",
+        "货号": "GY-W662785161",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "尺寸20.11cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Blue Cat Graphic Make Up Bag Two Tone With Zipper Makeup Bag Cartoon Print Small Mini Cosmetic Bag Storage Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7eef9a3bb68848e2861107026e052299z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sacfaac41a1194465ad06ad071ddd958ev.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf094013c21d94bf9bcbeade2f97bbe83w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S315e4d896a564d1588562bc78f202af6H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24f84331bda046379e760f80ff90ea91O.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4550d21ee60f4ef8b7b666b6722ae852C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8910f180167a4dd698e479c644aebdc1M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8cdb38dca1754a4db2bcae9dc7fdc2ecw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea19a265ee084f36926fd9e25af3d620y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd69a3677eab4287bf0d8b98587b90ffr.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3331ae7bbc34ccb84c8d56ddcd4c47a5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1eda3b0940c44d40ab000c2195cd2811Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9657922fdaee457492c70f3168b7ba02S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd380cb6d89874bb4b4a88c4a93786ae3s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa453c4f6b2a14e2889d0eddac3ce5f50n.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2f8f070434a54f80869fa074cc8283318.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S819c3936128145f4887b320fea9ef3aaS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5174e90af21549b18cdfe592c47a87f5Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5bd13e09b4343d9b7b4254ae0055162X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07a5027ced9c4246bbf5bc3790693a0dI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a9585911d7245c5a2c0409db6f61d4bW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec9e9cae0efa40eab9b5d851dd92d7cd0.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sec5febd19b58406ea5c0d361d1f761e40.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S80c8dffce0e94e29b45e1886ab9ac697b.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se5ffcfcde3ba45bba24dd3093bc9dfd2v.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Se5ffcfcde3ba45bba24dd3093bc9dfd2v.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Se5ffcfcde3ba45bba24dd3093bc9dfd2v.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Se5ffcfcde3ba45bba24dd3093bc9dfd2v.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Se5ffcfcde3ba45bba24dd3093bc9dfd2v.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scca0ae0849e8417396c7b1c52ab9b7b6G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05435f5a75d54c3890dcc10e2ca552e4v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf47022aedb6b4bc8a766f4382a019f28d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S846daf4e91bf44bab5ea681a31c716baX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e6ebff10ef04d4b96accc351b76d92b8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfaad7091244f40b1ab89a026aa726f69h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8da392d90909475b9ff3535cca6453c1U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82341d83f962404384344f58bf4a2c13A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7fba5d98b6074dffa6930e67d659e4dbJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S716939fbf0ea4bf9ba5ca2e28c92ca66M.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se5ffcfcde3ba45bba24dd3093bc9dfd2v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd01a50838114978b20c1d677bbe47d6N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81cea3a0c1db4bc3b7255b5cae949c27w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd98d994acae4eaaa99c348a06fb2b2ec.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34dcf67c053841b28528e48ddf6dc7356.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6fdbaab2711140229fa811401dff3ab8W.jpg"
+        ]
+    }
+}

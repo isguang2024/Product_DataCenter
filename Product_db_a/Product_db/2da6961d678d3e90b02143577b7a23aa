@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "2da6961d678d3e90b02143577b7a23aa",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-07-03 17:01:26",
+        "第二层SKU数据": "",
+        "货号": "DG-167342594",
+        "进价": "105",
+        "利润比": "100",
+        "品类": 1002,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "材质：皮，尺寸：19x10cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 14:34:32",
+        "原普货标题": "With Logo Crocodile Cluch Bags Womens Handbag Bag Lady Casual Purse Cluches Fashion Small Handbag Tote Mini Wallet Crossbody Bag",
+        "质量星": 2,
+        "重量": "0.5",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S959575c167df425ea6d7ab9b4193b853e.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sca179f0b62d44c1393240e7872a604deW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c695c37ebba4956820823c5f5f0e9afp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f8f773ade0d4eb2a055921e744be3e0D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbfb9e4b23dc49ef83fb0260e7c2f4bdI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5faaf0a0a11e4b02badc28a057b1c2f0W.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4474fa6ceef46eab2f43caf90631b7bv.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe657321cd0c4e57bc4f618e936c9b4aI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e5135d14afa4c62bc7fb8fd41b93a596.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S226f4d1b784a4b34b2b43bd69a8c4fe7F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1cf8e1b43e841d1ad2f64e4ca123b08p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8241552fb36544c7a8052da8e04eee56Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99512b74aee8407b8fd04b7c4a08dab05.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82a1d1953ea94e51ae50e7bb368c536e8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S92b8eb2d4a52496892e9b06bd57b96a3Y.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Saf9c2f664a5d4fa08206a8dae90cf55fK.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd964c832fcbe4d6aa8649ca62b2d0d511.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa69ec13bbc584f10b2c1d2646164202dk.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S573b062da0704198beaeb2b29a4dad9cC.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S694934c58b7f48c6a9ae6772dca75af67.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2df69ae014c149e891eae544a83809d1V.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc9964e32213a4dc18808ff954624d9f7a.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf883f9b5ed4a43c5a552ed0cadbf0629W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebbb6102d8bd4202a58f6457426ed587o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc17b30313c714a81b6d28f0675bb9637P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2df69ae014c149e891eae544a83809d1V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa69ec13bbc584f10b2c1d2646164202dk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S694934c58b7f48c6a9ae6772dca75af67.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S573b062da0704198beaeb2b29a4dad9cC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9964e32213a4dc18808ff954624d9f7a.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf883f9b5ed4a43c5a552ed0cadbf0629W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebbb6102d8bd4202a58f6457426ed587o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9964e32213a4dc18808ff954624d9f7a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S573b062da0704198beaeb2b29a4dad9cC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa69ec13bbc584f10b2c1d2646164202dk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2df69ae014c149e891eae544a83809d1V.jpg"
+        ]
+    }
+}

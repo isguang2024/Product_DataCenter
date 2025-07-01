@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "5dd5f39341fdcd02f5ef488159f34143",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "GY",
+        "创建的时间": "2024-08-22 16:24:28",
+        "第二层SKU数据": "",
+        "货号": "GY-W1839764570",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "尺寸32*21cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:54",
+        "原普货标题": "Vintage Corduroy Designer Satchel Japanese Solid Color Women Small Shoulder Bag Fashion Dumpling Bag Travel Simple Crossbody Bag",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S839d3c24e4db4c7bbb4a509dbda9e7bfk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e8ca471f29b485bb51e2e4f2081daed6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c505dc6392047389e07a93df6db98388.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S92be7dd978c34c92897f94db6fc69700h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c5d1ea6a4d643a4853f497dca760f60x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S320c203dd7a849fd91c6aacd2242434a4.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se126f85ab40b45f3ae45d7f1f62b363aU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf6e0c0c6ac24d4ea78b0af98ed61b26l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9c65bcf8d2244c0819ec141ee577788P.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9c65bcf8d2244c0819ec141ee577788P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13f0124294234fd09898c4c9ce044861o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71c65703bc1d4131ba1a875e376949ffY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd2304eeffe44a29b4b94fd346f6caf9s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S834066c2977243caacc727d3e978c137j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d203fe3c2b742569a6f50eacc105e4fT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S25c6488126834d8db7b7c35df8d248cc0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55e10873963743b59ac95a4765ab0df8I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7136d60387d6403199b369539a57fde0L.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf9c65bcf8d2244c0819ec141ee577788P.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb9437def3281425b8a8c76317b18506eg.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se529cef41ee6486da07038eb62164b7ey.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S918dee80beb34b5ba3419eb208de2f9cC.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5d26757679cc44539042b34cf40f0780r.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/H911c55074b8b4a9b9b0603999eea20ad9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H1f82026e76f742bf974cf06cff2540ee8.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6ba72a06514245a58f308ff55be16bdck.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf421879b44c340b6acfd855e9ea93e65q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba3f772907a8409ab8ac45d08eec45e2f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b10a6b7ed4640139ccd030214417332t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6bd5396a69f64de2b8615552b1d15eeax.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb77c1bf70a6e4909b98196ceb7a347c9B.jpg"
+        ]
+    }
+}

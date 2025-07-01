@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "a9b459f5b2613b37ce1040b2bdc864e5",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 13:30:32",
+        "第二层SKU数据": "",
+        "货号": "GY-W1109821317",
+        "进价": 225,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸22x14x8",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Womens New Leisure Commuting Casual Tote Outdoor Bag Simple Solid Canvas Handbag Zipper Shoulder Bag Luxury Bag Bolsas Femininas",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8a846b9d90ff444db384ba0c6c33f585m.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S616ed55fcc65426381be017af7703c40K.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S61b219d3ecb64a6fadbb153812518655v.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S61b219d3ecb64a6fadbb153812518655v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0159cf5062954f968a9c0bb49a955c87a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57196e345ef9402d85ea121fa527403bU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S798615e50d654244ab494ea8a39b1971x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb35914c235274963a31808574c70ceb4y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5483f17bac3c42139e10fbaf51ed8a35Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75ad4d9a355b40e3a10fa7e000318e70j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S562e277ad46848dba949395161b70045C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9152464c7864fd2a0092ce3d2e74858j.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S61b219d3ecb64a6fadbb153812518655v.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0241dd079de44cdb8a4cd95e44613e8aF.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S9de2e84771a24c009ac8611a44612fbbu.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S127e57015abc42fcb80067538389b334h.jpg?width=750&amp;height=666&amp;hash=1416",
+            "https:\/\/ae01.alicdn.com\/kf\/S5136e14971594d54915e5c431f917af6K.jpg?width=640&amp;height=960&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S09181d5ce41548bf9a4e67f6735ab111Y.jpg?width=640&amp;height=960&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S193e58bd120a4621b4237eeedf9b8470m.jpg?width=750&amp;height=666&amp;hash=1416"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sae504d9650c1471a9e298344e4844b32b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94ca1b20a6464679b1405b1a16e57ee7V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf10eaa865d27417aaebcd80e1afc1683x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6426e52f0e9142fdaa2e764f057e99d4N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ef0c0682e854efba3bf24562c56ffafV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5bb4860ad98c4b29be255d1d29de35daO.jpg"
+        ]
+    }
+}

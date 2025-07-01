@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "e94819996423b494a53b484cfe5d4d46",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-03-19 13:53:12",
+        "第二层SKU数据": "",
+        "货号": "DG-155412250",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "链条包 高质量，重量：0.8kg，材质：牛仔，尺寸：大26x15cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 13:21:05",
+        "原普货标题": "Fashion Women Corduroy Shoulder Bags Soft Handbags Tote Bags Girls Students Large Capacity Bags",
+        "质量星": 2,
+        "重量": 1.299999952316284,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S11633434e28344dca1c7a05194cbd0cfk.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S857a9517aee24620b6fb67c9381bec60W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8040ae5683534f08b0b8f22c652d5136f.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2deaa14809e04a69bb7c6b9d719cf29dU.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0a5165009114dd787fddf494ba24b329.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52bf0c3cb32346e2826dee173016ceb9g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c3958a3ff1b4f149d6ad3f50f08c7cb2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94ca42218aff41baad734ea45cea232f9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0d9dfca1f8240b4913d7a7ea20b27cau.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9128f6c53c77477498f0f3e890f5e31ay.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc04199821b65457598ed6f44590f18bes.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S2deaa14809e04a69bb7c6b9d719cf29dU.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc0bcd9b2810141a58047738c56ddc715C.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S38ebf5e66df742cc835ab2ad22799a54b.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S12172da9d8a149849d283b5329e82e0fh.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc88fb8e186d94e3d9428fe07b4f69000Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12172da9d8a149849d283b5329e82e0fh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38ebf5e66df742cc835ab2ad22799a54b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88b2428f400347958fad2ad0ecd2f269C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8703807339242e887582ff51ddfcd25b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se2eec33958bd4bfc9b2f87e23317be8fP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f3e5113fa644e23bd14477d6d422da0b.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc88fb8e186d94e3d9428fe07b4f69000Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se2eec33958bd4bfc9b2f87e23317be8fP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ebebf490e25483f848aef904f4ad8af0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88b2428f400347958fad2ad0ecd2f269C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8703807339242e887582ff51ddfcd25b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f3e5113fa644e23bd14477d6d422da0b.jpg"
+        ]
+    }
+}

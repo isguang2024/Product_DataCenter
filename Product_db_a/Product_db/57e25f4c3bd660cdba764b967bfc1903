@@ -1,0 +1,83 @@
+﻿{
+    "info": {
+        "ID": "57e25f4c3bd660cdba764b967bfc1903",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-07-15 15:23:03",
+        "第二层SKU数据": "",
+        "货号": "DG-157726696",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "小金球CF包 高质量，重量：0.55kg，材质：草编，尺寸：20cm",
+        "性别": 0,
+        "修改的时间": "2025-02-22 11:54:27",
+        "原普货标题": "Urban Minimalist Female Student Large Capacity Commuting Horizontal Canvas Single Shoulder Diagonal Cross Portable Tote Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se404e3ca83f34af18f0f871c062e9d64a.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5c451c056af344238c952a3cf85a791aM.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S35d2866511714f79a3a4af7a02db28b0s.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9f3564f900d545dda1116a3e582ebf1ec.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S238cf859676541fba79fd1d773557b4dH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc12bb8808a7e4cf8a8f6e6021d283090o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4d1a2f37a0e4e198d63f03374a03568V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1032c0dee3994041a0ca772e6da593f5a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5945d535b46f426c93dd4a6bbdb5c08ch.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f1aea69326e44669eacb6037daf8b12i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33ae6e010780471097b17635974c0d8cy.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S70b48d4a00114d968be4b5315fa202fdJ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc24ae56674bc4a66a12b68f1a28908d9s.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S622df09a125a41ada5ac813c6dc4949dP.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S738eda2413464400bc89bdc99078af83Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6fb863b9d3164cb896a44165fb7cd110s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b31f3369c7a497082f3df3d0bcc3819r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seebfa681f93541f8a9667ceb6a82c7208.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde688fb6e7df40daad8d58ad239990b5U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S819fc16f697649218706ce1efd146762C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3dfc7828d12848238d63c6f92600addeL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02349558ba6944b9b8734902c4f9d805M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbe46fd244764a3e98badb1ba2fa90c8v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88b879b0b77243e7aaf2c78592dc8060D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S491aa9e832dd454ea1558c9c1dfd3fd53.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19822dd1ba7f4799afd2cc1e9578a001a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf8cfdac6fa447ec8fc17e4e37caf17a1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94c6e955448847069ee6ef0a5cc5bd25R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saced78298a454373bea2710fbcfc310cK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86fd7f2f909743e4a3419e9c496bb66b4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S350e746ca0e540b7984db0e39658e1cap.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c54d0d339fc429cb03ca39f571b0588X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0f6ac22b21f440295b1f7437140ca3dg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c14528c6af243389915a0cd6b787a34f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2cfc9700971e4a83a2e28ded25c83d7ag.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60d0f9f69cbf47a3a5781690022cfb91B.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S25c9327935634a9d8542f5f4f7ea44dcG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4cbf65e2a80c4a78a340c107513b9246p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S100091d920cd4fab97dd876b1a83a0188.jpg"
+        ]
+    }
+}

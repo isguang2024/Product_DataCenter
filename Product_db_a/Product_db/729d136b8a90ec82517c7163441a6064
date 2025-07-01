@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "729d136b8a90ec82517c7163441a6064",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-09-26 16:01:16",
+        "第二层SKU数据": "",
+        "货号": "GY-W861088041",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "尺寸17.14",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:50",
+        "原普货标题": "Women Shoulder Bags Winter Corduroy Underarm Bag Casual Travel Armpit Shopping Pouch Phone Pouch Zipper Female Handbag Clutch",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S491aad49bda64267b075fe1cc76364bdG.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S15d6fc665fcd4299ab2d6dd9c862a2a44.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6a8c1d21a5c4510a483e4f238f75663K.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S664ec23dbb8b48d09b9e28454a363b07s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62f8b993fae54057a9a156daaf876d3c8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8e4603b0717488c8592c7b801b5ae8bO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbeb9c33385444d47b0c5e9cb04ee65d8k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb64f907943f648e9bf5e6c140c89fff9R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f93aa9309c04851bb1c8278166cb64e6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9febbedb21b244cc8ed9145bdcff1437i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9be142af9456416ea918a58eefa2577er.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S434d7f2570e548619c5af37b73d6c035g.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S664ec23dbb8b48d09b9e28454a363b07s.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4769789f15b54809b15befb652b9f7c3k.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8764638a68384b3aa0f0cd5c5af26a8ca.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5d269c5cd9c4e59b2e0604b3688d6f6B.jpg?width=750&amp;height=750&amp;hash=1500"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1733895cd884e3e8c3f4f169d18d405e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1fe62252304488ab9fc4dd41eef89c6b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60cd7d2777644160b127ec0ed265acf9o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c31e50618824107bf80c0f7a18d8ecfp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20e1ab1f9a754281881be647f953f525f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56f5e729784c4160aca32fd87010acbaj.jpg"
+        ]
+    }
+}

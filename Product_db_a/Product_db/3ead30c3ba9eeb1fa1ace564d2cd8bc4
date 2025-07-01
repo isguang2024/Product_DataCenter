@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "3ead30c3ba9eeb1fa1ace564d2cd8bc4",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-06-07 12:04:26",
+        "第二层SKU数据": "",
+        "货号": "DG-196207450",
+        "进价": 170,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "抽绳水桶包 高质量，重量：0.7kg，材质：头层皮，尺寸：21x25cm",
+        "性别": 0,
+        "修改的时间": "2025-06-07 12:04:26",
+        "原普货标题": "New style crossbody handbag for women, fashionable mini street small shoulder bag, lightweight and single-shoulder design.",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb091af7baa841d7ab2ac968c93b48f3B.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9eba6dd2e9f4384a2f5fffa237d6f2ew.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4da711bb00294783940cab2582fb325bA.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S92dd9574c0d74f1b88bfaea7e18cd0624.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31b124ddd38249038be1e51b608be44ac.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a6c6ba7c697433f92f6d786a38965d9v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f427870c9ad4961882307b39d345a15C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2394d69f814842dea2775f0faf4a787eQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15770fa26ef3434194486320495ab9f8C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79a101a74f9e47ca88f4a37379616071y.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S30693dce174a48f686fadcffb8d404a65.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S568a515609a24c71b14092d06ed9ff51U.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd413ca0698424e97bbb8587f9fa8aa47s.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3092c6f1d55b4a6ab68e4f3d00bc8a4bV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se58133f1e4fc49b09f5fec463771b5b5m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se392aaa8e3ff4d20b7c2213004897d51a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9f83fa5b36b40fabf25509798ea5700A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Safab71e5984f4650995400b4a2aeb17ec.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82c42344153e4f3ca3d502169b17197bF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7685536282704bec804bd6fed190f4d6U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34d812cadda54497b012088958786a88A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2a868e92a5a4cf1b0707453bf5a156ai.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0da642dc460a4239856f8d7c5ed3a1afD.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3092c6f1d55b4a6ab68e4f3d00bc8a4bV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fe640a455c94259885d89e1343858f1U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34d812cadda54497b012088958786a88A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0da642dc460a4239856f8d7c5ed3a1afD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2a868e92a5a4cf1b0707453bf5a156ai.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7685536282704bec804bd6fed190f4d6U.jpg"
+        ]
+    }
+}

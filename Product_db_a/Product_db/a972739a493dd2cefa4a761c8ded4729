@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "a972739a493dd2cefa4a761c8ded4729",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-07-03 16:57:40",
+        "第二层SKU数据": "",
+        "货号": "DG-168286693",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 198398445,
+        "普货模式": false,
+        "商品简介": "麻将包 高质量， 重量：0.6kg，材质：牛仔，尺寸：20cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 14:34:32",
+        "原普货标题": "Men Business Messenger Bags For Men Shoulder Bag vintage Canvas Crossbody Pack Retro Casual Office Travel Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se5f5aa1862ec4cba95ef2ccfb61b4eb0Y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se930e98a89c643a5898c6d0f0210d79bF.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0ab8d06f5bd45a28c7bf6bd914df465B.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf96506d432ee48468d2d2a5c49ccdfd4l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f2d9eacd6cd4288846900d426fb6f5dw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S058e5696efef4370a8c979fc027d17b94.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2a0d2c395084f33b3450d4eaf4eecd7W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9e3d3655fc544848f1f1f94109c2052k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9740b63ef3084af2863bf655ce4b3d0b8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9dcd38fdce8495f999a27313865b6cbr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed4069d641314a2aa2e5a1ba25fa5352O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f9f7aaa8c164ce0916fae21e412a212O.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S14e80a2ecede404f81dfc3eb51dcee0aK.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Se67ac8147045466780415d68c3c9c7f2X.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa3601d9d41f942dd967dcd117f02a5e6l.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seb85097db2af4decad73b5cf33836c991.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf13e5632abda4f2984876633411615a6I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07fe92d2a65341d084c77ecc55ba9047r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secf83c03e58948ca830cb0b4976644b5K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1710acf867db420ab487e99621bf28e8W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28438e9238684043a4658ae2febd5cadK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S097854a537314c2fa8a046ba881360f2h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se36e551c924c487880fd6329133351f6t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a55f27745a744fcbf7fb8c14866426cO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8cbcca9999c4a9baa6115a3a72b4cddh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1860efa0430d456baf0453420c29567d7.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3794ab10e7fe4314be0b992d3375ca5bI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30c112ecff5c45a181cbe5eece52060aJ.jpg"
+        ]
+    }
+}

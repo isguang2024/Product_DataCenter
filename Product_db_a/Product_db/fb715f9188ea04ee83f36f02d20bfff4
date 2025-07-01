@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "fb715f9188ea04ee83f36f02d20bfff4",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-31 15:51:03",
+        "第二层SKU数据": "",
+        "货号": "GY-W344025201",
+        "进价": 180,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸：20*10*16cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Leopard Design 2024 Korean Fashion Shopper Big Shopping Bags for Women Handbag Lady Shoulder Bag Large Capacity Bag Girl Handbag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc199b61edc0f4b12b5f4227bcbf4b219W.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf09ec3b2c94e470db46944e90f79fc91V.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S63e5543855974961b3ceaeeab571b582U.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S63e5543855974961b3ceaeeab571b582U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c1a289d393d43c784310322c52afdc9N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2faab620ec64365aa9d06acdec61fd6U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se5eb315f4230499282c20fe45adb4dd4H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S910f1f17fe894c3594253a9df179d639x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ffa96fb85a042019a5ab1c17ee46891J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad561d0f4c39428a875edab097e7f880o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19000ae6775b4e25953929af2a8eb898b.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S63e5543855974961b3ceaeeab571b582U.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0955fec92aaf498eb602083dfecb50e4R.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sccc111f13b094c64b04bd063e3f7ea85Y.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S18605fb361c14064910183fd7a01571ah.jpg?width=750&amp;height=1145&amp;hash=1895",
+            "https:\/\/ae01.alicdn.com\/kf\/S8647f22d9ef74de184b7438865b9d4b7l.jpg?width=750&amp;height=857&amp;hash=1607",
+            "https:\/\/ae01.alicdn.com\/kf\/S258ff286b7554a72ab7baa89c11c22b3I.jpg?width=750&amp;height=866&amp;hash=1616",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1b11f39721e48b1ab637194e62e470aC.jpg?width=750&amp;height=876&amp;hash=1626",
+            "https:\/\/ae01.alicdn.com\/kf\/Se03143571a8b4aec866de2a0de802c97H.jpg?width=750&amp;height=878&amp;hash=1628",
+            "https:\/\/ae01.alicdn.com\/kf\/S9df5821d8d1d441f9fe4f76acadc5d84R.jpg?width=750&amp;height=924&amp;hash=1674",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed5c2103500e413d85df578fad56529dp.jpg?width=750&amp;height=1432&amp;hash=2182",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f2e6b928fa1465184080e6a6953fe69c.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a452f30428247aa8a070fd891acbf639.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a7300b323f348d8853333ee26dddd90M.jpg?width=750&amp;height=1448&amp;hash=2198",
+            "https:\/\/ae01.alicdn.com\/kf\/S672d117556b2479789a59216ab8e68224.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5a101896fa64c52879e8efd7fff8592P.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3110a22f19849e295012bd9d4bb1e7fw.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S18605fb361c14064910183fd7a01571ah.jpg?width=750&amp;height=1145&amp;hash=1895?__r__=1703061785051"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5869567a5ceb45058c378892b0418e3cp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4fe47211ceb64fa8a3c907444791f387T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56d6822b94ee466c9efd710c55746995n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03d8cc5f2eeb4e509bb78a69a3ce6e41t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1032eb0c0348406b81bc68e74624d52f7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sccc111f13b094c64b04bd063e3f7ea85Y.jpg"
+        ]
+    }
+}

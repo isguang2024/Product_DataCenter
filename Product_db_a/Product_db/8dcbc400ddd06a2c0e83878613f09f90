@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "8dcbc400ddd06a2c0e83878613f09f90",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "RB",
+        "创建的时间": "2024-09-20 16:47:47",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40@41@42@43@44@45",
+        "货号": "RB-W309086913",
+        "进价": 95,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "Size：35-45",
+        "性别": 0,
+        "修改的时间": "2024-09-20 16:47:47",
+        "原普货标题": "Women's Sandals Summer New Fashion Beach Sandals Rhinestone Flat Slippers Luxury Sandals Women Designers Ladies Shoes Large size",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seba0bf506a244c1aa8649954c7ce540fU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e95a3af99a04ff6a1a9576a4cdddc71K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secbaad3c3c1c47719be90af58218e820N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86c02d1c2b57459ca54c886b805edc53B.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4505f58f56744778762922d1f7c8c252.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c24d0e7f24f496d8c32e723d6aea13aG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb1bdd667bf04eee999c0e647bb832c27.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87f1201ff5014db68d6d974cfd67b35bA.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S27a4fc9fda45491db985a9cb5f34e186u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f90c6fbf64e434584ef093f92278a64h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc08f76e9c860488eaaf6cb161fbcab84Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6bb7e3aa860743248d4d3182f642679cg.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scffe00d751844440b3128ea397a7ecc3I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4244ba057f324ceeb08944b78eeaa64eF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3146024d41454b5bb9224133852086a3r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e8e4a374326442590c9a4efe38540ba1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fa3dddd01874e90ad0eaac2177bcc06i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9bd517967235401f96c3cfe81f1ec1d6M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbef8a94995e7403eb541f13e6c548101P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6dc83952f8e241f69c35dbbae62183780.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea97fe52efb04579b3b7fb2abda186bai.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Scf8e36cdbb8c49bc9b52ee3c129a681cn.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7623523e6d7745bab970a692ba77cae9L.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S0063a62759d143c895742261e4754026h.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S00908ad5ba034ddaa61c3fcca0ae5d4as.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf484bdf7cbab44999e67eb7cb4f932b2T.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5588fe08a0e54aeca97d422d1bbad3446.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7d0f49059fbc4e8bbddd8d1d3c7b0f86r.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S20c9b4ac85e647aa862be28c20cda688G.jpg?width=800&amp;height=800&amp;hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S904d8289c2a94ff7b951826745b9a38aw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16827dea70e54b32a036c9a47d038c5ez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d60d429841146e0b8c3b880a82b3235e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42b8314ec1ec44c0b50a79b89b3f4fa1Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0063a62759d143c895742261e4754026h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1240c654a17a481dbe4833e4cca64f4aF.jpg"
+        ]
+    }
+}

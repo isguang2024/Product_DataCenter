@@ -1,0 +1,84 @@
+﻿{
+    "info": {
+        "ID": "3397cab8f21d6eaf43d5edca1e553d9a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "RB",
+        "创建的时间": "2024-06-14 12:35:17",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40@41@42@43@44",
+        "货号": "RB-W187765431",
+        "进价": 110,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 2147368680,
+        "普货模式": false,
+        "商品简介": "情侣针织袜靴，进口高密度针织面料\r\nSize: 35-44",
+        "性别": 0,
+        "修改的时间": "2025-04-01 13:24:34",
+        "原普货标题": "Summer Beach Sandals Mens Shoes Casual Soft Leather Men Sandals Flat Holiday Beach Sandals Male Black White Shoes N039",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S63351c3c40b74faf884d33c66557b5055.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf54f5f49c7d74d6f80fa91c29b747a73N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7646d7092d848258489543be25724b5f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd4ff4a9890a47d3becd8a0e803d24006.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb44d0e76c3464558bf9eb79be843e5e0s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5298a1fd6524651bcd814d6659d97d4F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbba79b12a7204719afbfeb7fd23868a6O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e8fd77148134625aa8ddb6a1f564e6cw.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S05c66ed9a64440a7ac6b2bd05ef7ebc0z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53f57c34563c4fb491797518dabe22dbt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb72f982f26af482c932e6610bb1e6b50o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9877540129e549ef8427b71bb2427685G.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sef73c9f71ced4b509248b8f81bcaa71fY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93e296bc8bd044b6aee0af99197f4b94u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc16dc969c89418a9e5723d5f145e60eR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f97570724b94a238a238e8864c81409T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secc13136c9e143e19087d659644b26a6G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e774a8a0b004fe3be1b99de90432377o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb077c44adc674e379fb0f09c32d083a6l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S072817e951ed4d4691e05c6f2aa82fc2r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3126e8f737844e3aa5ecb5b7e2bf8ae53.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S76d04d864f9443d58959587a66efb7702.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S693b346a19f846b29379fd58bbe720a7G.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Scfa61c93e0134e19bb2d9efce509cd2bl.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Scfa61c93e0134e19bb2d9efce509cd2bl.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Scfa61c93e0134e19bb2d9efce509cd2bl.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Scfa61c93e0134e19bb2d9efce509cd2bl.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1B1R9IFXXXXa5XVXXq6xXFXXX7.jpg?width=592&amp;height=249&amp;hash=841",
+            "https:\/\/ae01.alicdn.com\/kf\/Hcd3898c8eddd4e549026c5f953ef2779L.jpg?width=800&amp;height=1116&amp;hash=1916",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1Bb.jpg?width=800&amp;height=1317&amp;hash=2117",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB10Lg9UNjaK1RjSZFAq6zdLFXad.jpg?width=800&amp;height=1168&amp;hash=1968",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1VKM1USzqK1RjSZFpq6ykSXXak.jpg?width=800&amp;height=1399&amp;hash=2199",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1J0IYUSzqK1RjSZFHq6z3CpXaN.jpg?width=800&amp;height=1058&amp;hash=1858",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1f0dlXUzrK1RjSspmq6AOdFXae.jpg?width=800&amp;height=1200&amp;hash=2000"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S20fab0e4ff684f6299a57bb5075f5c7bJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d380f7f3c464c3a840b5c05ad1b6c7eP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S063348823f504c2bad9dad96ebe3e0d5D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b8dd39cb4a34ab4a153451b6266c938u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b7cf68aaf6445d1babc0d1c91f0233e8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0674260bf8f43a09c34c8b7b787439aS.jpg"
+        ]
+    }
+}

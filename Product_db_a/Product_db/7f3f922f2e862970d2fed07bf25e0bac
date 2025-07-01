@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "7f3f922f2e862970d2fed07bf25e0bac",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-07-24 19:07:43",
+        "第二层SKU数据": "",
+        "货号": "GY-W2087526047",
+        "进价": 170,
+        "利润比": 95,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "尺寸：21*5*11cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Large capacity handbag, simple business briefcase, women's handbag for work and travel",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8cb812c5351e43d3b7715fe6b1846baaI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c6a104321484ed08f26a043c42ce9a6A.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S55ce1af02e094d269ebd601618ebc3f1S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S809fbc2635024d75838699f2b41d3a1eg.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1db9d8a4618b4023b6133ce42b235601C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11bc4965fd7c41b1b87fde768dbf8a5d1.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb56c6a672674468b8fab638670190f25A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15c523430d4e4708a0a77339ead02e0bx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde8433c9d67a47c19e52202212836515z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb55d25795724423ada44d869a5b4f09S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec142a0319634a70aae1cfe123a17aacb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc34deeeba2ec4e9f934e4a8ef7224c55q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8ba212088984effb41a852bf7ab5902u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39c8308d72b840eb834f597167119e04t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b066b725c124f8e9c127d7e12c519fcn.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S6f7e2b758de847b0b265c8e7e402acb9d.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S58a241895fbc4e4088def575762dbc85Q.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd9d4ac53900840a5b3eab079fda7c3bcz.jpeg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2841add3eaef4df78aab48583fe6f28dB.jpeg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3acd295df03a446096516ba1ed0510c2i.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6505e84b24cd4d298326e3399ce4fcc0K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6650847a3e9447daa84d4e898368f8717.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb3f50390d24464b840c274fc268b5c9Z.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc515a9d519014cc5a23023c7d5ec7d77x.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b9da6223c2043a2b031b9f4117f622ca.png"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3acd295df03a446096516ba1ed0510c2i.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb3f50390d24464b840c274fc268b5c9Z.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9d4ac53900840a5b3eab079fda7c3bcz.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b9da6223c2043a2b031b9f4117f622ca.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S6650847a3e9447daa84d4e898368f8717.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc515a9d519014cc5a23023c7d5ec7d77x.png"
+        ]
+    }
+}

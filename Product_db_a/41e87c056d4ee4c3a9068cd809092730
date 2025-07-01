@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "41e87c056d4ee4c3a9068cd809092730",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-06-10 15:18:31",
+        "第二层SKU数据": "",
+        "货号": "DG-196110650",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "压花枕头包 高质量，重量：0.7kg，材质：皮，尺寸：23cm",
+        "性别": 0,
+        "修改的时间": "2025-06-10 15:18:31",
+        "原普货标题": "Armpit Bag New Nylon Bucket Fashion Solid Zipper SOFT Shoulder Bag Purses and Handbags Luxury Designer Black Tote Bag Women",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sed02da6c2118412693d5056b999bb678e.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd71b62d55dcb4c3a90977340e6463520S.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S36f716f64fa9473eb65d3161e9a30569b.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S48a33f4e7cb2434bbb34f1d77dc1ecf9B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8f813af1d4a41ac8c95848e6ffd4f8f4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9dd832483c44f96aedc00361155ba1bh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6608a40583bd4cf19a576c092950da92E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S520038637e874997a01e10ff52a14edf5.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8dc1cb2bcce44fdf9bc823cbca7b7cfdH.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8b8de2745f804242a200b1c59f3f84623.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S63c523c6b978471c9436d39b9ee4b5b8g.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2fdabd8c6b54e1caef0b6bc5807614aU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4914d8dc77cf429299ba175f5176300eI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0879118cdf934eec9591c6d762c44bf6R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10ab14cddc4e4ac9b37f8433b683983eG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S028f74328e79448cb523f9c6550d7b89V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70c13ad89e304de982b7d84dff3885a6B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b65423fab2541728bd1531bd070f9a4A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1161d457de0d4e7e90ce1c4470cefc9fP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61ef7b73de254ea894c484aff8d89a3cI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07dac43b49ae42199f3d1b9ab5c946dcO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7506183c05af44c7a3c354308ebf3f36t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb330f97dd28a4603ae9e91d5b44b3864B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3932825119b54ddeb2f6ec16f2af273f9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se2b53bdc75e049b9a4bf9c49b5adba1fh.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa87b710277734c26b4a821b82adeb99dq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca943287a93e470e9673723fbd70a673I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc004c8d308c44936802281db8ed600d9R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se873c143c17a46e3ad2a808a6c592a75m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc405825cd2b5448c9eb0e9cbf1bb9131U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63c523c6b978471c9436d39b9ee4b5b8g.jpg"
+        ]
+    }
+}

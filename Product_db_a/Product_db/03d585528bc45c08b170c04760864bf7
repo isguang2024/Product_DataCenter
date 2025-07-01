@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "03d585528bc45c08b170c04760864bf7",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-05 15:29:29",
+        "第二层SKU数据": "",
+        "货号": "GY-W1728593516",
+        "进价": 280,
+        "利润比": 80,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "size：21cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:15",
+        "原普货标题": "2024 Spring\/Summer New Collection Black Large Tote Bag, Hand-held Shoulder Commuter Bag, Lock Clasp Underarm Bag. Women Handbags",
+        "质量星": 3,
+        "重量": 1.299999952316284,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4b778abb582741fdb83ea87257d1db99s.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf04816c77b2043288eed36dbb1c61df6l.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se06c106282ce46e7a7218a3f16aedb22G.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Secba82ba698e488e86ebacdb41b7600fX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55b8eac9713b4ad3aff7da0629629befM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1589ac0771ba4a3ebb24246747e4b804C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3003a83931ed4af39cecae0f95e7d31eY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2bde83f04ea94a8586133df13fb73daeO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef04ba07310e4363800d4929890a093cE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79698a1d411044d3ba31b8b5a8c3904ft.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca5e8eb26eaf4596afecfdd116121ee3h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8a11884c04b4974ae3506ac480e1e5dA.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8c141c63f82a42bba536c092528888f7f.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb171d1556df04aec945e1e4924fe4484B.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S1a957bea68364ed0ae0d40eb009189c1h.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2836d4348dc448e94cbc37f6eecd2d5f.jpg?width=750&amp;height=1654&amp;hash=2404",
+            "https:\/\/ae01.alicdn.com\/kf\/S9cd7d16e38fb4351a8260263129fc847h.jpg?width=750&amp;height=1654&amp;hash=2404",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb3fd42d514646c09a719b2e8ce7ebe01.jpg?width=750&amp;height=1654&amp;hash=2404",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc09045a99fad4a0899ba9ef153ca414df.jpg?width=750&amp;height=1000&amp;hash=1750",
+            "https:\/\/ae01.alicdn.com\/kf\/S9826288861a041fcaca91a52836813b8l.jpg?width=750&amp;height=1000&amp;hash=1750",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f02d37635fe4140a11d390b5bb8d1c6c.jpg?width=750&amp;height=1000&amp;hash=1750"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1a957bea68364ed0ae0d40eb009189c1h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4aba7674e48842f89a79ddfa1bc9d407v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1fca423acb4d4c00a44056d78dca7cdb4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3175574cd70140518209b87d13eba12bU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77e2edbe24df4865a058839e11fe7ec3a.jpg"
+        ]
+    }
+}

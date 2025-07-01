@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "518b1c83851b1685ca0a8ec5707e9518",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-27 12:44:17",
+        "第二层SKU数据": "",
+        "货号": "GY-W1203649343",
+        "进价": "145",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "size：11*21cm\r\n",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Korean Style Fashion Tote Bag, Underarm Nylon Embroidered Handbag for Women's Simple Shoulder bag",
+        "质量星": 2,
+        "重量": "0.8",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S29c4627686104ccba6eae800d9998404h.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2c1d72c082ea4598a25cfd383f85a494V.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9a157eb8dff4d8783cb5f26db33c07d1.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9a157eb8dff4d8783cb5f26db33c07d1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f5988ab7b894a9ca59898de12f7e06d1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38c60e26dc284919875d8f8e1bc0fbaab.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S409dd1d270244ed6b7efe0d431fc18f8G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd40faaa9ba3b45a79bab98fafaa00772R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7064ab0d130a4d32a5bdfa9fc81d6a86s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2fa22cd326ef4526900254bd5c09098cV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fb84a89bf0a4d468be1881333cd4d308.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S191b841a237d4608a0a66cb42a8849ect.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd9a157eb8dff4d8783cb5f26db33c07d1.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S035e4faba09847f691507a5313bb9a42V.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S89fa9f3d63354a5d8e51adc67bc040cdR.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S15aedf513aed499984a1ab8198efce59i.jpg?width=1000&height=1000&hash=2000",
+            "https:\/\/ae01.alicdn.com\/kf\/S51685e11c9f449e88e81acd1a4c98195f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc70bacb9db6d4c719f76952afd79917dk.jpg?width=1000&amp;height=1333&amp;hash=2333",
+            "https:\/\/ae01.alicdn.com\/kf\/S65c441cc2583483da78551c48bc257cfO.jpg?width=875&amp;height=1167&amp;hash=2042",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ad6212c168f478baa5c1be19774c9c7v.jpg?width=1000&amp;height=1333&amp;hash=2333",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc073bc0498db4f03bfbab71f932b6dc0v.jpg?width=878&amp;height=1171&amp;hash=2049",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc84951eae08949c591f199c112698112N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad9f01b4998842abb95f103ae0fceac4p.jpg?width=750&amp;height=1000&amp;hash=1750",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8ce5a9fca164f6ba56f9721fbd5adadD.jpg?width=1000&amp;height=1000&amp;hash=2000"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sef40afd485634b60a00d1123aab2adc1J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd653123f84304984b745b8a1b5b1870dH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1579eaacdb0f4d8db29db16abe3a05a5R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16e36f1419184090a603d0438a41d1fe3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb592ff6e906149d9865cf8e4ec960196u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89fa9f3d63354a5d8e51adc67bc040cdR.jpg"
+        ]
+    }
+}

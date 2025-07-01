@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "06fe80ab11398349505670fde45571a9",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-31 16:42:24",
+        "第二层SKU数据": "",
+        "货号": "GY-W838520766",
+        "进价": 95,
+        "利润比": 100,
+        "品类": 1002,
+        "品牌": 2147368680,
+        "普货模式": false,
+        "商品简介": "尺寸 19x10\r\n原版牛皮钱包",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:53",
+        "原普货标题": "New Handbag Tote bag Shoulder bag Frosted Leather Large Capacity Simple Fashionable Women's bag",
+        "质量星": 2,
+        "重量": 0.699999988079071,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sab15c1e6de8b443fb6192ff6ea853afdy.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2f7834ed09c413c82ea54a54be8f658X.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4dbe79afa52f43fd930789453abe422ai.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5880d439b78943efa72f621244709d51L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ea2908f4a8d4fdbafd31e10f7e3d5b4v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e37fb2535654ad88c938a8ab419140cS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S591c3464434d4c068aa41322c477906ca.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4dbe79afa52f43fd930789453abe422ai.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6dd1db8d403940e3b44bf81a1500e775u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9c8a060066944c29bed75974bced78ar.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd2bb26dcc754d3185495587cc2deae7T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf904c6fee2944b3ebeffca0bd0fd544bR.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S591c3464434d4c068aa41322c477906ca.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sbd793f4e69364d8ca53c5a403bc93885Z.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S43dc2475cb8b4b75a16e46b64ace238fF.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S43dc2475cb8b4b75a16e46b64ace238fF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9dfcd505be84e4baa4dca2e90dd4b3br.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7767ef18bd7e4c0093b837d4f8d9b199D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7caee4f8cbf7421282d2b61a99b6394eJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4222aedc50d44ebae9196682cd4962b5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd31b80bf14b24fcf8a8be3568f38a4b2Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S230ee45a787042699f21285d89435811g.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S43dc2475cb8b4b75a16e46b64ace238fF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9dfcd505be84e4baa4dca2e90dd4b3br.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7767ef18bd7e4c0093b837d4f8d9b199D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7caee4f8cbf7421282d2b61a99b6394eJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4222aedc50d44ebae9196682cd4962b5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd31b80bf14b24fcf8a8be3568f38a4b2Z.jpg"
+        ]
+    }
+}

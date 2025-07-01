@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "c932b0ff91485900bc95b68051e193cc",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-09 14:33:42",
+        "第二层SKU数据": "",
+        "货号": "GY-W139973918",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "size：17×13",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:07",
+        "原普货标题": "Women Messenger Bags Vintage Mini Bag High Quality Genuine Leather Small Shoulder Crossbody Bags Designer Handbag 2021 Shell Bag",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5084ce6c7df64653a24f8e1311182c4e7.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2c3f90b7dc14480da95634d73bc3be7bD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S380156118d17473e8aeb884eb9091078C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S093801d7a46e4bd5b664c796440b9b2f2.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8b465b5cd3df4f27b10ac9d72810a96bE.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sea4792de01b34839a872d20644049ccbL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46fb5599fa714bcfa731138ba8205306M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96bf83608dc24baf9f6a297f7fae9aee0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0919b460629b4800a1f34b2c5f7e6adfz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4fbc50dc0ac941829d1872d005c9a029u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70acda300f4c426b80c4c0eaeb70327ba.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S173da5310e574a78848bed29b62d3c3dq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48a6eff2680b420d8a9e372cdb8faa322.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc38c93d3a5554c91a9ef4674c61d873f2.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S97b5a61ba13a4311abd4b2988967762e7.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0f786e71eb5a4124af00c50a41e6a62e4.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/H8be818a09c9140adac70e25810c4200fF.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/H36f57d646b084fff88f2843c76410eb3Q.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Hc3b1c4cf72234bbfa594dd441f5f922es.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/He2ebc25421054aa88b2982adb52de958G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H4f08f46771e14abda580edaa8a734996c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hc449ebc52ab740b9b110d9af77438d77k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H4d32c9c3c1024fd39b97564113d716d36.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Ha548749360fc467f9ac4ff4acee261ab0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hdc5c7e51efc849f9a0a9bdc4918b1683S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hd1751b5ff6114ba280e059cac65ba8a6L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H4c2c4568228740eca907e03c8776924aj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hcba9d52e10204485ac5a47fb4bdae551v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H7eb59f8419ea48d3878fa11102092040F.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/H07ed0ddf932e49da8d70bef960ac3360K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H75cd5cfa29ca4de6956f3d79acd065cdz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/He1456a8ea3c04345b806cbf72ada2817T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hb1514a39c8804b829904adcb271c8491Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hc58f8652706945df97792872e61be207Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Haf99f84643844b6d92d2d1b93544a964k.jpg"
+        ]
+    }
+}

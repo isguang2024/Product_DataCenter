@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "5a4d88f73dc140d761daf5970f796107",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "GY",
+        "创建的时间": "2024-08-15 15:14:23",
+        "第二层SKU数据": "",
+        "货号": "GY-W1121944573",
+        "进价": 175,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "尺寸17.20",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:58",
+        "原普货标题": "2024 New Stripe Wide Shoulder Canvas Single Shoulder Bucket Bag for Women Large Capacity Casual and Simple Commuting Tote Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S61bfc6713ae04864905768abb75011c93.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d93387952ad473bb518a5c6ffa18a00p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S794d93c79391440cae0c01542b6bc4031.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4996e2237ea84070b1d8d918d6031cac7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab7614527f0a41c19b6a75403aa5ab29H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9524d94fbbf04683b1594138df5f2af2K.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S306bbe2db54a4b2e9d4731d3fb01fb34n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b1de9c57f3e4d6f832e89914f660a106.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30e5194ae478406ba1611e765a2f8e112.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd385fcd04a7c487ea4ed47030b64b9b2E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S445f92d7281e49ac95f6f123288e6be5h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd268b25fb794b5c93bc7b990ed1d5c7G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5589342109264976a30de656ad1fe80du.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bbb140ca3824b5cb3f65b80ccb95d13r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce68a1ca9e7543efab87df3f1a1665a87.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S27dca2c6a9fb455b8131cd29aae6b0f2x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd07d0faa76684f20bbaace02de101ddcL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se52536086812488a8988f8d5ada9eba2h.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0bd0b5b55f194926a9d502464f30c637R.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc95c34bb18f641ef923cbc1009ddc9ccr.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sb97b33e18786492d9801bbc1822faae6W.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sb97b33e18786492d9801bbc1822faae6W.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sb97b33e18786492d9801bbc1822faae6W.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7eb8bb29aec44994af9a0d6919bfaa48O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb97b33e18786492d9801bbc1822faae6W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c2d456f9b4c4bbe80f33a62b6dd0e7eB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81b72592fdf84b31b35ccc89cdad612a1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa86b8228cbc84a82815ee823163ecb29V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S922f35372f05401681cdf98b1a9b7135J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S284340d5e9174077add0ed8d036c55baA.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb97b33e18786492d9801bbc1822faae6W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c2d456f9b4c4bbe80f33a62b6dd0e7eB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81b72592fdf84b31b35ccc89cdad612a1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa86b8228cbc84a82815ee823163ecb29V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S922f35372f05401681cdf98b1a9b7135J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7eb8bb29aec44994af9a0d6919bfaa48O.jpg"
+        ]
+    }
+}

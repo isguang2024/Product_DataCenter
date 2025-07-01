@@ -1,0 +1,81 @@
+﻿{
+    "info": {
+        "ID": "cb630f0613cf61d8203ac49d0b9804ef",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-22 15:48:47",
+        "第二层SKU数据": "",
+        "货号": "GY-W1956319633",
+        "进价": "90",
+        "利润比": "100",
+        "品类": 1002,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸 12x9.5x1.5",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Female Canvas Fabric Hobo Soft Slouchy Shoulder Bag Y2K Student Leisure Medium Size School Book Laptop Pouch Messenger Side Bag",
+        "质量星": 2,
+        "重量": "0.5",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S00bdd2cb98be434d9c9275a4b14e70f7F.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1c411ae76f614909874204ed30853ef2I.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4ebd34a54ca54ea591510a91920e4b90d.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4ebd34a54ca54ea591510a91920e4b90d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbbeaec228c774132849994743afe36f82.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01aa210dcf8c4466896eff5798ed00e0u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18e5b9b18b3f428985026ef1197058746.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4af1302168a41dc8d7f3d4d0edeef66r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc479b7adece459cbce518a8d9751028e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4a6c9fbb6854c16a7b9eabe8d25fd52m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf29fba659834d63b9eead1dd277e4ffK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7cb6cf8c492d466baa7783712ff78250Z.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4ebd34a54ca54ea591510a91920e4b90d.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S6bb651a14be84f998eefca3949222bc2H.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4f705649686a4dbe84c79391792c8adfc.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Hc1277abba1f1459b83540778cef26d09v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60087519d8184df0b2942ee68dfe4a75D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb692cced507342f4949bf0c8355bf072V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S304803008d484876bb8535898f2b7e62T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e9960b103354daea648619bb8ff8084O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2054792ee33047bf8b792d9a03d583d1F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98b12e0401f94f7e903f38abde67db5eJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04a2afc013ce4975a624e7a113b5588d9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20077dbaa7594b88ac62849d8f33b7dcX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49b9074b2f1a4cb9a455bded424b07bbt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S082632bd3e814a32abb140cb17f05cabn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S099e0b7bdb1e44eb9ad3c9e9edd96dd7A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f0f0596119343f6a0fd464f534a15adC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35b5e7940e9d4dccb41d1192d0562a8ec.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S096bfc7efe144a35898768f0067e8d9bD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5edf10f6ff9d42d486fae4269d32a7f3f.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa91482560940409cb20441fbfaa21a36C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f41f68c556848b79358d6757d94f084i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S506375d807ec47969533d7d7d417a973P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb106f282def04688a1c3f496c3ea6c9fH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ee65101706b4886a7ae05aa5ba86ce5I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sedd9984210064650b87e4aea521dd55dp.jpg"
+        ]
+    }
+}

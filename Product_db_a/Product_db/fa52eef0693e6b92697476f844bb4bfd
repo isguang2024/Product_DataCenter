@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "fa52eef0693e6b92697476f844bb4bfd",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-09 16:54:33",
+        "第二层SKU数据": "",
+        "货号": "GY-W383610906",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1593490208,
+        "普货模式": false,
+        "商品简介": "尺寸29*15",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:03",
+        "原普货标题": "2024 Luxury Solid Color Handbag Female Messenger Tote Motorcycle Messenger Quality PU Leather Women Crossbody Shoulder Bags",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3ad6041f5d844d9eae5dc1044ba28b9cN.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3e6e9f2497144da28892d0ed822c85b9f.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9cc1a2166ea744d99df3d8e240729cb9o.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9cc1a2166ea744d99df3d8e240729cb9o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfce40519be2644ff9ca4e063d735c5059.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ec26258291542eda2f8c59332c22069c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9871e00b3be48a28d0823e157f2b884Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6420c99aee9c4f63b5fd62aa991b0848o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73247242761c40fb910df5bc700f7fcez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc1485dadbe545569317b24435b5d606M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa68a5a9e96914c7db41f0d45a02be0d2T.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9cc1a2166ea744d99df3d8e240729cb9o.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Saa7dc8d96fbf4330b4e7893c0b913dc4S.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S1509d16a12e2408b96979a5376b7e374C.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S39604a74c0074871ad8610495f67d98bt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S580e390fb3ce4f00a5557cff6a8f31b5G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e20aa937a384d2389a8050abd788b4eB.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S39604a74c0074871ad8610495f67d98bt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S580e390fb3ce4f00a5557cff6a8f31b5G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e20aa937a384d2389a8050abd788b4eB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saed15a0c51c3497fb035a9a46c27276ch.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8458f9d16e60450099bedda149c7f7a17.jpg"
+        ]
+    }
+}

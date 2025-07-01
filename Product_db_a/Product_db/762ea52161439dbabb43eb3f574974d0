@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "762ea52161439dbabb43eb3f574974d0",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-05-30 19:00:02",
+        "第二层SKU数据": "",
+        "货号": "DG-143023483",
+        "进价": 165,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "材质：皮， 尺寸：20cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:53:33",
+        "原普货标题": "Autumn And Winter New Cloud Pleated Big Bag Woman Leisure Personality Lightweight Large Capacity Dumpling Bag Messenger Bag",
+        "质量星": 2,
+        "重量": 1.100000023841858
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb113d7237394489fb3449689b916902c4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S640252d1b7f24c828a1889725f48e4bbg.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S723b032311704fd287158f85c33fc787o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa539fe031a8a4f92b67e5413ce69b4c4u.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0f1f597445f4daf88687149d70255b6x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24d233237bb5478db0daac96a556d62fH.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3f9cd81b76f84b7b9152db68fb87429d6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1bd1114b41f24e059e4c2649663bc6091.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4aad2aee8904c2599da550f1a11c3b7C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef7257160f8e4ed9b2b2772172d4828aT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd91b0a9622fa48d09cfcaba338fd2ec9u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S315ab86eda2749cbb7b8f84a94cdfe8ft.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48b685c04d02491dafee77f358e7181fY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd655804a18e64385906d42ab4c7c177aF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde3a0acabc1649e889f343c799a67388V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf365c65f5884f6db8c573d141ebea2aU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea8d89b571194d028fc8bb98f6091020S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c6d1d3ea2cc4d05976c80e78a08ce4a1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e5f05873a844b369232cdffb10adc16l.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sc615a836923640188177a42645391416y.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9b3e878116174eddb54f4cc61d45f43ax.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/H5edcb307f27f40cea4cccae05a782aa0V.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Hafb380fb4e5a48c0bcc916e0307d46b5m.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Hf381c377a17a40b69dd2b2a28978f7a5X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/He8a4f3b2ba49445e87f1f3e9f8e721e0h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hfc806d447cd64281a579a2ef4ba9dcbeq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H4a6c9ef9ea0a44c0b4d9a03e61d754a7s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H6c4f151aac8c461494038be8feb51d82g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H6e655e357da4445c9d57e88fdb84257c1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/He8a4f3b2ba49445e87f1f3e9f8e721e0h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H2affffd5ea2846e880189e16a5596851N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H99bc21d430d4422c95b3af14bbd50490e.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/H63218010dc5e4d7287b0998ca51a6927e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H090e6035d3d34fc792f19e17fc7346aeX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hf33ef77a3f4a4057aeaf96dda443fa27m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H62594cc85e9a4dfe95a03d0fc3be9492h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H8d9df302c74e401eac77ecd329aea7fcc.jpg"
+        ]
+    }
+}

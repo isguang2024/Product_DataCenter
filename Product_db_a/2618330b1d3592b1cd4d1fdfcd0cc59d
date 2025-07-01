@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "2618330b1d3592b1cd4d1fdfcd0cc59d",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-06-09 14:25:18",
+        "第二层SKU数据": "",
+        "货号": "DG-198739612",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "编织水桶包 高质量，重量：0.68kg，材质：拉菲草，尺寸：14x16cm",
+        "性别": 0,
+        "修改的时间": "2025-06-09 14:25:18",
+        "原普货标题": "Crossbody bag, men's minimalist single-shoulder bag, women's outdoor travel commuting messenger bag, large capacity",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd69b0650a684a70acea4322431b6727r.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se388809db72142b9babd4b121561f6b5z.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdae520b5ca26461989914b4c8c2713a2W.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S208fd15b920a4a32a5f2ad410d45d928I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S448dec82fdac4ac998137b32157781b0C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sabb28505b2ed4e3da135bbc758cc87ceb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9d20c20c3764d1291afafc856e9793cx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96b17a235d8f4cad9f92f0d764e249710.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98436604f1a8413d9cbfa82deba7703eu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b514d26646b4e539555ac5405b7f279v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S416291a986594392b5d9add6c15c25b3g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S856599a9e66242eabb165b8bd76e5aafa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf975b637e8d8457db58123e1e2263939V.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S5d5e8f25f11449f5b483683e766bb316d.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sa97eb21f95384bfb908e3066eb3ff703m.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S75299e85db0d4ff0b01db80b17ab041c1.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7ecc1bd58c494b0cb47eac89a8efd5b58.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6063f83d056a4b589579955aa875ffdbk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b08239df4cb47c19ba696dc4223beb8e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07394f32e7e8452d92e3a347b1e494a9H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7672b9601eab45a2b961b462a8d7889aQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S725fb88a198b43d6b5d7ee7ed060db488.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38d44b10709342adacd7b8472cd44197L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b9524d63e6e462bbfb80fa9d95f98a2w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6fccf1896214398a6f449fd56ffc6c6o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7344a6259557491db90688931b570188m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0706985364cb43c1ba3c818c6ae9d59bB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf73fe54b9bc9423bae9fb608f62ccfe7K.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S95182ed25a08495c834bde264f74d7abL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcdcb4ae43364e6792da7452b4d8a1d81.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S966b0630ccdb4b85a7e539e2194337e0Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf693fd24bfec42aa88bf4e96e1a478c22.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa88d4e8602af4d5f8363be372974cf47P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88263adf4c7d46198504b756e81d6831o.jpg"
+        ]
+    }
+}

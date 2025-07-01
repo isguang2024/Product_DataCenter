@@ -1,0 +1,91 @@
+﻿{
+    "info": {
+        "ID": "30b95618ca41e6549063c5c46a9d71ca",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 5,
+        "厂家": "ED",
+        "创建的时间": "2024-09-20 16:59:55",
+        "第二层SKU数据": "",
+        "货号": "ED-W1278175911",
+        "进价": 35,
+        "利润比": 100,
+        "品类": 1012,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "尺寸180*40cm",
+        "性别": 0,
+        "修改的时间": "2025-03-12 17:41:17",
+        "原普货标题": "2pcs Solid Color Muslim Chiffon Hijab Scarf Fashion Women Ramadan Long Shawls Bandana Turban Head Scarf Classic Head Wrap",
+        "质量星": 2,
+        "重量": 0.800000011920929,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0e77585d6c7c4c0b82e86c02418013c5U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf43a5c3f497c48639254baa1a211fdc8b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4642d11cc8794353be2d4ce193f4ba27m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S642b641c68ef4f3f91ad232c204165aew.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S038543c0aee34a198d5a2c841dd5be4aO.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd67bad877ee4d7d9551d6e54bea2dc1C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6364defb09b8419f9d41363fd00c8a8dA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77d38436607a4e188c63503e56971892d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S643f68be4a444c53b15fd01783e17983g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a3c6bf466844610af26bb7752432af6V.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5303d0fab8d34250b2d23c5c46a85ac6U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc27d2c812c3a4b6b91ef200294efcf44R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5e7d55c012d4c588b67d667388b3ed9T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde29156bf12a4b6c8416e4ed63cd13b75.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c617c2acd7640cebb5dd2decb9de73fR.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc27d2c812c3a4b6b91ef200294efcf44R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69863fe89f9e4d10bbcbcc293aebb2290.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S914d7e1ba2e94a1aa6a20edf01a8217dX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf97d737bb30452eb3c86a99b7731b36K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2eb7178302040398b48478679d19391j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5303d0fab8d34250b2d23c5c46a85ac6U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6d7a12e032b40a1b47645aca06f9a975.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb75043a68fd44d968cdf6c97a068d5cey.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S5a93eaf7705c4497bb48e54df1fd65baE.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8b60d5a0d25744d19197ae5e1c6d2bcd4.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc3774b4f6d3243e0bc9b66eaab23c2e4K.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd83d8868b1cb4d0092e00d30b16ef69bJ.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf8b8e59e42dd4707a6abdef82ca7f8e4M.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc2c21ad3a25d41acb298a5b7311d45ba9.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S9f4861d7c8bd42ae998e2e428ceeb3bcT.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/See79251a35b14810969bbbd50d5e24bfb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc5d93b66b4243c88815c03b931c9457j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8d8c6843c2b4c618f685a67e4c3e304Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4c984824adf4edebc007a65cfba0272o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f7d52e579384b778e386d1e6ec815d1J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05bd8a9a88954404b3e79678c9e3a1bd0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3774b4f6d3243e0bc9b66eaab23c2e4K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd83d8868b1cb4d0092e00d30b16ef69bJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8b8e59e42dd4707a6abdef82ca7f8e4M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2c21ad3a25d41acb298a5b7311d45ba9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f4861d7c8bd42ae998e2e428ceeb3bcT.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/See79251a35b14810969bbbd50d5e24bfb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc5d93b66b4243c88815c03b931c9457j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8d8c6843c2b4c618f685a67e4c3e304Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4c984824adf4edebc007a65cfba0272o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f7d52e579384b778e386d1e6ec815d1J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05bd8a9a88954404b3e79678c9e3a1bd0.jpg"
+        ]
+    }
+}

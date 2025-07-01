@@ -1,0 +1,81 @@
+﻿{
+    "info": {
+        "ID": "9e60197e3276934a7959079c59720cd5",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "GY",
+        "创建的时间": "2024-07-31 15:08:07",
+        "第二层SKU数据": "",
+        "货号": "GY-W1958781375",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "尺寸：28 17cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Large Capacity Canvas Tote Bags for Work Commuting Carrying Bag College Style Student Outfit Book Shoulder Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb341d2ee44a484fb5675dc62454a726r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S400f39edd44447a79529c5646512ec45v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd9478fda7b7421f993a059c1e91ef5cx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b2a8f0661434113ac0219e88c4dd39fB.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S10dfdb08e38247f2971d844abed75ef7c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca8ab7595612446f924b606a4b53e858i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f5aeb695d5b4171bb5322e6aaa82cb3L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1675db7750e24148adb10b1506f308c7Y.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se864f2f7af0c4d529a330fc437300adbQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S06523ef2ac8445828af3c4f4c33706ccm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d5c98b0520c455299a8cd6a2529772eg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3998b1a2c08458cb1f94408407506c79.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7f800b651154752a3e5e6532b76ea02Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ccd034202f0400d8f1d2342e7f86828Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S828ad9e10d0842b4b36d1d3a5fe88ad6G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad0af9abcd8143109c14133aaca4cdacs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f8b902c689542f78fb4d9d616b1ea58P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb74ab81b7274e9da41b89bd6e186278n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c6d6e0d39624225a3b57fadfafcfdacE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ebb4b1a81f24ae2992271cee2ec8019T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7e9da208ddb4ebd8d2907de036bdeeaU.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S56d5983b9adc4d84bbc3e4ea7eedac06c.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9d66f8ee68574b50a1056cd92f45470eF.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S88f8c540bd9a4de49a5aa2b86d5f1027j.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd5bf4aee4a594b3fac8428c68b7203f1O.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2d52883ccc6e44d7b4e4a0288d3a25eaD.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2d52883ccc6e44d7b4e4a0288d3a25eaD.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7ea9c0bfd4f34abbaa2af098e48b759bj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f51c2276d2e4fbda7dadb9f461ccbf7h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S156ac21134ab4e528592338c3abbfc50H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2162f9ac8db14118bcefd6a5beb9115em.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd912c7fbff704f358d4bcd7e228f9290a.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2d0589e1469e4e4f9a7cc6319faa9a33o.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S79e5ef7dffa7486dbfa5dbb189e72d01M.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S9228e671cc564bcc9405d8a5dcdce143g.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e52a95f9b7740a0a451cbef127c25feF.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S9adb56482e6145458322d29ffbd2e56cL.png"
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "c33774598b31b49da3b61f7014cc4907",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-06-09 11:57:06",
+        "第二层SKU数据": "",
+        "货号": "DG-195752766",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "压花单肩斜挎包 胸包 高质量，重量：0.71kg，材质：皮，尺寸：15x29x5cm",
+        "性别": 0,
+        "修改的时间": "2025-06-09 11:57:06",
+        "原普货标题": "Men Casual Sling Bag Messenger Crossbody Shoulder Unisex Travel Outdoor Vintage Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S43470a74086e439b84136d172b0bc260b.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S70d747a10e464072ba6191384359bd69X.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6f5e3abe86b642c193f33dddded692a4N.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se23f7613a4f94a3cb2a01a5936e8ae05g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S95f6ec0bc901423b9359f8428c3f4deep.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2bf81f92652b492cad9d001ae4b82b2fS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d5fcaf5372143528a8bf8898eacdbe0F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb3125dd47184203bb0398d07e2b898cL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f6d7677690242459300298910e7b1daZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24204cdce6d9448ba13bf448fd699e0cj.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S16df63b3163f43c0a94f396a679bea58K.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sa4bbab704b3e4635823a8b2a837b6212H.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S79ffcc2c5f7c480dac383d58d85855d8p.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8122614bb6642e4bea64896f32953489.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S795742c353014be69059c7213b7f36acc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e8fd98911aa422bb34bffcbedc64ff9b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S655ac3f8d749468388a5ee826b57c2df5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97a12f69d18c47738bba9a8b980bfd6bv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8277f7440f854ef58297973b338f7316d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb18ba68337ab40dd90675d59141fea83p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07d8d1062b7d49e5ac3b1dbb61a7d1fey.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S45502e95f5134f7cadd874af72838f81F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d15c99755d741b38e79289125a526d0Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S951488c4fb694f78851a9c1e0457a70fu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5ea3181a2b14d79ab2dde28d029b2661.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd835f23c6cc14854ac13cfb6b9868b35x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2208b6abdc254660b0cb52d742cd2bafx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47c65d29be764489bc4928cdc1f81b037.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0f82c71e7234093972cc9ddc2c1d705q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56875418d31f43f8af5c5a9da84b0ce9q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8118b7789fd14e24aa50d8ef410aba49l.jpg"
+        ]
+    }
+}

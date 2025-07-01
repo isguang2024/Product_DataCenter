@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "aaf11d069e6be48e7ada62fa6edabbef",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-06-11 13:59:47",
+        "第二层SKU数据": "",
+        "货号": "DG-195894699",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1002,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "拉链卡包钱包 高质量，重量：0.25kg，材质：皮，尺寸：15x10cm",
+        "性别": 0,
+        "修改的时间": "2025-06-11 13:59:47",
+        "原普货标题": "Women Purse Stone Pattern Multi-card Short Small Wallet Fashion Card Holder Ladies Zipper Buckle Coin Purse",
+        "质量星": 2,
+        "重量": 0.6000000238418579
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3f7ea9a6d738424a81fd630e4d95f87cV.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd0897537e1b494da5af89b46a7c3a44o.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf69068f4ce32417991cdd7ed7e912856J.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf99a0ba000eb426689483b70c81ef0b3x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb97c1439c213426eb6aee4bd48d881a8w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6241f51d087446a9be5ec93ef4212723D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4abc3a427ac4840b7add15f216ccd06d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97781c64240e422899b4cb8662ca25d0a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6ce3f8da2c84c2bb56ede406c0b4fafZ.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf6b05104702c40c4b6d18f4720f21026Z.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sfe1afab9b2ef4c6e9ca81ebbf379300fT.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S87a9403c95314916aa7ba19b0116fb32Z.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2516e3f6fc442e18f66a3ffc33b5b5dO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S849ac3a3f6694795a3962add0cf35e7ds.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fe695ddefdd416ca2213e0086afa8807.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf23ab47db0d24f50ba29b0c6a0e34d78o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde14b84212454b0fb8bdbfbfcca182dbO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2cc24776335b40f6993f08af2091ba0aC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40994dc428c24d5086bd5353d8500d94l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82f94b8f53b749dea4ff287ae6c8dbf05.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc159adc2fcb548a1983a43496bf92be8J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S634a2be13a9e463588e2405a5a7e2094S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b1c1f6067704f959727ef2b1bec38131.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdba75bc9920d46ef8390d15356f40090Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S634a2be13a9e463588e2405a5a7e2094S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fe695ddefdd416ca2213e0086afa8807.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf23ab47db0d24f50ba29b0c6a0e34d78o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S849ac3a3f6694795a3962add0cf35e7ds.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b1c1f6067704f959727ef2b1bec38131.jpg"
+        ]
+    }
+}

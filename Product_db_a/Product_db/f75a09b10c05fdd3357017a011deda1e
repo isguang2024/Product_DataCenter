@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "f75a09b10c05fdd3357017a011deda1e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "ZH",
+        "创建的时间": "2025-03-07 14:04:29",
+        "第二层SKU数据": "p-200000124@34@35@36@37@38@39@40",
+        "货号": "ZH-W364930388",
+        "进价": 95,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "5cm跟高性感又时髦 自带闪光体，码数34-39\r\n40可定做",
+        "性别": 0,
+        "修改的时间": "2025-04-07 17:01:40",
+        "原普货标题": "Soft Home Slippers Couple Summer Indoor Skid Proof Bathroom Slippers Sandals Hotel Solid Color Men Women Flip Flops Flat Shoes",
+        "质量星": 1,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S177376c6e2944dbeb0040dfe9e2d05fbG.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5c29980b68714b00b6937b1c63250dee3.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8e8bdad5a9544f8b5a7bc4d9f457052E.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa47a1f698cd440d8e22245efcc5fb61R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7c488ecaaec4104b3563c2b3a514491E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8e8bdad5a9544f8b5a7bc4d9f457052E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0579a5dfec34881bf802346e89344c64.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d9b347b2b2b40d7925218873a8e72d34.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb7c488ecaaec4104b3563c2b3a514491E.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8dc10b135f1e46b7876acb2399ab7968M.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S11e2ea4df4804db58014685f19d94813E.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8e61069d2f8f498a8583fac425aa298cQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6be1daed1f814632b8d728aafc2c2f4bb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S055fcdb1610a498eb9b8d86e7491d364N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ea74eb53bef4012b5825ee83c724a78x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75bfc0bf83b64b81aa83dbaffbfa793eU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf03b2952510d441481bcd7c362f5e2606.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11e2ea4df4804db58014685f19d94813E.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd09d48d86d0c415a9772b4906c0d62d9R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb4a04824ee54cd5b8025cd312a8aa6dq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8a54243a12a4b9bb4d6b386affb0f4fX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11e2ea4df4804db58014685f19d94813E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8be81e2cda434d758bb2aa3710a572b2Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8e61069d2f8f498a8583fac425aa298cQ.jpg"
+        ]
+    }
+}

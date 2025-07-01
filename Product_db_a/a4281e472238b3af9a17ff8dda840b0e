@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "a4281e472238b3af9a17ff8dda840b0e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-06-11 13:56:07",
+        "第二层SKU数据": "",
+        "货号": "DG-195894727",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1002,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "黑花卡包钱包 高质量，重量：0.28kg，材质：皮，尺寸：15x10cm",
+        "性别": 0,
+        "修改的时间": "2025-06-11 13:56:07",
+        "原普货标题": "Women's Short Wallets PU Leather Female Plaid Nubuck Card Holder Wallet Luxury Brand Ladies Small Zipper Wallet with Coin Purse",
+        "质量星": 2,
+        "重量": 0.6000000238418579
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1a535b50b980429788c8bfa2ba68225b6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ef80c4208a24b3481643d0d201cac63a.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc55e4421d58d4458aa5acd8a273cb3ec6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0fbb4580be64c8b9df7b22066f08fe83.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf6d3fe2cd594d008956ff0f546af6f3g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S327f32a29c7e4f0284083385e55dd975A.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scaa2d565acc54714b33380ce4166b36bD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0dcd6f44cf0046ceba25e826cf6a8ac5d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ecd9dbcedbd4dbeb5491c414ed56ce1N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b90fb70249a49979a26312d9374c304B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd01e952c4b24368bd41103829d89148H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda36b2902f914ca6a51055570dc6f705s.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb3eb47a2400444ada295b934edf105f4E.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4148258ff03040149b81b273ded866d6c.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S500cb25abb60486f8aace2822992369dX.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sbfce69300999467ea4d9bac7a1ad1f8b7.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S43379dc71e9e42cbbdb27301f3e0f2d64.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f15672f9d1446dca8bb7e2c54686f0ep.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d9c5e86f41c4b24972bbcad8af60acca.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60ba0b8bd4ad42bba33a942a6f455b23w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81f397a0a0604e68a69e917422c11861A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d1ce6db6d4a474aa63438bc2a7fdc30A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68d5057fb6184b889ae0895b858ce786C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ae5c693c0eb4e838bb1b982619fef809.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1f1af55017b4cde96fc9d2f5f295a2cL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0595e63631e4f59ac583de0078d14f63.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf54c006dec504247bee580f09be00b225.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8140ec6686bb450984badc9adf4f84a1j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf100bd019aa4a88b1a98dc2cd53995bL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d90fbee7aca4409bb6960dcf8d4f3cf8.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa817e948b4d48d588b7671eff0e6f2an.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S750da059b1534e73892b76470916c1490.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70cf98994a484d778212f5959d502f363.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed5d76f7c37a4e8fbf7c2e08454135d0b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f7b82e172804d548271b35d82e8abb93.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S407f2da7bbc9400cb08db9a92020d754E.jpg"
+        ]
+    }
+}

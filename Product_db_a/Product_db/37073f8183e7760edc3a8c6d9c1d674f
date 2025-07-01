@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "37073f8183e7760edc3a8c6d9c1d674f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2023-11-19 12:23:32",
+        "第二层SKU数据": "",
+        "货号": "DG-149597584",
+        "进价": 90,
+        "利润比": 70,
+        "品类": 1002,
+        "品牌": -227904089,
+        "商品简介": "钱包 高质量，重量：0.45kg，材质：皮，尺寸：长19x10cm，短12x10cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:58:13",
+        "原普货标题": "Fashion Men's Wallet Canvas Coin Purse Casual Long Wallet Portable Multifunctional ID Card\/Credit Card Holder Luxury Wallet",
+        "质量星": 2,
+        "重量": 0.5
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se7ce3808913b45788bda5c34e5b2985aY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5621de3d5fc479e99790e14cae4f0f58.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S11785a6bd89c49f0b5988b724912e06bb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31cb01babeca48e6ab6753630d498072F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd104e9a0cce94cb7815c0e9064a31dd6S.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S02d6d10b56b6480ba852e82d100cd1518.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3a62ec8e2454f46b80d4e43af49b42fG.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5e8b0f5a87114bb2aedede6f156b6d00A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21ddc420a89741be969acf91bf9befcco.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36b5b5da66d3451c89b60444e3361e66D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e542331b75e4ba2ad93ae9e282077e9B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc728b45f41a04d5389bad90f6b86685bM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda959d6d184a48adbf048a471ca040c0P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3a62ec8e2454f46b80d4e43af49b42fG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S739908375c3e4dc184776cf4589f2eddd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e7e67902383439b9ea70bf2a8dfe4706.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7ce814302c734c4797ee29016f93811ew.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9fb03e1172c742c4949f62de56da904fK.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa4cd6f2f339640b5bf0d74459553511d6.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S8a84255de8e546d98fae935fee2bf2d68.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd3b4dd083c9644d9b5343cff63466f34M.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7fc5aec1fdd34582a55433b74a1862f58.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S451d33902e2c4130a798656a59a7727fp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb26507871a8244cf99be0af18bdf843fX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7443a5e1dbe4326b940ef0c00ccfff8A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c91e1057e4f4b1594a75f103ecf51b5n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59b63f2b1c59448c963150af30176244z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc34611dfb030411d8a18adc4aea2c328r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S142aa0c8fbe44c479f65a0c630715010x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S689fc7b0a88242f0a296e22bc574cd59M.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S646bd6c49e704034b4aa875fc12d7400V.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a8ea0a537a54972b8d2e2fa0b948a3cF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85e7b0efe1fe4538bf50f3c68f862c508.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f6ecbf9d15e442195aecb1c68a163eaW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5d343ff1d054062b294d9deaa67a05dS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a1ca3e9a1944ceca760ed4506d01dbew.jpg"
+        ]
+    }
+}

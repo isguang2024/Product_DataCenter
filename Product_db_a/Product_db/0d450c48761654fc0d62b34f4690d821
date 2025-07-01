@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "0d450c48761654fc0d62b34f4690d821",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "RB",
+        "创建的时间": "2024-09-20 13:36:08",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W337282349",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "标准码数：34-40\r\n跟高：8厘米",
+        "性别": 0,
+        "修改的时间": "2025-02-26 16:08:25",
+        "原普货标题": "New Arrival Summer Fashion Sexy Cross Strap Stiletto Sandals Elegant Banquet Party High Heels Wedding Bridesmaid Shoes",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc91ab2a637c0408d8ced293e7d9fc469c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc26d170c65449409dccd682fc51f0c0c.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scc1d3720e9be4d7b9c15ea55633750c2I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S249a7859f373411b8c1e2677580ac56av.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9b9341bceeb4b04a868486869d1d654Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62a937edc95a42928e2a818a880e8dc16.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S535d8f6cc1804dcc93bd205c787c30d9w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c3de9c624c74f93b094a5e8bb8dddbfV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d46e0cc88054957b873bd0143541f39x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f190231c84b48c1a79a961d31fb5b38K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd72a2a5a3f0248349d524f1973fa2d6fn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10ce94ebf1b94ce2a2fc6c22128940f0O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1f56302ab144441bf88d8ba395b7ee89.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se5c483a0d0b140e4a5f11501f6e1d2c8Q.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S2ab0d72e1c764daf8b3aceff116246b2u.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Saf13b3758171423aa99f814f9ba40676F.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S62a9a672cd6d49658318bb707a94d06cS.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2be1fa99924f4536b60e6413924a6a5bY.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sba1f551f9e204e95ba689689fae6e5e9o.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5d64436436549c98c2577b6b147b533K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea1b3a29e55c45269de5d1a1da797790u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S824acf2804a74d8e965629d061de4e4eN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2be1fa99924f4536b60e6413924a6a5bY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f8ef75585ba49b7afba87ea2ceb8ff8q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9286654c2ed74462aa2bedc14d7022c0a.jpg"
+        ]
+    }
+}

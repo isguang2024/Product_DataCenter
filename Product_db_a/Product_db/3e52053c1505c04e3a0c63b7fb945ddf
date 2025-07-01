@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "3e52053c1505c04e3a0c63b7fb945ddf",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "PH",
+        "创建的时间": "2025-03-17 13:52:41",
+        "第二层SKU数据": "",
+        "货号": "PH-188286972",
+        "进价": 2,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2025-03-17 13:52:41",
+        "原普货标题": "Black Rectangular Tablecloth - 54 x 108 inches - Disposable tablecloths for meals, parties and other occasions.",
+        "质量星": 2,
+        "重量": 0.1000000014901161
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sea763b0b631b4659b679eee65eb6612eA.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8947bca78734b7cbec0eeab9d1c90566.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80891043b7104259b6e81e664cbf49f8z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71aa335f58ad467a87c055ea9588c7b46.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S513eb60a690a4e7a8bdfc08bf49cf3eaa.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1a11cbcba25640f0a049a7a0611c3008Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc65bce6a76d4f31aea637318ed3b747Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S32d48a0c3a9f40f38e6483a64deeac70E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se93d2420d98140729fb99f4220d8dccct.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13ef3e79081544deb4cfeea16bc97b22O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff392092cfbb4d34ad6f270ba85f9dc4K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S513eb60a690a4e7a8bdfc08bf49cf3eaa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se94bcedce85c43308420d26443b973f1q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59df2a71d5904bfb80693bdd615eb2a5e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63aaa67206024eeb9f7ac52d5575ce59a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70b354d10f024ef788245a86df3fddb38.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S513eb60a690a4e7a8bdfc08bf49cf3eaa.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb7b4c471a1d5419b88601f24ad0bcdc51.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4c934b6715a147b4905e55451bd6dc34U.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sfc6562ee646442929f2f30cf00a6d80ds.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S4742ca0434524a8c8598d1503a171231x.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa68a61a297ef4c0d9696183d69ab17455.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c9ff023b7d44f0c84c12c61152404e9C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d42421b8bcc48fe98a46111f0cc8935C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a1671d5dee64c30a5f72d98493df34cv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se14c6ab4856b4d669b85aeb2f858860bp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S041edaa93ffa4b0ba4775b477d61f9a1M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc6562ee646442929f2f30cf00a6d80ds.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c934b6715a147b4905e55451bd6dc34U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4742ca0434524a8c8598d1503a171231x.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa68a61a297ef4c0d9696183d69ab17455.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c9ff023b7d44f0c84c12c61152404e9C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d42421b8bcc48fe98a46111f0cc8935C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se14c6ab4856b4d669b85aeb2f858860bp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a1671d5dee64c30a5f72d98493df34cv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S041edaa93ffa4b0ba4775b477d61f9a1M.jpg"
+        ]
+    }
+}

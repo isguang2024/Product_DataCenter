@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "52199e520508394ffe7dc7e3fb3d5e26",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2025-06-20 14:35:21",
+        "第二层SKU数据": "",
+        "货号": "RB-W1667070629",
+        "进价": 100,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "原标 原盒 正确版本\r\n定制印花鞋面 私膜真皮大底\r\n全套专柜包装\r\nSize：35-45",
+        "性别": 0,
+        "修改的时间": "2025-06-20 14:35:21",
+        "原普货标题": "Heeled Sandals Women 2024 Elegant Woman Shoes with Low Heels Luxury Designer Block Heel Sexy Best Selling Products",
+        "质量星": 2,
+        "重量": 1.200000047683716
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8030a9a9eaf34b0ba1a7260c33431e7cQ.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2af6490dfb444fc0a398e1b194fa959dI.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4b2ef6c46bec437685dd9d193ca659b2l.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3107d04dfd274c7b949f5ec8a7bc8dfe2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbd4ee87eb1c451793c4ff7b39a636c4e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scfd76eeccafb4ee9a40c02337d956d5aH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1bd84306887e46d991ad67b10fd2fa67N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5043dacc01a4bf18cf3d427dfdfd097c.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4b2ef6c46bec437685dd9d193ca659b2l.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S5c93aace427348e7aadc099718ddc7d1U.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa81f0a9299af4ecb83c7287be5f8a757y.png"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S19b482d221bf49318bfa0ce8096280fcm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S067067fabd8948969add913768108cfck.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc267f7f68b54454c8b2c32f8278f512eF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36a431aa23444acdb550f7bdb55e4d14L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6cea044c2f348f08a23ca19116e7af4P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66eb9a5a58b649e596b21e10124b4a466.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49be7873ab40490ebd614f655ecef0fc3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2085c85365234e5cad1afa0c3a8e265dg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31cdfb5c40384b749fa9d29737fc0337t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6ce84e8cccd4e5eaf920b91ee1a8397W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fcc571d0eb543dca0dc1bf92c10a51f5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f1bb5245f4f40eb8121aa4d2752b624b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f595f7c3b94447f8e6ded60ed91deffJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S455a06d3db654d6bb456eee348f076d2u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S54343c6ea6b84a23b8790fd7a973095dT.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3d26528c2ae4477876f738db9753e9aj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S067067fabd8948969add913768108cfck.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e5b1b6d432b4a80adffc0abfb2c1d75P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S869552792567445aac43098aa956d0a96.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f4ac8dadba849e5aa27d10fb04244ceb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S699be1d27e4f442d8601185d59444cabR.jpg"
+        ]
+    }
+}

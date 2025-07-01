@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "bea3f7173af82cfde1a867edb9715afa",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-30 17:19:18",
+        "第二层SKU数据": "",
+        "货号": "GY-W1241355831",
+        "进价": 70,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "颜色 咖格粉尺寸 19*10型号 专柜精典单拉链钱包 原版品质原版五金配件永不过时人手必备款销量冠军\r\n",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Baby Diaper Bag Multifunctional Large Capacity Mom Tote Bag Baby Stroller Canvas Storage Bag Hanging Bag",
+        "质量星": 2,
+        "重量": 0.5,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb18461565604f4088b8118b78d692774.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8c14eb1c70a64bba87584089020dae91w.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4202e7e25a9a48fbb2377f947aec1ab03.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scd21d7b25e0842e982439a1c56fc2b5dc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd0e24f0855846578ec06f6eec06d6adb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b6e6ac72a0e47679934626bf8292761z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdaf1f29cec0e45cb941a63831a2026bbp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3bb99d7f92694773a34f49a28572cdb6k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7212742839454ca48738753a8338b32dG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4cc45a8d225c4937b9d8a0516e63311cK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S27072ce9e8c649f395ef48c45a3957c88.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8cbdff7fd094488797d434ed49c9b0db9.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7454d8e04a644f87a9cd0653f3799797Y.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1d3c683a530a4824870eeffb525faaf7F.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8f1d9554c39a4d0d9ae73a8694ad52367.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9416372888f14093bcf94d537c59bba2b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4f3a28f9fb343558842e602f6d8f30b6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd44db221d716455998a11f5c663c5828u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc3b6bc99003456b86351635ca77ff3dC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d086a8be3964b749c1f24c037ed6b45C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3dd41a7cdb74bf28452f828710463b2n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7a4d983be79461a80617cf40f3bf7deb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f26d2cb6e954cba876b8c94079db0d2b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5dc3dedd1dd44457898ddae9e4c4bf0a8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S977112668e86416fbef67a7756b2cc95A.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sda19c2b55c964ea388207e88a7dbfaf0U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S315b53794d4d433a8bcfaea4b8b22beby.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa40f5c52574f400cbf6966d078a0f16fo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7752d46aec8e47b6b3b1a27640417fbf8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4008950f745041b585c5b84b87e0958et.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seae29580433e4fbd9035bbb3e55908aaD.jpg"
+        ]
+    }
+}

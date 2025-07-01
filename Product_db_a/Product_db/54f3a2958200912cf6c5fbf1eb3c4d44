@@ -1,0 +1,67 @@
+﻿{
+    "info": {
+        "ID": "54f3a2958200912cf6c5fbf1eb3c4d44",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-09-20 14:33:29",
+        "第二层SKU数据": "",
+        "货号": "DG-172410022",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "渐变彩虹链条包，高质量，重量：0.76kg，材质：头层皮，尺寸：24cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 15:14:50",
+        "原普货标题": "Canvas Bag For Women New Casual Shoulder Bags Shopper Girls Handbags Eco Environmental Storage Tote",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7e34b3a24121498391248b8129a398b9Y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se6100a591b744f17865e9d1a389f02468.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8bfc77d39b1c46c48ca21f5a2a3b8bd6s.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S698778c7dcf54930b92015ea82226608N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5aaf001ff70a4582b2ea5ab0d1b67804W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9dcc9debd3f4b2b87cf8db41299d690L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbaba0d7d9b54d5d92330a125f28caf9z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7067e232e8834b8cbe299a83d1b1dbaeg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S902d1a5165bb467a9fb3ecde7d77dd19U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa84b38a79d634da1b1422b0a677de6b9b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b7358cfc7af48e09f44985af2ba666dn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9446adabd6f247b198c6ee8d8ce92c2aO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86247a7d64cd43c1bfda781d8d6a4e0bO.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8bfc77d39b1c46c48ca21f5a2a3b8bd6s.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S39e79a6298254f588e1f81a69e73be47s.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S972a9c31b8174360912e32df236c99d5u.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se8c3965e99514945a00305ade66e9c22k.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8919d785c9046738226f3fd0f01ac63j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd132bcf16d3b49edbfb0e3542885b51at.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73604e1ce102479680215a41e501fac3P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S972a9c31b8174360912e32df236c99d5u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6a02abc6e724b7eadce9b818a8df92bk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S511e7c964f7749bea1022f918f7e09d13.jpg"
+        ]
+    }
+}

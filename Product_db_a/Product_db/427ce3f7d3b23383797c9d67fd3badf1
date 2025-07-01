@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "427ce3f7d3b23383797c9d67fd3badf1",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-26 16:22:36",
+        "第二层SKU数据": "",
+        "货号": "GY-W1182649058",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "size：20cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Fashion Women's Shoulder Bag Trend Simple Retro Underarm Bag Felt Tote  Handbag",
+        "质量星": 2,
+        "重量": 0.800000011920929,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S964152dc50e742f78c42005d2ab89861c.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3fc934989dd14384ade4601e8056b2ecK.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc96a780a03394dafbe202ff572c2a979u.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S06c928e28b08491eaf362979c0d22ad9S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a9f092c13da416ea64169bbdd20fce2W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9362fc07a23499cb269f74cf6f0afb3H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57378ae6cd44498c8cf99632fd2e170aR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3b3a0f2867c4c5696c1d910f122b2d9x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa836488a206742c5a19691b75429359fT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6aad0e7c71604b7aaf64b80c5c57aa28W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a504184fe004e3f9b2076da5bbde424D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9ee93b60a3740bb963fd1c07c1d23d85.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S76b5e9b5018b4a44b6134146c16a6108D.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3130e435843d4fe4b956e972968767eaV.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S418a6c7630324def9d8804d5259e120a4.png"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S76a048a30f7d404baf811eb714599577G.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea26e4797fff4944922aebe4f9174abag.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4afe7cdf0f64050a865d71ceefb48c1x.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7946c50f36c4aa2a508a087589f98c15.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf572df6aab74d7487a44bb8acd8fcd9v.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd45086757dc8458a95e1b9e0ec066ef9T.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0447fe6d8e44b788403bbf75aac3999t.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S9048136b77e44a0da1cd8725648e636aG.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S9dfabd269d2a4fdf89a66aa7bfd6a0e6f.png"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S418a6c7630324def9d8804d5259e120a4.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S76a048a30f7d404baf811eb714599577G.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0447fe6d8e44b788403bbf75aac3999t.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4afe7cdf0f64050a865d71ceefb48c1x.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf572df6aab74d7487a44bb8acd8fcd9v.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S9048136b77e44a0da1cd8725648e636aG.png"
+        ]
+    }
+}

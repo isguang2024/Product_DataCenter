@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "1157556507c3248eb356b7678ba2a77f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-30 17:01:30",
+        "第二层SKU数据": "",
+        "货号": "GY-W1580540344",
+        "进价": "85",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": " 黑尺寸 11*10cm时尚钱包，优质牛皮高档五金配件，内阁丰富，超级实用现货高品质\r\n",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "2023 New Corduroy Shoulder Bag Retro Messenger Bag Large Capacity Student Bookbag Handbags Casual Canvas Bag",
+        "质量星": 2,
+        "重量": "0.5",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3515835f9db44a40928960926a3ad953C.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6f7a29646fa4ae188456ed3a5cc980c8.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S904c36171545455d80db5e6594c4de3eg.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2d43eb9679014b3a947ddffc872e9bb1c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4858234028f141e3a3f6ecea588ca6d0o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39af6a3e65b24fa09eefc15cc155cd24p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce9f02373e11479281003370f08cdf05G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd924876e0e084cf3888c12cc3b760f2fN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se91215cddfc742a5b890d1ceae438220R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7aa47ae6a79848b3b5f2b05684c02131t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f69a1d8f61743b893e8a1a89d6d8d3f0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec7a1b1b09ae46ee9fd7ab1daeeacf78A.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S997260d83fe24ecfb0fb093052761635e.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7c0e13a005b64fa885725b57eb238f66Y.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3c4b04082cd64430b2b34c42b4c51682q.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4ab749f44e094f8d85f6a21e57610425j.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S10f67b7f9a5b47949a2c5c75e2a60c24B.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c43b37493d342f1a265c5430c3c478fO.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4226678db0b486c85d7600677270871Q.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S0751f3cc28014af9a8cd3df1c4808076A.jpg?width=800&height=800&hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3c4b04082cd64430b2b34c42b4c51682q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98b466d54ac943ce872b9af4719b6593H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b827e1c85bf46b4a287fe1ce64ca333E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d96641b02c1494b972fcc5792fd6e3fZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7db5576de065407282a3699191dea182u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43c799fe2a5b457bb99074a3d6107557I.jpg"
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "eeb8f508d0026848f8660773c73a7eb9",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-09-20 13:49:00",
+        "第二层SKU数据": "",
+        "货号": "DG-175235517",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "化妆包 盒子包 高质量，重量：0.68kg，材质：头层皮，尺寸：17x11cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 15:14:50",
+        "原普货标题": "2023 nylon messenger bag women's new trendy dumpling bag lightweight small shoulder bag armpit bag simple shoulder canvas bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se331b8203a334c00b8f747cd27316e43M.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S996d39d3f62541949a868e15dbf87a5d8.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S915b559ab7ba4978a5d4c35b9dc00850s.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S97a8eec06f6d4d3b92d444d17c47f847W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5e8e492dbb14afda787940be2231587x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca65c9848bb1471ab734f3f6ff5d52de5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcd4d39e2a5b42ac92d0e433d5cd1930s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3adf6d51eae4fb68cd65ee06654284bL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb388435af30d4382a5f2ca57b3de36d6c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ff2d0428a4d401c928499f1aaf92ba2j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77f6cc530e634588947b26fae5eb056bZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce7b872c7bbd49fcb026c968d95a371de.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8cad103b7ee401e922634573ad10e2dD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58505559b9c948d5954be86a6026fac4v.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sdbb06dd6da76400b87aa2dc026298ce3V.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Saa5527e9abce4da4abfe85f4cb6af1d2s.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S07f215c8c28c4c3fb251cd82b065dbe94.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3381a97938004f709de2d12e74a4f3ec1.jpg?width=750&amp;height=900&amp;hash=1650"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6c8a7f346b041ba8511a632538e57f4K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S098348b5b19546c29b2d4578137a4f6bx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a5ac3e352ed4c858494deb0895f1aa9i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S767b210b7a39400c9a7408b058c1c06aL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07f215c8c28c4c3fb251cd82b065dbe94.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4b5a84f487c4736bacb3e5b10e8cc86P.jpg"
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "644a4083247c7e1367c10031316764b5",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-08-21 17:35:44",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40@41@42@43@44",
+        "货号": "RB-W687850619",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "SIZE：35-44",
+        "性别": 0,
+        "修改的时间": "2025-03-20 14:17:22",
+        "原普货标题": "Ladies Shoes on Sale 2024 New Fashion Buckle Women's Sandals Summer Solid Outdoor Flat Casual Women Beach Sandalias Zapatos",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1d7ef5b534747d295c300e2200b15657.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S183027e26b104df78ad535d5ef925798I.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8f082206555640679edf10b390446315S.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S912b8d28ee2c446d920d8ea6b86ff5e0d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50577b44c3ff4d27888fd567b7625068W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad956680a02746e98a985c4b903aa965c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3cca8f46638432185cc9d46f52cec31w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8adb14a4ad564133b053d9e69c24e301c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba6cf7a4b31f415e961e6417196b0ae8d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se768f68f43a342a99d0f3db332332a236.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50d168e43db3472ebee7f7cf7e7b5696y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72acfeb0076448faaca365f0e10032dem.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb6b698e36aeb4ec589ccc571338d8664K.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2ab0b2e8b83f409291a1937a10ef832d9.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd0a3a02ec1194ea286bfd88fb55bb4bbi.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sebb53dcb86aa44d3a32aa1e82cf1281dD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d10ea3ade6647fea0c3cc51f4f6e800A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73303e45495d4a05bc1b7eeb8609ad1ah.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa20cfcf8be724dbb91df355f619fc4a0a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ff4fe10d2934088943ee7ca29c6dca5H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0a3a02ec1194ea286bfd88fb55bb4bbi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb3aa57e3f104fc2b37fa09d9109f0faA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc060052d6904f1887c251aec2a9ee69n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e0f7543c13642f6b2647af81c22b4d2q.jpg"
+        ]
+    }
+}

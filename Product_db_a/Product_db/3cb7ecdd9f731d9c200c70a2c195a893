@@ -1,0 +1,65 @@
+﻿{
+    "info": {
+        "ID": "3cb7ecdd9f731d9c200c70a2c195a893",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-08-15 13:05:36",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W619607686",
+        "进价": "160",
+        "利润比": "100",
+        "品类": 1004,
+        "品牌": 2147368680,
+        "普货模式": false,
+        "商品简介": "标准码数：35-40\r\n颜色：黄色\r\n后跟高：6厘米",
+        "性别": 0,
+        "修改的时间": "2024-08-15 13:05:50",
+        "原普货标题": "Large size 43 Women shoes high-heeled shoes Spring and autumn pointy heel rental knitting fashion breathable anti-skid 2023 new",
+        "质量星": 2,
+        "重量": "1.2"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S16dca8a959ea47e6b7c02d0261e4edfft.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saeffc61f1ecf45f4ba7ae58e225aa94bS.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sed834d7106ba440abf1d691a52118580n.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S85caaf8bf37343f4ac23e7389505ee4ak.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ef9dd3ced844466beeebf7bff994b53s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4cdc376e897e4c76ae9d02f4900c531em.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S145387c16c6f4e4296e4843633e4dd9dl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S616721ae40bf4919a7294453dc3870ffe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0a1eddc7e4e4b7b8e0a18687dd1138eq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa706d0c8693d48d695d1630d5a8df5bbz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e8d16925e4c4564b88aafc26f432b97O.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S72afffc96e8b47a59c430b259d5d02ed5.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf08940a8064e43269653307d36fe885f7.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S513e1e9645274f0e9325aacf838c1d361.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S52e4f4529adb405399857ea472f21781y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf10edb196a8e47c9ab7f06261a4f32a2T.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3167a1750a7140898803eca3d51c7b27f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f56456dbc1740d5821067ba7eb3d853N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S307b5f1787a64ef8b07b76ee016462ffM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9e9341cae9341978f1585015692ca0dg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a37db8cee9f43bebe58f105c5362e903.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85d810b740fd4682996ddc4c55f992b0G.jpg"
+        ]
+    }
+}

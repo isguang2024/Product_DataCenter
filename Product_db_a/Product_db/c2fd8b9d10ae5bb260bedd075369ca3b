@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "c2fd8b9d10ae5bb260bedd075369ca3b",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-22 14:00:57",
+        "第二层SKU数据": "",
+        "货号": "GY-W257121468",
+        "进价": 185,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": " 尺寸 ：18*6*15cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "2023 New Fashion Shoulder Bag Plaid PU Leather Ladies Handbags Designer Crossbody Bags For Women",
+        "质量星": 2,
+        "重量": 0.800000011920929,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S297e924805d8473aaa1fb600a4a8c50bu.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3b0419e58f42406fb945318fb484126cc.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6682c43a8c4c4c6996e7be6ef2f799115.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7ff5aaa28fc4a6c89adfb0f111d4b67i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9738cf9be9374c0589805e55d824daf5d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7f910d271b441e3a8dca7eca4913c2bK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e2bd39b39cc46e9a53dfa2046a9fcf7M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8459e335cc440d7a5ad7013fa3b2370l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d597eded4354e4f83b34ba95340d753L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08bd6935c76446ae92efc76249d72fc6S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35ff38195ccb44279eae968d9d3cecefF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a28cdaaaf37420ca703a86741b96aebB.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf7ff5aaa28fc4a6c89adfb0f111d4b67i.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S32b073467ce042ca80a69c62b36df15c9.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S33212522b40243479b053020f72d36c3y.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9900dee4cbd0436eaea9df8daa011f4eD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b9d2d4ba1734c9a8169e38ce76fe398K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69e7476653b14ca7a5f569c9286bc0af1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secedfe4557ec45219070b279faf429f4l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a08258bccae4929bd4e0b3f54477c8eh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6bea70af84254c85b9f7facb753e50eaL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63509ccbb6b64808a772b476b76d96ff2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa798e2e27127429c96a88830237437ea6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1675ae7dc0654d07ad7ee6ba1f1afa8bd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8eeed8035dda49c7b6d4d2697f6e9230x.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seabddb2c86e243ddae03866407627a3cM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2571218ae8d4b6c87a2f497adc6a488n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f81791e17104514b04b568ece0bcc0cv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See06e75a85f34364951011498f82a40fa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb344a5ebc9a8401fb632ddbe8bf68932O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8cba4d8ca389483ba48d422e9ebe7e46e.jpg"
+        ]
+    }
+}

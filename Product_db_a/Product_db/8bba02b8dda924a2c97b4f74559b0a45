@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "8bba02b8dda924a2c97b4f74559b0a45",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-05-30 12:40:43",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40@41",
+        "货号": "RB-W402183011",
+        "进价": 200,
+        "利润比": 90,
+        "品类": 1004,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "金属皮拼接网面（金属色皮?镀膜网面），3.5cm原版双色底",
+        "性别": 0,
+        "修改的时间": "2024-07-21 14:02:50",
+        "原普货标题": "20219 Large Cross Border Reflective Belt Fashion Lightweight Thick Sole Heightened Dad Shoes Women's Sneakers",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S921501c7a9a546bda286283194fd3a0ft.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S19ffeedaa6674161a65ea71d4eb3e58dM.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8c139b501a34310ae0125a8653216bcX.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se4f52c7c1c0941ff8f14dbd28409243bd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3949db12a4084034902e2d9f7a808d869.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3fde7f8009b242fe9cd9d5f16db0bb77Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6ce5c717e794f8db287635e8f7f0d7cC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fbceedf4aca4da8a2c91d7bf2c6886b0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S407a648c744d48528bd33818c5d399f6s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74b598c5521847568a4d57eff3f29ead3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7f1085b1107460aa7d48d21446d996eD.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sca30730bb8cd4233a9096d98652384edY.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb9f4427cf17040c79a778bde0d144effI.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S458379b35df846a1b8ae77498dbf9ab9Z.png"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6ae54d2884e4a8c81e6ee1bf40ea5acw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71035ec6a0ad40c3a04408a21b0c4210T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6eafd6c79e8c4083abb1ce3dd9d262eaI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9eeb76112a144d1db90acbc620d6c105t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S458379b35df846a1b8ae77498dbf9ab9Z.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S871a8b8c69e248819cf21623dc243c92H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc76048d9e25440d4874400c5071423271.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86352dd2370e48f5a7f5e005aa10d03f9.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6eafd6c79e8c4083abb1ce3dd9d262eaI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71035ec6a0ad40c3a04408a21b0c4210T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9eeb76112a144d1db90acbc620d6c105t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6ae54d2884e4a8c81e6ee1bf40ea5acw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86352dd2370e48f5a7f5e005aa10d03f9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc76048d9e25440d4874400c5071423271.jpg"
+        ]
+    }
+}

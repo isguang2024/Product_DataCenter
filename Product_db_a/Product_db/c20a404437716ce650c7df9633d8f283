@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "c20a404437716ce650c7df9633d8f283",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2025-06-20 13:21:16",
+        "第二层SKU数据": "",
+        "货号": "RB-W1869908296",
+        "进价": "95",
+        "利润比": "100",
+        "品类": 1004,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "标准码数：34-41",
+        "性别": 0,
+        "修改的时间": "2025-06-20 13:22:14",
+        "原普货标题": "Coconut Slippers Cloud Thick-soled Sandals Summer Fashion Soft Bottom Beach Men Slippers Women's Sandals EVA Slides",
+        "质量星": 2,
+        "重量": "1.2"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdae6158f566a4c95a2b35d46f9b62829Z.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sab9920a2d94a426b8d30bd45e3e5f8aaN.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4db6ea98ecbb404ebee30a49c1d96551s.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S336565df9d0444c6b9d9829b597d0738L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scddefa0f9f2b4d53b49f28cfae63f8bcO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scde4724d06964c779e3cddbbbcdd735cp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3dafa52b16f54a52b36e3d4b579fdb627.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bd9d99890fb4ec7b28b7cb50533bc86x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Safb907461c53438d9563e25addcea5deR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36bcdbd9dda645ff9e1ce6c09dcab93aY.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4db6ea98ecbb404ebee30a49c1d96551s.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S16ada840923a4f9999878a469412fcd29.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S49f04b7703b74a0fb15a4e5b317f2f98o.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7cc2c2a78dc482eb0c1c7d41fa47399Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93b881be08844120b683e5b94f6a0144J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5616a575bb1447d5b8d13641b1ecdcf0g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59401439005b4159b205a76496709b1d1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S273d1fe8822342ff9fc85980cf58abf0B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde55d19fed3342048ba0f1d5d01a9246g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7360ec604264c369d9fe17a3ddeaff54.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb943fefd7b22439fbd16782e61b25620s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4759f6325bba42c18a3420ed3013ef86C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc092fc8a64ab4d3baa94a20c2219a1a19.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S292fc89650e44ccfa56326dd0f93c704t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5803f908c49b4e3eb95cb1d881ac3bdaP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0efd3709a16948b7834bf6221a9e8e093.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S06660adec4d54433a61b4bca24cffc8dv.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S06660adec4d54433a61b4bca24cffc8dv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2857bfa36c7246f2a5d9101c50e97955h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8443c0366dc4c4ea02318bd495d9c13y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7cc2c2a78dc482eb0c1c7d41fa47399Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93b881be08844120b683e5b94f6a0144J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5616a575bb1447d5b8d13641b1ecdcf0g.jpg"
+        ]
+    }
+}

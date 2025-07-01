@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "74df4b49fb80fad19dbbe7dab94614d8",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-07-19 13:53:19",
+        "第二层SKU数据": "p-5@27x15cm@20x12cm",
+        "货号": "DG-155080056",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 198398445,
+        "普货模式": false,
+        "商品简介": "琴谱包 高质量，重量：0.5kg，材质：皮，尺寸：14x18cm",
+        "性别": 0,
+        "修改的时间": "2025-02-22 12:13:31",
+        "原普货标题": "1PC Briefcase Men's Handbag Black Oxford Cloth Handbag File Bag Large Capacity Customized Waterproof Canvas File Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5d68e0fb594242c3a9f45f35c0575bb7t.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7d41f00bc0c54ebfbc7e1218241705f6D.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sedff9583a4de47978873ce442b777c18g.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7077d13afea47c49979ce634c46c417Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94dfc5d1b6eb47e9966691e37d5d14c7N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f9dc6a956224ca58f10d7f68b11a58bz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb493fb8f9c2d404cb542769be71fb9cff.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3197bd00a6f45ca88b0e14a60945043r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc5b5b74d0484409a2c0d67619684810I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S093f52211b834665a6b0ade9ec4a4219B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07c5968628234aefafa6370909a6918db.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sedff9583a4de47978873ce442b777c18g.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S95795a7ca2854798bc2de6735ce212dc0.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S5b23920b63494e8a934917495a095a216.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8c9d4c13b4d64287b9d4a4e42c871f17L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f85ab74802e41ba9b27b993eea81e19x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4931af2475dc491d8b1551e96689785cC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62c6547b634f425ab0c3c6f13971f738F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa28f6381c21e455ea9dac00a0b8571a4D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67f2bad9b6f64de9af321338fc22b91dT.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S84a1e585f55f4f6eb9967e2afe754929i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb1c5ca61fbc40b1b66fa45955c3eb7fI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b7988bb426d43fb9b831395d514511cE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b0845606a1a412dab6764262d382142g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfede042047084948b3025765056ec79a8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e045e4ba9e84964a3c4165ea588e2183.jpg"
+        ]
+    }
+}

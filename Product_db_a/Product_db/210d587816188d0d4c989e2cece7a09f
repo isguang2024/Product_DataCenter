@@ -1,0 +1,82 @@
+﻿{
+    "info": {
+        "ID": "210d587816188d0d4c989e2cece7a09f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-02-19 16:03:09",
+        "第二层SKU数据": "",
+        "货号": "DG-185561524",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "复古老钱风 手提 马鞍包 高质量，重量：0.68kg，材质：皮，尺寸：21cm",
+        "性别": 0,
+        "修改的时间": "2025-02-19 16:03:09",
+        "原普货标题": "1Pcs Large Capacity Canvas Tote with Multiple Pockets-Perfect for School\/work Commute\/travel and Shopping Bags on One Shoulder",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S68de406b85ec4982a754626d2716f3ea5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05725fcc248e4c87b24214670534f61bj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e63551cdb5d46139c23ea374ed24b4fJ.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3a3551cba14c45d59b92598a8219ed00t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1e6ef5df9a847af8093563a3b6cc60aT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf507b38defe424bb95a446382d2d3c8h.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9cdd328f88974e59acfb53239d016827k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saad472822dd64f529bc9301635679c6eR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd671312a43c4025827290aed48e8bc4C.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S30c0fdb6062d4c4bacc2f9e55f89e73eW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a8f4152934d433d8f311243de4b096aQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f389b4bce7a44cb828718e0d728e3f9r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6aa80ce0208848d582aa4492b19da5e4A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74981427992b4cdc982aba2c204815c25.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7a16188624642d484480d1978912f0bZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5562427ae2d1460dac2527c8f81e4b44W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se231b350957f44dba01545be9e4a470ca.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sfea8b18c17744f618ba8c7872bece4cbZ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4e9dcf5d305b4092b4420a1c929dd7b2j.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7324da5f30fd4876b5c700838cfb88c6N.png",
+                "https:\/\/ae01.alicdn.com\/kf\/S13a5bd5a621446949aa9f050c782d3bfz.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S13a5bd5a621446949aa9f050c782d3bfz.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S177297b4cfd541a69f498f07ab3a82e5Y.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S13b289796dcd4868bbeaf6ea58caf27eT.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8e0943fc63b4376a7605f29e804fdc90.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S372c8763da904cf98e837b4b9fd382ddL.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S67dc6ff2cec34b71a9909c62ed28f2389.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S956907996013489d85c4044b5631ce2cT.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S7324da5f30fd4876b5c700838cfb88c6N.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4b88e6f13d64fb39e79e2c18a48e3e6x.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa85bff94e691422d8cc8f38fad9518b3z.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc94242f8ea0429a8d51b45be32bffe9R.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde0ee6c9eb4747d0b64de14220154cadt.png"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8e0943fc63b4376a7605f29e804fdc90.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S13b289796dcd4868bbeaf6ea58caf27eT.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S956907996013489d85c4044b5631ce2cT.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa85bff94e691422d8cc8f38fad9518b3z.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S372c8763da904cf98e837b4b9fd382ddL.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S177297b4cfd541a69f498f07ab3a82e5Y.png"
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+﻿{
+    "info": {
+        "ID": "7cbbc19abf87cda839409efe58f4c2ba",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 5,
+        "厂家": "RB",
+        "创建的时间": "2024-08-16 16:34:40",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40@41@42",
+        "货号": "RB-W1195820423",
+        "进价": 95,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "底厚：5CM\r\n码数：35-40(41.42定制)",
+        "性别": 0,
+        "修改的时间": "2024-08-16 16:34:40",
+        "原普货标题": "Summer Fashion Gladiator Women Narrow Band Cross-tied Platform Square Heel Peep Toe Rome Design Sexy Mature Shoes Ladies Female",
+        "质量星": 2,
+        "重量": 1.100000023841858
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se851d66060af428faf0f78e6a4089d40W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51278be267e641159219abe0ec168085b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S691642c584d84fc1b9b4b36f52fedc01v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f509b7b1f9242bd955aff314f7dc717x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb556356f095c481b9a69940df7285cd8w.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc87c17614c94920b244011d514207bdS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12e85c11d5bc4f8a9d42d25011148f31n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf49bfc4a989f46fd8b30fa8d3f2ea695F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ec26ff0930b44149927a657bb4f2114S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c4291be5b7f44dfa45fe99ee04dfb45Q.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S71eb0711d1314157ac1429ea0a7d669az.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9327f4e8c924a33b54e045914dee5b7M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38ee19a13d334a41a16bb32ae1b792bbt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6bd2cdfe52074eeb8f9937778862f816G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se72d4b9565cf4110bb3eabb43bb5e9c7m.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S822e66e7ca8a466f848b281b1515d5eat.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S169ce97267ee4f8696dab0f84058524ck.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb5f34e9217941a2957dc81c70697957V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S827884d3e9bc4ba78aa963ca593607d9Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1e03932824845d58da948dc2bdd86575.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2df28475bd684e8c804121105033ae72G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e1144e2874a4c06968ddf4be16fe8087.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f924c7942d74edbb7639b8b038d8508k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sedd5d105064d47728c52ea6c10110a82y.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se9479b230323445f975cd513bbeaccfbG.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S04228d7b16cb41a68435f83df54dfc56s.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sb8900faab1964fe2a5382c7096fc50c5d.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S13316763ee0b48b1b2e864e1597a12fct.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sa42043514b70463db8c9ddbcaa748205c.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Seb6c3c9c622040ebbf3ee4253a151b0fX.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S892e1c7f360f4edca58740845b02b8f2V.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7573918525124bb18b61f03bf9b910d7I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93fe788498494e4982c4914be758ed533.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc9ef412d53a45d88e39418b7d26f8147.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2e4decb20a94ae99918e153aa68e778c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d38a0633a064be789d33f722fb9259a0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb9d878c1e2845e9a68d9f874a42812a4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55f9b6a683f24914a3c835195d9a340af.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3694e50a55d4e0f852dc6c9f7e819e3W.jpg"
+        ]
+    }
+}

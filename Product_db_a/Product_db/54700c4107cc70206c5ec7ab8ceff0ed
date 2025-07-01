@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "54700c4107cc70206c5ec7ab8ceff0ed",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-06-11 14:08:06",
+        "第二层SKU数据": "",
+        "货号": "DG-165469638",
+        "进价": 185,
+        "利润比": 80,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "邮差包 原版质量，重量：0.55kg，材质：头层皮，尺寸：20x17x7cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:53:03",
+        "原普货标题": "Three Layer Large Capacity Canvas Tote Bag Crossbody Bag, Durable and Lightweight Shoulder Bag Shopping Bag, Casual and Practica",
+        "质量星": 2,
+        "重量": 0.800000011920929
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6bae0e0b12b44311a1432c5a6c8a4b95Y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S130f0969f4d9406193a78e94bcfbb0f7N.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S759015b3dbbe46c6a730ef7dc25e9809z.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S39245dffae1f4b7ab2a2f70b1684570f5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8b650e1bd094573ae42ab41a178e65eJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc43acc4ceb604833b5e9076fc5647061m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f668ab42c314385985aa6b4cb6e6f5bw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80a1cc62e33a4dd6a0bb9487f3b2bab58.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac41ae700bdd425f981d482b1892a13cG.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S40ba7ca266554caaac180747cc641138J.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S847615db2d994ce7b2c89a0c43fa3d9aJ.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S87ac28570f1a408dba853e2a06833fdec.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6bf702e30dd423583fba44e75443e7ea.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc94034e21c1740a08d5a3af32386cb31v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5418413204de43ea8cec022ca91a8e37l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4d5653ce7f749f9b91a7ddccc3ed5e0C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d18d2e4f4e740988d53a831707be159b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87ac28570f1a408dba853e2a06833fdec.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc94034e21c1740a08d5a3af32386cb31v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5418413204de43ea8cec022ca91a8e37l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d18d2e4f4e740988d53a831707be159b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87ac28570f1a408dba853e2a06833fdec.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1f974da0b734ae1ac6902a258ffe1202.jpg"
+        ]
+    }
+}

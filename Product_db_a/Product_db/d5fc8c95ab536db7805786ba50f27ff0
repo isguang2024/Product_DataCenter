@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "d5fc8c95ab536db7805786ba50f27ff0",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-06-25 16:52:14",
+        "第二层SKU数据": "",
+        "货号": "DG-199299301",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "草莓牛奶法棍包 高质量，重量：0.7kg，材质：头层皮，尺寸：18x10cm",
+        "性别": 0,
+        "修改的时间": "2025-06-25 16:52:14",
+        "原普货标题": "Fashionable Crossbody Bag with Drawstring Accent - Spacious & Secure Zipper Closure - Includes Stylish Bag Charm",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S467b24e1983d45548ee6b8aa8159c45bD.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9adaae956ed5496bb70d563718da78ebg.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S245b00a94d0b4332888c864fdc974c78j.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se8792d4d3b794622bd7363d3bcc8f060t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scfd1db91bcea4394a10a817b405b7099Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53f719867bef49379782499781080b5fu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcd21571596a40be9ac8fa49a6091e10j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51f5980aa7fd427d99a1d90b73f2bbff5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S361b09e41a7446f0b8a3ba031714534eW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf58a5930b9fc44c49f918c685ffac080W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2604bb1153b84778ba00dc17560bb632B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S680861656ce74fa4b6de01edf4ab305bD.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S958d539632d243f9a61a435ac28a7949m.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S07cb7948005c4a76b877b6a35ff0baf4a.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S26a0de9616234cd4af94936f490b67c2P.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S25ee2c46be35442d8306c203eb73bc9dj.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3da23ebc90242539a986712b4399cecC.jpg?width=1340&height=1340&hash=2680",
+            "https:\/\/ae01.alicdn.com\/kf\/S99634064f32f4e6398bc0d1739358dec8.jpg?width=1340&height=1340&hash=2680",
+            "https:\/\/ae01.alicdn.com\/kf\/S6999eaba9eeb4b9eaea3b187875349bc4.jpg?width=1340&height=1340&hash=2680",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf39e5cc43ff54af3b34ac7636f20b0c70.jpg?width=1340&height=1340&hash=2680",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebf295ab15e640b6ae1dea7a27d86130W.jpg?width=1340&height=1340&hash=2680",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5fb21503ca04499ad11f5e9e8e14144z.jpg?width=1200&height=1200&hash=2400"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0c47318a2d44b3abf7d7c5796f4974cn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ae449f991cf4e719366429fb5277133C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8efe73bd7386489cb0412c6ba331e87bz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0ee77f6ef9e4cea8c497769a58c8c13u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca8562bc03844398ad8ba33e17943bf1o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b2c499e7fca4672ac48a50d96ef3bdeP.jpg"
+        ]
+    }
+}

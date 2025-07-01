@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "4f7c1368f62f97251448961c36f7fc3a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "PH",
+        "创建的时间": "2025-03-17 13:03:43",
+        "第二层SKU数据": "",
+        "货号": "PH-189020938",
+        "进价": 12,
+        "利润比": 100,
+        "品类": 1011,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2025-03-17 13:03:43",
+        "原普货标题": "6 Pack Ivory Tablecloths for 6 Foot Rectangle Tables 60 x 102 Inch - 6ft Rectangular Bulk Linen Polyester Fabric",
+        "质量星": 1,
+        "重量": 0.800000011920929
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S888006f24621485c9cbee1ed2033ba9fq.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scf187bca95264c5d9aada7401e234ca2W.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S522e0c87a975444ab772e2ca97b3411f6.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S34dedc3c880a403098aa0acf3e874115e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbbcca406af724536840669271e2a2dcfj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b8a969e91ea4641a90401ca0412a225M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a9dfae58a034d689a81dc6f5ca26956b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5101b398e57c45fe8728c0e1eaa4964dW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S028e82ebf4e143678395677f10ea829f9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ce1dec76754485ebb75bb9228b4eff4i.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S2a8c9c56f0c94b7ba0f822befa6c74aa9.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S486ec6044d09407e87f325c6db02b8d5O.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7f8b9e4afee24784aa2c85562b5d67eag.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S80a2d951580a445c877cd5cda79c25dcw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9805f849f1544096849b6eedd137dac6k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S851b61c41cc34b2896dab6d11470c06cc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S32c371cc70d24a4b9ce6467629c9cbc0b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60148912024f4345a25321f2b1558a6fy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0bc0d43f1d7b43d9b07e8c2f0d330528F.jpg?width=1500&height=1500&hash=3000"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7f8b9e4afee24784aa2c85562b5d67eag.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80a2d951580a445c877cd5cda79c25dcw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9805f849f1544096849b6eedd137dac6k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S851b61c41cc34b2896dab6d11470c06cc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S32c371cc70d24a4b9ce6467629c9cbc0b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60148912024f4345a25321f2b1558a6fy.jpg"
+        ]
+    }
+}

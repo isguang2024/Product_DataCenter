@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "aa9b91f9f40c5ca9d1c84fdd25d0ef8a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 13:27:36",
+        "第二层SKU数据": "",
+        "货号": "GY-W91200270",
+        "进价": 100,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "size：24*16cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Niche Design Handbag Star Female Student Large Capacity Commuting Tote Corduroy Shoulder Crossbody Bag 2023 New",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6a0c61b8d5104344bef0ebed342e26b0K.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sba1d53e5e12f4b14a6b30000a0219bca8.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S77e2d458b1b24f2db7e518c76bb28531r.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8186fcafabb450ca05805da5d9a0720B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb557c2bc404c46b2ae124e5517b8917dw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9fca9bb29f4482a9c18c7f170195ae4c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S573dd7cdfcc94f3ba32a6e2f78461e13S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6906eee46204327b275a529d6d4f9a00.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f2adf25255f4e37aa1ca40e39a2c790S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S682f6a19359144c4a074c209631116337.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ac229c1a308496285002c8b8f5599abE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60d31cb8a3184e6c9c7d217a8400803bq.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S28daff390f59415fb84dd641e56d8dc9z.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S81e43b84d2724430b1f2a8efb5de2be2R.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se48892c2069d4ad8bb424819a15b2dcc8.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4f1a0948f87433f9bd54c3e9cb69121L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e2ff93862784480a0f2d42433ffa5b8Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S473dbcf98cd742a8ae8b35bcc261c265Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7751767b843b4f519aaf0b1880203bb6S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4b0dc02dba84a9e8d1b319bb6bb98f9u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa683e444639541c28a8788eefbd01e02Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3197f2be49164337986fd04787f388d7E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b5960f2b5b34f29b267987729f967bdn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ffb3d72f249458392640b9ca880dc2cL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b0b34b742a144fe8c6039947eaac607X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S009baec085914666939cfb6fb9df6914O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2fd477b982348579ddd6fc9d550cb2bz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09587a55acb54f93aacb149ef9767bc1b.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb09fecccdf454d9ba93211afd8282a47C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf03df6b1fb3d49f0b93977ebbb10c476P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbea0246de0a941d7b66aa69c15e58f30U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6236a921e284f96892dded6a92a290cL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a86aa90693b40e08f173580572b6813X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a83fa3585be4bc18835aee0da30f1e6L.jpg"
+        ]
+    }
+}

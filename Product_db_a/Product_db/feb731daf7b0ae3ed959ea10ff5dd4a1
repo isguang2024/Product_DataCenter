@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "feb731daf7b0ae3ed959ea10ff5dd4a1",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-09 14:38:51",
+        "第二层SKU数据": "",
+        "货号": "GY-W414609964",
+        "进价": 290,
+        "利润比": 80,
+        "品类": 1001,
+        "品牌": 2147368680,
+        "普货模式": false,
+        "商品简介": "尺寸：36 20",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:06",
+        "原普货标题": "Large Capacity Canvas Solid Letter Tote Bag Versatile Handbag for Commuter Work Student Class Underarm Women's Bag shopping bag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S51b66294c38f4adebd50252335cce027v.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0d2a575d0dc945cc8e490432674b7c347.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5f46449c7f3f4cd3baef3ff2ad7fac65u.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5f46449c7f3f4cd3baef3ff2ad7fac65u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07f56bc7d4bf47318432a2764c44d1543.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S135119cedf494ff88c3877bdd9999528z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7915be1525ff4a37bb763e44caf9115c9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47681e5e31a74e1bbd53f2ffe4cc789cE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd1a92a227ab47c4ae078eda903e329bL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed4b5bfeea934d98b5630828b8734fb1l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf274dacc5dde43e491a6dedcc4ed2900e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8355f9e3cb864d64831c6a950a937a18c.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S5f46449c7f3f4cd3baef3ff2ad7fac65u.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sbff28cd30a7d4aa78595da570059ed27j.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa6c6f7545cc44ea2a89098e49ddc1b1d3.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa77621dd9d8f47bd8872433ff180d1bep.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c14d1a3be1e4436a4cce36473c10759J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S105da9cacbf644d4a983384d9420566fC.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S532d52981bbf4f29a2b6e7c37f1096bba.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S83b4521aa6cb415caccabf9537ba7d7eH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7d3af6d384a478ba30f729a1e8022bdE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S389f57e8663846668eb0426cd67b1ddeJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2aff18be10e348508df77e58afed14a02.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb78f6ca6fedd436d862b98095bf8f96bw.jpg"
+        ]
+    }
+}

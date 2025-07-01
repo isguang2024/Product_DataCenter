@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "21bc3b3c4087005781291795e7b75576",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "ZH",
+        "创建的时间": "2025-03-07 14:06:07",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39",
+        "货号": "ZH-W649665811",
+        "进价": 115,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "鞋面：黑色小牛皮，白色小牛皮，\r\n内里：进口羊皮\r\n垫脚：进口牛皮\r\n跟高：10cm，6.5cm,  1cm，三个高度\r\n鞋底：原版意大利进口透染真皮大底\r\n码数：35-39 （34，40，41，42，可定做）",
+        "性别": 0,
+        "修改的时间": "2025-04-07 17:01:40",
+        "原普货标题": "New Fashion Show Black Net Fabric Cross Strap Sexy High Heel Sandals Woman Shoes Pumps Lace-up Peep Toe Sandals Casual Mesh",
+        "质量星": 2,
+        "重量": 1.5,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S58862974f5944c3c9f014eebfbcd35240.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7ecfbcaadae429baffb7142537bc4750.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S29ef535a414f4940b0806c1536ab3c3ao.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S061e9da8a6594974a80c7ab0158d1f57Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd25d863957c04273b75e04690d621dcbD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S009d3e71f63c4cd9a653a7fa02e57ab3U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29ef535a414f4940b0806c1536ab3c3ao.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa80650bd8601494cbcc26636da1e6846M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S975bc4f9b5064164930fff27f1186954r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85de3ab5eb3640c28396e5430d633dacJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See43d19ddc5246ecaae13a282847b7e30.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda8e0deed7324b609e333ed06cbdf92a9.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf2a10109f7d8425596d63163ea5406bfU.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sbed4be2db10847ed8a6bafbb4e86e4d3Q.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S890513c7641e4c6eb779bd8cd4a3f511W.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/H88e539e4cf6f41b6b651fd2b8de15124d.jpg?width=797&amp;height=797&amp;hash=1594",
+            "https:\/\/ae01.alicdn.com\/kf\/S9bfe222228c54e55ab9f75288ee8da8dx.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fc2db5032c14e829dad788a86c4a753y.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S1954a30d6d0d4f04bd7698fc82c4dd96X.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7fe8d79924845e7ac19f236d490cc6bL.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S1954a30d6d0d4f04bd7698fc82c4dd96X.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc247970039b1410787885364c8c6e93cU.jpg?width=1864&amp;height=600&amp;hash=2464",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd78d915519484ff1baf5cb04e374cfe9u.jpg?width=1864&amp;height=952&amp;hash=2816"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7c4c58c1fb4f45cb87fb8c8bdf6135d1Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S724c5b3e3b7f4a2da882e542d8c65569M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2dbce3092ba4979a07aa7bb51910043D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c99d682c9864b57be7fabbe0dfba4801.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb27d83caa25e49bc9e480ca122989c95A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0baf398d58c24cc887ebaafdff4ab94ce.jpg"
+        ]
+    }
+}

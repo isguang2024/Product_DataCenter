@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "b3a09e7c8540f00b77feb85cf69fc5ee",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-05-10 14:59:51",
+        "第二层SKU数据": "",
+        "货号": "DG-191535685",
+        "进价": 170,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "牛仔mini双肩包 高质量，重量：0.72kg，材质：牛仔，尺寸：13x18cm",
+        "性别": 0,
+        "修改的时间": "2025-05-10 14:59:51",
+        "原普货标题": "1 Piece of Solid Color Shoulder Bag for Women, Versatile Crossbody Bag, Fashionable Armpit Bag That Can Hold Mobile Phone",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S49d873c65d694f7a8fe0441fe644408ci.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S181a6b9b02b04f469f186dbd735c250av.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4b49b0d2cb27426a9c4195084dfdd7b1J.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3e055c3aadb429a872bf043312faa73K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S76c0a1d1bb2748cfa46140b73e3f6fd5S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80b49ec75a4c44519e6a066c427f86b73.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd222b1fed965499faa6b4548512ded1fj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2fe9478af0794228b0792894a985decaH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S970ced75f2f847c58ad5c4fd9b11aba91.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9558c2c804f643d8b11935aa0dd1d4d6n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S32d0bff4b3014d5c830362ece261132aF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc91558394f364f70bc60e770bd16310bU.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4b49b0d2cb27426a9c4195084dfdd7b1J.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S46a7924e6bd048e5b825b73d3c13426dY.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S16f4aabbc64f4e60b60037f1738745d8n.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sca2eddf41ea442afb7c33a0a15f19a73D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb29dd8f5a3e44963a2aeef2ae0e0135az.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26dcb10e179e4ad79a00983a52b90219V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd13bdf4cd93841e0b3c204401efadd6d8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S991998ba55554fe386cbc76ca0aa6e0bb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16f4aabbc64f4e60b60037f1738745d8n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97fb0ebaba694a66bdeadd84bf027eafL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb294a49948404836842fe1135053fa851.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S519609410f414541a029c94e7387f4d6Z.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sca2eddf41ea442afb7c33a0a15f19a73D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb29dd8f5a3e44963a2aeef2ae0e0135az.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd13bdf4cd93841e0b3c204401efadd6d8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26dcb10e179e4ad79a00983a52b90219V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb294a49948404836842fe1135053fa851.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S519609410f414541a029c94e7387f4d6Z.jpg"
+        ]
+    }
+}

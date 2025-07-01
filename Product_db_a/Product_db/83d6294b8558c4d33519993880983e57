@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "83d6294b8558c4d33519993880983e57",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-26 16:31:13",
+        "第二层SKU数据": "",
+        "货号": "GY-W1293494728",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "size：20*13cm\r\n头层牛皮",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Summer Ladeis Striped Canvas Tote Handbag Retro Shopping Beach Simple Shoulder Bag Casual Vacation Commuter Bag",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S19bd43b881fc4190865b32d88ac6edd2x.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sffe5ad010ab847409878022eb904defbE.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S535ed8927cfb4703b82159b3c1fc4cbaF.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S79958b8c0ae1474cbeffb3c5be65b375G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce0f6d34f38143c9bc705d735bdd6048a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfdf356f8a1dd4855b882577181294b3cF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sddf9084307814238b7e57c5a2d6e7e8d0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42c6cc0c05fd488996f2a540ad760c16o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa36dfe64eae643f9a12abc3ea4978bdai.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8320e3cddb7442caed417d49a5f1a54W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda5e9177d6214f2eb0c85c1f0ed52c9c1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0159cc15fc3243d3a4f26ca27aea4820U.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb534b16ba0a14f70b4bc4617faadceact.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8fba4a23f3374b519cb16bc81ed96b144.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Saf34128759c14750aa16041a7ef79587l.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sba79170341ac471093620a312740d2768.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf34128759c14750aa16041a7ef79587l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8447c26742540f286d3633c1ab44f90J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f6bda4f08c24e8895068d84ac9c0d64p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4830b892968489193fb6addd2a7b0f27.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saab003f3f3f2451ca8e573faadda60c0T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49fbcf80a4b54c278fef15fc2f4e32dbX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d3d91445c734aeab2db558da5cc48233.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S097c9fde68a344a3b09fdc1c73ea4d9bN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c8d58f4965649f287de93d0c0af7a3et.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa64101e3935a4a5dbaa2c35ce8dec914r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d9e9d0eff8c4e64807d89dba1829e3bJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa265decde8e24d35b82389e3d39b668dv.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saf34128759c14750aa16041a7ef79587l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f6bda4f08c24e8895068d84ac9c0d64p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49fbcf80a4b54c278fef15fc2f4e32dbX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa64101e3935a4a5dbaa2c35ce8dec914r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c8d58f4965649f287de93d0c0af7a3et.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d9e9d0eff8c4e64807d89dba1829e3bJ.jpg"
+        ]
+    }
+}

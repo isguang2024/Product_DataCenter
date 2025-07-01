@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "cb2661ebd10c75723065ebad1bf5a2be",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "RB",
+        "创建的时间": "2024-08-31 14:25:58",
+        "第二层SKU数据": "p-200000124@34@35@36@37@38@39@40@41@42@43",
+        "货号": "RB-W1866602691",
+        "进价": 115,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "Size：34-43（34 41 42 43不退换）",
+        "性别": 0,
+        "修改的时间": "2024-08-31 14:25:58",
+        "原普货标题": "Summer New Round Toe Open Toe Pearl Chain Buckle Thick Sole Waterproof Platform Comfortable Women Sandals Women's Single Shoes",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6b3a01c252548f390399ae9bb32706bC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6cc87cdfe653478c9a8f7a097de40899S.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se12358a71358460eb152a3fd7616d2a06.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S950fea58f721486fa1842f6038a6fd01O.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3232ead2cb624c609ad8d697b7a6b4a43.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf52fb80d29434efa8c759df87ab11565q.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7a711896c1e47f5b0a4ab3447ed7e13d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefc889317645423089157da8d10b2fa7i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ea62a959de341d1931730505814a68af.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4fa64314ccb54b58bef4c6454563a64cd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7a28ce6bbbf48d4bd592f108c8dc8e1q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa12a1cedda64499a917c58e7c7d6db384.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S520eaec131a64ff59e6fa04d1f34e396D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1914e6c3d37446198bca85c6e770a809H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7824db63a31c4d43abd45546b87269e40.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0fcbc60a5a794f228a5ef9d970856c9c9.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S57aa9e069d0648ef945b5c77e46cf6e0K.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S81a5a2751a344d7e8af9bf0e1583f075q.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S00677076311f473dbfd812e4a58543e7b.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/H6434e0eb9d0f4fe894a0343da98d8253n.jpg?width=751&amp;height=486&amp;hash=1237",
+            "https:\/\/ae01.alicdn.com\/kf\/S3912392a267d494882c31eb3a27f0b0a1.jpg?width=819&amp;height=793&amp;hash=1612",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f5384d052ea478baf6171ae3a3d3723x.jpg?width=800&amp;height=800&amp;hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S81a5a2751a344d7e8af9bf0e1583f075q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d64caffbcff47928b79ae22eedf709aX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f7b7cf3179f4855a3f62cb1a8b5fa34d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0984f781fb1241c98bc7937e0100e811J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00677076311f473dbfd812e4a58543e7b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6289e97ac814f81b7ceeb921b03c19cI.jpg"
+        ]
+    }
+}

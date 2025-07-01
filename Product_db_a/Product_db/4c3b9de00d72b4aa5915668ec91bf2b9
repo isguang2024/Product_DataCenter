@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "4c3b9de00d72b4aa5915668ec91bf2b9",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-11-16 14:49:24",
+        "第二层SKU数据": "",
+        "货号": "DG-178185109",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "盒子包 斜挎包 高质量，重量：0.65kg，材质：牛仔，尺寸：18x13x7cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 15:14:50",
+        "原普货标题": "Women's Crossbody Bag Vintage Messenger Bag Canvas Teenager Shoulder Tote Bags Casual Handbag",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sab18f967c33c417b8d61151050015b924.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sd76f6f18050a4a8e8e598f90a3dc938bW.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S15e95d0aee064587ace5c34d1c8fae241.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S41027d3a6b9e49baaca5ae26868670ddE.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sea43697f7cef4ed48c47fea673c8e64fh.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S22982c8867ae48798dc01068e5229390F.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S987d4f8504af4743980d15441ee5ec8ce.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sd84ce98e43b847e8b82e57cc60160c21M.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Se0eee0d5cfdc42cab4ad5955af142cdcX.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S2d2540b62ac34597aaee7471272f4b99Y.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sa21bdc1f21114412a45d52abb32bff2ci.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S678ccaebefd148d69bb9621b49fc705c2.jpg"
+        ],
+        "主图": "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sb873b94207e34194bfccc706ca9f89346.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S018e8cd900634fc18a1bca9fc7535915p.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S742a22f510f54c9a995eae71ffde13429.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4c1bb27f56b34c76a08169bf95619c37R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb62bb53bb72446eb9d7284da2d9dca58P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S634c2b2874b94f838f0b765a9da453daK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed083964f0be41c4b45c715050953864J.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S76123fb9abf14888a70eda0014d836836.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42a83e6f308a43c3b363debae802c37bO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97fdfa7fda0340ec95d1155a47a56ce93.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc20b02a76dc1475ca1008f347b77a03fi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b22282120054ac0ba2da18d258676a6r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf07e61d26f747da8844d410cf4b90e0l.jpg"
+        ]
+    }
+}

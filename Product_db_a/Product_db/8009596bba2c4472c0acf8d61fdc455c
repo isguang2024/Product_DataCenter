@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "8009596bba2c4472c0acf8d61fdc455c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2023-11-19 10:36:32",
+        "第二层SKU数据": "",
+        "货号": "DG-148979718",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "商品简介": "锁头腋下包 高质量，重量：0.55kg，材质：皮，尺寸：21x13cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:56:17",
+        "原普货标题": "Female Puffer Shoulder Bag Soft Pillow Shopper Bag Ruched Messenger Bag Padded Tote Handbag Winter Checkered Designer Purses",
+        "质量星": 2,
+        "重量": 0.75
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scd181f77cb1547c2ae8e739f38085e1cm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4462359b99f34b7882f0a663b51017a5q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f3cecfa5db4437fa1319955a05b2c745.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S056a6d50ef92429d8337e6196f87e7efb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38a859342b0f4f2c91f9e143a20f6bb9r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b6dd9a77aa9408fb72d0c2a368c14b15.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35f836c5503d4e2085a5bca7ee5c7ce6h.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7578a1a8b84745fea3e02181091bb2131.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21c441ee3f044b3c859028b7da99b7c6r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S234c07fecf5847fdb079d98f2e2f7d09A.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Safa5762c9b104945906f22655b4592a2J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa83312a8507f471abf8656f0280e2176k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11da6d23a7494db380c3b19851212c67Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S427a27f943314a8b95f32e209705dc72c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S212a16a1949c4f8f86a2b929af480541D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d8a6361bd1342ae9b700e1fd46de82dR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9bd9b92837754625a5d1283eb909181en.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2fc8945d2b034908b3835fae5e1f6335O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb1e43c28b63493a928b23133ea77d18M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7578a1a8b84745fea3e02181091bb2131.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S45146cf0294d4cc69075f11efcaac5948.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0aaf0e308c944e6a7b033f75ddfe077Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8dcf5604551d4a7ebc21fbf7a66fd0430.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1765fe1391bb40558e921b5d6ce66ffem.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S234c07fecf5847fdb079d98f2e2f7d09A.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S196628e21e524d60944a2da9f8468ef5d.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf56f7a60769043fa939b34c48c5d899aH.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S72e993d60ab540f39795ccf9713e772bf.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sa3c6464c4f4c42d289dc87d94a017b8cy.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5a60ad626702486ab6da36d49b335391Q.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc795607ff76e4144a7a449f170b848bbD.jpg"
+            ]
+        },
+        "细节": [],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd63dfa3668842fba57b781e619d89bcA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd07db11a4f8642e2aed8e180f335c264j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60043a4c05664c26b9c60b0781d5e0bfm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S164bbd5821ae436aad789a6e016f2e88a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72dd06b0c8d5455183f6466dba503a1ew.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saaa41bb2261442a898ab9d374a47e61eg.jpg"
+        ]
+    }
+}

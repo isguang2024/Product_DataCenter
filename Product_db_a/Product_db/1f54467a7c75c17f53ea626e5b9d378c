@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "1f54467a7c75c17f53ea626e5b9d378c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-05 17:24:34",
+        "第二层SKU数据": "",
+        "货号": "GY-W455874125",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "size：25×13\r\n新款中古骆驼\r\n轻便舒适，实用百搭\r\n配有双肩带 多种背法\r\n时髦复古，出街必备",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:14",
+        "原普货标题": "Canvas Large Capacity Shoulder Bag Shopper Bag Simple College Student Book Crossbody Bags for Women Handbag Tote Bag",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S30025f94609c485d940cbd21716c9673o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42e1827395794d7fa9525a374c79ce8cz.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/See0914badb9543a281753961ce40cd3bj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69f512cd297c420fa858412505adc8dbp.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S342acad4be4f43caa6b71ec4d70f7760x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb65cbfd23d0466681a5d0e26e1e66b8e.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S68aeb922fc7a40dbbdc83958b974b5f6f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd49ffb15a4d4a0c95b1130f7eb555d66.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0c3d25d99d44b5ea2938a2ccd62b2c6M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d9b91a3d6d246b0996bed57da14c6b0i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfaba65f69fdc487980dda0535c0add31C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf60a24b6d02f4c15b8eb739c771ee7179.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf599f21e03894c4e8bbe1a2d81000a27y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S054434b2410548a5a8dc3f032487c9e2F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scac69238a4724120a989e69248a891e0w.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S5e5b42cf006b4462a659fbf5db04b8868.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb7e2a7a00894484baf2a415febfa885c1.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7fb67344c9b24d39a706b35418e1cbeal.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S6984ccd0e14948d995677208e0c89215Q.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7f6b1eacfd4140b3b13747f39574073en.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc81d20d9dd44593bfdf349d37645ef4a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b18986ee48b4f698a317bbcafa504f0I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0c0bf5e3504441d8e08c36268b117dbc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S736b3aecc2b54373aa5d275fc483026af.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8e1c273d631460a916c2624869902bfc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3af847e13eb482fbe02bb4ad322b955t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc81d20d9dd44593bfdf349d37645ef4a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b18986ee48b4f698a317bbcafa504f0I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00fb992a452d4e299bba2b14a46dd77c3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7949402fc3dc4b4ea751f67cfe4ed48bG.jpg"
+        ]
+    }
+}

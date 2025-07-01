@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "ed9fc0e36759c14165372d54bec58665",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-06-03 11:30:23",
+        "第二层SKU数据": "",
+        "货号": "DG-141823194",
+        "进价": 35,
+        "利润比": 100,
+        "品类": 1002,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "1961钱包 ，重量：0.32kg，材质：皮，尺寸：10x9cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:57:57",
+        "原普货标题": "PU Leather Textured Wristlet Wallet, Elegent Casual Trendy Cell Phone Purse",
+        "质量星": 2,
+        "重量": 0.5
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0502135acc4b4560ab7d46ebe25c6fd1M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e6c2451c0394fe894b31350e3be1010L.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc43c54b6137e428c849c7170dc4ed981S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbb3c97f109a4dd6ae07535b9f4d8d354.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S06bb7e887c664792b78c2e57c3a5edfdz.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S757e7142e26242f6b0f1466623f14461W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9bf291433b234fa6b855f8ec5005732b6.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S10b49122ea2f451dad16bd6eab8684124.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9327c73fb02343b49b6a1654123398deH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9bf291433b234fa6b855f8ec5005732b6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S539cf7bb73bc48d3939fb5ebfd35b7d6T.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd9cd592a7a844c1b90e4cf545398294d0.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0800471a9c0d4e1aa8102d1cfd245d1f1.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd1cc6c8f788e4af183e4c530e7355a81X.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sac20b5054dfd4bbd9ff2f3af282ce035j.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S6be9b26a915e446a9d7f15764488462ca.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9cf92da58964e71aac9197e075c5bc8x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S244e4ace48744ad080689165e5970dfd3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se77b149083244cd488c43abed039f6cey.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34df649d8e724c7ba10dd50e04fd47cdO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72198d574c13408ab73063a20709eace2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f62f2960b6848c29ca84de3c3efd5ecg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ff830045d234220a3d1c67df079cb67r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S024a26556cc948d5bf122d4953494ecfO.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S071d9f7ca8df4969b45b08e6504b3622S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9cf92da58964e71aac9197e075c5bc8x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac20b5054dfd4bbd9ff2f3af282ce035j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se77b149083244cd488c43abed039f6cey.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34df649d8e724c7ba10dd50e04fd47cdO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S244e4ace48744ad080689165e5970dfd3.jpg"
+        ]
+    }
+}

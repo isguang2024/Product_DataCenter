@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "01b6ddaa7d854eb581ec28a3fd9c6620",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 17:00:59",
+        "第二层SKU数据": "",
+        "货号": "GY-W451330767",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "21*11",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:17",
+        "原普货标题": "Fashionable Leather Hollowed Out Women Bag Shoulder Bag Large Capacity Handmade Woven Armpit Bag Bolsa 2-piece Set Lady Handbags",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S867d80796db34b61a3296434a23d5d10H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60ce6a9252044ba8a81f0a22a13997b6q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scfa0de7068914c93bba391b0cb612684j.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2889230b703d4675934a74c848d73774c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d2ee1c10b8249f08176d45a6b40cd46A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd66fd15db4144aeda8a1493ead68899fe.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf55dfa82478741a6adb6239c371cebdeT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc349b3d8b5984c9da95c2c83c6a7ce0bE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74499fdcc41e4298a7fa35830f3d884dR.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa69b5baa0697410788114065fa850c9bU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4de5e42afee40f099e6a492759e97861.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74499fdcc41e4298a7fa35830f3d884dR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44d37a86071244c0b97937a21166a95dA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S980fdbc6afb54ae89378708e3f7ab44ch.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71096dc86a6e4ae3b77c5dc7b2b625239.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40e7ebf3815541db9732c778deded0a8J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5cc9d4ce2314fdf971e971dc61dd0845.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S653122f671174b988196af822f5eb99cr.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S17acc0fb2a86497e802af243469711e1K.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S01e159ec1feb43df9c0c814b6400202aR.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S167483b1a06f42f48797791670bbf5497.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S04f5cbcc4e1a442da9fd928c31b85f517.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sb69761e12c954c11b73860dc9e666ce64.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S74db9306595a4cc289fd09b7c58d7d83S.jpg?width=750&height=858&hash=1608",
+            "https:\/\/ae01.alicdn.com\/kf\/S267447b88e4b424aa5acbe5cfd359d61h.jpg?width=750&height=802&hash=1552",
+            "https:\/\/ae01.alicdn.com\/kf\/S4829ea9a6ad94ccfb5206e6643fadd57E.jpg?width=750&height=802&hash=1552"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6e5545cd3f39496b87dbcbca9cb2b186F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53e7295ccd5b46779022c279233aac55F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scad78a0891f742e89ec82cbf42b6c4b23.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S167483b1a06f42f48797791670bbf5497.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04f5cbcc4e1a442da9fd928c31b85f517.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb4d2a57d1104cf7b271b06bf2d4cd84q.jpg"
+        ]
+    }
+}

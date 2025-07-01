@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "6e546d1dd45d19698a3d6028b4022ffa",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "RB",
+        "创建的时间": "2024-08-08 14:11:59",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W972835155",
+        "进价": 95,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "码数：35 - 40 （34、41、42定做）",
+        "性别": 0,
+        "修改的时间": "2024-08-08 14:11:59",
+        "原普货标题": "Black Beather Ballerina Flats Women Shoe 2024 Summer New Design Female Footwear Round Toe Casual Ballet Flats Slip-on Sneaker",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd567034b278b4a64b719d88fb2eb8d76Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05b633381f2741899b2d852b451c0161q.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf595304bd6f94e0bb9612eda5be812bfP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S354c1bd29d9846eb9ed8e3bb0644af0dS.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S53ec5d67250c47d4a1e53d3521d20f00y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0909759d83174a60942c70885a61bea8W.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6eb08bf7cd4640c9bd6c3a028b8b2bd6p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d626b825f7c4359965915f6feb5176az.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3678c28df8c420eac63ecc9145b7ddc7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ee02d4d975f4f5db45221335461333d4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04da6fe51af04ade8a4792c530ee392fY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0909759d83174a60942c70885a61bea8W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc19ed3b8031648e8b4bb9b6f8487bba3I.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8ce309820c424d7f87acf99f844282ddR.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0fe284a301a6411ca64dace1bd787568g.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se38f4e1f068b432f91f584083d892aa64.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd5460b89f4a649aaae1076e1cbda2fbec.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6135d9087b45499494ef6faee9ff1c604.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6c1861ef7d145edae92d2ab724e2dc2s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78a5ada15359473d90f9c8fc66b46934g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2197a7207f54d1d9a6ce409e631ace7v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8767d5ac0e87424f8182c08b0c4c1cd1n.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5cb1696f07454e2fa65d7069b8b291fe7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec019738ac61420f81c798d0d1aeec86a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scab8cf08bb25412cb36be1e45f290870P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc62e146bc529443f9e5cef209f3a596bm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6846864b666c44dd93eeb4716a989769Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sabbc8b69e8ae4bdb9911d791c9ccc281o.jpg"
+        ]
+    }
+}

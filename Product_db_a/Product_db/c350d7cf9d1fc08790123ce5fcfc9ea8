@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "c350d7cf9d1fc08790123ce5fcfc9ea8",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-05-12 18:58:20",
+        "第二层SKU数据": "",
+        "货号": "DG-150160550",
+        "进价": 205,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "材质：皮，尺寸：26x35cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:54:08",
+        "原普货标题": "New Crocodile Tote Women Messenger Bags Purses Women Crocodile Bag Tote Handbag Ladies Shoulder Bags Casual Crossbody Bags Purse",
+        "质量星": 3,
+        "重量": 1.399999976158142
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se39b8c688e3b49d1b8db0d54387c0d0aj.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S36daf0ac00054ab18b3a1566fe531c2dr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd59bdbf4fef94830be5725e0f2b23969u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15313da986cc4076b7257412c5798a98t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf184650e0cd3434ca878140896c56c8fk.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S95aa8e2bf6dc4530a6c8243248aab52aP.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S38c347a897fa4161b7dae1bef5a6ceecA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e7da49c83cf43ec975705d583b3d591Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4a3d84d6bc24c79936cd0b1a5a29e37f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb33f560fa743494aa2d639ec1d2d452ai.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se69d687124fa4c1cb19e0c613436e14dm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ccc89ec61f34a8b81c6135d0a908714C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3619f300667444ab620bef1b0a86b9cu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S83c1413e6dff4b0087da6c3fbb1572cfN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S449d74b911b740049b0cb0c63b29b1276.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d33e868add34620ae9017f0d164e55fB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S303370bddf1640288b1e1558bae973593.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S256ab5c60e974576be717a1aa82979d53.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S853382e3604b46d2a92d85ebf33d41caX.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2b1f600a96264514888b89209c662e147.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S13d9bd9d49ea45f68673b3e936cc400cm.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Se101eed8788c4a108c6641e7a26c9e17C.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2ae896571b824190ac2a9d0b1a73e6990.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S42661d4d0d084a82a12cbba492f65f74u.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S23a6d5d1e63a4eb0a8c1c9a6c87d9fb0o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42661d4d0d084a82a12cbba492f65f74u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se101eed8788c4a108c6641e7a26c9e17C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ae896571b824190ac2a9d0b1a73e6990.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S954752af9e6b460992ba3f90996320d5p.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S13d9bd9d49ea45f68673b3e936cc400cm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23a6d5d1e63a4eb0a8c1c9a6c87d9fb0o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42661d4d0d084a82a12cbba492f65f74u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se101eed8788c4a108c6641e7a26c9e17C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ae896571b824190ac2a9d0b1a73e6990.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S954752af9e6b460992ba3f90996320d5p.jpg"
+        ]
+    }
+}

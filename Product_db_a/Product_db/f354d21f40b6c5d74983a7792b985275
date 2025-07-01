@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "f354d21f40b6c5d74983a7792b985275",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2024-10-26 16:23:53",
+        "第二层SKU数据": "",
+        "货号": "DG-178273671",
+        "进价": 105,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "链条包 高质量，重量：0.7kg，材质：皮，尺寸：24x17cm",
+        "性别": 0,
+        "修改的时间": "2024-10-26 16:23:53",
+        "原普货标题": "Women Canvas Bag Vintage Style Casual Shoulder Bag Distressed Cross Body Bag Solid Color Adjustable Shoulder Strap Commuting Bag",
+        "质量星": 2,
+        "重量": 1.200000047683716
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se02b1052cc5341558a7de6a98092093dO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d2d2e67d58443f48b9bffd53996f4e80.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd98bfad235d9449eac7516a94d1d57f8y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4459ce508f544a1a4ee56a0c2f91315x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9d0add3c17341e59e70302bc5bd9dd86.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4731048cd4c44f40927963d3a1f0375dH.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S07fb3311bb614f629f81bec5e199ed19v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ea989b973424539b4b6c399525bc6c9w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3952669f335428aaae27904b0065215x.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S77e61442a2b749deb67990714f9a9c31c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74e001f9fc2044eb9c862af87d0f6b51a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a8bad59e4944e04aa7ece044ca600d3M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f753ecdde3c4781ac78db40412dbb75Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9d30aca5d4f420bbeb6f7208fcbb0d1Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S396d110b46064c0a87d98e04e17b9d1bL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S884c4f984f1846389b59613f924fa0f46.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97f352fa041746fd8b4c4eb291d0b733p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S861556c11f5e412a8a92b2e7f409f165E.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf8fd34d3167b42b5a1e94e26c1b6d8bdO.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7caaf7ede2b243468db4f4133b8229e05.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S1bbb2b13ef0d40c580fa009cd3ec28d2i.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S696222b86b5f4987b9eda3fe8d87dbf5C.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sdc6aa8c282c04de9bf15265e7c90e84f3.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S10ff8db976984526937741e5da7469b1t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1bbb2b13ef0d40c580fa009cd3ec28d2i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ef76ae6c9454d3d9fdfea9737f0abe2N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se55cdc0593164fde8ed327ed8f2882bfi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9d88a6ccb7441e38ef50b99239fcce98.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77799a2a9b714f708f7ce775f6876ac4v.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S454bb3321a2946b891b267c770ae0455e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31d82f7518f1444d867e9075dfc28cb9g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S258612ff16f44acaa5a3dce69c07a605T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb137a9d871ed40f48c72dbdcca9bd111m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S83cc7a973388469898fee8aa9d38fc12j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81556b11b3c243deb140fc48c600c2c4g.jpg"
+        ]
+    }
+}

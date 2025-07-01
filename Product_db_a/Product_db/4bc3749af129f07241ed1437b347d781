@@ -1,0 +1,81 @@
+﻿{
+    "info": {
+        "ID": "4bc3749af129f07241ed1437b347d781",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-06-10 14:15:35",
+        "第二层SKU数据": "",
+        "货号": "DG-198873861",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "手提包 斜挎包 高质量，重量：0.68kg，材质：尼龙布，尺寸：21x11cm",
+        "性别": 0,
+        "修改的时间": "2025-06-10 14:15:35",
+        "原普货标题": "Classic Men Shoulder Bag Men's New Canvas Messenger Bag Outdoor Leisure Travel Multi Pockets Satchel Handbags Men's Designer Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb103a1f73fbd40d796f0d5befc8538045.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf97305fd9d634eb4b45ad16a4665c2b4u.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6d88d810be1423db12d6e2a87a85dfeO.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3714a2c45644fc3b80cd3b575f00e8dj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9292d8eee5b64f5bba1700f955aeb784d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed6c15b21ce2485dbee02356dfed27dcl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf28ad25ef2024c18b39e6c806008242dC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07303ffed7394341af22cc873b0ff911A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68357bc6dee74490863a976626ac072dl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbac8029c8513472d8f9a4a246c4fb984K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b4bf57770e34275ad899f00ca750a5cV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7812d7c8e7dd4bd187ee36f6b3781bf2v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37cc27b144eb411182c6a1129b55b1a1d.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0051a01920164f878a8be9c7ce68eeb4r.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S85e03d4d890a493caeb7aee275e19100b.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S86ec5cc555114c219c8c52c1f9269755H.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sae02d21808e7490fb0d9b5aba5c0cec1d.jpg?width=750&height=461&hash=1211",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c6575d586a846a784726ae15f4ba4b4S.jpg?width=750&height=509&hash=1259",
+            "https:\/\/ae01.alicdn.com\/kf\/S88897abb8f9b4273b228a44c03ff8ca0A.jpg?width=750&height=512&hash=1262",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc521e7182b5649faa450ebadda0506245.jpg?width=750&height=486&hash=1236",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd670adda5c8435db81b9fd96a992a83G.jpg?width=750&height=525&hash=1275",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f89d64e54bb436683e6ec25a1616990c.jpg?width=750&height=529&hash=1279",
+            "https:\/\/ae01.alicdn.com\/kf\/Se884ec1a2cb142459751f2d1e7e2c6d69.jpg?width=750&height=552&hash=1302",
+            "https:\/\/ae01.alicdn.com\/kf\/S617ebca3f0d24497bda3ec394b601f7aM.jpg?width=750&height=528&hash=1278",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb45199465cc04fbd9ad545a1138059a90.jpg?width=750&height=402&hash=1152",
+            "https:\/\/ae01.alicdn.com\/kf\/S871e27f31b4e4177866406f81f1954bfn.jpg?width=750&height=655&hash=1405",
+            "https:\/\/ae01.alicdn.com\/kf\/S653ef27a36e64ea4861d95349409afde0.jpg?width=750&height=479&hash=1229",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0a77ce92a6e47dcb58b7fa8cd6e3d88W.jpg?width=750&height=549&hash=1299",
+            "https:\/\/ae01.alicdn.com\/kf\/Se2a2df17d02b4c9fa383ec4076b35c61Q.jpg?width=750&height=523&hash=1273",
+            "https:\/\/ae01.alicdn.com\/kf\/S3606465e5ac64648b462f04462ed89aei.jpg?width=750&height=517&hash=1267",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d209e987cb1496fbbc4dbaef5998b1d2.jpg?width=750&height=506&hash=1256",
+            "https:\/\/ae01.alicdn.com\/kf\/Scaf7fad5aedc4da6b91f861fc8f4cd0eq.jpg?width=750&height=483&hash=1233"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb494431be4564cbf90346b6f14f569baB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S355e57623e5f4b06af442f95d3197c8fE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2edaa12f32e34eef89bd8dc4b43dd087w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S627b93db582c4ff28e380a0b064b1cd2i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbefd29ede85d43b1a65fce88540af6530.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ccf83dc0fd14639b404be998e793661O.jpg"
+        ]
+    }
+}

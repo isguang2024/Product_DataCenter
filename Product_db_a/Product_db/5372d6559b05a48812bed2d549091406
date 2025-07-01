@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "5372d6559b05a48812bed2d549091406",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-08-21 15:06:36",
+        "第二层SKU数据": "",
+        "货号": "DG-173021720",
+        "进价": 175,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1898907760,
+        "普货模式": false,
+        "商品简介": "相机包 手提包 高质量，重量：0.83kg，材质：翻毛皮，尺寸：35x22cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 15:14:50",
+        "原普货标题": "Minimalist Shoulder Bag for Women Simple Solid Color Underarm Bag Women's Buckle Handbag and Purse Fashion Small Top-handle Bags",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf41a6206b2f84a6e9777533fceda697dr.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S05c8ff89238c439f939227667234c409h.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3bf5eb66a5794de3b967608780a3558dg.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S84f9bcd681834702bdde23473c29ff99R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b638b1c33964eb3ac94eb301cc653c2i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S27f949b7081b4b89a4223770723c5aecG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc6924b2e2f74f07b750f65ada4b58dcP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4bb520585d94ba09c605dbd421de657J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b8c2d729341416db8ead88c77698971u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1715c5210f29473187ece3d114566396M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce10eb797ab54d9cbc9454bf86ffa4993.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdaeba66f6886429682b02ad3dec6f71d4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S785295c876fd439ea0c89e9bdfa457b62.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S3f769649891e480d88d2b214f876f906F.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S6b63235ef98a41489574d81901f95506D.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se12744a2ff874d66a20509d36f686eeaL.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5878fd963ade4251a5d1fa5ff4b863a4c.jpg?width=750&height=846&hash=1596",
+            "https:\/\/ae01.alicdn.com\/kf\/S03f6703f5c2f4bab9e4c579b9a6a7cb6T.jpg?width=750&height=1202&hash=1952",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d867c602acb4332908e100b995ccd1b9.jpg?width=750&height=812&hash=1562"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S746a7c87576447fb9791e9104b59b15aB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e75dfd327e441d782d2e8a216d0ae348.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S06db31c532444b10af61fff33db6e6c4Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf26362f9b7af444fb76758557975c1f7p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa91b1d403c0c4f338e91ff8b8b6e944bg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52f2b54d27234f3790ca84dba73cccb1Q.jpg"
+        ]
+    }
+}

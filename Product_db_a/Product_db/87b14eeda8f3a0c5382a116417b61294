@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "87b14eeda8f3a0c5382a116417b61294",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2025-06-20 15:21:16",
+        "第二层SKU数据": "",
+        "货号": "RB-W406772546",
+        "进价": 100,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "原标 原盒 正确版本 定制印花鞋面私膜真皮大底全套专柜包装\r\nSize：35-45",
+        "性别": 0,
+        "修改的时间": "2025-06-20 15:21:16",
+        "原普货标题": "Brand luxury designer fashion PU leather design ladies summer new style pointed toe low heel women sandals non-slip flat shoes",
+        "质量星": 2,
+        "重量": 1.200000047683716
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se8fdb67d56494186b6e10e43a41754beL.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S69a1c9ba291847849e7a9982e56409c8Y.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S421c6a2e7165495e85ace9e73ee8a86dC.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5a38d84ce6dc44d5a49aba3b1df3de88A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac42f621780545008c9523c4dd3409f6j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb99c3b7716a14195bc94f4af99650cd26.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c1a8421713b47afbc6d07258d0d5cecO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24345fb78b0c4b459120c864002bacdfb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04723c9a174d4983bd3de4a54231165dP.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S92ed3250a5ec4d7da99b058009d2996fN.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S867a42253daa44a78eb003114c2ee115v.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4fad653c3a1f4bb3bc2aeb94fb166683X.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6ea0015b9b8401e9239722945e0b53c2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc6fe94bf11b41f4822d58b973681e6fp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saabc6479192d45179064ce50c8799ad7D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2642f7c07a4349a48f36c9bde9177b14S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sada441ec0eea4839bda8a3af598e927ax.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a289782332b4053838aae8ca37cf348f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6aff4c3f520849169c42dacab871c695z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2742fe8dcb79412fba4f800bd2dfb4fa8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56c9aa319e7c4f71b4646cacb1591b95v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9afd85196ba44953a295cf34794983fdb.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0de0931c806743c88826d1c903949490P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6683b6d8bb6a4eefb14a80864dc4210dD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87f30387142b4729aa16172f6669f0d0o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43fed39f65a6498c84f90a8b1d62d1f8t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ed86ae6bdfb4830bed847ace74edfff3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S201f244434a845c186fdb004148816bd4.jpg"
+        ]
+    }
+}

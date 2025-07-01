@@ -1,0 +1,86 @@
+﻿{
+    "info": {
+        "ID": "b1564ecf6e53fe9a6a692a5609732101",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 5,
+        "厂家": "PH",
+        "创建的时间": "2025-03-17 13:19:48",
+        "第二层SKU数据": "",
+        "货号": "PH-189007856",
+        "进价": 1,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2025-03-17 13:19:48",
+        "原普货标题": "1Pc Pink Plastic Tablecloth For Parties Gradient Pastel Pink Disposable Tablecloth For Rectangular Tables Light Pink Sprin",
+        "质量星": 2,
+        "重量": 0.1000000014901161
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/See67df054ee94bb1aeb7836c58ee763aP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S940329631c5e40ebb556d1efdadc99429.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b832d57571d418190ea3227039e4bdfD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa055f2a5e62d402e9267f8a9a8a964fbz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b0dc4318e0f4c2ab8cdb17bff49c9dcE.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S37aa7dd3383b4f6bbd5d0965f0349ff4H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69f6016a402e47b4bf3076f8abb16969P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S972bcc506e97476badd2b283f3da1500H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b932c02f4a94567b747e43b87948247Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a3e812149f646b49bfff05f76db1399P.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1e93ee52469349ba9c9c36e8a2c6fdd7z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7385cb58eec545da8cb2604d7dd38667s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S799315f7409c474f9af124d92df988f7V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdba26eb87ad44c8ab60ac14aadc16cc4q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See815ed918424419b86969342b6e9a2a8.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2a35c77dc5aa40f0855a92254a56a2d6a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f721e14c99940e0bd959115db9edabah.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ece70534eda4c2287bcf4ce11ee23cfa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77485fea29b24ceb8e601af29065e1bdh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7bf44b2dd4124c0a9e4160f584e492faJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9719e6c3bd744117ae99b6d872daac99K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf42dac412e284437b8b6d34613e634b3V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb34e82d73ccb4260aed7e01a6e4c54ecy.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S375c1140a5ad4c85acc741e24e30e206i.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf5c2cace1fb64e04b6b546bf29f056617.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sb329099126ec41c1a749aac8872e772c2.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf1dd9cd8242c4171b868e289a5127f283.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S15ffbe4bd3bf4c88b87d5f0d89ec507fL.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S47774140492544d589b4ca1c4e94089fM.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd11e5aa5a9e6445188cb2ecc0807169fl.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9f9f78c022304b9394b9758381389573z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7c4a58d645c4cc8be28ad543e573876q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4effc5c1ccf044afa6f5ea198c8729910.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S604b0adad3b740c49291771526e6af91V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se55d4d46ccc64553a990ae4fac17d50d2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9312cdc628b54e088fbe28e51815d0901.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S405164e9e02c4a32aff8542959f74d8f4.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7165838981c142c1b7039d09ed4a9e4ej.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60a95f22975149559a637721af5c167eL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb329099126ec41c1a749aac8872e772c2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1603726b37143d79aef8f59ed988719A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d66e5ecd1ce4d03ab7aba428a533446K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf66778a9c09a4a75943cdf68d01da411K.jpg"
+        ]
+    }
+}

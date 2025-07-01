@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "9bd7d50c0f10d455374fced2e1519c0c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "RB",
+        "创建的时间": "2024-06-13 13:46:01",
+        "第二层SKU数据": "p-200000124@34@35@36@37@38@39@40",
+        "货号": "RB-W631719312",
+        "进价": 100,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "进口超迁皮， 垫脚羊皮，原版私膜大底，全套包装\r\nSize：34-40",
+        "性别": 0,
+        "修改的时间": "2024-07-21 14:02:30",
+        "原普货标题": "Summer Slippers Platform Shoes for Women EVA Beach Sandals Women Slides Soft-soled Indoor Ladies Mute Non-slip Household Slide",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc6d1fbfac444f3093183b5f8f0a6027U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ef24bcf9990425a89d19d74b2a204050.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3bb47d92eed47ab93102ff0da0cf3e6d.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1d6fc78273a84c3298c898fa3074a280J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S809000db30174af9b54b911e5c53e11fX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31224dcb65a949a9b6bae4fd8ecfeb75n.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa28820052ff8457fad68665031f81d5eh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6b7c7c6a3e94c39ad826907e932ed09B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66cec4c77d4247a5a318858cb4ae57a7X.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1eca9fccaf946d0b72180b18928ccffm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5d09721857744d68c3218c51a05b42dH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60d581789f004f61b356e7ff81cbfcc8q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde9f3d1ec6b44f2a922d9091b1bf5c96T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4ed94da962c46d4a89bfbd8a4deee90x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S391428b5608b499abf3ec4f5c3e3d770K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0811b118c4d84d628424832869cbf37ac.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S142bfb7a734940a98eb699718b2aee1bw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8392c1129ac347b68b35d2513587585cr.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S1ae4ad13c6db44619889c49e12db1c589.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9296fa35034b43c78815f875943f2a3en.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S5e5380f45b8445e6ab5cf8d78007465fE.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S9696e19a088f452b9bc54854973b5de1y.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S598d992cd25e4bfb803a45aec1ae183a2.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S617a9296a3474c09a89564176490591cI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b86ccfe028d492996c4d71b9e6a8d23q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f26740ea8454f0a9bea6fc65dbb95f1S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ab59bb2de094883895f02179811dd16k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S598d992cd25e4bfb803a45aec1ae183a2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e5380f45b8445e6ab5cf8d78007465fE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9696e19a088f452b9bc54854973b5de1y.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5e5380f45b8445e6ab5cf8d78007465fE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f26740ea8454f0a9bea6fc65dbb95f1S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9696e19a088f452b9bc54854973b5de1y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S598d992cd25e4bfb803a45aec1ae183a2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b86ccfe028d492996c4d71b9e6a8d23q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f3deefd6a08452d9035b772e531bae1F.jpg"
+        ]
+    }
+}

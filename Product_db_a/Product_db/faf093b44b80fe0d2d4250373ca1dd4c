@@ -1,0 +1,67 @@
+﻿{
+    "info": {
+        "ID": "faf093b44b80fe0d2d4250373ca1dd4c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-07 15:57:51",
+        "第二层SKU数据": "",
+        "货号": "GY-W1846071538",
+        "进价": 180,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1190321189,
+        "普货模式": false,
+        "商品简介": "尺寸19.16",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:10",
+        "原普货标题": "Corduroy Travel Cosmetic Bag Portable Makeup Storage Bag Purses Women Large Capacity Zipper Make Up Organizer Storage Clutch",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3e5338e10508485b9c90fe778e25a4c2j.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S56286cef2d9a40089e5fec71252336abB.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc29defb9d9c144d2a1a4bdd730178db3o.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc29defb9d9c144d2a1a4bdd730178db3o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ced66e9f69c4e019e9d1da4dc7ab25bm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19941d5739ea4347a3f85264b89e1db2I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74f952565e25493498fe2889b32c6f2bN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6303bc53f1e44bd6bd5fd4a93547729ca.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3bba78bc23c44d2ab79d08ac08a0b76fw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf48e6639087c434d9709cc74ea0a4941c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a263b2ffc4d4868bedbb558fbd8f0450.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f66244a9efc416daad3d35953f9f328r.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sc29defb9d9c144d2a1a4bdd730178db3o.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S51c925648a424febb97de854412cb87dN.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3e1e3fba57a64a86933730fcbccde5a3p.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3c85e040ab2b49beafe1be71ce1ebcbcu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b0e73e95eb749be8f660606c7b042743.jpg?width=800&amp;height=800&amp;hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2db7c80ae3bf4df09917e1c6db021cd8n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b0e73e95eb749be8f660606c7b042743.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S412e6f5ebe7f4a30b829307c147f1169Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4a9af9d09894978976605ce796b21973.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e1e3fba57a64a86933730fcbccde5a3p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcfa3ffa3cff448cbc84dbd923d57707d.jpg"
+        ]
+    }
+}

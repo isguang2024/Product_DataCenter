@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "b6f246f1ff34bc3987127e0e23955a24",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-26 15:49:55",
+        "第二层SKU数据": "",
+        "货号": "GY-W433263986",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1007,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "牛皮皮带，热门款 男女通用皮带",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "2023 Retro Small Belt Women's Black Simple Women's Pant Belt Decoration Women's Dress Suit Jeans Belt Fine",
+        "质量星": 2,
+        "重量": 0.6000000238418579,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa59efea106044f97a158fce9c8596c0c8.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb407e4a88f174f10985693a781ee7781B.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2f3b267844294694a7f825d806a56fc6r.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scc111cf343a346ac8c7707490ee6a6b4i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8f6bb4f74ec4913851407e261e8fe4an.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se961a6f837d64b9786cdb341163b7e2aN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6aa6e170718246f3b2bbd9b44f017125q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b568d1f0c5c4ff69f91744e9aa57963Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24346ff142e2422a997d7769f211a49ba.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa24106d447b9449180f987fd569f706eB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ac219861d2c4d0ea06af1547c8a249ce.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68ed98143fcc44da972d6c3a57fb2bebY.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Scefab1a4a15f4c9d896b9ead1a134855B.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0f268b2d28ca4cf697c66275d6b0fbf3H.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3c2f44fbc3cb4f739564eb1c60834275q.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1cedf6440ba4753a07bb355f3b036614.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf79a1c6a08284e5faa44d08768693c5eZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d1e7c46b8fd4a5a8cd2be59dcdfef4eO.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf05a562b009c48eeb59a209eb94581741.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2f58917f2af445f9fb11482d0e761d87.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85ce6cce005f49adbc7a442f858273ec3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7077077844a14658aadb3c4cafb919440.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c5d1686d1af410ba1547566a1b448e8M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d1e7c46b8fd4a5a8cd2be59dcdfef4eO.jpg"
+        ]
+    }
+}

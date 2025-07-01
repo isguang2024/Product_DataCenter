@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "950e4ab11fa1a71aad875774f893ea01",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-06-09 12:01:14",
+        "第二层SKU数据": "",
+        "货号": "DG-195752554",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "压花胸包 高质量，重量：0.71kg，材质：皮，尺寸：30x16cm",
+        "性别": 0,
+        "修改的时间": "2025-06-09 12:01:14",
+        "原普货标题": "Men And Women Universal School Bag Leisure Solid Color Outdoor Sports Backpack Large Capacity Travel Laptop Backpack",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sed963362459d4b5abc61a81f542c5c91r.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scfa2179a68134493ba00b68e0806916aP.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S72b51e708f9648b48b72020432db5f5a3.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S603b51a01ad443f78c44739592c20ec8P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8429830c39614f80aa4302303b3bd7e13.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4760833ef5b4c7487543311fe176b9bH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S730c3f30b17349f7affa269fd8ebd1b9U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a7c75ebfc1f4a66a349d2b5323445f2I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbea48e9885eb4f37b087dea9063c719ez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e6ecba3024c44dd94c27d7dfc738ed46.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S76af6b2f3932472bbc36a6f714833dcda.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S417bc914aa3e40b78e2361e3cbe5c3bdB.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Seeba98c58b4140898ded236baed9e2b8O.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S1d3cb71fb3914d13864d0a6d13bbe23aL.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb25e58c81244882a86e77aacf33bb82x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S969c70214f7240e7ae8370922eaedfafy.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S67918212dc264148ac48a6d56435d1eb4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79c59bb6ca504a9dbc308d0d773c8ba6P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56e6c526b2834a5aa5a5df1e41245855L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2586fef90a664f3f80e6968b6cfa0dbag.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e7e8fcfe66043eca6707f096bf05be9f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a408838f92e4c9bbce1486450cd95a3W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d3cb71fb3914d13864d0a6d13bbe23aL.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb25e58c81244882a86e77aacf33bb82x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S969c70214f7240e7ae8370922eaedfafy.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S67918212dc264148ac48a6d56435d1eb4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79c59bb6ca504a9dbc308d0d773c8ba6P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56e6c526b2834a5aa5a5df1e41245855L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2586fef90a664f3f80e6968b6cfa0dbag.jpg"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "9ed827375fe11ddc120427e65d171d19",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-08-03 14:49:55",
+        "第二层SKU数据": "",
+        "货号": "DG-143664664",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "酒神包，重量：0.74kg，材质：皮，尺寸：25cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 15:14:50",
+        "原普货标题": "Women's Handbags Waterproof Nylon Shoulder Bags Large Capacity Leisure Single Crossbody Bags for Women Drawstring Pleated Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S97eaae2418aa4bc18369f103828ef19dv.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sde8c2b51998145d2aed4ebb2c729567db.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sadbd42cace2d49de93ffe7bcc45560f3U.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scbc45906ecbc439e9b73f41523baf1a57.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S448446541b4345dbba38c310e017187c5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7becaa2ef9fa49d483d480364685c1f2b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0dca5fb7a92640cc95200f823f389c40z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb208a941468a4de6825e9d53803a9b53f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69bf76db82e9448087979145e74c7f11Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63945ad6f113423a975bf501a1fd736fN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b176a01e82c430b97cf8a6494023947c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf91e4be38ce54b6b8ad33aabd6d781b09.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5668a0e575e14a09be7d0b504b9a5878P.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se4b0edf0a61a4d31a96e16c25db74bc2l.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2e67af740a2e42c2ac014ea7c6651dbfr.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se5744704747649cfaadb33ae177b6d60C.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbaf927010cdc43909e473aaf9ece57015.jpg?width=1920&amp;height=1920&amp;hash=3840",
+            "https:\/\/ae01.alicdn.com\/kf\/S3864fbf43def4db6a9917e9d469ac83f8.jpg?width=1440&amp;height=1920&amp;hash=3360",
+            "https:\/\/ae01.alicdn.com\/kf\/S240038d7995b462782d7bd1d1f4457b5a.jpg?width=1440&amp;height=1920&amp;hash=3360",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1zNaoSFXXXXX8XXXXq6xXFXXXa.jpg?width=900&amp;height=50&amp;hash=950",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1c_nbKCzqK1RjSZFjq6zlCFXa5.jpg?width=900&amp;height=49&amp;hash=949",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1E.jpg?width=800&amp;height=469&amp;hash=1269"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd79b336a0dfb4269a471da766d88075f6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2bead84e15e142d9b5d95c573ebfdc34t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6ae3bcd8e4f44c8a1f680d1a52dba5c5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab5a7102999f481291cbfd374418381cF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69bd8137624547c3bbf7330c04cddb82m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99a78a6a801140ef8c9048c06c0a3ab1u.jpg"
+        ]
+    }
+}

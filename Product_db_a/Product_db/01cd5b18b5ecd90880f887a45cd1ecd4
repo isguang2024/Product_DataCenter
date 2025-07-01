@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "01cd5b18b5ecd90880f887a45cd1ecd4",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-06-04 13:19:58",
+        "第二层SKU数据": "",
+        "货号": "DG-165835757",
+        "进价": 155,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "邮差包 原版质量，重量：0.7kg，材质：头层皮，尺寸：27x27cm",
+        "性别": 0,
+        "修改的时间": "2025-02-22 12:01:47",
+        "原普货标题": "10 pcs Chemistry Tote Bag Canvas I Made Joke Science Unisex Fashion Travel Storage Bag Funny Geek Shopping Bags",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sae9a59f1b56f4c86971f595aba5ce428x.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8f4e734247184a5291779fe330a5de5cI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3516c4bae3f41418e447311a8c36c13m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ab2f645863c4e369e0d8a14e319b8c4V.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8d5dfdb09ba3429bba7d08eb6f394fced.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7e2aee2131b440ca85992a11459353dbq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa124a2175a2546c2a1a7c921663e6265R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4eb47e2216b94c4b88b96ae3b36a4630o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S32260c3eea17430f91b2c9ed4b3a2d343.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5085d5c5cc96457a8f795f44095cccf74.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S653a7849731b408fb45e9976cf94f9180.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seccc846cf9504cea805f0440f1dfefc6z.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa26185a884744a8091edbb43286ddef3V.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Safb003ac211840498870af199d353284f.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/H7fef96b681254801bbd96adde6b2c69fU.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/H0974605d193d44faa7ed242f64eb6c3ej.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/H40ba842d689c4412b4840f5c1f49fe15B.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1STOIKpXXXXbRXVXXq6xXFXXX5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1fjjwJFXXXXc5XpXXq6xXFXXXg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1eL6zJFXXXXb7XpXXq6xXFXXX2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1PHHLJFXXXXXJXXXXq6xXFXXX6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1LGfLJFXXXXXTXXXXq6xXFXXX8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H03a1b6d9e9fa4202ace68c037db1b891M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hdee4f559e0364588ac06520bece5ebceo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hfb637717cc4b4ea58cf47c9ee66398c9w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H8af051016a014efa9d3933bf7c05fc23P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H9a4f7f3a55254b89aab396b4a087ea53I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB19IqxKpXXXXaEXXXXq6xXFXXXo.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb513ece4a24461b96edbc0e4755a09cN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H5476e6e43fb146e58bae0e5a7f755e0dG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hff670666c638423dbaadf4f2a50e5580i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H1e205b30ed854b7bb9f0041b49d0a00dt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H9d35df5e2c6948ba8ca123d434bce6cbA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H9824f38dd73f4713a78d49b247851d39X.jpg"
+        ]
+    }
+}

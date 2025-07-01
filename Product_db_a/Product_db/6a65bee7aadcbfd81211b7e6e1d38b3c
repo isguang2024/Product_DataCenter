@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "6a65bee7aadcbfd81211b7e6e1d38b3c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "RB",
+        "创建的时间": "2024-08-08 14:15:53",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W1354010125",
+        "进价": 100,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -1190321189,
+        "普货模式": false,
+        "商品简介": "Size：34-41（34 40 41定做）",
+        "性别": 0,
+        "修改的时间": "2024-08-08 14:15:53",
+        "原普货标题": "Women Flat Canvas Shoes 2024 Summer New  Breathable and Comfortable Couples Outdoor Running Casual Women Sports Shoes",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S41ee8da8ce954a338523cfe11d0fb0f5Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0171366433745c69fbeb507a4871fea7.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd750c8ebf4514e1083967877a45e3215w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8e65d6e74cb45bca244bfefcfcc0d98h.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8b4cc4d303104f9a9d27b00d2c6c8dd22.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S91c5ebfe5a724a33afb93525ad076ddan.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S51d17bc1fb884e29ae06f8668987450aF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94e8c485ff074ae1bb4fadb546351d0c1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6aab542a8a52450ca1fcf8b012e1c51ev.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3560e9afb33f4429acb4ddc9ba6961115.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se490a76da4b54742a5e6f0e3cc97e64ck.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb147cf154e4d4a79afa5bf913303f0f3U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S873d80cf5b4e42d08d8b54ed7d9d932ev.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81757403934e44b88edd5e23097c2831W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4ec34ba0bda4d9b9b8b1610066ec34ba.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa356662313394905923afd90edd2349bc.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9299b2beb4ab4084adb91d63710a9e78u.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S315027cdb41e480dbc873b09cdd85a37k.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S4b80b7ac54dc49c6a5d7fe508f986655W.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S31da404c25a8404ea5c90039c8a0d207a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See858d08f09f44138aacd1adaa46f3dfx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa240d055ef264e439eef16bf9ab8af55R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae14ec38c58c48408da06a75bef245b4E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c8a83fbaa90477581d121610902e8204.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0f1a8751f6ec423ca485eaf4de55604bD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S020b0031ea834fd899de2367b12a0d21u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe23eeb04d334e94912c1dec405266beU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7645c56978774cd29693584e1adf890b0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58348b71cff04c9184408d5b87d0a44eQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c6a069d9abf4297936d54785c769560V.jpg"
+        ]
+    }
+}

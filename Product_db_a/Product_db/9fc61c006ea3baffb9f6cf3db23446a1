@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "9fc61c006ea3baffb9f6cf3db23446a1",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-08-29 12:41:58",
+        "第二层SKU数据": "",
+        "货号": "DG-144905710",
+        "进价": 210,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "2个颜色，水桶包，重量：0.74kg，材质：原版皮，尺寸：26cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 15:14:50",
+        "原普货标题": "2024 Women's Patent Leather Handbag Versatile Fashion Shoulder Bag Casual Commuting Bag Girl Brand Designer Zipper Small Handbag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S13b2ab647d5e452faeefaef3bf7f2095v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d62d3be72844407b2485dd2d1dbae979.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1eea5d8f534d4cac8d1680115d8934baE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S493331dcc323468eb2f4dac6f0ac90f0P.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc0881d334694f96bbdc91d384f56eefA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d5f6bf8a8a0448299f1408123d93619m.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc0881d334694f96bbdc91d384f56eefA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S033b2797bd9545e1ba52b1122dadb7ea7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd55c7eca3b7f47028a70ce15e8b66d15f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44a44e0553f04979aa242085b08c549bi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9fb218004714dd59304be979c61e7a30.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc0881d334694f96bbdc91d384f56eefA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf444d67f513c447ab97e8afdb54a9425o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e917f5b4d034b5aac2f9d45bfa5c46bB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sffec8491353849a998109573da502897U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51aaa50f653943568a43c53b85801df2Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58d0f6ca2cce4ee49a076542540c4332x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S040b89a089984b5fa5720242ef75d2c2D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf89587d25a9847b384021745ec9e21cad.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fdd7bc7efdf4fcda034631fe087ac005.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f27281796b94d79990d95030cd815a0M.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S923944d3bf9e4ce98ba5b80e11eccce0K.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S27b1ccd90ed94d978aa8fc088bf74797p.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7b3facc93c364a639f1dbc617b82d1f9S.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S876264eb90354d48a07ab9085d7ffe0e6.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6d877c1ca4ea4356ac819b346d5b399fo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc084918b0e7f4be0a120bc7f59b5d307j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5dbe5e8336454f87a68483959b89743b1.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7300e5ec28d14e2eaf53c4cc0ee536dax.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S628012e178074654be8291c90ce97b7au.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05411ca9c9744b29adcefc09a1cfaefa5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf293e7535f4499493321e326b104cb88.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S387852d5c7314e199d3ab1729668d5087.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a2c1a0e8f4f408798bfb88ca5864453N.jpg"
+        ]
+    }
+}

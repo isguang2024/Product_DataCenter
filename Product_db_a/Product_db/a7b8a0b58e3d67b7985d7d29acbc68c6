@@ -1,0 +1,67 @@
+﻿{
+    "info": {
+        "ID": "a7b8a0b58e3d67b7985d7d29acbc68c6",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-09-04 12:39:45",
+        "第二层SKU数据": "p-5@32x14cm@25x12cm",
+        "货号": "GY-W1469997701",
+        "进价": 220,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": 2147368680,
+        "普货模式": false,
+        "商品简介": "size：32*14cm (大号）25*12cm（小号）",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:53",
+        "原普货标题": "Autumn and Winter Vintage Women's Bag Large Capacity Suede Shoulder Bag Solid Color Simple Casual Commuter Bag Retro Handbags",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S45ac606ced8347b788989dff57097dd1G.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb498d10b8dfb4b0e90efb8a3289638c0i.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfab21e4e2b7c4b4eb701da5b8ec18e44j.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S95236b456e084cc2af4dd3336ef403c8p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S690811547a384ea1a8714a027009bfd9h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S971c042f8b174abebec64c48df7f7dc6Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa93078d758a4decb5d0deb6fff8136eV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2deb40fb000d4fde993d01afd3dde63cR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S182d1bee9ff8496ca279a72833e08a00V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6ace21c1885457a85a2e6a5072395c46.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37db1ee89b8c4075b49641d8838f149fk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62e70217d680466f9616ffa69e86532cr.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sde0a0492f3b24991a7cbde87f409bf0aZ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9a1fcde25d4e4801a99eabe0b9b2700cA.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8b565efbe653478b9f8e5b0c10baa2d12.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7906dfcf51e240839919a790b896e3abe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scaed4d4e359849219d2bd398ddf730adE.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb919f96dfc3479ebc90b7f9acc9b617f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55d09925851c40c096f860a12e827837O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d20e7a2047d45ff9d21219d388323ae6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scab3c3dfe9cc4d808a88dec68d9adb105.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S742b16ff851047c3af342637251ca13b6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scfb942f13bd142e6910227813fb6f3dfb.jpg"
+        ]
+    }
+}

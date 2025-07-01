@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "22fa7d220b29aae448b283e6477c9c78",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-09-19 13:45:42",
+        "第二层SKU数据": "",
+        "货号": "GY-W977574046",
+        "进价": 170,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸29*22",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:51",
+        "原普货标题": "Functional large capacity canvas mommy bag portable outdoor multi compartment diaper bag Sling bag",
+        "质量星": 2,
+        "重量": 1.299999952316284,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4061b2e04234be5ad19c44f4ba81ce6Y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S590f40d5c8ea4090a231da90e39ab1e6e.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S575e863da28d4a0bb3a01f2ce3feef1bk.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9f7bb1752ad6489490880824a42129c5W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d3fe65229234d26a0246c4e46288271z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a41dfa5ca1142cd96104f0d623f5d154.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S482dfe50016847aca297b3edde35a946v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6f484ea96834dc4bc1bbdb8673b0afeX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b80b039fbf04986948d2fe9fa6d4b956.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S13924177e25d4de98d75bc7128b4b8faN.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S130939fe1f684fb2a7f08bcb0ffe3d0aq.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S319d8d4a5a71456c9625137d0d352726X.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S45da9da45ebb46efacecbec33c98ab867.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6ea5032f23c48319da07c733313e6a1m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09188dba08284e0db968b2284a8acea0b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See8185b2635e4b11825cf3f4b0e1ad86c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78342c7b11c14d86a321cd1786e7ee27Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb4b456cd5a049adae85e2a32ccf3b9dF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se2a0fec0ebe84a7c850d73faab464010l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d6b421efd1040eca196b81fa0829e10e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56ed5764bcb64391b4be464a48f5448cN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f79b077a495481c9c08417cea048776p.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S45da9da45ebb46efacecbec33c98ab867.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41ba40ffc3ae41748e4e6b54a54e1685b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6ea5032f23c48319da07c733313e6a1m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb4b456cd5a049adae85e2a32ccf3b9dF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09188dba08284e0db968b2284a8acea0b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See8185b2635e4b11825cf3f4b0e1ad86c.jpg"
+        ]
+    }
+}

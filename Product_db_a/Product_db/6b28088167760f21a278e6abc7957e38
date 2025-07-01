@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "6b28088167760f21a278e6abc7957e38",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-29 15:16:52",
+        "第二层SKU数据": "",
+        "货号": "GY-W411121405",
+        "进价": 180,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸：24cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "2023 New Fashion Summer Large Capacity Casual Nylon Women Shoulder Bag Korean Style Hobos Bag Youth Crossbody Shoulder Bag",
+        "质量星": 2,
+        "重量": 1.299999952316284,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1e950189f9d4ea8970a5c3b4d439023P.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S14f19f259d474e49b1d3eb2b205b36e5o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9190eaf45ce04b65a3faa5535050f744w.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9420816b15204ebbb25dc79752c86e533.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S964ee25ece40486bb9197bf02ae80290V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S92694a9412384dfe81d56ea1438fabf0t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50be235258664ed3bd00ed0e75f4c60af.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S821034019f9c492b874b5b630fad02b17.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56aaaba1301f411f9fa3d7f23b06dd5ec.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seec9cf83da53490ea99e893a02c40e7dG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbbf56902fb348219fcd127ec4e788f8x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3caad5f866b84a699645c818d23fec16s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S109a6131512446329bcaa11f670f05b9O.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S33fde34545ad4b40a84d9e0f6591a45bc.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7ff5c4a22a10406b9236d0f294e2dc6cg.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S17dc5f3f333347919cb1e10573bb548aL.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S7b16136345ca41c892be4258291b9153w.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3881095faff48e8b1bf8c29e03ef70a5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf304f201dfb64108b728003d91a1530dq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se164eac5f1cf44eea8977bb8a497fb9cM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S512a616cf95e4bd5a131a6452bb9dc76k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e4ba1c2a54a4bcf9f549ad083d2e5adi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbaeef10fd33b4f1d9da547ba8b7a26bfZ.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S73b941a53a9449938927c3b9125391a9U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb1aa1169d684633a230fb113c539170C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ba5be34b74b4f9db1c06fdb58619220U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7562943c35b498e9213d39dfdcf7d510.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66ff024dd03d4e718fa3561696e82862I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1ecce6ff7f542a1a0a640828537b97eg.jpg"
+        ]
+    }
+}

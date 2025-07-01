@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "56ec4fc086f8e74e20f10507c10bd9dd",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "GY",
+        "创建的时间": "2024-09-21 15:12:38",
+        "第二层SKU数据": "",
+        "货号": "GY-W1516901355",
+        "进价": 100,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 198398445,
+        "普货模式": false,
+        "商品简介": "size：22*11cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:50",
+        "原普货标题": "Armpit Chain Small Square Bag, Stylish One-Shoulder Crossbody Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S72ff8278c0684060b229e2455ddc70f7i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19ffde867da04f408a95ad385803248fZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S971b4ac628814abfaebc02cad7e28f88V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb1998201c394ce6a97adf1d6a7f091ck.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5f4a21c67fb14dbfab56b42914aa7b75K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16de13e76cbb4526bc4f372310f601ca4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7d37f02347d40d8afd8681f6ae5869fM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07fc1053dfca4121aa3a70b1c58e0cd69.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3c581fcca2bb47e59917a08ae5153941o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S90157ed8d9bb43a18a0cab381d11622a3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e8a7eea27334e468284d3e2d47d3c4bz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0cc7c02a97384408bbf63fe8783246afW.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S25e4b705cd0a4e76bab2f76c046179cf5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12c2f5fd068842bf8d2ed3a33460f8b5l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2c68ecfe3f249e5bc23104d4af95bf9N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07edd3e3415e4d1bbf5e5d0b73719326I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7e1995c4808414db38a285fb3ec8bccc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc1e532dc5a94a65bf573c658d2f8f2f5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13f1e0dfa27c4cedb21a8d1840d713d6q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8ac2c051e7346769088ac6ce09f647eY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e8a7eea27334e468284d3e2d47d3c4bz.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sbb0d97ea329f4aafb19e97ff94409e20D.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S6447b9feede3410982720c75f4739e60d.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S26bac165e8c34c92913f2e2e588fa427W.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sfc97a596d1df4f05911889dcd99219c6F.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S70863c4bec4f4e44899e9fc58c36bf86O.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sdc403a3daf924b36bbb2774c1c15ec6fv.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se1e479749c124a4998ecf5f08a0cc14az.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdda10386e3074772999331027eb77cecf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S725ed7812c5a4e72bfde75cb37d8aa37U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80ad18e0998446ee9c07de32dbcd2cecN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe8df86967d245958b2674184be95b3b8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19161fc14f0744abad8c73ca33dac32bm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4c4bff5d5a04027b435e36e54a9dfcbm.jpg"
+        ]
+    }
+}

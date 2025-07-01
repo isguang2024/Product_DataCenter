@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "973c66cd360dcc15115bd1b83eef612f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-05-08 16:45:39",
+        "第二层SKU数据": "",
+        "货号": "DG-192935402",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 198398445,
+        "普货模式": false,
+        "商品简介": "手拿包 高质量，重量：0.5kg，材质：皮，尺寸：20x28cm",
+        "性别": 0,
+        "修改的时间": "2025-05-08 16:45:39",
+        "原普货标题": "Large Capacity Casual Tote Bag Leopard Shoulder Bag Ladies Canvas Handbag Women's Travel Shopping Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3224a4a077db421caeaa9817ec71bd6dr.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3a9595b95aaf4484968ce667a95ec9248.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8da14a16fc5244158e643c382b67374aU.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfeb907b601b44d4b034226faaadc34ec.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sceeb3823b232438b8f4441f6492a6fb2n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38081c53c1db4bd2808a918ce0de438cH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6955bb7fc06f42328f674fb4c0263d27Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f816ea5b6e54d408ccfd38415b54e40a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sccd46d9858ec4751b4b9008082c34a98U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98eb4eee2be8459596ad31bd76dff353J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29cd9ba366ca41dc96e72024ef5598726.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6fcaa71e652a4457a11a57a55e497e53o.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S5f816ea5b6e54d408ccfd38415b54e40a.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0da3c663f2a14372b01ed357dc5701a7j.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S07f2577d2067491cb1947c94e75e95f9L.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd30464e5138400b8cc6db0a751d50bfD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7127b788ebae47b09e22174a8e585aedX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8d592a5d4a04bc2895620cf4f27bb41I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7026c34d3be470689295c46da89d15e4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b49a8e11f044f86938f7cb274cce84cC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24c36fdeac7c45e2995e81f9a274dc178.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S941d660cad934bd8beb54743d8f0d095x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf503c3e600034d4e87fd8f0c075732e3K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7f4230625334d6ba238bc1901647b5bN.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7b49a8e11f044f86938f7cb274cce84cC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7026c34d3be470689295c46da89d15e4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7127b788ebae47b09e22174a8e585aedX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf503c3e600034d4e87fd8f0c075732e3K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8d592a5d4a04bc2895620cf4f27bb41I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13a089de5b5144dfb680676fe306e62cs.jpg"
+        ]
+    }
+}

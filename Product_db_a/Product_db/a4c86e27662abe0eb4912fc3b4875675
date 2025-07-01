@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "a4c86e27662abe0eb4912fc3b4875675",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-11-18 15:19:07",
+        "第二层SKU数据": "",
+        "货号": "DG-177592945",
+        "进价": 195,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "材质：头层皮，尺寸：32x21cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 15:14:49",
+        "原普货标题": "New Ladies Crocodile Handbag Tote Purse Women's Large Capacity Shoulder Bags Female Dumpling Bag Waterproof Mommy Shopping Bag",
+        "质量星": 2,
+        "重量": 1.25,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sc8878378062f4724aa026d49586321f4R.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sc12894225077436ab30aadf4dc61709ds.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S5bb98b4ab5e04272834bca7e590e69c19.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S62a2cdd54dd6416d840ebcc19a503360E.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S5bb98b4ab5e04272834bca7e590e69c19.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sd70c5e1515564a15a3297515150d8c20k.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S9c294ba89f2344219d11dbf17cc5c349B.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sf47240ba9ffa4faa8b4ef47f59c4ad4bb.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S20571daa44f84d3b842bc67064e1849bM.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S7d71897279cf42dcad7f33dee0c1ccd4Y.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S5123f27133ee4836865cb1187b9cbedaq.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sa8e7ac7059a04f14b996a220471416caB.jpg"
+        ],
+        "主图": "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S1558b3061e3f4b49bf6c462bca84a38bJ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Scdea846f720244b7b8f0bd36fed9d23dK.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S64996b05ec4b4ffeb07e6692bedaefd5W.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S501322cf68d84bde8ad31786d52abb32k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S289a822d7d6e4f6087b402d6841c0fb42.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad242a88eb10454eb47014f14ee29520m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55bf4818096240e2b2262dcd0ebe44b7w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfec509e7b6bd437b8a425b4bd3ec1fbfi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb6394dc69e14b98a8369c9d0a7d67f1K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S709789aed1ad48398efda6267e7a386b6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc700617082d7423ca4676fb633c760d4h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S883b6830c87c41619c4639a05d285abce.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86f18dad44294aa8b352d1ee04bb35c4T.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S459bc2945bd94fceb99687cf940a48323.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2544864d17314dae84f6aa58158ca09f2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ba06456bd65496caad0848daeaba9ecu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a4ad87dc24f49faaac0e513a31ef9efe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S954058395f204290a26021de5e6a0295s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S149c149eff084df7a44ebd92fff0a52aM.jpg"
+        ]
+    }
+}

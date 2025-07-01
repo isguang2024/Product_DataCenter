@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "5c57e132783b6d4891a11f69c9d49208",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-07-24 19:46:07",
+        "第二层SKU数据": "",
+        "货号": "GY-W1250687240",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "又甜又酷 一整个爱住\r\n百搭时尚 颜值超高枕头包牛皮 \r\n是每个潮酷女孩必入单品\r\n尺寸:20* 14",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Female Crossbody Bag Small Daisy Cute Versatile Modern Minimalism Large Capacity Students Canvas Women One Shoulder Bag",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S003d0a61118e48139e1c1c20478de1ba8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2b838317a2243299091e1c4308b4623o.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2e86dbfa16e0476f881ef3ba603de936J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f6280cf2c644d20a9ba34f7a90b26caR.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd856bb33711442581b4a2f691581ea3S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7062e4df213c4966b4b4c667b8066838y.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5e5999e1fd094a13b89d8c37410d0900g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02d4f2d4b59341818ea6177995a9a648X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd856bb33711442581b4a2f691581ea3S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6957dee7b30144b5bded4ceda2f742bdv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb96d2b086c8349baa8eeee2d8d77a1e51.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb60d7c172fd8477d9695ae40fb9dc82ex.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98102455e1994cc9a78162e3ac7152f8y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6fb3e858af34691b0b2686860d82e00P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75d7223c19914db281f228a1e2f0a666S.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0eb9f2ea786142abbfa60b0db14923c6r.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S61200b260d1343d680ebde8254344dffn.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa568ae36866d4991ac90035344623eedh.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S21523f0884c54f09b40e90fdcee742ec8.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S957f154ee6914cc392f89af891542ed98.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e88da9b01a64f4cbd3c06e4f658a00bW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf55d2b257870445baf47a502ba618b0da.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se01825746f7d4603bd8a3bb5b9abb769u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S008ac8fd3be24e0eac53a803f5f95c3en.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a57e8e4afcd448cbadc5be44bd80ffaL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c39a00c007243fd9216b3a88074b339e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saed198ceace84427a22265aa4d05fde9s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3e6ddf3e70040778ebb0d491319b610z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78f28ce9b1274c8990b8f67e9982b3e8A.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6b0a44a7aba40b39fb163fca1fa4b101.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6fad0d54ede342f69ff76f05f70cb6abo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca8789d9368c4007b34b1e1d1ea211f0u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea3ab5aabf174c41b6c3328a67619adfw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa568ae36866d4991ac90035344623eedh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21523f0884c54f09b40e90fdcee742ec8.jpg"
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "f7bc340a50832d121b8511579f530123",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-06-10 15:25:50",
+        "第二层SKU数据": "",
+        "货号": "DG-196061644",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "斜挎包 高质量，重量：0.7akg，材质：皮，尺寸：17x6x12cm",
+        "性别": 0,
+        "修改的时间": "2025-06-10 15:25:50",
+        "原普货标题": "Women Solid Color Large Capacity Lightweight Dumpling Bag For Girl Sports Fitness Bag Female Single Shoulder Crossbody Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9e36832e6ba34a278b50153b8167bb49D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1507dea9ab3b4d048787e5bf8120d42cI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4421247cc83e49f9a1f9201373cca1baa.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcae035eaa7e4473b5c88cc1823bcd99W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2f7b1da787c455dbecf176f15e91e8cZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e063200d8cb4b07a1f859ce529f10c4v.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S447dfbd37e914ec8b3e09f4b25ad33e4S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S763ae8e778ea4ba1a31f1781bdb4da81Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S674cdc1304004be1aebde1aabee30c1dp.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9cfc2b25cc5477c8acc2939010e8efeM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0add296322e5473dafc3245c4a6cf509k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82fd70807a944a99a2bcac8225c1218bA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf10ad18c4cee490db5fab87c122a5b328.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbaca19e04924f089ce949dc46be63eb7.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S347fc12d1eb14c95954b73fa73cfb8b6i.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sfea8ce3918c04d498ca791c96b5b0901A.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa667fa4186b24734850897ba17b91a15l.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc8922db752ab4100b6c020d1316f0fe2E.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sa0ecf61d8a8746a6a46c8253053e4119M.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc07ed4754f4f4b0a9ffbd838ecd83f28R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0236d0c60a144bd88ebd8f2b73b34e35f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0236d0c60a144bd88ebd8f2b73b34e35f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ca7f5caadc841a5ac607201f98670e9F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ca7f5caadc841a5ac607201f98670e9F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb027ba635e0a44bebcdfdb01d2eea421C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb027ba635e0a44bebcdfdb01d2eea421C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc19aab8cc7e44c77bf58fdbf6c07cd16l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc19aab8cc7e44c77bf58fdbf6c07cd16l.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2cbe6857c7cb44f585fa200943fffb21h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80c350fab4ff4db3b948ae4bbb14e841A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seeebc7830efa4d029e75987c922932a7B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S95a32ee1d52249ac92c08141787132ddR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa5702ebbc3449fa9d74068293bd6bc4F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8096348d71145028c4bb68aacbfa160a.jpg"
+        ]
+    }
+}

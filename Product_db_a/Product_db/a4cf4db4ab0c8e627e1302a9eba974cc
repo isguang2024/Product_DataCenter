@@ -1,0 +1,103 @@
+﻿{
+    "info": {
+        "ID": "a4cf4db4ab0c8e627e1302a9eba974cc",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "RB",
+        "创建的时间": "2024-05-29 17:46:02",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W1343690688",
+        "进价": "110",
+        "利润比": "100",
+        "品类": 1004,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "24SS-早春双C水钻拖\/平底拖\/水钻\r\n小红书新款 明星同款 早春街拍同款\r\nOOTD穿搭 小香风时尚Size:   35-40",
+        "性别": 0,
+        "修改的时间": "2024-07-21 14:02:52",
+        "原普货标题": "Big Size 47 Summer Slippers Men Women EVA Soft Bottom Indoor Home Slides Sandals Light Beach Shoes Male Slippers Flip Flops",
+        "质量星": 2,
+        "重量": "1"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S621e8821a8db498fa806ccec6de97fb3g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S944cfe1bf127472da82b6898caa87055M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S645f25677d7043fd89270069bffc8cebQ.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3a21af8af0c48aab515c8f76a16c6b5A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S25af8960b4934e00bd1138421c5d4934e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30cf18929f034cb3b2ac4e193066c2f18.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7fb7ebaf575043bebe321795cbd996839.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2ef3ba84cc54e1d8183ca5e4ade1985V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b64200366604d87b778fa5a064f97adj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51b0ade48e5f4b15beaedbff24f531a2R.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S797f0a49d9944b6889518c810b7c09e4N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb616e49f935942c9844571b154788c6bQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00541b498a9e4e4eaf0d746b84cd194a8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5adab57f7e5d449d92208d5e1779e17fW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S814995831b8b455893516dba1d6ebf43I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0294bfa4faa743f0b128637bea66cb81R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37b6c70945874b459184d2913b721269i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51b0ade48e5f4b15beaedbff24f531a2R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28b6db71303942daa0072a01936ebb16a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6489d279287049819d9cf7f38ff94a52U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S070f2747afc84cb3a9c5b500948632e46.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a18b1cdb8374ada8a806731f786a5fae.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79bee636b6e54c56980790c3def92bc7N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed87a3b1fa8541b49799fa9e1b3802acH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb47371c271844cf888fee3cef94a417fW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8cf33ebaef044a9aa7c8280f672abba5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16023dc07b9545a9be9075414ade147eK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60834bd47bfb4c9293a0c6919545b80fP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4faf02ef3c67494caaf4bdb0fc632ace7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S675beffda12b40fa99a14e8fe026f3501.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed3553f13dc64341b5299a55a38ba7f3o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saabc14e5ff824d5dbc12bb56a593ad7bU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d0c5731002648f4947c2f51831a4d86v.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S82c834a97f38496985397f7c8963bd598.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4950a61d062e439284cd0ae81b931673i.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S1882fa156f604315ad77642808d4ad47d.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S88520afba5a340e08ce55b30a012e753i.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd6fd68a8985e41cf88456c33f3ff4b45Z.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc600168460a74a4ebe85e99491db7eb4W.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S645992a4b9ee4ae9bc7ba1bf05bee49bn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ae99d5aecfa4a3aac94630ff101cb8fD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d764baceb784666b7757cf41933f16f1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb91638c4dcbb4925bc7700b654c207eeJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ab56ea5581e43f3bdce165c11826720w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e6025308432485a95fef198f351e61fy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39a0f7babe094098887f162956a6c7c04.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96481e733cd34d298d905d741ff77d049.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sedb3f4b13fb64daaacaafed8bae5e954f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49d5c90a9171466ca11ccac16febef96P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53092592cba047899f59340d6edee807l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37cdc58956cd48ca991cbaf685d9d53cb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62a4c64dc7244aaaace06fc142158875g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6e6ecdc93a844fdbeeb4a2d42c1cc5as.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebfd32ff21c7496f81a36b3698d56d99N.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7cc737f820d14266a7924b01815ad7c1R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f54d63eef2147bab0c5e3260fb1066e2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1882fa156f604315ad77642808d4ad47d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88520afba5a340e08ce55b30a012e753i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2c56999832e4d38bf601e8a7d5b235d7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72cc72c2246f479a8b316f93c2aede25u.jpg"
+        ]
+    }
+}

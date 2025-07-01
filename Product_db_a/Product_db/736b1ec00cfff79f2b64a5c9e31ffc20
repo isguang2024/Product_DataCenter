@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "736b1ec00cfff79f2b64a5c9e31ffc20",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-09-26 14:09:11",
+        "第二层SKU数据": "",
+        "货号": "DG-175910921",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "2个颜色，菜篮子 斜挎包 高质量，重量：0.9kg，材质：皮，尺寸：20x23cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 15:14:50",
+        "原普货标题": "Corduroy Women's Small Shoulder Bag Teenager Girl Crossbody Bag Bolsa Cute Tote Student Street Korean Harajuku Messenger Bags",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1bce283b0194d4694a2baffd343936eF.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S43183f434a1048a5af5a0d6f2dec8ee5U.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7ff1107e8a694ca888edd95bc2131620V.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7ff1107e8a694ca888edd95bc2131620V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5ced81d9f8b43e6b069c416b763b421y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0a3a2ca03f34b73b8f4051b47f26acau.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd097f668fbfd4dfeb4a7be8d880f90d2Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd097f668fbfd4dfeb4a7be8d880f90d2Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05497f0fdf0444baa27afa25022a49ca6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5229ea1ea3d34f9fbdea4de60105aabb2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ff1107e8a694ca888edd95bc2131620V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d8b2de49e574cd3a5eb387378eff2b7k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6be4756ef31848da9e434188b7855565L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87d1c528d5ed4b529459f8527f3b8211c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S592c293bb87d45da874bb224a2024cacf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d65db7bfb4045439e57973d49814720n.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7ff1107e8a694ca888edd95bc2131620V.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8626b6bdebd844729f47246ff88cd3813.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa2b9d7a353a047a08f8196431b21603e6.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8099bfa65c984cbbb0c456e424b9eb16H.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf67bdda93f2547a38537d3b8f72fd750s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac127eff74d8490aa4195c654db3acf0Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c5a50ab42a749ecb90064ded1784d64d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5033d322837643d2ac8f6f95c077b5dd2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S002fcb0d53754a3cb15c7211f35f2f8c3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8099bfa65c984cbbb0c456e424b9eb16H.jpg"
+        ]
+    }
+}

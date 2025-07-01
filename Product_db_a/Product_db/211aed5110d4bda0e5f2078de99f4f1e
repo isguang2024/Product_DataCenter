@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "211aed5110d4bda0e5f2078de99f4f1e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "RB",
+        "创建的时间": "2024-09-26 15:06:03",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40@41",
+        "货号": "RB-W2118836119",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -1190321189,
+        "普货模式": false,
+        "商品简介": "Size：35-41",
+        "性别": 0,
+        "修改的时间": "2025-02-26 16:01:00",
+        "原普货标题": "Sandals for Women One Word Summer 2024 Block Heel Ladies Shoes Wedge with Platform Waterproof Footwear Chunky Super-high Beige",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S13528d9565054278bc12bf63c5da48bbN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44a65362854c4a2e9dfcdd8a031b7cc23.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4aa0994814e44ff1ba8f6704054fd01by.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f7aa11ebf304a1f8db7d0b0e4a43f94a.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd174e6ebd8b642c7b1e508f8edc9a53eZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8776f81a6ada4f498172827e53cfa00bK.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd553d186e4a34effb31355837f72e09dL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5cd48c1b889d4f19a3b98bbe5f23278fx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40c08aa3e8e8417293c1813918cdc47dY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se319128e077543e89d97695c0665ff3f6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9dc87ed91924babaca996d424436813p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9587170a9b640bcba4809acf498f2d1w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5585f255786a40ff8fc912246232687f1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd174e6ebd8b642c7b1e508f8edc9a53eZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa01e8a6d4be8412795116d4f62032716e.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S3021c16de7934e5e99d4780f400f5536u.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8bd95b4c1f214a03b57d4f0dec39c497e.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3132438194414471be027237f1e17f637.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S76248560db9d463985b3362bd86ea583p.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S44bf6b3cd66b42d3b097d40f2bedf9daa.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3132438194414471be027237f1e17f637.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S76248560db9d463985b3362bd86ea583p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a1ac5b560a84e66a5c11ccff311c297P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48eb3cdb22b84f22b72ec50dc0a0a4be3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f376d97fd1c47e5a067a0bb53b7b7a3G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68e017d7f5634c599174b33542204649g.jpg"
+        ]
+    }
+}

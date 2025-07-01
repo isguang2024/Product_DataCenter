@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "e35ccdabd81a956be017d63154d87690",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-08-07 13:18:16",
+        "第二层SKU数据": "p-200000124@34@35@36@37@38@39@40@41",
+        "货号": "RB-W1775635232",
+        "进价": 115,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "Size：34-41",
+        "性别": 0,
+        "修改的时间": "2024-08-07 13:18:16",
+        "原普货标题": "Fairy style thick soled sandals for women wearing summer 2024 new thick heels with fashionable beach shoes",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3b82066b77884b63b35a488c4c15e35eh.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S00ce324cf4ab4d2595ddaa388a759587u.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1fdffaeff5ba4905929e1a2075a9aa8eA.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf14a61e28be243a98fe407e9f8415b90K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S404610b8d03c4e19949056c95385cb54n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb02a1e6c99cb4a5da5716747467840323.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se83bb936b83a4560886d3134479c380fz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5212c16f3824cc9a4b005e64f039104W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93cef5539a0541fbb43d341f45ee7159C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se2adf4db9f3d4688b52bbbe59e073d5eq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff0413f4c3ae4b08bf09ee2936bc22c86.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81a6dbc51ebe49c693d78a260da11e10Q.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sdef720b0762347068826bfc3c00d8d60t.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1c6848de62a0458091e53350bdf26f2aK.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S2e7da1952e124f9bbcd89d1ff2acc385K.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3d355a0c60524a03a1673317a2b2b2bbf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7030dcb246ae4311801582e9bd04f64bX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ef87ba9b7424e48b136c84e5309abefl.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2e7da1952e124f9bbcd89d1ff2acc385K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se113dffec52b4023a5f8f1ce876227d3D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb688a3591454fbcb85e04913b7dfafa3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2087203942554e97978cf0b454305ee9T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se384dec780f0439e9240ee72e2e31b52s.jpg"
+        ]
+    }
+}

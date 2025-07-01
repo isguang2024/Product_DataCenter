@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "b57a84156dde9d67c8b7c3b162817aee",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-06-10 15:56:26",
+        "第二层SKU数据": "",
+        "货号": "DG-195985413",
+        "进价": 100,
+        "利润比": 100,
+        "品类": 1002,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "短马衔扣卡包钱包 高质量，重量：0.25kg，材质：皮，尺寸：11x9x2cm",
+        "性别": 0,
+        "修改的时间": "2025-06-10 15:56:26",
+        "原普货标题": "Small Canvas Women's Black Shoulder Cross Bag Female Messenger Bag Y2K Eco Korean Shopper Student Handbags Side Bag Book",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S429fb55751d34a1692bab1213f6411c3L.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3b06bfa6f40941d9b0f6dbc99c118b27F.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saafa2804a37a40518d239b8e7f5de1f9G.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3604cabdaefa4892a39e066b8f1a9f2br.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49a45dc03d7c431d8952566b05f6b160U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2484097e25844f1f9c236581de3d75abH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6878cca01bef4e9ebc3f48aacc989baaG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd17cd4d331a14beca5a57b4569dca8b0u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb88fbd4f92a347fa8dc1ac867ca787b01.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf92ef8be582c4de4bde8e2bf6089296dF.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sabb4151230d643118cfd1ece8a5312acs.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3d36d354ecb4474e8efcf4f06b00f6d93.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sbf1e6b18d56940a9965870d0ac38e7454.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sce03bf7312164deeacae2bea44d427f8k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b534b124730463c9bb804cb45afe298L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe1897091b724012992a1b4d6f306604w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3de2ad90edd46b28dbee93ad40e6cd31.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d2655ca54cc42a9912c628ae3a999a9W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04499be3f0b44b75863ead116c31586f0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44a64a493f214750b9be8079b77111a8J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3d2fc0ea6d34faf803c6fc7020098afX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7dd9137110dc40e086b1b826322acf22y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3283bf3638641a1b4f0e35ad7c84ab1h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58425da2b4214cae9eacd1b4ef1b4b84v.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S16fda97e0b1a45f6a5dfa3cd98bb5cfdU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se605cd32fc874e7a935382d656723479r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53da0ad52df74310961a1278ce6fae09i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad5ad6f6685b4d0c8802a984e4fc8bb34.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S666c9b89524d4422851fa16dcf5137cbQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08768cdbb359444eb21a02f1ddee19bbM.jpg"
+        ]
+    }
+}

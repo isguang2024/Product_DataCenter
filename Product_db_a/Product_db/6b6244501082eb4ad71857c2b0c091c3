@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "6b6244501082eb4ad71857c2b0c091c3",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2023-11-19 11:43:36",
+        "第二层SKU数据": "",
+        "货号": "DG-147861614",
+        "进价": "145",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": 1542255710,
+        "商品简介": "邮差包【2条肩带】 高质量，重量：0.65kg，材质：头层皮，尺寸：29x24cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 13:04:15",
+        "原普货标题": "Hot Style Women Cross Body Bag Shoulder Bag Handbag Tassel Zipper Large Messenger Bag Fashion Ladies Faux Fur Bags 3 Colors",
+        "质量星": 2,
+        "重量": "0.6",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S46eabf31ddba4b7ea815691dc4ad788av.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S08e4c95595664c618f914acea265a8abN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e52e75315f743d2bd9a21c0871bd79ar.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ec4ed49213c43a48cab060f558e3a67j.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5df139f8016e47cab437f99b95b383f7S.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8a35a51eecda4d5ea8ff180fe87d1004q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebdd5e6677804a04a74d223d7ab789bfH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcd058c8f9f04ed1af81b18a77379312w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6b3b2324ab0480bb01aa398f794bcb0W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88fcc1a0ca0f4deb95745f03ebb7248fV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S198ad27cd7fb4d2e87034e1f364cc04ef.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7bdb651cd00042988e9760ceb1a15be8J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73a32ac9cf6440e6932f6dcd63f2bbadr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf71f879c636457db85693ec16e9e01aQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbdfa3a86091496ba781e0d584e5d22eg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6144f8939d2442d9d99feaa028b6b381.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8d0d6a4e3d3b453a9f859550f23e515cB.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9ef3ad814cd74483909e63e2c0850c7aL.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/HTB1HUK4NH2pK1RjSZFsq6yNlXXaW.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/HTB1DMYrNOLaK1RjSZFxq6ymPFXa0.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/HTB1RMzdNMHqK1RjSZFkq6x.WFXav.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/HTB15z_6aK3tHKVjSZSgq6x4QFXaD.jpg?smt_ispass_1706760",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1oCLXNMHqK1RjSZJnq6zNLpXaR.jpg?smt_ispass_1706760"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/HLB1R2RKNZbpK1RjSZFyq6x_qFXa0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HLB18RKFa13tHKVjSZSgq6x4QFXa0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HLB1DNtINVzqK1RjSZFoq6zfcXXaT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2711819353c9493b9d5352ca577b809eK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5b2d12b937e427d9471eaad067d42beE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca676076569e40a1beb0211de7dd10f6f.jpg"
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "7d374a94e479d604566da5fda0b73625",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "PH",
+        "创建的时间": "2025-03-22 12:38:49",
+        "第二层SKU数据": "",
+        "货号": "PH-189151121",
+        "进价": 2,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2025-03-22 12:38:49",
+        "原普货标题": "Small Fresh Plum Blossom Print Home Rectangular Tablecloths for Table Party Decoration Waterproof Anti-stain Nappe De Table",
+        "质量星": 2,
+        "重量": 0.800000011920929
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6d164b1838334e05bee89afb7a222d19o.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S63bad49f478c473b8d11ed4953053f8cN.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6af15988c3dd430b9a5ac1a9ddbff412r.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6a66927c865c403ba5126247a323e9a9b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2bd8b330df1f41fc9f7eb1420f3e9cdad.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f2f969e9d544a9795a1f6dbd8e5dab9u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c500bb867d5491ab24293d92601322b4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ad0a2b7d35a476d8c291d4ab0dbb450x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ce005b7ea7140fabbc5578c832169b2e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6af15988c3dd430b9a5ac1a9ddbff412r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se07bf251ddce4081aa1fed105cf489e1y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ca05594d02e4acfa66eb2d3316786ff5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28d8240608d143d9b035c8c083d5805fI.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se28968254579470bac002961460d304bV.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8fb8c4064e084899b5ad7588aaefb7296.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S9be7891584de40ba97afeecf192c13638.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2d1cd751963f4643bf655eae3051eccb5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scda2ddf8254f4e0183d5e8bab26c73641.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S685332f6a8f041c6b87d91f1eb44aca8v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e1d3dbd524147159ce995a33f2406e9O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5c212a09bc44f13a0fb10b47a8fc419M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c851cb77c4d477a846f4d6fa12a36dch.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0294295b67b45a9ab6494efb811ba6ca.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68edb282d4024400a86021810ec638b63.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebd8d2e0b3a4475eb516b7b2bf4bf001l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S141c079402904d008977b5b0b1fd1cc3K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b2b949a89f94d0fa80389acc20cb985q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S751c21284c9c41ecb27309c75163c39e3.jpg"
+        ]
+    }
+}

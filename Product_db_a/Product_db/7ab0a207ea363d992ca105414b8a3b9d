@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "7ab0a207ea363d992ca105414b8a3b9d",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-09 14:58:55",
+        "第二层SKU数据": "",
+        "货号": "GY-W980399181",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "size：18cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:06",
+        "原普货标题": "Female Crossbody Bag Small Daisy Cute Versatile Modern Minimalism Large Capacity Students Canvas Women One Shoulder Bag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0654b77133bc49429ef1bc94cef4a33ac.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b117b7a60e14b018e6eb8ed4db38e67G.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf061a44fcb1d424687b0b985f2379355G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9821400e511f4b1a97985ae0e2b7e8a56.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S45744efbf5304a62b4758c56619cf1c7S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc772d7aef8f9429986467d8174932371G.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6ad651d6f3044e888c054ded9e334917.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02557e824a064a25b8ab5448cc9be248M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87c689d85a9c4a5c911eb386d2e5b0482.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49aa07d2fc33452c9d7fa04f1a4e5d71U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c104a1fdbda4ee7a11b9c0ad5dbf05dx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00af00ef046b413b8fadb418ff66f0adl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79a68baf16384ee0b49ab09b1a88764cA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef3499194a0e4e1bb3f1808b027cc05ah.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se59b2f24b21d4891bf552c1cb702c955X.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9d852caa1ac9488daa052cd002c5d68fM.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S49f138b511f34a529a90bdeb1b34c063l.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc00c7a111e354bd6b0ef98ac549c5ff1K.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd71d3c9e259a4c68a6a75353c5e3aca1E.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saa466244d9b14cc387eb51af9ce6192ce.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S870505122cc0437897716aab37df9553n.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S61d656110fc04ecabc67f879e4c70f429.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S854ef29542344321978de0bf50a8c45be.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S25794238ec114a7dbad8c7d68bfc59b4b.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S1bd7912a032a40f98efd17597c7186faV.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S0309908eecb344d899c8b22dc697d5aan.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S98d1aa8c5274409eb599dabd997493d64.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S14246ba806eb45e4a2ef67459d1f36d3q.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1b58268c46f434aaa853ef4f3ade066G.jpg?width=800&amp;height=800&amp;hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3c143ce9aada496991797045c651abc0o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6fd9da875787460c9e108baf5f25c617Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfed3a0cdb880486cbe34d320caabe88c5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd71d3c9e259a4c68a6a75353c5e3aca1E.jpg"
+        ]
+    }
+}

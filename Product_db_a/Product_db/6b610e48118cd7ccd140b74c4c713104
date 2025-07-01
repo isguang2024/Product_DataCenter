@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "6b610e48118cd7ccd140b74c4c713104",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2023-12-14 16:05:31",
+        "第二层SKU数据": "",
+        "货号": "DG-150834233",
+        "进价": 185,
+        "利润比": 100,
+        "品类": 1003,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "双肩包 高质量，重量：0.5kg，材质：油蜡皮，尺寸：17x19cm",
+        "性别": 0,
+        "修改的时间": "2024-08-05 12:46:45",
+        "原普货标题": "New Camo Printing Nylon Backpack For Female Casual Tote Bags For Travel Fashion Backpack For Lady and Teenagers",
+        "质量星": 2,
+        "重量": 1,
+        "状态": 0
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8ab7c7835df9466fa1b118638798beb83.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc031594be2e242d7a38a8187577c4823d.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3c09c3f39579413c9490bc72fc2a4301T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb05b5134603b42d1b3a24dc4c162ed6a6.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3230f27c6af48a2bb24894f4f898cfaJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc1080e5d8d1437bb1f7ef49459eb141d.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S112271cb14f443159dc72b17bf2c597dB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S592f08718d974ff69d20813d136560f5Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0608fb3c89441518695a1cec0681094J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S845fc7ba8d1246fc8a5a816f537851c90.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97f1096ce538492898a098863e55c01dS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S236f37b70c584e218b1331fe8407786bl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f602f7de7814d40a5ad6e16d86b6b339.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3230f27c6af48a2bb24894f4f898cfaJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe7829be118c40098a4f5f2a5120ca81v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde2c97ff4d254983a1939c73da982534h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99249f056aaa437dbefe7e0fc2a12fc0q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e024a2aae494414a16c9e62ee988e2cb.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf776aa25d64e414083878373957bbdcc5.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8cd26f57cb7c4360bb4cbb3aa1e278b0v.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S85e3fa8509df411bb11e7f51d68c06d5a.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S88ba22788e924ad18832ff1cf132d03ao.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1a969b038bcb4f4f909731242aee59612.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8da0d58ca10f4d19b2b62da96d6a8b2cA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa33d7178e35b4fdcbb1d252634791d8fa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd753ab910d7e47f5a08d3b5ab549e8b8H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7fab62640fee4dcc85143ed01db05542P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scae685e8df094bcd96c94e3ff341e20fP.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6b112945c0054a5fbfb5e716293b7ac3a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc381cffc21814e6c9210cf9533d8eb11J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scfd683db77094aefa0aa7abc0b3b2f383.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd17e1adc5b544dbaae3cfbb76be31a39.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sffb8c785d9bd441b855e900fcd65b2bbY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b9652338b164626b8d87b7cbe4ecf452.jpg"
+        ]
+    }
+}

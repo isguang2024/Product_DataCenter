@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "030171b797df74d93141748c9e83d6a4",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-06-27 14:02:55",
+        "第二层SKU数据": "",
+        "货号": "DG-136759888",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "，材质：皮，尺寸：24cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:52:31",
+        "原普货标题": "Luxury goods [1-1] Portable genuine leather shoulder bag for women 2024 design top replica crossbody bag fashionable armpit bag",
+        "质量星": 2,
+        "重量": 0.9700000286102295
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S95ba7c765e1f41d995bf2362ffcfaf0aY.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc3e2c47edba454f84ef6b9a4a5f1437L.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S739c7e3c121f46968a58041ca7473fc9J.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S11e56dd240fb4c7fbea17eeaad641735z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24c721c0d3b24ba2bb13286d5819554dA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S256a4e99c08a447cb25f13d3481dc6fdu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S169eb0eb943f41aaa4a7bb0a6cc7e385y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5940dc96148469faf6d3c2481103043J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3770ea06edaf43a88e1b6e1f69f3431fh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad57e1e979644ad9860ed9cd487adfb79.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbca1190b37b84bcfa11d01eb099f88c5W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a20eb2e3d6b46f9b739301fce36e805J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2426eb8b06b4a87878800fe827aff56Z.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sce58a897ea3045e782bc2c35270fd25fx.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S910ced6f9d6e4308b723810da143b73ax.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S371ecbb901d14870a1e32d57e9aa4239u.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcc631882556406bb278e2063b537a61g.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S41cbffc4531044338f251db73bfbb838j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea73792e1128499cbe81d3fbe0805812O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd24fbf81f2c94107a20ff4d36f168830o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S137c8b19ac3040d690f292f46451cc64R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56fb831d8761432782b1689d8edddfe94.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13775747e4e54a81967e424e722000002.jpg"
+        ]
+    }
+}

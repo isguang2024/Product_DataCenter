@@ -1,0 +1,65 @@
+﻿{
+    "info": {
+        "ID": "bd9d42a4ebed201f4eb1b430c73d9534",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-11-14 14:27:14",
+        "第二层SKU数据": "",
+        "货号": "DG-178913564",
+        "进价": 105,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "水桶包，高质量，重量：0.65kg，材质：皮，尺寸：20x22cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 15:14:50",
+        "原普货标题": "Canvas Bag For Women Japanese Versatile Large Capacity Black Shoulder Bag Student Ins Casual Portable Shopping",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8e12d4c8ccf8492fa8461723a86fcc25n.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S67dd2cf5d40a475fb2b3dc945c03dddfa.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa152b3341ee948e69f549196a346142c9.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S20c4197fba0b4fb0bdc97cea54a112f3b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf76c24bf9bd74617a4ee7838250900f9F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61929cc1ff9748ada1a339e314facc8cS.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S53e00719bc2745888af5570c0cf628abZ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdcb02f533cc549d4b0e10727a419ce84h.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S287cfbd74b3e4ced9e3ee4d40c19e497Q.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S401496a374ce4e7e81a408410dbec6956.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe9518e5022b4a209963c1bbe0e58346N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fd7d1262f5947d6853fd4376e8b69ddf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf1cf36fd1b64af2858b77cf0e55c8bcp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sccc04a69a03942ebbabd3e0582cc0061v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42adf890f0064bf7818ff416e21a87784.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S467012a5df9f4b029985c1118d171944n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf1cf36fd1b64af2858b77cf0e55c8bcp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sccc04a69a03942ebbabd3e0582cc0061v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42adf890f0064bf7818ff416e21a87784.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fd7d1262f5947d6853fd4376e8b69ddf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe9518e5022b4a209963c1bbe0e58346N.jpg"
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "014400f60cdad2c2ab1189b0ffa4c667",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "ZH",
+        "创建的时间": "2025-03-08 13:56:16",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39",
+        "货号": "ZH-W1249747207",
+        "进价": 115,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -1190321189,
+        "普货模式": false,
+        "商品简介": "鞋面：定制进口小牛开边珠、绸缎\r\n鞋底：ZP真皮大底\r\n颜色：黑色\r\n码数：35-39（40可定做不退换！）",
+        "性别": 0,
+        "修改的时间": "2025-04-07 17:01:39",
+        "原普货标题": "2024 New Autumn Women's Shoes Fashion Women's Pumps Pointed Toe High Heels Shallow Women's Sandals Shoes for Women Zapatos Mujer",
+        "质量星": 2,
+        "重量": 1.5,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0508d05740944e7bf32c8eeb7d1ae1a4.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9c9074059e114e0ab5814989e7593ff5C.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S36ab5e763b4f494aa682062a8e9fc5abh.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S14b8a2aa443c457293daa5e5f7b2535dh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2962d2c68984a34bf097eef23833b6b7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87f23ef325f24e9cacc0cac9afb46bd9J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb671508ea59e47dea953e0c10a1007a7a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7cd69f61d31d4675b4c418594b5294caU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdabc8a83abcf4413bc907f3f092510e9M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36ab5e763b4f494aa682062a8e9fc5abh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86c8d1c9c18c4265a6b3ee54fb57d95a8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2fec4865709049e09a5a22bc83398a20D.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7aa2da9861c84c9798a61c4dc5a59d21X.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S941a386a91fc4d189e182f902fd6977ej.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S1d5438aa2ced438392bab9067899d34bV.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S82619966615f4a72bb23a25c2709ed52c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0ed8f1c2a864c1f88bd4edb5b25f844N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ed765483c6c4fc5bb3f1f0851721decg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a987753588541aa89e3e102a3774082S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S544a8213a16c4e5383e07539d67092757.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3c25719281248a68ad2e5cfac12913fy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9691b7cf1894989a604d4ecfce89984I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5159435ba444fc7bb713ad25b94f9fcg.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4ed765483c6c4fc5bb3f1f0851721decg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S544a8213a16c4e5383e07539d67092757.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0ed8f1c2a864c1f88bd4edb5b25f844N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a987753588541aa89e3e102a3774082S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ffa32a0774e4bbe850f2853845fa9c29.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9691b7cf1894989a604d4ecfce89984I.jpg"
+        ]
+    }
+}

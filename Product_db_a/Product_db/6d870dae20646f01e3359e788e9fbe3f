@@ -1,0 +1,67 @@
+﻿{
+    "info": {
+        "ID": "6d870dae20646f01e3359e788e9fbe3f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-09-11 14:12:51",
+        "第二层SKU数据": "",
+        "货号": "GY-W363912878",
+        "进价": 180,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "尺寸：20cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:52",
+        "原普货标题": "Workwear Canvas Shoulder Bag Large Capacity Retro Messenger Bag New Student Class Messenger Bag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4783a4492a584729a2ec5583dfa24e01E.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0946a33023e247e2bf87acdeb5e8727b8.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa89d4f105142427aa48b0a07ed0698d8L.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8773a23ab2f849bca8022efcb840dbd1L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sceccfc228f06400b9338ceb735e27edaq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3c6cfca6b08430baf18eb6124d9ea65A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa685d44904b744c29d213186717b19dd8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7cb66b80ca145f89d05593625ecb6e5z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18d2d85b4e3048369b358bf4fb27744bS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9920c30566641a9a8002880758e9609g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7fcc55f6a8714a4e9bbd9618ef07b1c5F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc48bf2d23a6e487a9f9788d8109d77d4E.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8773a23ab2f849bca8022efcb840dbd1L.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S435fb4f50766412599ef7960217805ddN.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3fa0c80422a84c9886d1eec861441b3en.jpeg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9eb196008d524fa19b50152a70e56384i.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se2343c82d7724144ba591715001d8d41I.jpeg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9eb196008d524fa19b50152a70e56384i.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e636b718bb04d779b8f72badafb94e6e.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ea1afa8a72547619b2239f98d82d337Q.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8af55fb83684915aa7b423f8be4c12ek.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79fd0728e7b640be90901937c38f1329m.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S258d2954080e4b91b1480a0b576d2f3b2.jpg"
+        ]
+    }
+}

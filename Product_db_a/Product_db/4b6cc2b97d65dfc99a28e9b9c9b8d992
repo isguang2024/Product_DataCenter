@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "4b6cc2b97d65dfc99a28e9b9c9b8d992",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2025-06-20 13:31:41",
+        "第二层SKU数据": "",
+        "货号": "RB-W222535438",
+        "进价": 115,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "原版开模 代购版本\r\n进口超迁皮垫脚羊皮跟高8.0CM全套专柜包装Size:35-40",
+        "性别": 0,
+        "修改的时间": "2025-06-20 13:31:41",
+        "原普货标题": "Solid Color Flat Heel Slippers Women Indoor and Bedroom Lightweight Comfort Non-slip Open-toe Breathable Slippers for All Season",
+        "质量星": 2,
+        "重量": 1.200000047683716
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2989dcedc4f42c1a7f241e574877415N.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S53ab49231ee44d43b87ba1a0e39c836cj.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5802174df3c4686bdb0d3f8c2eb7492u.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5abb249bb254addadfee820fe6303c9U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S457e4b6220534a0bad32f701d5bbc645j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e3146a078cc49c6a95c9c45cca9b34cj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9dd08c3e50484906b8d63466e2117e83y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4fb2ac2c51f41f7aa1f882b7b9a42e3A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se57db9ace9ce45cb8c48618aa9d26d4dW.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S95512164aa5c4915b271c3e874ef7c83e.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S28bc036695cf4709b046cec6dea63d4dh.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8716039fb51143dda7c4cd1f0f6017886.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2c9d5854ff24d0c805574275c390161b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd6b3a603a7343439957420eacf183c9M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfaa2bd99ea1c41eaa069a94b50c6bf14i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f260f2ea1ef44c48d47c5102ca0d299i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d53d5e60e314bb79fdb485cd09ebd6dL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34098e1a991a4d0c861fa8a0e2bae132F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5707a1c7fae5426d9416a563c714d795h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe81e8005c2b4510b376a41aa79d1aadt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3bd1552ce8fd441996df87caf586d752K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcd2dca11f544e048ad6dfb9eaf700aeL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S314a89af298c44e589b8061b157fb550i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b5df9e064aa4a2fb50b7ec678c0c711t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf25638d2a3d5424095d539ee5911d9fe4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb72095398d24209b978a85d6711e535M.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7f5f9f6d9fdd40fb951a1e2d2fa441703.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96c57c96ec804eabb4c70d54796a922er.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b9018b53bbb401ea242e600ed96577cb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa673d727187a42f0b9d772e28f98ddafV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96b46d186e484a028b4572415bb0d7a3T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8716039fb51143dda7c4cd1f0f6017886.jpg"
+        ]
+    }
+}

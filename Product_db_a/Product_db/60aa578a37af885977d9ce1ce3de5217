@@ -1,0 +1,87 @@
+﻿{
+    "info": {
+        "ID": "60aa578a37af885977d9ce1ce3de5217",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "RB",
+        "创建的时间": "2024-08-08 12:33:55",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W665004420",
+        "进价": 95,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "码数：35-40（标准码数）",
+        "性别": 0,
+        "修改的时间": "2024-08-08 12:33:55",
+        "原普货标题": "Black Beather Ballerina Flats Women Shoe 2024 Summer New Design Female Footwear Round Toe Casual Ballet Flats Slip-on Sneaker",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3c668cb1c68c4901aa5bc8171f922526M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S600c8e6aee5c4e1cac1f31a5e784fdab4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01dc909c624942d89aa9746fce925fddC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94ab3af606d3494eba0d0e8b89715dd7i.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0e811bc697b8483d9758395a91aed2558.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0999abbc8d3a4c2bb8a2e988a47cff326.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se71898a24aa8447b9949b5fab3fda613o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ead24eb89024e9db88af184b8aa35a3T.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saf26350fc8cc45a5b8ae71b100c84a58P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d8532b88992438f92d67cbe74fcb91dE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S083671359ef74207b4bf8f75192f3062V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf89a688664af4fab8c51005ebab24aeas.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sae49a8bb462d421ab7decc429f3cadf04.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa047f2f040064beab654e3b833c0254dj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb00ccdce9c204a12a9c8caef04fd8b2cs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74bea7ffc85f4c6e9e7ac9259750d748C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4887d3ea0b34aeb99e2299d7d3bbf1d7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See9af88185064aac84d4a83db897ef72A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03b1508ea1df407790c26d5b8382f4fbz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6dabc0128b39483fa42690bc7c290de2j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e6bbe93c1454fa7b9298921b80a48093.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S89f453b7afe34e88a956c38b14ff6ce0z.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3217e8e601fc495eba12038f22207ee1q.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se38f4e1f068b432f91f584083d892aa64.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd5460b89f4a649aaae1076e1cbda2fbec.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S55ba3f8b33534671a189e9c3b1772174d.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf2bfc69f526b4b74821b3fa53a7d7ee1R.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6135d9087b45499494ef6faee9ff1c604.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6c1861ef7d145edae92d2ab724e2dc2s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78a5ada15359473d90f9c8fc66b46934g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2197a7207f54d1d9a6ce409e631ace7v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8767d5ac0e87424f8182c08b0c4c1cd1n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0e73f7696334d789aabbf24030764f12.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S755221398f4144c1848d65be4f4d38e3z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1757a932e2de40cabe86561eb82a3ca2R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc90b8cef2af2470389a3cb57d034cb3e6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5a7ea9e1a154b17b6897fb14a805f2aG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf90cb168953548ed9aeb186e66ca02d5n.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5cb1696f07454e2fa65d7069b8b291fe7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec019738ac61420f81c798d0d1aeec86a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scab8cf08bb25412cb36be1e45f290870P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc62e146bc529443f9e5cef209f3a596bm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6846864b666c44dd93eeb4716a989769Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sabbc8b69e8ae4bdb9911d791c9ccc281o.jpg"
+        ]
+    }
+}

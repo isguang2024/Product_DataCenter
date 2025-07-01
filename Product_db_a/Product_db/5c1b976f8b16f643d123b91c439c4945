@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "5c1b976f8b16f643d123b91c439c4945",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-09-21 14:23:54",
+        "第二层SKU数据": "",
+        "货号": "DG-174370569",
+        "进价": 175,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "10个颜色，方胖子链条包 高质量，重量：0.63kg，材质：头层皮，尺寸：17cm",
+        "性别": 0,
+        "修改的时间": "2024-09-21 14:23:54",
+        "原普货标题": "Cute Japanese Canvas Casual Teenage School Bag Aesthetic Sweet Messenger Bag Large Capacity Shoulder Bag Crossbody Bags",
+        "质量星": 2,
+        "重量": 1.200000047683716
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saed0db1be4404ee9a43241927d16c585i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S583ad68b80134487a4a8a6f250bf1f187.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S92a368a3d958492c9d744c41cb7d257cD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbae3c23105f748baae8360393c4351c2b.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa84590a840504b3c83fc0064a686e5e4T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S450495716b17485a9721c944a96f2440F.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S702834a943a845c88f3e5c27406f0613o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc518a49b1f04554bee2cb890024a0deZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saef073b17c0340ba8c851e1b8c0654e25.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6b8d6b5a64e4f0ab57ca58c1b43e03fo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0774dc3279f047fe92a24d412cd87741f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c571c00db134a2e95887a8a424eaecf3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S756039bcdb5443bca9db04f9def99952a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57d409ea44ce45428f72a26820e4533fF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa99369895b4247fda4863428db7e47e1A.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S39a10b6affa048808522079ef1c7b2a08.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S97247000e63e484b95fea92266f497437.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S16b2441b8edf4d3eaf40d21eab003432s.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S29b0c223a19c41109ec310ec9d77714aX.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sae2a5b8092914764b4c8295c2697117b9.jpg?width=750&amp;height=784&amp;hash=1534",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc4cf64bf3a44007aa391117ff13fce7V.jpg?width=750&amp;height=727&amp;hash=1477"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9c5ad73283946178a6e621b38c5257cH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb744bb8cdd4c4cc2b5928ea20dc43428M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74541025c143463697dabe4680d79829P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4cdafa1eea74d05b1b8ae69523e7d51I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57d9254d3ccb450eaebc0cddbbeacd7dc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6cb59bb83e5a46dea9dd3f3d2b90e30dw.jpg"
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "a569639ae5e0662e7f7c9d1effc0a410",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-06-11 13:43:25",
+        "第二层SKU数据": "",
+        "货号": "DG-165834075",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "材质：皮，尺寸：25x17cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 14:34:33",
+        "原普货标题": "Fashion Women's Square Bag 2024 New PU Texture Shoulder Bag Simple Female Oblique Span Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8b28cf095dc44487a861963a20f8fce27.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa08b4d0215e4aa8b204b6d286be9616D.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S423aa23eae044f6b8eb9b8fea37a316ay.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63d2ebc82184466c910453eb69e69fbfY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a57de5749654a69b52d9c9d9ecafb25o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S657b329e2fe94127a618da190411dbe66.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8539e1292b6e4224b3a6b5cf247004e00.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf032b9ee2df04871aef22fb9de7684cfZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Safdb2a8187d54bbf9952638fa071d9d1I.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sed551d8542fe4bfeb8c70d0c7ff028823.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1fceda53a9c040b0b5d3a6c0b2540a80c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf19436e36ed144669bc72c2726fc0ab8V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S499c538f44d3421caa1a29e33e25541dt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1758218709144da995aac6449f52a1fh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33399bd53161451d9a2550e69bf5b0899.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f0141f1a62f4d7ab5076cb67498dac8b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbfa42d518b344ce28d9ebd58f1ad8184S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f0eeafc49124497880b00efc4a249c2a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S674e873b5a4b4592a45ffc7c9ea4e8d09.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b5f2c9815d14746a6da5a438b47308e1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd06d4930da44622888faee4aef09e3eT.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7634adda76af46d589944b6c67b50a941.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sa0cf93cd3da54316a02d95a48334b3b0T.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd9dd3573769e462d8008cbdd784e0c6dB.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S7bc93d2c8d274e70b6204b1fc883f5e09.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sed2ff3d270934a4781daa3a92012b6369.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Se52f6ec1633a480393230ad6c3298cbez.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S36cc714ba6514f278da35cdc5f8cba41N.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S22ef0d154a5b4635b8cdf81c379728a6s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3141268286434858ab8a0c97095e04e1M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66ebb6d4d0fe4e9eb6d40c0818144252c.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sed2ff3d270934a4781daa3a92012b6369.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36cc714ba6514f278da35cdc5f8cba41N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9dd3573769e462d8008cbdd784e0c6dB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7bc93d2c8d274e70b6204b1fc883f5e09.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se52f6ec1633a480393230ad6c3298cbez.jpg"
+        ]
+    }
+}

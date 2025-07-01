@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "df7a73db7ca2e40df383c32fe4c12e63",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-07 19:53:00",
+        "第二层SKU数据": "",
+        "货号": "GY-W508971047",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "单肩手提购物袋\r\n又甜又酷 一整个爱住\r\n百搭时尚 颜值超高\r\n是每个潮酷女孩必入单品\r\n尺寸16.21",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:08",
+        "原普货标题": "French Retro Cotton and Linen Bag One-shoulder Canvas Bag Forest Style Large-capacity Pleated Shoulder Handbag",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9a53fe6cf3a449f793766f7318e4a350g.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S92036d28a3bb4f228fcb9a016c545215q.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0c63573811bb4c7fb0809766833eeff83.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3363e425b28a46918cd9e5bffdb09ca6H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9def353cdfc64273925ba51dfd228643y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se48cb2a0db164bc393bc961b119de60fW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S107daa40da3748beb793cf8310d48478o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c63573811bb4c7fb0809766833eeff83.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67c9ad8c9db74175ae9095e6109a073aN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7d5099eb909402d8cb3e69696c64e5f4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ce1fc1ec7ee47f28ea588fa354d8e5dN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46b279170ac94bd0a125a37784edae06w.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se0ae06d38aca4b199c0ca6f5e6986ba0o.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc87c6bed81824727953748f1b61800b2w.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa452ba7ecd0b4a2bb1cabe40e0f691fem.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S24f00d36ad0648a0846896d8d6d2fd8dL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4633df18d51f485cba005f4fae61c594l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ff5fef5e7194ada8c7c493c1f978a95w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6a23fec72594d63806f14527d561afcB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc68f9716f47c4d5f9fadd1eae7fa9ba2m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa5a7a1e2deb4bb182c762a3e8beab684.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S73e2cab86e06476b9dff9674d3f01019N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b73c15503b74feabfb368385645badfE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b12e4ac6b9245daaf1b606503545ef05.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa51c35aa3a62412c87196ff3b09da31a3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ba14c5a982c43baa8afbd087fe37420s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa452ba7ecd0b4a2bb1cabe40e0f691fem.jpg"
+        ]
+    }
+}

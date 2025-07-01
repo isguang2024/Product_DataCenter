@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "5445b8ccc539199d8e6599d426c4ca56",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-09-25 15:56:56",
+        "第二层SKU数据": "",
+        "货号": "GY-W2058443837",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1007,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:50",
+        "原普货标题": "Women's belt Leather Versatile Decorative Jeans Belt With Suit Ins Trend Luxury Brand Design Plus Size Belt for women",
+        "质量星": 2,
+        "重量": 0.5,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S62deb1a331d64e1481847c48e0bd2acb1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb8bbf4153f346739fd47a04c600d812m.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S33aa3b90c0a04a5f973f57fe631eacf0C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d9da049ec22452186303a2774996bbaD.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8e29ae3faac54859bebdd003740ba082K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S367359cefc3046a0b623763adf96c14cp.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc25ef3f6b6044adabfccb9aeea0b14a8y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5867ce226510430f9148b599bae83d9cJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S945f7caf0d9642838b46f46534b9c39bh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd48898ad155742a8a4396d5c6c275f22c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5de3a08646394c68a4824cf13e3f4f18S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S776ca1203d1647e2bc1eab9eecedcad9E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4dee29b0a77841bba0fb9993919d0740V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbb16d7ada9540c2a408f372695ccf36G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67c7194193554fd09bb5f6c6c140449bi.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S1a8c42f892664a1987cbc53dd3b88ec1X.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8d47f694e4a64dffa71eab95f962bf96u.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S5c05ed0a26a446e1b2c6e0cea37b80e3m.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd40b5b6c388c434eb3810e49a2dfd69be.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2b1c0e2b9a15430b923e168f794df43cx.jpg?width=790&amp;height=1246&amp;hash=2036",
+            "https:\/\/ae01.alicdn.com\/kf\/S76fdc60cb8d9449387c90d5e810f2b59Q.jpg?width=790&amp;height=982&amp;hash=1772"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbecc0082b5ca4999a8b6948936d3b4f4p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78c228992e114faf9cdc50da55f667f0p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saedd44fb173943af828785c726aee7acF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbbd6b4bdaaab473484225af0cc2eb05dM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb7f2021eeba40cfa4c7e9bf69ee5a17h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21d9e7be27b1479a8216e714ed49de5bX.jpg"
+        ]
+    }
+}

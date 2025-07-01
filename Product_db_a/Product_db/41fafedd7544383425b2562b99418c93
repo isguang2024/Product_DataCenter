@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "41fafedd7544383425b2562b99418c93",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-24 19:01:45",
+        "第二层SKU数据": "",
+        "货号": "GY-W2133572174",
+        "进价": 205,
+        "利润比": 85,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "尺寸：26 15",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "YS Classic and Fashionable Big 2024 New Chain Lingge Small Square Single Shoulder Crossbody for leather",
+        "质量星": 3,
+        "重量": 1.299999952316284,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7cdd110414fc4363906761e252083639B.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S54ca31d91ea04de582b2afb4b43d40d2A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0363fdb7a4a47de806103d6c789f96eX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa35b4a8fbc004d85a8cb117596fa64d7E.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5ad13e792baa4aa4b94c927c458604f3b.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2398234cb8a24084a2539e8fd9b48aeaV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1bb4d02c1394a7daa8c73ee5342d5885.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S730e8a9050bf4ab6a423b323c48d6026X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6b7c72aae524a8599bcf867f95b92edc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb97f08676f4442aa8f4a88870b21b8ffO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02ab40c8af8743aeae051e021792f53d5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S508e1f67e0904062a669aa386f66a0f04.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3798a869e4a496ba35d086675930ea4a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf01a2bc0bc2b45feba62cf89b46f9af9e.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se712093aee3943918fbee0fa6ac6d7c73.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc09ed70b4aa4421b9f4160f7865ac556m.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S86e1f8401a434dc9a88e6c05aec90b5dg.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S176859ec0fc8435689b7f3e37789b1c1X.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S196eba1591ce4d4ba333daea845c0b91C.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S55e85055c7914078b4f9d18b97f17f91K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8e2ad6405fc54e4f809e0e9efbde8f122.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc70ed19d0b3e4559adbbdb613d6ab0a2E.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1f91a868fe544fbd9f33b0dbbd9d9611E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0c38e29b817433e86e77a6980277e6bu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0888c9e2097a4e4cbc4850d6d213ed17C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55e85055c7914078b4f9d18b97f17f91K.jpg"
+        ]
+    }
+}

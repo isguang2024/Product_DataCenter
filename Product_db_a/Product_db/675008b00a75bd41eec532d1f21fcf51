@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "675008b00a75bd41eec532d1f21fcf51",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-07-19 14:15:38",
+        "第二层SKU数据": "",
+        "货号": "DG-169725558",
+        "进价": 175,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "牛仔购物袋 高质量，重量：0.85kg，材质：牛仔，尺寸：39x34x14cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 15:14:50",
+        "原普货标题": "Four seasons universal casual fashion trend all-in-one denim bag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S803fb2d759dd493db553952b29273216u.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4898ab4a71c41199a87b48585c2516cH.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S803e3f9906564d8e83fc14c214523c5fi.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5ca79eca722e47958576d10717f02a5dR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61029d068b5c4a3886925607cea48e37w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec144f0c975141cf8da27fd03f47b1d45.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8e4f67f3558943f1aa911e9eeb04ed0el.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60326aa6bde042aaad214b82226cd5fa9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a7a208a04fa44278cdcd6d9204e68cdE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfef41163c3134bfcadcfa53c93e8779cL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b9d2f059dec4331bc368590c2edfd09h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7a237bc01ee428a8727c593788fdc5cm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se92108bcd29c4459a8af29f8fce50a09b.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sbdaefb9829054dc0b790cc6179c1f2dcV.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8f1842e896dc4cffa8f20b87ca6234def.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S51f98428da8f4420adfb1724e2a5ba6fE.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3ab5a935dcc4582ac8555c722800ae3i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S122f723d14174e369fc0eecc529062954.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S745d380cbbec43c68cae921545b3b1f1S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2450badb83e64467a2db6d89acfa3d8dC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8231c967f6004830b84a7837764ca9943.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c8b2b2f18a742b78381dd8b2fb88d6cl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8426c44c4964e3ba747058a1cc0d9e9W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See75457ad7dd4c5cb7555ca8b8c2298ei.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d8a4d9504654d03b9c2f3e4ddfa73e8I.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3e438d3a19954a3aa0d2aef9cbc5bb53y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf43732680b14e25ad3a8b9af5ee8fffN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S597611fbd7bf42de8cf412fa2a2edd2da.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2450badb83e64467a2db6d89acfa3d8dC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0aca1aa76b8f4960af0c67a2fb80ea608.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8231c967f6004830b84a7837764ca9943.jpg"
+        ]
+    }
+}

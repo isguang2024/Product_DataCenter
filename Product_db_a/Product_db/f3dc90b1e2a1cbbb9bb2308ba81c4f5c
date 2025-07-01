@@ -1,0 +1,65 @@
+﻿{
+    "info": {
+        "ID": "f3dc90b1e2a1cbbb9bb2308ba81c4f5c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-09-02 13:44:07",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W1976668353",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "尺寸35—40",
+        "性别": 0,
+        "修改的时间": "2024-09-02 13:44:07",
+        "原普货标题": "Women Sweet High Quality Beige Pu Leather Buckle Strap High Heel Shoes Lady Cool Comfort European Stylish Heel Shoes B9024",
+        "质量星": 1,
+        "重量": 1.100000023841858
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1ba86e8e644c4a9ab08ca0c5d199a692f.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sad13d53dde7643b49c14b0254d232659C.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S729da8aed10a43919c731d50f33009a2p.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Safcdd6ea40fd47418d20b1700dbe4298t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1aa30494898e4f039d2d326ef49112bfZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2f5d772ee4e466b80f6feb55b7d7ba0Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S545d0fd4dc214b2981d63f81ab58c5a2H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4aeda55fe4c94aeca0289db64e1522ebl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1343cf00f1644f291170f374bc5a0c3y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c363346634d4a6fb3192dea2d6f96ba9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50dcb9551c954352b1a1c88d2deb15b6i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb3c322260514e31a8311f39c4e4aebcS.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S121164cc16fe45858bd03a03680e34b1K.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sfa386d2edfc145ed8fc18ddb65a45582Y.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S2ae8d6d0d0a340c68645de18d537b147A.png"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6343776d5c9b40daaa83a2ebb0cbbd93x.png"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4ff36bb009447da8786613c7dd4eefb5.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S69c05cfebf484911a84eab3015606b9cd.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb23313a854e2475f80e32bb429362578y.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S8df9211d2ccc4ad6b00c7451f0ce91984.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S1463ccdb257e4ca58ffd2c884a590173u.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf74a32270f1040cea98c94340193e02bN.png"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "4e731ce1decc3123b5db7f7c61cde10a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 14:57:05",
+        "第二层SKU数据": "",
+        "货号": "GY-W1559934870",
+        "进价": 185,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1190321189,
+        "普货模式": false,
+        "商品简介": "尺寸19*10cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Cow Leather Bag Ladies Genuine Leather Handbags Big Women Bag Large Vintage Female 2023 Office Hand Shoulder Bags For Women Tote",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S21623e52073849f19508aa6839a9c1bbb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ef71f7d19a74b428fcfd752380ecda0P.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0e668c043464374a5a67ac7b4069418d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69ee74d3d69c4796a237ed43f18afb1ex.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6d2148ff4aeb4d7f89c11d5c5131dbbfB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ac2f9bf9d29453fbc6e6e90cee72268b.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S65537d8281794279a0329ad2182bf90cB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2268a7def50d4177abbdba4151523cdcr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa196958888d846bda4bfb8df27a18fb2A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S596ad258f6fe4f09a255907a77ae21b66.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29116cdc8cf34540a46aed9a7f6ed0b06.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3518910942643cfb254608b6cd356c4k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ba503e3297d4f4cbf1727fc3671beabN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d25ca39bef247d8b32a3a479fb95de9D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1897037c2904a9aa6c66c02f9d65431G.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S5fa1532da5f14d328fc995a05b853edaE.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sadaca9ef50ea419ca8d71bfbd5686ebat.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S874b2b8e1f334ec9991ce502a1582b1bn.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sfa1b7433991b4ec79bcdd0143b97474cu.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S03218d7635e84a9d9f75dbd1e9aebd03H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hf298ea097f314ca1bf7c10138922d90fa.png?width=233&amp;height=312&amp;hash=545",
+            "https:\/\/ae01.alicdn.com\/kf\/Hf298ea097f314ca1bf7c10138922d90fa.png?width=233&amp;height=312&amp;hash=545"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5e20088501df4251bbb9c276cfecfbedo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c0eabca5e7b413582e28fff2e7072b4Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48f13a9d42da46539ad84d8f45895093a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se672f5ca20db410183a41b35f4fa67c9g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1068f787ef14465b0f3a9f42868b5ceO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa2a206674dd45c696fc5fb5822d7956M.jpg"
+        ]
+    }
+}

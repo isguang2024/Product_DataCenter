@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "f82d88cc86bec4f3935d45f4fb5b3636",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 13:56:55",
+        "第二层SKU数据": "",
+        "货号": "GY-W1595489413",
+        "进价": 175,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "尺寸：24*5*16.5cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Cool Street Handbag, Large Capacity Women's Shoulder Bag, Trendy Striped Canvas Crossbody Bag, Fashion Travel Shopping Tote Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S917997371cb44cc0991a13905395cb9dA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9bbbbc64087460aadadc38854530faez.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7eb618ec858444391cef26f60ca13966.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0755df289f014265a50783b8beeb5de5W.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scdac7c775fa942babd6db90559573fa57.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55d290b96c47482f99f20f19632ea513z.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6a2b4b80b14b496088b138d786f67918A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7919fb845ce94b88993a0bb0953e7826m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7144c7470ef4cdaba4035deee67ca13x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f58fba778704b24b1728c0192791942s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbea0fe1840ac4b25b5e73b6f0dea6eb2O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8183f2b69b90484b9db5f4b8f359a33e2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S903548b575144f33af0d8ed95c3959d8a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S387ca6468f094736b363ef4b05deeae6o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d36a66cd0c144f49c6afc147b62e1ea7.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S87b9dd8a8e0c44b9ac774e55ffba7b97E.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1e38a616b4474e68ace2fcae8629fae55.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa31524c3773a43298723686d353f4e2eo.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S122c0026ec7f4a209febfccaa4217f77B.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S388921af8053427fbf1952d689806331S.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e3ac79a78194b23a29e07546bb30d15L.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S71c1ede703c84480affc1ed47d246d325.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S3213d13b5da547edb766753bb7ed0d2fU.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S30252381e59b44e6ae4773f7b6f0d66dQ.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b0d5338147d4b349ca67ac7d848a6b0r.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Scfc5a16ab06e44a28a2689b3795b0afd6.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf771e9e3ae24020af13ccca6634fe5eA.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6ecd256e87543c495d48950becf1ce5a.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d2e5cedfa9444f9a007fc19e3a8d1593.jpg?width=800&height=800&hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb868bc83321949a78cfb5fd07935b32f0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71bf2d7bc0554ed996c190b5d0003fcbR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00d796331982471986681694973b89baV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2aab1507d897400dbb14f0f683051de5c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfa0110ef5bb4f8e8afaef801ca74804J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c328a745d0f46f99eebc1740a801719R.jpg"
+        ]
+    }
+}

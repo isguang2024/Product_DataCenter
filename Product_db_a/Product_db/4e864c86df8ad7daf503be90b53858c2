@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "4e864c86df8ad7daf503be90b53858c2",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-06-09 13:32:03",
+        "第二层SKU数据": "",
+        "货号": "DG-195751514",
+        "进价": 115,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "斜挎包 高质量，重量：0.6kg，材质：尼龙布，尺寸：21x16cm",
+        "性别": 0,
+        "修改的时间": "2025-06-09 13:32:03",
+        "原普货标题": "Casual Collage Student Messenger Bag Women Small Bag Canvas Shoulder Bag For Women Celestial Print Crossbody Bag Bolsas Sac",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S912931c103114806ba5cdb1c77231f701.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa63e549989f04dbf80151f742a48a3aet.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb074ea633fb041cab5090f7369e5d3caO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S90c0836a1e534041a7cf64272cfedbeeT.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6c3ef537471541b6a7459ba5727a94d7H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb424b1c344f041348c5d09b570947f9f5.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6316a80bef34d48a0b2e68056c1463cu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0774050cc2a04033949110a16f568c54u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3bd1326400854cf09f9ac3a4ca3a6864u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94cc9717400d4e7eb0f4b7f53418132aM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47374224696b4fd082029886087e46cc3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1cddde7ca581497b899efb13a772d4a9g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se58e652520f64782af77a9c7bd1fb9161.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S949279b52fb9407d9a3020ba5c0a53d0B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13b78cc320734612b096115a418b2a09G.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd3ad03298c884e30b719750148445ad1k.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Se1ec30502f35478f809f0ee88a42f4b1r.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S11acd8a99f114237b204f13fb1d1d97fh.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd2b50ff123ca4cc8a7a5cb584f5ecbb9E.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfaa1285f98be47358947e3545ddb3131T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48dcfa1090634e2695bb8928b3c9d28bL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab6a171dc3984e5fa20d2e35924137a29.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb27429315f604ed197b8265b4762efc0G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefbf2f0e24954e8ba734b243c690d725u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8ef3c21b08e46f285e700e31c241219s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96174a84717841ffb9906d75fae22e438.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S551f632a524442b58eec5401b9d0c16er.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4f9e3271338436cb8bb0924ea85b2fal.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5c1ba2215d7f41279877684a7f62c0fcO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88354ff37c9848c39b2affc2cc82147aB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d4c2bdecc4c4247bf2e847e32e9eb2bw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35802e7c3dcb4f82b7af960ae9b4ea885.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S752a56ec608f4493ba3de34dc5e04cac7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2aca1f39debe498f94e8ffc8efd49010K.jpg"
+        ]
+    }
+}

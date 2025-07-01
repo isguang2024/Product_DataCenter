@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "36417127f1767f82fb69aa84490bcf4a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-07-30 15:10:17",
+        "第二层SKU数据": "",
+        "货号": "GY-W1946250346",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "长24.5X宽15.5cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "New Fashion Sling Shoulder Bag Trend PU Leather Messenger Handbags Solid Color Leisure Stylish Crossbody Bags For Women Girls",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S45c57a437ae347e2a7da769a2a639685U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ca890a2eef449f29dc557289497714dH.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6b58484a6747414c89319b2e6adf0659p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d914b79499d4bf49d1776d7385b833cm.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5a66e4e23a9f471e9b3ff7ab8008f268p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd4acd2636e2432889548f74193679fcv.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S46cc281c056546b1a98e81accb651a0bG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a66e4e23a9f471e9b3ff7ab8008f268p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04034f88899a4d4a9c1b9b0dc5853790H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6fe6b42f800435885f43fccc41cb5a8j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0013bc7414b44cc9e2a0b7a5be29e2eA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c69fba43cec4b36aa59de4fd44e119cw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e4c3899fc084dee984b8485afcfc8a9v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4fa71662bfb4ac8b7062590f6622446N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3cd063b520074fb1b8aa23ef2a2454e11.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S799654caceea40cb9b38ad264b61ccb6C.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S65b7283085f2455c85e20c49dfe82643A.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S931ea19bc26f49f9a47900ca7a117a7cl.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Scbde4774588f485a84aa8c2695387c58d.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7966ae62e5b846a8b3123ae1785a62f93.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57b524ea0c9e4e4fb24e3a82e72ec100P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b56585e098443f8980bf8dd6fa1680eI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S368f238c29204f99890228ad3ac2ac0c7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd268e39fbc5741d3878fa29578b0a8a6P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S238d12bc407747efb56cd74f9fc397c5s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5941efd90f7e4924bb6de1b2b799c7bei.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75bedcf7ba5f40fcb413a0551010f0f1x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a41c9a778064fc6a3e42e70624ce13cy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S32564f99565c459da1bf7cd15e6f73e9U.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3e6b12c4c1ae48dfb90f77291f7a81a7g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec50a95f8a964638852564f275c6caa4E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a41c9a778064fc6a3e42e70624ce13cy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a51ad4c588d40dcb0e9a64115b75885n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b56585e098443f8980bf8dd6fa1680eI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57b524ea0c9e4e4fb24e3a82e72ec100P.jpg"
+        ]
+    }
+}

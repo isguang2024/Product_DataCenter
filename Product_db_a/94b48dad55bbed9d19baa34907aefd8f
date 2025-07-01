@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "94b48dad55bbed9d19baa34907aefd8f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-06-25 16:49:51",
+        "第二层SKU数据": "",
+        "货号": "DG-199299575",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "白三彩化妆包 高质量，重量：0.68kg，材质：头层皮，尺寸：28x16cm",
+        "性别": 0,
+        "修改的时间": "2025-06-25 16:49:51",
+        "原普货标题": "2025 New Trendy Women's Nylon Shoulder Bag Large Capacity Lightweight Crossbody Bags for Women Casual Travel Tote Simple Handbag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1bf17098ba294fd8b0bb514d6d9993abh.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3a095251c844013b2030369d096ed46I.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S35956ceae9a14d138ad9a8242bc7c881x.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3cb98ef179f416097e05c7d109ccc3el.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd47e308a92248ceb415dd2ea2b0f14dB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c431c9221504a489f483af36eb54470h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S176dcba550944c80b314d2e64d0c4376B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29bc430c748c418dbaa5eb8db5435d19D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a90deaf86c74e2eaf6d59cd489a2c07P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S14394b8755fb4efd9bf5cc8b5c07dae07.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe288295b736441da3dda81d508c0a55A.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4a5850c3f9fe450e8ab73723066dd002t.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4f2275d2bd104655ba7ef77a45bb09c5J.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S648dc9826d5e48c99117dcfbadd1bac8P.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6f14007f0b3a4a0fa0ef76b999eb15f1T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S424ddc5a6e324d3793ee451e38e39c2cv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d22083cdc1e443ca23705c557e52ff1b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69f0b571d7374d43bc49b7068b2ac3e0o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99491362a9224ce885ba90e1904a8bc0G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c1726cf940f461591d5159cabf5890cS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ee5736b7c124a91959dab1a882e6b576.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b7a62bd062d4e95b4eaf1398056810do.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S638c5eddfa404477bf01c3864250b8941.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S18495963b85f402c802c1544474d7651F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5bc24220a4e048b6b3f2c4b1be49f91bY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c899154fcf14ad481ac7d4d15b0fa1b7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69b98f1543844f819174ca87a68dc3d9n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3bc76d3273a74213bf3b8d0c323cba6fZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd2ca974574145029db2d8017e9546f0F.jpg"
+        ]
+    }
+}

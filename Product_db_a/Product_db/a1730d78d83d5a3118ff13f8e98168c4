@@ -1,0 +1,82 @@
+﻿{
+    "info": {
+        "ID": "a1730d78d83d5a3118ff13f8e98168c4",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-06-11 13:48:37",
+        "第二层SKU数据": "",
+        "货号": "DG-165741482",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "材质：皮，尺寸：19x12cm",
+        "性别": 0,
+        "修改的时间": "2025-02-22 11:59:18",
+        "原普货标题": "Small Square Silicone Cosmetic Storage Bag  Large Capacity Travel Makeup Brush Holder Portable Cosmetic Waterproof Organizer",
+        "质量星": 2,
+        "重量": 0.800000011920929,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S341d0ccb90364495bd5ef70d1fea67df2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Safa0ac7066404941bdac7175f0ad3b196.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5883909bf6ab4360b14d8561dc68f5d7D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf60190b938824fbabfa36ac7b40f5ec60.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdca5f98fd42c4d779c2884c4a673c1a6a.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S47884a10dd444b1ba771d4ca43bb95faQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61f8943427b443f1a756874dbd6755efa.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5f995c1b83874ea98af1cf06e54cccb6h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61f8943427b443f1a756874dbd6755efa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3082ebf075f455fbcfb156540494511N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d41b8cada154ad0a92e075333052bacp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93c5b54968c947158c77571e400265aaK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa23eb17f79434d459129526270fc63caD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc08fec7c5c5e4c8693064e5231e2aee9J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8abdf810c22244f3a39384a242ab56dff.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d5dd98d76744bbf84efe7ed22d36e59v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S249430a6b6a84fabb89e133d33775efew.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5134ec9b817b442fac0d7949c7280666j.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se3ad18a6a4d442acbdd868b074976e1fP.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3d7659fee78640039d0c263107f802a8a.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa94c3d2c3f7d426bba8354ec327cb901T.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S28a485ff6bd54d45a9150635add78b9cn.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/See4ec8c0bda74b258b01daed35cc8f335.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S34b3d2f316d3491d950e1963242f591aj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f51b0c5cbba4e04b6340ac51a30ca4dT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc52ecf665f134956b693b45c47199b3dF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12be5c81a288406dbcb87a5387bae291b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8199f87360dc4aa2bc48408658f6ef03D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c50980aa7584e219af34d9de2e3dfd2i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc82384e91ea43b5bc1ad80aac3b2cf4h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0216ea75bd642939d273faf65148c11L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec202468d9ed4ebd8b0639f38c7c9393C.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1f30b9228ff44714a739dc18af01a83eX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8480da791714495a725ff5f4f1e0017e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5f9c5cf01d24ce8924de31d04d19eccB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50455a953bfd48c6855b0468a2e137818.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52b6f7ba735c4aa486e99259a4c5033ar.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0e2e0e492084a7187505e15d4564b86d.jpg"
+        ]
+    }
+}

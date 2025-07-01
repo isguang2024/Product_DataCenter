@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "ff30e37cf5a721172d928f88ecab8812",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-05-09 14:04:14",
+        "第二层SKU数据": "",
+        "货号": "DG-192071251",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "双肩包 高质量，重量：0.72kg，材质：头层皮，尺寸：13x18cm",
+        "性别": 0,
+        "修改的时间": "2025-05-09 14:04:14",
+        "原普货标题": "Casual Creative Shoulder Bag Canvas Solid Color Simple Female Handbags for Women Designer for Daughter Gifts",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7bce778d411b4f56abad1bf820f5c828P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S039000e861d74be4aeb1d6cfc8604b1fO.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S67478233e63742149a0232bc31948e22O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S951194d91ac140cab662a62a82306c76Y.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S76a570bba9174dc5be521654d2dba84f5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S091c6f47efa54860b67179599f54a106o.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S12dadfca8b9d486488c25a0a751c8314c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fce4e962efb4d55a103acfbe9993aebH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S91ca102d02be49d4b00fecd56a734abbk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f7386f5dc1f4896bd633e755012c195H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a9d9cee33e94b6fb7cf52e965a79f13c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S091c6f47efa54860b67179599f54a106o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d328a6385034570b8f55bb97f74bd8ff.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4af715dd70740eb857911566cc3bf6ex.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf5e9b6aac5254734945c017bde4fae0d1.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sff10efc23f414a86a947c036a46620dah.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S321f775260fb4190a5ac8d004828615dG.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S82bf72ab10f349c5a5ced9ecfbeaf716k.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/HTB18IwlgNPI8KJjSspfq6ACFXXa9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1qnxscBLN8KJjSZFPq6xoLXXa4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1OE2JgJzJ8KJjSspkq6zF7VXav.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S22ea858c41c64ccebb98997ecac3fc462.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb470c3ffe91846c786bb602febd7de1fZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf789de2fdc7b483892e95c61cb969ca0q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S32db646310fa4643aec980497be9e6207.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39de96aa40c94e6c9dea687c787fb527q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6659aec5512d45ada514391cbd1b1d1f1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa819258fafe246429f80376a31a5e8afL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07a220077e754c8fa390cb4591628c55I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b241e406cfd4ff7bc64751f8bd85f74a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbe006de11cd40f18ca6bd58512f87f2K.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S07a220077e754c8fa390cb4591628c55I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S706d30ca68204860b8735b755571b3696.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S252bb6fdc53b413e954ccc388ad0ca2ey.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58ed356813a34894bab1896a40e1c321S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbe006de11cd40f18ca6bd58512f87f2K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39de96aa40c94e6c9dea687c787fb527q.jpg"
+        ]
+    }
+}

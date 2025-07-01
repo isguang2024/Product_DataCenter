@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "59d552c90406d60bd4a15667b5915aa7",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2025-06-20 14:31:17",
+        "第二层SKU数据": "",
+        "货号": "RB-W1188135933",
+        "进价": 100,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "原标 原盒 正确版本\r\n定制印花鞋面 私膜真皮大底\r\n全套专柜包装\r\nSize：35-45",
+        "性别": 0,
+        "修改的时间": "2025-06-20 14:31:17",
+        "原普货标题": "Women's Sandals Summer Home Slippers Garden Clogs Shoes Waterproof Sneakers Man Beach Anti Slip Casual Flops EVA Soft Flat Slide",
+        "质量星": 2,
+        "重量": 1.200000047683716
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2205ecab41041929f1c3211ea29cf75i.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7e80643cd16f4b3cb04cfadd2f7970ear.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1bdd4cc5299a4e7f8848ea510b7dc8b45.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1874fcd62fd4794bab6dd14e07ace66N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa9e48be8d2140f89dea4f7f7565b53fj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b40927499ec48f48a8cc919d172edabr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71f3fa119ec245ac8f25169877ee053ct.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5c1df712ab1415981ccc61c14db64b92.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf83033401580483aa0b39f8834e24ff9c.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sff6382ab3b5b496dae59dabc4fb13e64x.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S913e7aad397849b0b5fd4cc80ddaf1efm.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd65950270a274fbfb28f9a8c8473512fT.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S71d6d65de9d842efb157bd4751535163T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75646064c63147509cdb17ff33155c1dI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6ba4d7c840f4cf1809a087c188bf467m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5de880997e28480c93996d7e477dac37K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43491d76ba394cf38e2dd0c15e0e1431v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf156bb4ec3a24dbbbbd9d03bdbf459daA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9664645a5ddf4cc9bf2ecb9a4ecd99ebn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5421a4cf74be4f90aa2c42af964e4d645.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52940cb99d444d60b58848b8bd622904y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2e40521bef94baaadfafbb60350bc94Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61e72d31b8aa4cc1ad7ab7eff7b9d9e7b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18405b9ea7fa4f618a494381f2b56f843.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0c625ab75d4f40b7af15d5dd9db9960fR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e23910eea484cedb0917708c49eb603A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3bdf493cc10c4a9894432926170becc9r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf19ecbed3e0c40f18c3c79c0497ddc84N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2e40521bef94baaadfafbb60350bc94Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61e72d31b8aa4cc1ad7ab7eff7b9d9e7b.jpg"
+        ]
+    }
+}

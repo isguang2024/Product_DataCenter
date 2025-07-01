@@ -1,0 +1,84 @@
+﻿{
+    "info": {
+        "ID": "87c25588618b3ddd33f2bb8cddd6fc44",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-05-27 16:24:59",
+        "第二层SKU数据": "",
+        "货号": "DG-197260104",
+        "进价": 170,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "水桶包 高质量，重量：0.7kg，材质：牛仔，尺寸：18x19cm",
+        "性别": 0,
+        "修改的时间": "2025-05-27 16:24:59",
+        "原普货标题": "Large Capacity Lightweight Canvas Bag New Waterproof Solid Color Tote Bags Canvas Handbag Shoulder Bag for Work School Travel",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S648ff0dd49d24bd984942b7f575b1fc0s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe1a3ddf9089483bbb13367fbc3f6797a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2ae4baf5d054c2f9ed98d964bad66e1X.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S40de6973a53744328a15caaf30066a87Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0669855e0f90465ca7343ed43d61fdecL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3681e48765c84b9eabc109662a7d9bf17.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S10e600c65edc4d02ba12cdae9af55f22H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44c308a172814c8998115de51f467398U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S774cf572e3f5456ab1089c219e6a02e52.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1935cd6ab3234406907b63cbd5775c07S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae1680b0cee042fbb0805c1779e21eb0M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01c6d2c6156444ab8e150df5c75afd1dP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0655009cf92940e78bc6f0522b7b0915I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S718918a726f34d5d915343774c7ed2951.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sddcdfde91cfa44d48cea3dfe0d22cafeU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S760ff8657b4a485db1dbb3dc690de191j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c8f1702f91647288b83742ed925299dU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3616474e18594a93a485b5f0b3e5da53G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1022b64a29c14fd98e6c3c57b49e60d8B.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S555aa951df9845bf9eb0df31b2370f88n.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7cd7d89abe434f47bdd1391f27124d6cH.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc19a767089044ca4972ca96e62302dadY.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S72fb08c30c0a4d559234fcca85b32a8eQ.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S88ad792d7d9549ec88850e4b04c34524v.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S307f2bfe576340e8934ba38156c306ea6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S750adaf0cbe54bf8bc60abdd46ea3b40r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8876da823874e419e54122cbef6f5ebr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42a249de81af4b34b9a2fdc4509f2e323.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd1e70a9892d4a5cb06a0e2154b97d61i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sabfe5ff1ad4f4027b9459abdee191be0e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98422f500ce74ec8ac5b00a31027afacM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8e961948a7c42a3b7f9a21172ab35d8s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46f19f8fec5840bcb287ce85863a6466U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc7ce0a27a654dcaa6b3e49a365c228eo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd46c3d186f474a9dacbcb766953c629d9.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd59bed6e366948b78b49612c3a19e01eY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42a249de81af4b34b9a2fdc4509f2e323.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc61a8037eb314254b71649f07f6190218.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9cc5543974e4a4590ba73a423a93072U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc7ce0a27a654dcaa6b3e49a365c228eo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S307f2bfe576340e8934ba38156c306ea6.jpg"
+        ]
+    }
+}

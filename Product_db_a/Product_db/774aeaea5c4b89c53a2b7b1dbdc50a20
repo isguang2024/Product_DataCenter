@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "774aeaea5c4b89c53a2b7b1dbdc50a20",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-07 16:58:56",
+        "第二层SKU数据": "",
+        "货号": "GY-W560198030",
+        "进价": "90",
+        "利润比": "100",
+        "品类": 1002,
+        "品牌": -1190321189,
+        "普货模式": false,
+        "商品简介": "尺寸 11*10*5",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:08",
+        "原普货标题": "New Design Sling Bag Women Korean Style Cute Shoulder Bag Soft Leather Crossbody Bag Underarm Bag",
+        "质量星": 2,
+        "重量": "0.5",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb87aa15c1ab24473b681d9d93b44cd09I.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S091e394fe1004bd795a46168b921055dk.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saff5dc12c58649e9a406127e2ee596862.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saff5dc12c58649e9a406127e2ee596862.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e63c4039e8f44e78c2dece983d044c9s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b813a632189434690d791fb152e2698Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8eca9c9a68484a1ebbb9ed11f493dce1o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d4ca6b65d3b4edfa6cc0ec31faf9d1cn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff124163acad42fbb79033554beeebfcI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd198f41c3a3f431da2c31e49dfbb11541.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7545774c389a494e8fb77459ac0f2746N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefa0dfc2b56840cf988c6f0236fdb3e90.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S40d68fa00ce04d8d8921cb7c5b9bedae9.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf742f8b2221b4b4fbf96e06e996b57acc.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S436fc7a89e3943138c956f6033e6815cr.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4e6ea537c1304d31bdb00c7e1c7652be6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf75331eb00a4fb3bdb8a349abfb2ad6Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23c7f3454cd1410ca09f5a0ee4215a96c.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S436fc7a89e3943138c956f6033e6815cr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44fec04977fe4960aefb53b746cda622I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e6ea537c1304d31bdb00c7e1c7652be6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc89163fd77874ca38c274dcb249aacdeF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf75331eb00a4fb3bdb8a349abfb2ad6Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23c7f3454cd1410ca09f5a0ee4215a96c.jpg"
+        ]
+    }
+}

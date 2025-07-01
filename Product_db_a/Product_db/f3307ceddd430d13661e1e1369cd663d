@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "f3307ceddd430d13661e1e1369cd663d",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-05-20 18:52:49",
+        "第二层SKU数据": "",
+        "货号": "DG-157724456",
+        "进价": "150",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": 577247229,
+        "普货模式": false,
+        "商品简介": "材质：皮，尺寸：28cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:53:51",
+        "原普货标题": "Fashion 2017 Full Grain Genuine Leather Women Messenger Bags women leather handbags Shoulder bag Crossbody bag Casual Bag female",
+        "质量星": 2,
+        "重量": "1.4"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S94ff083b2192450c96277530aad24149y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sce4966089a6c4377b20aa2a61a8f63a1y.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6f56fb9d2d184ffe912a846d1b425e82p.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3d6f72fe64f44add8fba2158ecc878b5Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f56fb9d2d184ffe912a846d1b425e82p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5808fae41cbb4660be6f714d06b9a988A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se5ae46ff619140d49c1613fb8bca8a4aZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc6503be548e44f28c8ff8be49eaffa1C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f051af491da4e8ba89dbfd358ffc7ffz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12864f90ef7b4f7fa28f98270708c7ceT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd34664ad23074506a5c85479b4fe6a35E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e16fdb5e56e4a2ea12065c04ba1577bO.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S6f56fb9d2d184ffe912a846d1b425e82p.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb7b9da767918462aa3511b92110be690Q.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/HTB1OxjZHVXXXXX.XpXXq6xXFXXXz.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1j36SHFXXXXXBXXXXq6xXFXXXm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1MB_MHFXXXXaKXpXXq6xXFXXXn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1zpvRHFXXXXbzXXXXq6xXFXXX0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1oefyHFXXXXa2aXXXq6xXFXXXZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1_MjPHFXXXXcEXXXXq6xXFXXX6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1O4rFHFXXXXX_XVXXq6xXFXXXc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1DUPBHFXXXXcWXVXXq6xXFXXXF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1y_fDHFXXXXbnXVXXq6xXFXXX0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1u5PAHFXXXXXraXXXq6xXFXXX6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1f4DBHFXXXXXdaXXXq6xXFXXXe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1nHTzHFXXXXX_aXXXq6xXFXXXC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1rXrJHFXXXXceXpXXq6xXFXXXj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1L0HIHFXXXXXvXFXXq6xXFXXXV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1dujQHFXXXXb.XXXXq6xXFXXXf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1hqfzHFXXXXataXXXq6xXFXXXU.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1NTY4HVXXXXaFXpXXq6xXFXXXm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1mIQbHVXXXXcMXXXXq6xXFXXXk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1n.vGHVXXXXXIXVXXq6xXFXXXW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1LIfLHVXXXXb8XFXXq6xXFXXX4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1kEjCHVXXXXbLXpXXq6xXFXXXa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1B3PTHVXXXXcSXpXXq6xXFXXXv.jpg"
+        ]
+    }
+}

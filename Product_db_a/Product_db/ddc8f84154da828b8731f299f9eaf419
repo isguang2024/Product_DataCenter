@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "ddc8f84154da828b8731f299f9eaf419",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "GY",
+        "创建的时间": "2024-08-13 15:05:53",
+        "第二层SKU数据": "",
+        "货号": "GY-W1515266129",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 795534116,
+        "普货模式": false,
+        "商品简介": "size:19×20",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:01",
+        "原普货标题": "Nylon Handbags Shoulder Bag Large Capacity Crossbody Bags for Teenager Student School Bags Sac Girls Men Harajuku Messenger Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5708192b6eb94039a3615d2a6ce75da1M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbef754d8129d4a6e917f9e92b3073529g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd852db01f0ab45c780177a3064d342791.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3f01b7723702448ca91a8ef5de1ffa52J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa5b38d4e54349f2a7d383b817a3ca99x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2992bf98ad23481e989cca3ef3393bdfz.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S63cf29f063924c7c9efbec893f3cda44h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1088c16ed8f3458496507b3f310e4890V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S625181596b6f4da98cdc839b19660015y.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S625181596b6f4da98cdc839b19660015y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6d96656a8e6403c982029f30df7cc12R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a730310fe8f44528f478309fab67c42h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb658f140536243d4b2e66b5bd1a0bd298.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2bd1dee31b1c4b3aa4223b62bbc65c16E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se78072915457450fae4501a06bfbb620Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0980498721224743bbb48fdabcbf6d12A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5351709cbb04edabdb136807351c977y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a79285393444ab886564d23431ae0bdI.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S625181596b6f4da98cdc839b19660015y.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S16f0c49e22374c5f9c29218753884e0cy.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se14b8dd7f47f4913a4d1e166ca7ec319j.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S7258ed4b02474b748e8eb0f50278d0d1Z.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S986b956006cf4b1baa1fca8aafb8d8fdk.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S46cece640e8f41b4bbbb08db4fdaa54bM.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S69eded1affd64841b0313cead136528b6.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S296471ce2b914771be774f925535141dB.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S27d2e69242a94f628141a0adf39752f25.jpg?width=800&height=800&hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S230ad6dd5d8c4d4b9242f38488499a002.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S318bd314eac7432180cc4eb9c403bf1aL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S024e9ce0f0d3450c9569b2ce98c711bbc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd89f43041e4141d591010e8817dfe219I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc5f2db7f811498284b1d160c640397b1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a397801f9764139a0e5f46abcb83950h.jpg"
+        ]
+    }
+}

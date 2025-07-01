@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "bb2a934f7b338e2ffde9e8318e561103",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-06-05 17:23:02",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40@41@42@43@44",
+        "货号": "RB-W1099226151",
+        "进价": 110,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "哑光对版定制米白丝绸牛皮",
+        "性别": 0,
+        "修改的时间": "2024-07-21 14:02:44",
+        "原普货标题": "Spring and Summer Fashion New Breathable Round Toe Mouth Casual and Comfortable Flat Walking Shoes Sneakers Zapatos De Mujer",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4c139436f1604c80923dc53c71903d73w.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7f5e5845c660425a8126e6526ef896bb9.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S14fa38af68434faebcafd318e16cf45fy.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8bee4881812747a99a00c3777dcbd4deo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8e62b4518d4943a6aed4cf98024395caK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11be1a182458493280b06739ef17cb3eQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd755a3a88400402cb1b16c926896e2a32.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S255483561f6d46b89fbe1e6950e2dbefs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ffeb1cad011401785b6a21a21a1aa2aE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc61ee57077224e7a95aa58bf4f8ba96d8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa22891f4509743db938424302279ed2cn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f85b2884f9548adba84d543af92ab30m.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8a6bdef46f814c699bdc3fffc10b8c7cy.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0b62adc5202740d48a595bb2a8bdfbf4s.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sce17e4d054a54564b32437d9ef0095edq.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1a54d304b9634de798d65dede84cb0bcS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10aed5a517bd4e4c813be0813352a430G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8036ff63acb8451dba55fc2a30ff954aY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c9a3b0e76d244b0ae16f15e8a257183x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12df12c881c74864989bcd970889b7fe8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1446d285d398419e8695f39668aef1a0W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9abb0027d5fb40289984551fa54d9699d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4dac6b44fd5d403db48956e05e93dbaft.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S22bf52b3fdd24e52a8f5827d01ab6e50P.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8036ff63acb8451dba55fc2a30ff954aY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c9a3b0e76d244b0ae16f15e8a257183x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12df12c881c74864989bcd970889b7fe8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1446d285d398419e8695f39668aef1a0W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9abb0027d5fb40289984551fa54d9699d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4dac6b44fd5d403db48956e05e93dbaft.jpg"
+        ]
+    }
+}

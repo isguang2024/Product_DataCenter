@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "bcaab261f6ac6dc5a66abd08aaa44c5e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-07-26 15:50:58",
+        "第二层SKU数据": "",
+        "货号": "GY-W1669256651",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1007,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "牛皮皮带，热门款 男女通用皮带",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "New Round Leather Rope Thin Belt Women Fashion Decorative Knotted Waist Rope Skirt Decorative Coat Sweater Strap",
+        "质量星": 2,
+        "重量": 0.6000000238418579,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4f9091b9b4b4c878cee8986a79a68fdt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8eecd53ad3dc44bba789d4007b555d2ap.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb52b0da64ef744b98d06b03cae1e5a5bv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52486a59e1ad4ffe8ab3272fd85dc243k.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd18b4dee1c014da58c13d0e89e9f6ca0o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S065f35318b594fac83cfa4cf1ece77d3U.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se5fe791814f647449b98d3370e8075c3t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1cb1e6a28a24a3e8676f1bc4277f513k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0e6856136f549439dacd86f5df80219g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29f9ff653d3e4466b994740b7e6e0743z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1adb2567a894d88bd827d1cd0e68497B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc983e6993a7f4c849c61419d187f725fs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39aa5b3deace420893697d9e31accfdeX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S711d5d1fafe64afdabbc2f4e75db44f6P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sccf7a9fa04dd41dcbd25a72ca868f980z.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se5fe791814f647449b98d3370e8075c3t.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S5a7913d62f504856bffe8f97f85aa7353.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S37a5d7a6764d426a82d046a60a7e2dceb.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S0ddb3931cb544d38b280a0212a325a43I.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S27961c4007c343919b2679fa948a49e56.jpg?width=1080&amp;height=1080&amp;hash=2160",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc046e2a4ab2b4743afe139a09954dcf2Q.jpg?width=1080&amp;height=1080&amp;hash=2160",
+            "https:\/\/ae01.alicdn.com\/kf\/S9423c9c788f44e099e0f95d2cbfc9de6B.jpg?width=1080&amp;height=1080&amp;hash=2160",
+            "https:\/\/ae01.alicdn.com\/kf\/S24432ca36136464dab4099283d46643du.jpg?width=800&amp;height=650&amp;hash=1450",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a79c50342214970b3236b509cb676f1a.jpg?width=1080&amp;height=810&amp;hash=1890",
+            "https:\/\/ae01.alicdn.com\/kf\/S15b47fca30b649abba3e68c97d579882o.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f46ede0a3dd47f2bfd75e05db88538f2.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b623991362744f6957357939d0912ffu.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S78dc11dd3fa04e138bbe13869e0a7f6aY.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S87f37daa531b443387d70c152f8415498.jpg?width=800&amp;height=800&amp;hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6a77cc7cb7f24319a13b521840c58d937.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S448805179faf47f88cd4246ef5596a68r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secb34ec90f3640688e4616f0660285428.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefc55d766bf247738d708d026b611073f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62a071b6ce0a4d3db88ff5b41fd3eb0ci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S443d0e1e00374b4cb27b62edecff930eV.jpg"
+        ]
+    }
+}

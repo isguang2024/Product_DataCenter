@@ -1,0 +1,81 @@
+﻿{
+    "info": {
+        "ID": "46b019bba39b50e604827df231881f9c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "RB",
+        "创建的时间": "2024-06-12 14:57:19",
+        "第二层SKU数据": "p-200000124@34@35@36@37@38@39@40",
+        "货号": "RB-W1604032193",
+        "进价": 95,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 2147368680,
+        "普货模式": false,
+        "商品简介": "标准码数：34-40\r\n跟高：8厘米\r\n颜色：黑色、白色",
+        "性别": 0,
+        "修改的时间": "2024-07-21 14:02:33",
+        "原普货标题": "Women‘s Designer Thin Heel Stretch Sock Boots 2023 Autumn Wniter Elegant High Heels Satin Pointed Toe Short Boots Women Shoes",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S687c2d5e9d0d402bbff111c75f9ba401S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b14e5694cae4a5398e8ca96e7b57120V.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S31832290aae941118deb12d8a49ec75ez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa3f249e2a0a42b096c3e9fba73c24854.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb840121c22724a55a36057f289313ccf3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f647c588db345f399f17b1ef509ebdfq.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S945ac3fb03d9475b9765e10a8d779083c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd329d75b765a4d33b943c1157b831662b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde120cd1d6d145a19532ffb58e3925d6b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fff4ffa24724e0d8eee10a74fbd10f68.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17112254d1594632a008eac2e78010c6G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S271bfcca036244c1a07e5941e196da8aG.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S324001605e6d401caaf45388c9d264a0W.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S709a924cbfa04cd18c6d005e5c5f4427H.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S68ded84f86cb479baf4bc6681849a72co.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5226f55293604b33859805c0d8a4efa8a.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3e8aa4f3f583467396371f5f6657c913V.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S6621a1749d584ed0ac3fb8193b05a610r.jpg?width=750&height=1055&hash=1805",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd724e8425394208b8244e18410f8081K.jpg?width=750&height=1415&hash=2165",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa29d30aad018439d95fbda93cefb912fs.jpg?width=750&height=1248&hash=1998",
+            "https:\/\/ae01.alicdn.com\/kf\/S54c55c18607a4bcebeda4442290dabb7C.jpg?width=750&height=1461&hash=2211",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc97d1356d9a245259a4b6ef6d6e88f302.jpg?width=750&height=1461&hash=2211",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8808f307bdd40e894d2310bafde6c21T.jpg?width=750&height=1470&hash=2220",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a8ae0797ca64f4ab309290af92914327.jpg?width=750&height=1467&hash=2217",
+            "https:\/\/ae01.alicdn.com\/kf\/S621095275ab84d33afdff3ceeacc9e73t.jpg?width=750&height=1459&hash=2209",
+            "https:\/\/ae01.alicdn.com\/kf\/S3353196a2df54ad0810177dfc161615e0.jpg?width=750&height=1468&hash=2218",
+            "https:\/\/ae01.alicdn.com\/kf\/S3cd6616e3803448c88e164b7ad724c0bY.jpg?width=750&height=1485&hash=2235",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b848ec60de7421eb2a37b614328a821L.jpg?width=750&height=1470&hash=2220",
+            "https:\/\/ae01.alicdn.com\/kf\/S489bd068bed84c9dbc79bb51bb111aa9C.jpg?width=750&height=1470&hash=2220",
+            "https:\/\/ae01.alicdn.com\/kf\/S99e21325213e484986cb435a6a284c71p.jpg?width=750&height=1467&hash=2217",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba1ba4e0779a47b283cea2ff24f0e72dA.jpg?width=750&height=1470&hash=2220",
+            "https:\/\/ae01.alicdn.com\/kf\/S717a1dfa427b49de86f09361fa58932e6.jpg?width=750&height=1461&hash=2211"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5f0e37e207248139d8f8311f8989b68W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66e0b96eaed244d793e58f9c400f3c2ec.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43960ff57eb342679f871c4f61935724O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a0ee282cbb3408dab4d149e5f27876cg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17eeed190e49462a9d61a99e9f9cc33aw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf538f85bbe6945ddbe09f006863fc897Z.jpg"
+        ]
+    }
+}

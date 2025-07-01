@@ -1,0 +1,63 @@
+﻿{
+    "info": {
+        "ID": "3208abcfd7b221f65c87d21407724371",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-07-02 12:37:56",
+        "第二层SKU数据": "",
+        "货号": "DG-123188594",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "胸包，重量：0.55kg,材质：牛皮，尺寸：18x31cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:52:20",
+        "原普货标题": "Party Clutch Bag Elegant Satin Ruched Clutch Bag, Women's Flap Handbag",
+        "质量星": 2,
+        "重量": 0.800000011920929
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2904004877374ade960a73f22ac2bb8cV.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se1609bfefd864c2d96b13d37cb03ef301.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6b880df5d6a4f7d86c4794742c4deef8.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saa643b92cfe9417f9631eee97585d8c67.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S307c234b08d14724a29757507cb3314dJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c80153bedf4452a807889ad353e7f283.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6b880df5d6a4f7d86c4794742c4deef8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3f396a22913450c937402d638430485P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2647da3be36c48cdacd59165879748f2O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3d27739234c4917bda0afb22c1770e8A.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S96cbfc7205fa497daee3488870c80098P.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S26a6c24229c0479a801c4f2c74ff8161T.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3976d1c153b74c4f8e9cb765596f6d37J.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8c2ee76c22fc4d3eab5a754f0ea89288D.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3976d1c153b74c4f8e9cb765596f6d37J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac059fcda28d4af7a3deb7bad4e000500.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3976d1c153b74c4f8e9cb765596f6d37J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff22c58337894519b6ea8d3862ce12cd7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd611005ae9b94e5787450d77b12f5f15F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b8102bcc70846be9841d5d25a816b1ez.jpg"
+        ]
+    }
+}

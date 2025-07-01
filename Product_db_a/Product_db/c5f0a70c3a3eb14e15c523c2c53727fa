@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "c5f0a70c3a3eb14e15c523c2c53727fa",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-06-17 12:49:26",
+        "第二层SKU数据": "",
+        "货号": "DG-199668707",
+        "进价": 250,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "粗链条方胖子包 高质量，重量：0.72kg，材质：原版头层皮，尺寸：20x13cm",
+        "性别": 0,
+        "修改的时间": "2025-06-17 12:49:26",
+        "原普货标题": "3 Main Pockets High Capacity Shoulder Crossbody Bag for Women Multi-pocket Purse Canvas Handbag Suitable for Mothers Shopping",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saf7cc95af5fb49288285c0ed553e4ccdO.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sadb3c3afdb1e4ebd9b5e87d635a987d2c.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6e6aa6d2ebbf44099c201e061ff85e44F.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S76fa894e343848eca8374a9663a3977do.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c6d2c81158747d480af2949c5962beff.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S22d051901f15427ba506edb743320f92Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36c48ff069614c61b03ed63eea2ebf7a2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd16b180c4913464cae4c1f6b16d3e5e9J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78a411a80aa9411581f2507275566f27V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See186bffce4d471b9606ea879782529aL.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sea1e7d0cd8b04d85a9d482997d8117277.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7043c5e0df2b4017b058919099103b01i.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sccbdc2572b7b4342a6879ce9a78b96a4c.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S219ca17128ba406aa6563d5d42a40284V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24c5617c4f75495f9442399ff52de9f9C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa15f9625f78c43468eed32840bf5f6bcq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85bf4eb3660448d08145221157a3c907v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa77b361be12945ebbc8149543cf34956P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a87bcd4f6cb4c84a724c3ab7e66efeea.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ed419b1ae9142cfb2a5327915059d1du.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9665b92772444a52b358ccdceb054237F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b6e8d42419f4ec6bbb8154f89208958h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74fcbe640da34f3184c370a449b02902q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ec83849d0ab475c8b809593fc4b742dZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a3e355fb4914d0ba8cafed7d8fbbc76H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb98e13ff7d344ffb3fb7593c86a4682z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fdd646e60ee4abd94b05d58f244bbcdX.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scd1fa393f5b94a87b8f5ac365dd6d82b0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S084bec1a46f846548e2a4c0662421806h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e2bc1379a524826b2826f8d1e47c909g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9623e076822749428d0d58d7e58b6e082.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99170799edbb45ea96a14be2ccc3bf13R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S954cd72787ab4fbc8531bc1c40c6c756v.jpg"
+        ]
+    }
+}

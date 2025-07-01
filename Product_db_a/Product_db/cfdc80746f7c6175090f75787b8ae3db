@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "cfdc80746f7c6175090f75787b8ae3db",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 16:09:12",
+        "第二层SKU数据": "",
+        "货号": "GY-W1251546451",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸：22.5*5.5*11.5cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:18",
+        "原普货标题": "Underarm Bag Women Tote Bag Large Capaci Autumn and Winter Shoulder 2024 New Versatile High-Grade Shoulder Commuter Bag",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0fbb786003fa4f409e5746fe92815648J.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S82f7570b8f6441e995d3b8370370ad68p.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7c0e6816524c47df86ff8d4d54a8bed1u.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S652a11c41f4f4777bd4c4f83374cdf5ex.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c065f99229043259fb0286c7c901eceF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S882aceb5b629454fae41904557adabaf1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac91a68c4e8f4aafb00298b619c049538.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd51a058ffe6434f85f69a2c700a0310x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec66fe8ba52445218c7fe3a900854805P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4be1e8a04b7d427b991b1d049a027ea3e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35d0a080095e4ec18c82b1798f4f36f10.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67392c35e2694a59ae0bf2cc8e9a6232W.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S6a88df665938473992ee99a590144a94e.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3ee68b559de14797af8221c2df34f8c5C.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc31e88da507245199cf2a87d8078d0ceM.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7e943b46769a44e0b2c631f656d86683q.jpg?width=750&height=785&hash=1535",
+            "https:\/\/ae01.alicdn.com\/kf\/S2303b50299b64a8d9ca85856ee661b65j.jpg?width=750&height=812&hash=1562",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad7111f2286d4bcc867649ed07ce4328V.jpg?width=750&height=711&hash=1461",
+            "https:\/\/ae01.alicdn.com\/kf\/S5faf93f7abfb4ec0b1cb840c30e6f27dF.jpg?width=750&height=720&hash=1470"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2dbe0fb67fa4473bb4a259dbaebdbcb2y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf90d731823b64bd48014eecd7e1f8407s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6bad3f81bbc54366ad9cf21cb987f990E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02331fb5f98e41b0bcf5b37a95f963f19.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0e67255da694fd5bace4d733416e0d7G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb384d7d4859c46fcb54aac7fd7f879d48.jpg"
+        ]
+    }
+}

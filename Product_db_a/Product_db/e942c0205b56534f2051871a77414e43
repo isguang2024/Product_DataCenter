@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "e942c0205b56534f2051871a77414e43",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-05-23 14:30:23",
+        "第二层SKU数据": "",
+        "货号": "DG-145328527",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "马鞍包，重量：0.7kg，材质：布，尺寸：23x16cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:53:46",
+        "原普货标题": "1Pc Retro forearm bag women's bow handbag PU leather baguette bag",
+        "质量星": 2,
+        "重量": 0.8999999761581421
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5b456c9ff0924f229cf1f7753b5a6370U.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7e2d82bf9fc24bcb9422403e1826d21eJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb81b6a57de8249cea7035d55474ac491C.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4b4ee896496c4e58b4a37ffa1cd03c00f.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3ebfc5a7fa3943d3bb9278bb18bf1f5cy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa81c30521baa4167a3e5e8e51e2f240f3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S485f6cfdae1d4751a59e8d1bdbbe3b86o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb4e41db56384cf7b990c5abf397d2e13.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9d31b11c48d494dadcd0f6a1811ee9fq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a01a048e6474e2bb4e5cabc3f9d6da4w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8ab05fbdfce4a0b925d0b19d1fdfafcd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68b374a2428e47b0860f4f32fa2d1c15W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se223133999544e4c917e7751950873c4b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S156727c12c674482ad87db69a1e9309dj.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7580dbd1b36f48bca97a142a04e39082x.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sffe7a60072ce4292864403a1a5eff9d4a.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S60fbb89280114e51a9dbf3adcfc8c4d1n.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S071333e42f81441c9b8349c1fd4ec1aey.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S90a6d7447c204bd08330cce0d912a3c2j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60fbb89280114e51a9dbf3adcfc8c4d1n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda915cae1e8840e1833b008b696c6ad5c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S071333e42f81441c9b8349c1fd4ec1aey.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0590c5f89e6d428ea17407544426251fr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15f22209e4a4402ea7a86b5d2988da8fr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1344a51aa5db4e31a786efd85995a232X.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0590c5f89e6d428ea17407544426251fr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1344a51aa5db4e31a786efd85995a232X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60fbb89280114e51a9dbf3adcfc8c4d1n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15f22209e4a4402ea7a86b5d2988da8fr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda915cae1e8840e1833b008b696c6ad5c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S90a6d7447c204bd08330cce0d912a3c2j.jpg"
+        ]
+    }
+}

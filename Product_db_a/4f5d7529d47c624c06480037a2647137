@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "4f5d7529d47c624c06480037a2647137",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-06-09 12:22:03",
+        "第二层SKU数据": "",
+        "货号": "DG-195751955",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "涂鸦腰包胸包 高质量，重量：0.73kg，材质：皮，尺寸：32x21cm",
+        "性别": 0,
+        "修改的时间": "2025-06-09 12:22:03",
+        "原普货标题": "Maillard Shoulder Bags Trendy Small Letters Classic Bag Canvas Large Capacity Luggage Bag For Men Boy",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1d06938ec154a43ae56c9877d4c4f42K.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se96e6c9c5fde49a6a77ce2de2f3dd708Z.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8ddcb2d29abf4b38aba6e9594117e8655.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S98d011b46830465bbf330be867868c7bh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf964b6403f7e4db5bd35e808c1833ff7q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94f65ab209f5478c885492fbe3ea518eS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e629f0cbf734b1eb3a6119dc27a0465f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0dc9df983984acf9e9f6641caf65e03J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf75442ecbf9d4ceeae398f0b447087feT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71a40bfaf5264edf9dc83c839c41c026G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0d6c7bbf7f141d8a25ccfd8c339b400n.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa37070699089458a9db9ab7dd09753b58.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdb7b1041349a4e3f868777b160a911a5S.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S5d01cdd1f1594b55907d234a3243c510t.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3c6944daf6024908a9793c246242fbb4G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48bff0da04ea4c8fbd9934d877988c7e9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1428f709cbd84f46b15b2b51b3c922f2y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6dc918e563fe4b35b592f37d948a12b92.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S985a1161d8724066a32125ead7f0b100P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc60cba4e6ed8441f8b6789069e756da7t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa28c1ff4d8244e38986a50f4bbb46255V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd645ab252f6b400786bd18764f8a7fabu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f17c9a69db94e8e8c9ce0b286a01c6fj.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd00467ae95da45bd9dc38e5f1c67e9c7f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ae1b305d46948898e16b15883ef07029.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S819b72950fce4197ae5dd89b901cee41p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S985a1161d8724066a32125ead7f0b100P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se307ff2204f045e78e7d7822eadb2195B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf43dbc3aaa1f473d8912ecba20b0d744c.jpg"
+        ]
+    }
+}

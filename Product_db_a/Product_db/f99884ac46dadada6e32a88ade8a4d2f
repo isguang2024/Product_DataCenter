@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "f99884ac46dadada6e32a88ade8a4d2f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-09 14:37:27",
+        "第二层SKU数据": "",
+        "货号": "GY-W1126505722",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "尺寸22*20cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:07",
+        "原普货标题": "Crossbody Bags for Women Large Capacity Luxury Handbags Purse Solid Color Shoulder Bags Female Casual Travel Vintage Hobos Bag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sabce9ad8bdb3494fa391d3252403e405Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff9ede1a6201467195f13c06f818d2a7B.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S770ed3fe2ef74416bc31fcedc143ed19C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11243090944249468777cbe19a5e1b2fm.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5008e861ee6040feab5a726c0c26c319a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f1dda193ace4418bd5bdf1d6470fba5b.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9c396a628a74535bda9d8d976ff5c51M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfe5153a90d14ed2b0aaa6f0f5c9247fz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7107e3eab9e4e28bfb05e40b94912468.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdaca97c50b134b40a4bb9c9994c546b34.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ca76420a49c47a49cfb7178da4dc744z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77586ded14834d8897030623c2f75f282.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se65b99cd3e8f41c0b67e5e22178568c31.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb897679b2e704027a676c01035570cbeJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef703f190188454fbdca9c07f0a9814fy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secc28d2bedb2458cafcd7000e0b894ce5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S95668f2628874c42a0e7c35ef572ae68w.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0660d716b24740d79c666b4e991f8e23z.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S647dab394baa41d0baceb01a60893bb2i.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S35304d313ebb46fe94b7dc802e04f152a.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sdd717ed80dc34c40924e5f22c118f1c2j.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/H8ac57167586240348003ad8608413b09t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfaaf28903ea74947b2af4047f3c8cf10G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4152e9256e04c07a2498d3b223f92c01.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4ab641027d0e427580d40a4b5ef446491.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se884ecd4ab24455eb153ac237ee3e81bY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa05c13ea6ee4db28e34028a2426fcddw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8606fdae3d74323a9be162cc2e2bf94O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a95231f4f6d495490ecdc4bef01298bx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdec479537532453fb557ea5ea3cd4a53v.jpg"
+        ]
+    }
+}

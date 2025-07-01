@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "24e6a4f56b57ccc88256dae131f34523",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-08-21 15:36:56",
+        "第二层SKU数据": "",
+        "货号": "DG-173020733",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "豌豆包 高质量，重量：0.68kg，材质：牛仔，尺寸：25cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 15:14:50",
+        "原普货标题": "Shoulder bag men's ins tide bag simple drawstring nylon satchel street trend light sports bag Korean version",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8f12ce784ca4b3ca50edfd7d9726e43M.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2fb8c93981f3486e86ec535587c5be11j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1b38897b1fb4c92926b2df7253b4eb5v.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7b6fcbbaf5604c92b7f0e0fae4c071e99.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S06e0a4e6ef194dba932cb29fd0bd27daJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c325aa024a8499e8994a7f345b1f5adr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0affa352940b4f6e8cb346ea08e88e00D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S052597afb03e4bbda33ecac7133e1f45q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b3eacd4d388460e8b38485589b911378.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb33c22e250e94c81ae59bad312037714X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdef11f3ea35243d0bb006b7c8eb01a44v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf81d8ba394dd49e9873d724795d0f3b0Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7aab75e36fde4ca7b6bb966b87a3d44ep.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42ff655eafe946e0b5ce3ca83b5469828.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S364e1fb16e7b4ad783cf000bda2f3d94K.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb42a7e51fe2142ffb53af66ac7bec7e6u.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Seeb3a544fda740959480ef6b43dc0ea20.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S1cfa12e29dc0445d9e7a7b78c84de037i.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4afab4d1d68149cd9b8c67c2f2680adaV.jpg?width=750&amp;height=670&amp;hash=1420",
+            "https:\/\/ae01.alicdn.com\/kf\/S3acb6cc59c7047cdbf6c0d510ee86d46B.jpg?width=750&amp;height=925&amp;hash=1675",
+            "https:\/\/ae01.alicdn.com\/kf\/S48f9311f632b41d4aed67af1f8951c6av.jpg?width=750&amp;height=706&amp;hash=1456",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4163cd0ccae4d35a2faa299dd8c7ea8g.jpg?width=750&amp;height=1298&amp;hash=2048"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S05acb4e832964410baecd8fbd4199b87g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d35c11b63f743679d6dffbf64a1731ez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65a332b7506643ff9f45d0e15b64615c5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7893a49ea804e91b396b0b237c2599fe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4c17d9b814c48d09ca7f6a7822b22b8a.jpg"
+        ]
+    }
+}

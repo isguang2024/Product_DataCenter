@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "e7c8aaaad4aa630c8843b8e50113ed62",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-07-26 15:45:58",
+        "第二层SKU数据": "",
+        "货号": "GY-W1397965490",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1007,
+        "品牌": 577247229,
+        "普货模式": false,
+        "商品简介": "牛皮皮带，热门款 男女通用皮带",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Buckle-Free Belt For Jean Pants,Dresses,No Buckle Stretch Elastic Waist Belt For Women\/Men,No Bulge,No Hassle Waist Belt",
+        "质量星": 2,
+        "重量": 0.6000000238418579,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9b0204350fc34c15b798e54b48d03e8aK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86d7de4465ee46ea8ae2410a5b26e8b2h.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se9f9034e65734286865f362673c91a8fU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75888b6c4e9445bfbcf78c1e100f7b92B.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9d97b02857b429084f001ac54409098m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scce8797bebac4718b8a283b875512a9cd.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3f15200d2c7d48e082730771bd40d152R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S713c7d3abeca46e2944cfad1e4527b3fo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd1a6a4cae174f5faae357835ed97d43K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4d728f784744c688133b6899d3c44e47.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0eb53e582fa243edad0b03b82c07def8w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2214b09d026f4cbc9485ff01539dac59n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See003a2d41674a088f489c76bb253c36N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d05c05f6cba42588808ace91c5f30f7u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8442289ff3b6419e82a945aff8c6d1f6T.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sc5990d84bd5b485db0716e66d8e4400aC.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1f1de4419bea457f87def7c339dd6a23D.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S051195e8d8ab4d86b38c001c674b9ec8C.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S59104602b6694e4699aa6f78eb1cfaffr.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfe4183d0d9844958f9d287d9d37348fx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a92c17d46c04711935919ae6b694daaN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09bc7200f57d4a18906c028c52c3eb99N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d731acc859543d3ab03da1fe4c827df2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1d0589d10c941a0b7bc9c5966a63233L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf368cc4369774acd8c391707fa9dbc76K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd82acdd442da41d784d8fb5d7c62cd27t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa78f7e72836846e99c9b9956c37c20612.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9f7f254b5521416d9206648300dfd940n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7642aaed1c44af8b8534dc8235f0f7fP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c81b660c81e453db82ed3f4661e1265K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9e7bf7d75db4bebbc57a59f0041fa7f9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc311d4bfc4c0402ab0ae2bef73079a44u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ed13f4afc0d4d679a1219deb71d9d531.jpg"
+        ]
+    }
+}

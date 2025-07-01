@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "418fa23b2b27b3c48284fce90de249cb",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-07 15:27:12",
+        "第二层SKU数据": "",
+        "货号": "GY-W1600715052",
+        "进价": "80",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "19.5cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:11",
+        "原普货标题": "Candy Color Women Saddle Shoulder Bag Portable Female Clutch Purse Handbags Crossbody Bag Fashion Ladies Small Messenger Bags",
+        "质量星": 2,
+        "重量": "0.8",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S71289c432a36414ab5e0fe4c326c92b5C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc68084627776486e9bba3c1caf2ab5e1v.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S12aab5e6a82341968e5d30a3c3cb2991a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S14d0c3f17e7848589d658e23e0c0b34cO.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8805a5c92baa4e9fa2edbd58c0b8ecfaS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6347a4edb8654c509ae2c1c441311bd1b.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6ab15500af624c7f8a636013dc00c4d6j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6347a4edb8654c509ae2c1c441311bd1b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89c8d5bf80c54095a223a469673cad854.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78eb98cac16348ac846ff2d3db276f37v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42c5653433b84fbca14e838981f77152u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7f1fc533a0042ad9f57c0362d1e2251H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e0ff830ef314967aa454fb1d2947fc3X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48edbd4ec4584b35873fb1c2acf9a5a7M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73fd5a96bd4245e1b6cef81c5d3ace3au.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S6347a4edb8654c509ae2c1c441311bd1b.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3aaabe529065426eabca996916359ba4d.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc00fb843d64d4b89887d7692966b9c4cb.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S6a28afcfef524c45911ec82d7e388fcfQ.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5dca43f8d74c43f7a5726a58f25fedaf1.jpg?width=800&amp;height=840&amp;hash=1640",
+            "https:\/\/ae01.alicdn.com\/kf\/S1cba03989f194bcf9fbaeae62b84985a0.jpg?width=800&amp;height=840&amp;hash=1640",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca83080455054b9780c8b769f569cd76s.jpg?width=800&amp;height=840&amp;hash=1640",
+            "https:\/\/ae01.alicdn.com\/kf\/S61da1317416f4dc9bb16f803981c47f60.jpg?width=800&amp;height=840&amp;hash=1640"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0c4a305caf5476e8f50c4e7a2a4c178U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b5ee23e26ff4b37aadb939fb04d9897F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf379bb69a284af7ab353cc5de0c1c8ca.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc00fb843d64d4b89887d7692966b9c4cb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebcd8136ed174742a32cc00e99731b98q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2b808dbc89241fba405a4647f66d56bv.jpg"
+        ]
+    }
+}

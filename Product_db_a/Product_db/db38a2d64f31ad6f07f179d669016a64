@@ -1,0 +1,85 @@
+﻿{
+    "info": {
+        "ID": "db38a2d64f31ad6f07f179d669016a64",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-06 16:16:35",
+        "第二层SKU数据": "",
+        "货号": "GY-W973282558",
+        "进价": 175,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸20×19*11.5cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:12",
+        "原普货标题": "Artificial Leather Square Underarm Bags  Ladies Handbags For Daily Used and Gift Fashion Solid Women's Shoulder Bag",
+        "质量星": 2,
+        "重量": 1.399999976158142,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1b28d963e224f6689dd3644406fdf02Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1350caea68f45d6b29d307e1bf9ae48Q.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3f835624d5624925845cbf67aaeb037bO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa768fc3749640ed9b239c4edbc4ca79j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e4c549202fd46f8b3abacffb5045cd7C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b9c605e6bfd4ce1b12a5500cdaa06e0H.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb520288076494d9bac1df9936a597a1cT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30c3f0f9a3a7451f892860e236308fb0S.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe20769ec8724f2f9272db70f888d905j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdaefa43ac78645b3a612b6b6a7bd25dbk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf2d6fac712d4b76868f9ded87a985aa4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8afe878dfc34f7d8e3a922a0588e392X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ad216afbd2f4a5c9a5351b5dda3a3b8i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ea9f9c650054ad396ef88e04e973b8ft.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb520288076494d9bac1df9936a597a1cT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c5819e10c924cb5ac2367ea02ea7b86h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1432d6cf9ed148168851ac43d1524079b.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9ad216afbd2f4a5c9a5351b5dda3a3b8i.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4e08d125957e4875a6c8d6cb2ed072e0W.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4d8d20b358524125b12572451fc73c56l.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sea081a4c256844fcae0a8b941f7fb547G.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S6538ea4d76604252ae391dd18784d848m.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2bc730bca4de461bba5c86657e24fe52M.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf22723032faf458fb7368187839bc2edT.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3f04a118bff4666949bd44a3abb40d4S.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf3f5ba379774316895f43d0a0d0a47eC.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S29d661f931a0458fbcf98d10087e8665l.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S0671d2bcb12940dd905cb024cbd75110E.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S50349ba7091b411093a2b59c12616969q.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S26ef482d39444a37b2446ac83d141946d.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S918bf0ce4dea4aa2889b8f638251466cm.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a10d9d076024c0fa50dbc506de7cddcH.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ce1cb49d55745869ed492acbd7b8c60d.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Saca9864c29f24153bf64de381f44e4dbj.jpg?width=750&height=605&hash=1355",
+            "https:\/\/ae01.alicdn.com\/kf\/Se08d79451a7844a49f9a375dc7421dd7F.jpg?width=750&height=590&hash=1340"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S00d8eb2e19064ed285b4b47fd9fdf4aeL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a4238a1cae94c409f4290e5a7f897934.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a666120d6ea479d8f49bd072a1eeb1d5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc94b58b41752448bb99d5e4256aaaf13B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0da2482f5af54bda93de03a808546868s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S549e5445d88d439f82bfd8e88a30aad1C.jpg"
+        ]
+    }
+}

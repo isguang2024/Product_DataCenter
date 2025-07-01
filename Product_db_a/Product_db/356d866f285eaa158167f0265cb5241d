@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "356d866f285eaa158167f0265cb5241d",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-07 16:43:07",
+        "第二层SKU数据": "",
+        "货号": "GY-W1289584253",
+        "进价": "90",
+        "利润比": "100",
+        "品类": 1002,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "尺寸 19x10\r\n进口油蜡小牛皮",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:09",
+        "原普货标题": "Fashion Women Shoulder Bag Handbags PU Leather Flap Bag Female Large Capacity Casual Crossobdy Clutch",
+        "质量星": 2,
+        "重量": "0.6",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9fd7414300fc44539c7b1cd401bf26e8X.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se61625e8be7945c4b817a7376373d1abS.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S24113f824b154ee1a94ebd64d898b9c6t.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S24113f824b154ee1a94ebd64d898b9c6t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28efb5adeabc44cbbd501dbeb4ed173eH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e9b25eaf88b478ea776c1eaeceb1b89C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6fd25592603a4644804c50b6a22d6d9bR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sadc7537beaa94c80a7e3c70380da4abdk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99a4839419db4bd49f25f3f581a4ef221.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ed40f2e1fae45cea25cc124a39ad21a3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scefe641164e24510835a1db8a91d225c9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a14ea7e5b124c2098b68678304ae21eV.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S24113f824b154ee1a94ebd64d898b9c6t.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S13eb232534ad44b6b620fc9bc7e356e2f.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4b76bfcdc5ed401ba91abf5353679dd4B.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2f79a4ee5db44b8881e1c39d42969e764.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21ad922d9afa45b48649d7a11854cc8fw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51728aadfbc5402d9110323f420ba23c5.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S23f52d4ecaba45ae9023fb605f76b60et.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f79a4ee5db44b8881e1c39d42969e764.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb992b0b8885d4e74bc83e47a1e8d4f2eu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9258a1c1bb548359c4ae376aea3664fa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51728aadfbc5402d9110323f420ba23c5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21ad922d9afa45b48649d7a11854cc8fw.jpg"
+        ]
+    }
+}

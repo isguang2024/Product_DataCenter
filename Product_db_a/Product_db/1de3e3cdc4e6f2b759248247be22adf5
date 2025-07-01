@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "1de3e3cdc4e6f2b759248247be22adf5",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-08-24 10:23:41",
+        "第二层SKU数据": "",
+        "货号": "DG-136893303",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "圆筒包，重量：0.68kg , 材质：皮 , 尺寸：15x20cm",
+        "性别": 0,
+        "修改的时间": "2024-08-24 10:23:41",
+        "原普货标题": "Women's Genuine Leather Luxury Handbag High-quality Small Shoulder Bag Casual Chest Purse Ladies' Simple Versatile Crossbody Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7e0725b88df487bb6046e1fbb0ec36dU.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S639648d2b04449ee91572c4855fa6debF.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3b7ecca5c5a546d7bc18cdc884db1263r.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3ff5cb25f8ff40eda80c93ac0bb8acb62.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8867ec13b91f49b5b00ff38330a5fc32p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd67d12c74f394426801f499d634fc30dk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa12f0d9190334efe85e3b523040b2091t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbfa390f6c1074cc8b181c06c3cb7533a0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6417a93337e444c49520760ae86b1526M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4e2c18159e54001829899e6bf7df0d0T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sffbfac7907a5494386c00158128e599dE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S291b57c9ea604d9090fbc82bd94464c2C.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Secae923e195641209eab38e51f67b7deH.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8db1e451f0ae4630a2e7bc06bf72ba3f8.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S5288238c746f4158ba5c306be6a2b82dZ.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfc07ac4d7aa4ef18b64a2eb05cfab10q.jpg?width=750&height=388&hash=1138",
+            "https:\/\/ae01.alicdn.com\/kf\/S243fc64f450442599746c664cf68cb71n.jpg?width=750&height=758&hash=1508"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4277ee0b02d6470fba15ccf2246638b6w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20ba6a3310244d5b80e3d9a8f01bacc8V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72d930becca442d1a4137c7ff75c7559u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07eb2cff5c964c679868b15a307f3b9aq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf50358ab42fd4be590c3477d77a8b425C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07db8c3ffe7b4e51aae5190467d3af071.jpg"
+        ]
+    }
+}

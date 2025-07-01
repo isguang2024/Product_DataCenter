@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "1a74cccaeb1acf1ba52a01bbb829dd2a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-09-20 13:49:38",
+        "第二层SKU数据": "",
+        "货号": "DG-175235555",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "月牙包，高质量，重量：0.67kg，材质：尼龙布，尺寸：25x7x12cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 15:14:50",
+        "原普货标题": "Handle Bag Women Retro Handbag PU Leather Shoulder Totes Underarm Vintage Top Handle Bag Female Small Subaxillary Bags Clutch",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6b4a98b3a6164c43be565a104c3c1b03j.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sffe7d5d09439422d91bd2ba5b36643a58.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2a88e90f345c4f6488c48dc128a314fbL.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf128e3ec73a44c3bb6ebc814c4e37e67P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78689e56133d4ff5acbd44e6bd55e18bu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39519c1c48124ee481241d2537363b00X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf93ce5d0ec9d420b82a24cbe8e511938f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0956eb8f65e4320a7085ab5fa1445ef9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6abe33190b044d391e2fae8889e3fc8J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9cde87ac8b4454189341c6d66055d503.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e2d95c160ee4728929f2965d67044bac.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6bdcd6b9d7e4f718b418a09f0ff8e55S.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0663b18e78b44436b18ae0e0e39b075fN.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S59ecf6ffd3c548ce9d3f009f891e84d8y.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S2134d1b37eb04048a27686069fe01317b.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8acd715f2fb049bdb8e717ca4ca74caaF.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S328d82717ae3460ba0de032c3fd05e69u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S06193ca1eda04f53a2fb603f33b402d1Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S409056c1126949e085be92c357fee1d7j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad162776816148ea87ed41421a1affff9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a9e2fb1df874a7db98728c2cb0c7d525.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa15e52380469465baf43023e74e80d13e.jpg"
+        ]
+    }
+}

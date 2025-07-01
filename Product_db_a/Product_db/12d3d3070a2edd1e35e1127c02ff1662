@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "12d3d3070a2edd1e35e1127c02ff1662",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 13:36:03",
+        "第二层SKU数据": "",
+        "货号": "GY-W805121713",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "25cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Korean Version Minimalist Crossbody Bag Retro Ins Trendy Canvas Bag Large Capacity Fashionable Shoulder Bag Purses and Handbags",
+        "质量星": 2,
+        "重量": 0.800000011920929,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2874b0545bfb40a6be24cb363f6a6b60G.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0c4909f5cd7b472d9137fe578555c53de.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7a01a72e72af4e6995990b6a56126ea31.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7a01a72e72af4e6995990b6a56126ea31.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a64a2e1e28941e4b0e2c9f5f04b98cfi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3115e86762d4b8095248a942e224071L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf165cb21cd34838af4590b479dfcdc3Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scde8bb0ca11048d5b59f67850c1c5989y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08c89c38c856407d8387dd7028362b7dB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9fb7cd3415fc4f6eb4d8ec2d71708f23D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52382d014f294ec08ca1f686e9f50a5dr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3313b44cbdc847018f8f2c78701fe38aq.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S1a4b08ca2bba469f92b0c8675d210f09e.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S23cf6564efec4a2ebc32b98f2aabe4d6g.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sce7998d49c3247f48f821dd48aa5215cO.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scb48c726f8f749258184db1692bc7f4eS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf991ffb3017e47dab91c3cc8bcff5e40X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71c70bf50079442dbec4ee8a2e8d95d0f.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8d016592287433c9dd3003a487f1a899.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf991ffb3017e47dab91c3cc8bcff5e40X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98bb6903dc3d475da7323628dd0b36f1q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce7998d49c3247f48f821dd48aa5215cO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S211757c750a34f248674cbf9028fd528a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4dce4de3d15147e8bc6a6ea8c733a892T.jpg"
+        ]
+    }
+}

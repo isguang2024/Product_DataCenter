@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "dc76d8b3e47c140f9da7f3bad74c45b4",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "PH",
+        "创建的时间": "2025-03-17 13:44:43",
+        "第二层SKU数据": "",
+        "货号": "PH-188926946",
+        "进价": 1,
+        "利润比": 100,
+        "品类": 1011,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2025-03-17 13:44:43",
+        "原普货标题": "Red Wheel Of The Year Tarot Tablecloth Modern Paganism Wicca altar cloth Wiccan calendar and holidays Tarot Card Table Cloth",
+        "质量星": 1,
+        "重量": 0.1000000014901161
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4cd2bf9c8e2b43c2a2abffc22ea37a42O.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd065f87029a4959ad2c189d47cbab19X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0991519923a49ff8f73fdd8abad3b0dE.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4a2f35712eb7483c9abb82d9ae991be8b.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1a70f0a418854bd0b1f1224f1f5a5ff33.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a2f35712eb7483c9abb82d9ae991be8b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e60ad28da6040ef98d5e96949600969u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f210e27a69a467f9171c9172c739522C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6fb014880b74744bb3a3b84eb9964b7C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00531f3e397e4a69bae7edbac0795cf7S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac34da5387ea40a8852ae0da68a70d6dL.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4a2f35712eb7483c9abb82d9ae991be8b.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S70f9b6b9c8dd459883fb9c162fac8dfbF.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7c6e045ac9ff4bf19f077c5db7b1ea7fr.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S732bd25410aa4f0c8a3d56fb2e7b25dan.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7f919e7bad8241e8a9bdd7290507fcbaE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8abe78e3087f4b31b3ab32b2223c357bF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1cca08c276604d31ab561df774c0a40aQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f18e404701f4606b76aa0bbd3a92180p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sead7a840b742458380e8f39a81e03846i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ca1618f07b04045941c6d9cbe6ec6dbS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7518bd31331a485bb719d59f0cd357c5Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3de59554ed874995bf29fcb0d47df00au.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd74e690a82aa4535b4dfcf19ba4fa1a6n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b3f3e95d1d84db4ac2d8dede67f39317.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7924515d20514def9e30dc8f65c931bcB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9df0b7172a5448c4b5d8f65bf68ce791V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc15c656e380c409db4a6a1445433af88L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H63d7ccf41d8645a1ada07604b3708b08k.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S541fb110fb9f4e4fb8007b524b9d57b5b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf95669f9618f4f0ca971563be92f3cc9e.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcf519b5385049bc9c08b156ee5a43beh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1cca08c276604d31ab561df774c0a40aQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f18e404701f4606b76aa0bbd3a92180p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79f87a05540449f7b971a284227eba08y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c6e045ac9ff4bf19f077c5db7b1ea7fr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sead7a840b742458380e8f39a81e03846i.jpg"
+        ]
+    }
+}

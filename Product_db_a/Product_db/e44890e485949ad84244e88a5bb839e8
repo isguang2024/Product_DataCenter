@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "e44890e485949ad84244e88a5bb839e8",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "RB",
+        "创建的时间": "2024-08-30 16:49:00",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W847400910",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -1898907760,
+        "普货模式": false,
+        "商品简介": "Size:35-40",
+        "性别": 0,
+        "修改的时间": "2024-08-30 16:49:00",
+        "原普货标题": "Women Casual Shoes Fashion Breathable Walking Mesh Flat Shoes Sneakers Women 2021 Gym Vulcanized Shoes White Female Footwear",
+        "质量星": 2,
+        "重量": 1.100000023841858
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9843d27d65ca429799a052a0c3756521q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03f10acf4753484bb983a168c4a41483P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf054843d3c1e4995b2fc4f16773ea093Q.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0873360e79a42b4a40ee28b8baa8d29I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb73e7d234d9146338cba8f48557d46679.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8951c4eda6494958a629a9b0ab29145aS.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se52b0f26230945c5847d187c780b222cj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb363e968a7344adca91485966623f993V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5abc67879f6842258cfa755dd23ee1d2r.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S10d2f9ae2d294896a14798715b2285d9m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf75e8538a1274cbf886aec43026a06c3r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1616dd12fac4fdba8fb5f227fc7693cx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f2810787e564f199395d726a5c070f41.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3be135f8adcb424ca4bec53653c80087R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4208c29db7a84bbc81a340881b126c88K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S408e5493fbe148febe3c453bf571045dv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26b040115c1541cb932bd1ad1bbcca74y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02f71d4353234a23972d1f9d05704b46d.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S6dc5fa523c8c42479a7390fa3a3ece1a7.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf185d75912d74b269c38c85ccf50b521R.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/H3291e0bdf74f4eca84cdcb3c63471b10A.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Hab14679463704cb49a2c835510992196s.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/H53f096f9fa5e405caf934bc3b40dafd3y.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/H2b078aef249f4568b7c736aa12c04c62l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H29954e7b8c2b45f5a8a2cb099e5ecb31D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H52b5e4cf7745452995e4d335b18c69adO.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Hbaddcbce75504984a7c5f169650fddd6B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H6f1986ea0d7f4f7abd29cc597f6f0037I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H55d892052d254f72b2f9c5b38f9a4c14M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H714c5f1ed22e422e873562aaa7a1592eJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H7ef4ea9edb98495f8fe76f861f88c245K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H2daed64f18b846e8ad0e0b144e4ee0ddf.jpg"
+        ]
+    }
+}

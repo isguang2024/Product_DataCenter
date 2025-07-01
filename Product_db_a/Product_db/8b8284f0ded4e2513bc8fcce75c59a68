@@ -1,0 +1,67 @@
+﻿{
+    "info": {
+        "ID": "8b8284f0ded4e2513bc8fcce75c59a68",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "RB",
+        "创建的时间": "2024-08-31 14:05:26",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W566512590",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -1898907760,
+        "普货模式": false,
+        "商品简介": "Size:35-40",
+        "性别": 0,
+        "修改的时间": "2024-08-31 14:05:26",
+        "原普货标题": "Stylish Women's Sandals Summer Women's Flats Back Zipper Cover Heels Casual Women's Sandalias De Mujer Shoes for Women",
+        "质量星": 2,
+        "重量": 1.100000023841858
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S36c7a37330654426a3f3be6596438212W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a42297a532d4a2b93b627d5d2a00eaa3.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se9a3cf8b169647e49f8f9ea364496409v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2bc159c66514e00b7e767224728e270j.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2d241296deef48c9981cc155f4168ea36.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20a88c3b82fc4bc8b281eacd188e7eb9L.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2d241296deef48c9981cc155f4168ea36.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa727e49c64834223a2174f42a3d89d96w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S859626a067d349aa80dd406ceca4f702o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S214eefbdeb714fec9b9e5100bb570d9b8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S107536a74c944caea242c07586ad7ea4y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f7d817f4e9549ecb302469c54b7109aT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S125e2b138f4648f29ddb5bec7fff5904d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f479d628c0e4c1a891c72c7fe56b950Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7785a9b33e49473a8cb1aa0d8a5d0e6ce.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4e97cd9723e140e7982c60460885ff40p.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S43281f8b78e04470b2b7231a707cca7ar.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd52054b2093340c78fd33802d567bc34G.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd52054b2093340c78fd33802d567bc34G.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6447f09e250540399546ea0c6717808dP.jpg?width=791&height=724&hash=1515",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa167b71ee7044681a81c012c389bfacej.jpg?width=1200&height=1200&hash=2400",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3a219a1217d4289a0e201a3936f9650D.jpg?width=1200&height=1200&hash=2400"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfeeefbc177ff44adbf73677399ca5d4am.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd394ac7ba75b442caa9aa33990bbff2fd.jpg"
+        ]
+    }
+}

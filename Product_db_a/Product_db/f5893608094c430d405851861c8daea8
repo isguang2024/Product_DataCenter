@@ -1,0 +1,84 @@
+﻿{
+    "info": {
+        "ID": "f5893608094c430d405851861c8daea8",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "ED",
+        "创建的时间": "2024-09-19 16:44:26",
+        "第二层SKU数据": "",
+        "货号": "ED-W169535085",
+        "进价": 25,
+        "利润比": 100,
+        "品类": 1012,
+        "品牌": 1593490208,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2025-03-12 17:41:17",
+        "原普货标题": "100% Wool Scarf For Women Stripe Letters Square Blanket Scarves Shawl Female Winter Thick Warm Pashmina Scarf Luxury Brand",
+        "质量星": 2,
+        "重量": 0.6000000238418579,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0db7192a989744a0ba9be9a16d05fb1eE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sddc216131d174d8d96f13207471ea1810.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S21bb20cf31d840d9bb6972e8d1624490V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7caceba18f7e4aabbea60fefd939bf62m.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8bc02e3005b449f083b7c0ad9f4f1b27g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdec9fe07c95f454e935ad27a561c606e8.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6c1ff957767249769cdbd1c3cae392eaw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0403bc59b3644ae08f194f8960e4918ae.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4761e300b464e68a0f3bd50457fa61cu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6adef1564d324ad5a4277b51c3b2d0b36.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5812ed6ef0b4488aa631592aa58a68b0n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se120af0beb6449478255f06542db47100.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7cc2ac8b3bbe4487ac9f9e2e8da382f7C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2144ab2658654a6199700d9ee187b312z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f2e8e2e90dd48748267ed460ebbe835C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d50794193fa4380ab82a239d2b3fcc8m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se66d47bbcc1d4ec8872925907e59e9fcp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2cfa2604c4e7400dad79b1ad5b8fb9eed.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8a25330190d24725b7b36a41d3aea555K.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1162562d76a4439eb158dac3e10951cfW.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sef1ffdecc4b248579f903bb4e240695dE.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S4e486d74d15741bcb48cc36ea3de1836v.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S399e9cf1a9034c49870328a607be5901x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b3fe7f0d71642b5991a5a22192bfe25n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd36fcd267e904ac59e3e63445e3ebbd43.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbba233efcfcf4ee281657edf2fcc4d4aK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7d26964291641349ca9e3e1437c4da4e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e5ab9547b874a0aa162f3365209ba34t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S926e4260d3544e8da5f235785cf23644w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5d76ebbd2264bf496b66656e81146c77.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a9a6e5de7c6431c9327344729c73d87v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b192ae0f05d45629d597b843214ee81D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97ee9745d0df4d7eb38a86052ed0be86x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4d48792b6bf4ed89e9bfb55a201bd8a1.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sccf9b3d7d8fe41608d68b21bf87d741df.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S95b03309a66144b59e7f3ec981db4e933.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4020de9254ba4574acf3254a17f39d3fx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66754ac34e5b4996a65ee5dcec15d503A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc61669d1f0e842b285eff1b6bfbf7f2eZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a13a100a0da44f6a08ce0418f83cc59O.jpg"
+        ]
+    }
+}

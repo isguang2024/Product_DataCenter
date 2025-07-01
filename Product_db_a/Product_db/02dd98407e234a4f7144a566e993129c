@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "02dd98407e234a4f7144a566e993129c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-07 15:57:00",
+        "第二层SKU数据": "",
+        "货号": "GY-W1686994664",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸15.15\r\n牛仔 骰子包",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:10",
+        "原普货标题": "Retro Multifunctional Shoulder Bag Large Capacity Corduroy Shoulder Bag Fashion Portable Travel Canvas Bag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9962865a6e9498b96b84b19f5ff4841t.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa005163ab5ce4c819c22dfcc318ac35bX.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4197e8a686ac4afb9b49a37756c4dbc38.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd23da89eee3640cab646102163f79835Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf23578089ee4451bbbe4d0a3e1f9498cX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ebaf2f93a944aba8cf50654418e9461v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6d97be4d76e4c6fad7640ca3e6a82bbq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b4e05f643a240d2bbacf9acf1a7aa7a7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S200089c3ffb34c8ea4ec8e30661378c8s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13a00042caab41eea1ca267a2ab26adfs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa809784883064c298a8bc0363311bae0j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9376d1b2afb42f98bf6e3e2da82eb63N.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7a218ebf803d4ae586df5dd976509b88K.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdb54510aa922457cbccfb6eb5c29a1f8A.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc6ddbc47941b4adb91afd3bd46612010p.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8bccfca59004ee0ba8f909074b1299eQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa0fcbee331f4739910d4ecfa4c3f73du.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e76da9ac7e64d9b9a9b756253616f5eM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ae7b12e635942a18b357a4ce23c0d7dj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S91cc284490a3450ca24d7c0d5bdf8b05e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7ad4967ff4f4d7bb2530f67c089516ds.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S32f8bcd759544c369f3235bee5c3e975P.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0d0297b39abd459b90cc97e0028fbe23c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S385f426907fc450da5b77a7032d3e111O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a6bbd25669f4caa95d8b44ffb410848k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd6eb83d4af9448da5197835e41012d1r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fa2d6f4df0d4099ae22224700c80da33.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S907580ef371f4504bf2719498d1ada86H.jpg"
+        ]
+    }
+}

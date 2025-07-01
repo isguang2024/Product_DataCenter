@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "e2e9b6815005ad8f912b502369083b64",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "ED",
+        "创建的时间": "2024-09-10 15:29:06",
+        "第二层SKU数据": "",
+        "货号": "ED-W226541230",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1012,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "规格40*180cm",
+        "性别": 0,
+        "修改的时间": "2025-03-12 17:41:17",
+        "原普货标题": "1PC New Soft Winter Cashmere Scarf Solid Color Warm Long Tassel Scarves Mohair Thickened Wrap Shawls For Women Girls",
+        "质量星": 2,
+        "重量": 0.6000000238418579,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1e218e0323fe4fbd97472ade2f8aa54cZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S84f9ec9e399342d7a47861fdf669ed24j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6edd714b63094cbcae5b15e863e03f2eY.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9b866b9e625844bd84ccfa4a291ad958W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39f1313aa421474b92682742a4fc0e89k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8489b698dd94429da1e43d8c48462de3J.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa05b9a726cc24022a2685d5f679b24b0r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb625ad9befa423c9461598753ae71b2a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S678dc61eae9548ea9e596f1279e522f7e.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S34f4d5e096084db4a77279bbc0f4a13ed.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1615bb88ad34ed7a76ef6ca9a367cc66.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e0b748b100b42e4b496974e58ebb1f9q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fd9570900de489399e512b798706dcfp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bc7b3d476574e7895bdae0caeb66a57e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5cf94d823b9d43aa94c75d46ff4673faw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S759514405e924a4e8d544443104e1e63K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3aa47f12271a407095c1fb4b8888b2aba.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d9efb656f004e1885a50c0839c06dfax.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1816ca5b1ee24e4cbfab0e66c567bb12a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9743cce546564c0e89daeb196a03a0c9v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46b4a509d4cf47fe81c5f73721ec961en.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0e12d686c7b04920a9c9c932f3b55c7ap.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Se7c6b357cf5b449eb8e77b2cf59c35bbR.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S57142aa195f74b31a6c4d369e9a1e5c5o.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S9f13c0647cd94652ade0c6bd7e29133ad.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc169d25d7a274da8a826fe66094eb716N.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2d0ea788961d4d599a45a041aca28d4ab.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S57142aa195f74b31a6c4d369e9a1e5c5o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S504b40f9aaa44239be343eb88ba98109A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S467ae65054ba43d7a3476d549db24389h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S976d10c6955e4f76b4f9d969eb1a5d6a6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S923eba5b235d47138fdb2573af5ba5698.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d0ea788961d4d599a45a041aca28d4ab.jpg"
+        ]
+    }
+}

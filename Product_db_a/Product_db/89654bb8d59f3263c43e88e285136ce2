@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "89654bb8d59f3263c43e88e285136ce2",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-05-08 16:49:12",
+        "第二层SKU数据": "",
+        "货号": "DG-192935324",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "洗漱包 高质量，重量：0.55kg，材质：皮，尺寸：23x13x12cm",
+        "性别": 0,
+        "修改的时间": "2025-05-08 16:49:12",
+        "原普货标题": "Women Canvas Handbags Korean Mini Student Bag Cell Phone Simple Small Crossbody Casual Ladies Zipper Shoulder Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0ad65a250e904716a4a9814737a46ef9D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a11d47d067341a684c7a592116d83ebR.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf2da2818cac4cb998a136b4db07d8cca.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se01b9e69437744aa9cabab4e51b92d53D.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se2a4f320fed14f01baaa300339905600T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8380b115086b439f95644ac3518b0f2bj.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S00327b626997438bbb784784c6d36506R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28ca06a0746f4aa79f1520935c3da115o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a7f495453124e6f988872b52162465cU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1ef99b4a7c24daf82f3549bbee5d66dV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3cb5ae0e9cd343e2bd0dcc0fa509b434E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ec1a4c99f2c4e8499c461e01062b1416.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8380b115086b439f95644ac3518b0f2bj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se2a4f320fed14f01baaa300339905600T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4af6459f135c4ab284f2e5b4c94146046.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb01c9244bdb1498182cd341b5edd093df.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37b36c64ab7d4fd18248aa57b323214a9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e1b5e8e2abd43c1bc6010957ca574fbB.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4af6459f135c4ab284f2e5b4c94146046.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdd1406923ce14c65ac0feedf49b2c2d7o.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3b8aea4704074cb4896bddfa116e8b5d0.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S4517fb76e605452d8ce60f2631a3a509U.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S77a4edf7a7fb43eeae6316bcb1680a35s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5eaf53cea164c0ca89ca2e00f4d7f11g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S240ccdcdd7bb4597b11d0f14b4ddb4909.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20ed233b69924ad9b882a1b4a42cf4218.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2347d479ecd94baa973e9df1510c81eec.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c836a31226d47d9bbd285144ac6d38es.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b8aea4704074cb4896bddfa116e8b5d0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab9d3afe899c4057a65b94706b01ad76y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4517fb76e605452d8ce60f2631a3a509U.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S77a4edf7a7fb43eeae6316bcb1680a35s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5eaf53cea164c0ca89ca2e00f4d7f11g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S240ccdcdd7bb4597b11d0f14b4ddb4909.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20ed233b69924ad9b882a1b4a42cf4218.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c836a31226d47d9bbd285144ac6d38es.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b8aea4704074cb4896bddfa116e8b5d0.jpg"
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "ca1d0508cd33d71e3e08a8aa3d2c5cc2",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-29 15:06:12",
+        "第二层SKU数据": "",
+        "货号": "GY-W886375435",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "既有牛仔的复古时髦感、小小一只便当造型又很精致可爱；轻便能装又好看，一年四季都必不可少的时髦穿搭单品！",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Handle Bag Women Retro Handbag PU Leather Shoulder Totes Underarm Vintage Top Handle Bag Female Small Subaxillary Bags Clutch",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S89e79d587fc94fda9465b74769e62d83B.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S885fe06741224d7ab743ca0c01d2b522A.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd64009e7aee4bb58165b507cdb33860d.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5e0ae7819116495f95d829d63cbb3478a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe96334424dd4f8a868a28c3eba7a2b3f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbdc669095e9246a99deefa2ec4a89832m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf27c1f6fa67a435494e42e94f6c23965e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5b9ed470a0d4deaae2c75dc8ad63601H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scecfedff3e8d4a46bca86a7dcd5ae324p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce3bf3ba7bb940bd86562973610230bae.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97bccb5ebf674f358bbb1c9da363c8177.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c6e9b8d79304eb79d2489cd356ebfcf9.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S19218958ad184616842537324d6503c5b.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S913d69c2e2f4495e9de012dbd2fc1c72g.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S2134d1b37eb04048a27686069fe01317b.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8acd715f2fb049bdb8e717ca4ca74caaF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1991c8ec2ce4e89ba896b259a6a299eo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c2f2559edca4cd989a5f2ee1246184eb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf17df1e5abfc49a98bf39bd9127e3b1fr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bb959ae3f634d8db8650f468a139849J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb61631340b8a4e1a9b7529ade38a1032z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a363aa015b54b4a9c25ad640b5a9659u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2e6344efab1448486e9755bdfe626a5n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d5985224b4b4a1c96a6463429dcce076.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48380198855348d9abeb646fde480fe1g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbfddbd98cb344530806af3b90649b46dh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56aca117ebed46ba908157e286d44077q.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S328d82717ae3460ba0de032c3fd05e69u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S06193ca1eda04f53a2fb603f33b402d1Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S409056c1126949e085be92c357fee1d7j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad162776816148ea87ed41421a1affff9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a9e2fb1df874a7db98728c2cb0c7d525.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa15e52380469465baf43023e74e80d13e.jpg"
+        ]
+    }
+}

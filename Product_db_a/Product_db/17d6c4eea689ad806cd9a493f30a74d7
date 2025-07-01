@@ -1,0 +1,84 @@
+﻿{
+    "info": {
+        "ID": "17d6c4eea689ad806cd9a493f30a74d7",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-07-02 16:42:01",
+        "第二层SKU数据": "",
+        "货号": "DG-168237235",
+        "进价": 175,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "枕头包 高质量，重量：0.7kg，材质：拉菲草编，尺寸：25x12x13cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:52:20",
+        "原普货标题": "Japanese College Student Bags School Bag JK Commuter Bag Briefcase Anime Cospaly Costume Shoulder Tote Bags Messenger Handbags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6b984a9080ef400cbbc14d9a06e669f9z.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7c4b2b22580d4485b233a7d460db8fcek.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd9a5eccbe3f49ce8e5ebd218f116c7eg.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd9a5eccbe3f49ce8e5ebd218f116c7eg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sffde9e5d32bd42f48755f8788272e1fao.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59777f3c96a04d1babf6a8324902a77aB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55a1d96de0bb428a90d06c94ac6f2139J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbebd64adeddb4c3381cb85860c6c9b72w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b57acca97ed4640bec52b8a40edf6dfj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9d6c10c4d2a43c6816e3095df5d31a1f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S886f607bb28d47ed87c4d14faadee25aZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f4c0acd749a429d9f07a95bcd35e7c1T.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sdd9a5eccbe3f49ce8e5ebd218f116c7eg.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S5acb132ad2724870a70b8ca67c93a54aE.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/H59753e0f778d4affa5bc466c559c92592.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1BGeGXq61gK0jSZFlq6xDKFXah.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/He8733fe589cc491c9e56ed5ab32b163ej.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H16a24da67eff4f4db87288ff6e599acdP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hb2d772e176214a30ac875cfa72cf0a1eV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hafff7add12df4a8fa59bac45a651d373U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H0e6e421c9f324e0cbf081ae22169f729d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H423e5b29528e43a5913561e84579c6fd8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/He4decff473d547bbbc0ed2596b8a7624r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Haf7f6e32a0de4f15a21b79a09f1fbc56a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H22355fe9f0ea4176af4c2ed469fb8a76e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hc5f7e27ed9a3455caee7a0d5a9193751E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H753f5d8315e64ca1ac944a0c38efd718H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hce4602e8ef904d4192ae060f58442d56V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hcc8fb2b73417430ebd08befdc923ba87w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H050803f8090f4e379d39deb900a8aa37s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H2b13b0579138413fa447f574d3d5260cR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hfd41689f73cd4a4c993d5092d526a4f5V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H021c63a1070e45469ed3bf28c3fdae73U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H8889b85ccbb14987a3669959fa718023r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hc244e03b3fb24901bc3eba28373b7585h.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/He8733fe589cc491c9e56ed5ab32b163ej.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hafff7add12df4a8fa59bac45a651d373U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/He4decff473d547bbbc0ed2596b8a7624r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Haf7f6e32a0de4f15a21b79a09f1fbc56a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H021c63a1070e45469ed3bf28c3fdae73U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H8889b85ccbb14987a3669959fa718023r.jpg"
+        ]
+    }
+}

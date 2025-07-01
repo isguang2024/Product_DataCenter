@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "1461fad2d837d43e3e7a2daf81344a8d",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2023-10-25 10:38:28",
+        "第二层SKU数据": "",
+        "货号": "DG-147782454",
+        "进价": 255,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1183091054,
+        "商品简介": "2个颜色，链条包 原版质量，重量：0.6kg，材质：皮，尺寸：26x6x19cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:56:46",
+        "原普货标题": "Fashion PU Leather Flap Underarm Bag Casual Women Shoulder Bags Travel Armpit Shopping Pouch Phone Pouch Handbag Clutch",
+        "质量星": 4,
+        "重量": 1.200000047683716
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S102866561a8c49bfa52f1b8d23af1432s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e4c5385a084420db97b77a25a5d8f7eW.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0590379fe4474253b0fadb4d3c297ccfa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S45b4fe8c9dde4a4a9f9dcb96b7546a813.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1142384fce034c399fe5cd1b8881b2a1A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48308b0ff6c642a8a084b934512435f7J.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7220426aafc84434850b1e1a9ea79c9dm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S84f15189099642f09fba9048aba078f99.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35471d3a5019418ab75370fa49cab0f5r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9dbb22eda83040839c6a98ccf30c2178l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1cb0fd12d7ec41f993f792e658de76dbg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9977505c3d547b98117e7dae9f4a88b5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3e5834672644ed1b0b711cb48cc6cefD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b78234f2b8140eebb7ae2b6771b4381m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b3aafda27d244269117944a056f9f50M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2efa15010e6c4ff9a6bad239542a58acW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08234baea8e443ce8408848d78630f5eU.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa23cd76a55a34501bc4422fa90bdcbbek.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1758412f2d274b129cf66813a9185aea5.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S1c0d4925704c460eab35be84a1193574Z.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc69128503cbc4a90a49acbc5a35d48a9U.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0aa03a494c174ee5a3852924da8b59cck.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See889eda028846418128c62922dcff9dR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sddc72d51cb3241648ff423ecf81b63488.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda258a63df12400788746c99c44b516df.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S485268dc3eb24d86b973a27c6d328fb2M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saed3c4ff6217458f8969b77fbe3c0672K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3635d96d992b47eaa3e453f7677b1678y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S524bdbcca73b40d1b6121f6ad541e395N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1181d3685def4bac86f31781c85d60241.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S193b7a9c47f64c4e90629503976475bao.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S44e2c45d35dd4ca191b8cca76cf24f9cC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3031565389454f7c94330c968ef262f2S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e2ad8dbb3da4b33b683ae3fdffce1c7p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc15af1655f324d988f0d29da3cddd528k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b5c706f622a4540ad69703ec23af35cv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S288d6b4482074d66986b4ff563096351F.jpg"
+        ]
+    }
+}

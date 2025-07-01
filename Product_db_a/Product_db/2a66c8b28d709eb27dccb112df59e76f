@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "2a66c8b28d709eb27dccb112df59e76f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-06-10 15:22:49",
+        "第二层SKU数据": "",
+        "货号": "DG-196062473",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "枕头包 斜挎包 高质量，重量：0.74kg，材质：皮，尺寸：25cm",
+        "性别": 0,
+        "修改的时间": "2025-06-10 15:22:49",
+        "原普货标题": "Minimalist High Capacity Casual Shoulder Bags Nylon Women's Bags Lady Commuting Bag 2025 Fashion Female Crossbody Bag Handbags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S32bb2eeca5ac464ba1a4222c59b25917L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62573d73bd7a4d11b2a181062d48c13cz.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S99789eaaa15946579e84b21121997a1fC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d74749c03aa4bd6b6fd8ca48fa71830h.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S65f72ca547384cfcb874852045fe823eE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe6d7c8c947e4354848593b52513397f6.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S348abbc7d1fc4bfda08519032d9155d74.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S746ce206643146f8aeceed975ccd1347X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf3c399eb6aa440c8727e68ff9a211d1i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd335cad5a1c4470aa0efe78180a35688j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f7b12abad9b4233bf3c999a6fd40c76R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1282603d1cd94ed5940681e73dde01212.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46e1d83654bb4059a9c482f30d221393k.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S19cc7177ce7d4a6589d39b5fe0683499l.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S86e34f88dec84deab009a9f7fd3f973aE.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S864a396511f14bfe9fe33a17143b30e7N.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S627a8d0bdc5f43c0bd41b4a91df5a1aeG.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sff93422d362140edb7ef13e004d9b72bi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S165c6cde754e41eba6d304f4bd045015G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ef49587b8354fb289ef69ac22c0c40eV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S096d432836eb4f10864e918a7d2df7cf7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0138c522211e4d30896e895a623682120.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe786811256247d6b709ed84296fa473C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01cfd3b338f04785baf615488c0f86e3C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S972b5435b27e4cfd9f299cb8b88e4b5bX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0e36c76844048ef82377e99caa3379eh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb731f5c900e4260a8fce248b2de4b78e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36a88dcb280d43ec84074c07982ddbb1l.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf4c81aef3c840beaba15b711f6a0e5dP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6acc562258144e87b5a15c560fa142c5B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S627a8d0bdc5f43c0bd41b4a91df5a1aeG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05b08d64c962406382b13e0d422837ba4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8965c5ac25a54960aa393904ecbf2cb8u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa19a31e4ddf24746b3db301bb08f8a88S.jpg"
+        ]
+    }
+}

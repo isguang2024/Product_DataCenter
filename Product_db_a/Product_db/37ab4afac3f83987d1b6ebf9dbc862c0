@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "37ab4afac3f83987d1b6ebf9dbc862c0",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-06-17 12:14:04",
+        "第二层SKU数据": "",
+        "货号": "DG-199668774",
+        "进价": 265,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "手提斜挎包 高质量，重量：0.72kg，材质：原版头层皮，尺寸：21x15cm",
+        "性别": 0,
+        "修改的时间": "2025-06-17 12:14:04",
+        "原普货标题": "Women's School Messenger Bags For Women Shoulder Ladies Designer Handbag Solid Large Capacity Casual Canvas Shoulder Female Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6f824129d42b41d183e5915faa7a406fN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e29a01bd77b462abf6c21c8336d06ceR.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3a7354d27b454b269c4de8b185604b29E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f4a1a0fd2164a1b880e35a17ddb2afaJ.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sab42f15f1a18457583bc969cc391989eG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f44521ebd2d4fc0ad78215a33655973M.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Secda952542f24da685712a9a814addf9i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab4fcd644edd4899aedb3c8fd35db097w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd83b6474f55c496e9be992661c1b553cg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0090c9187584d02a0e3666200d04b6aS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04e91eb85f2a412b95f72d6edbe654a4g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e1eca4f19ce4fb08f4ef86b4ae25c0de.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21d053bb43494fdf8ca571183f741471S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c4d6b3d140545faab6ff966b82a0adem.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda6f58fc916d47e3ba0f816811dbf58fG.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sba25aee1b3e74ff1b5e32adbf691f066b.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S04818ac475ae4e7fbf836b85e10b6dfcU.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7473a4a75ffa476c97c251fa985b7fe0B.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd5fe437ee81541d79e644e6d0b9715bap.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S701f4253597049db935c7aed4529cc4eS.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf942bdc45314bd3b4c49f308f617045m.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc77411fc07d349228ac83704ac6aa3d2a.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24292121820c40c6955f3349a5dfab6dO.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S553932cbc87c48508953254b3349656dU.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd387f5ed5d984a519ef7c3bc47826dee8.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S92febaf9cdf3417c81ff59e43da8fe23K.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd223229e6960404f83c7f0e0f2d569f0F.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7473a4a75ffa476c97c251fa985b7fe0B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S366cb962b67c48cc8634ffb29e85cf86Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b119d6213514c45ac986104f7f96437m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See0e383b65574faa9a991b12ca1ba74e7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86b200cd5a06435985dac1162cdec4ecO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c2eded0480c4bfeba317959e6a38a2aB.jpg"
+        ]
+    }
+}

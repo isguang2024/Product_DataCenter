@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "4ba9d17784c7c856c61bd34f854c0e94",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-07-31 15:49:05",
+        "第二层SKU数据": "",
+        "货号": "GY-W872143382",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "尺寸：22*11*17cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "New Beach Tote Bag Fashion Women Canvas Summer Large Capacity Striped Shoulder Bag Tote Handbag Shopping Shoulder Bags ",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S289891da9ba0406fa1ff2652f862db81V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49db3d2fead24781a5ef3846697203f0W.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S924715599d5146a498ff2b4410c49f26N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97ab97ed41774a10af93060c6985db5bt.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6d591a0c84b4b5f9c174362aa95e260X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sceaa510370f34a19b4540bab0c106129S.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3e3af19130394b8383858b928d19f70cz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13796ff288cb47ba8cdbfbc1e23a92d9Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbd5d5195e514e9d8e4863d090983ea2Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saef70ab2adcc4eba8266fc818a27dd43D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59fd9862bf254f2689f7b9e487748e572.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3fcd22592cf48ce94652fa202ba7767v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd4ba7c5c4284768aebe4be93eeebbefQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05a9398f21c8482699b6ddaca9f22e450.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87e826f7eea94ba187a49bfc38af5778B.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S62740ec47aae44829216369663816246G.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc88c18a6196b479a9382c6f26f0b8137l.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S673c488bae7843fd8ed2335132ceab2aG.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S673c488bae7843fd8ed2335132ceab2aG.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/HTB12RtySpXXXXXAXFXXq6xXFXXXb.jpg?size=24873&amp;height=41&amp;width=950&amp;hash=cc1d86ba3a6447df9b6b3f4b2815867e",
+            "https:\/\/ae01.alicdn.com\/kf\/S97224bfd98664455bc31986f0bf5c1b9G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB17azqKkSWBuNjSszdq6zeSpXaI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2b4aa088fcd4878a30ad339765df599q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S711f06bb8d534e46add4b213ad769ba94.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6a92e1104134414834aa997e3f9f8d2F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S54bd37950d99418a984adf9e46038b26a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d989f73b100482f923c338afaa2f4d1B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6f9a23f7d9042f587c3143009157805p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7746f40c637407186494f5ec9544c7bp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65e0a95a56f24cc3b1ab4a1f0a26a07cx.jpg"
+        ]
+    }
+}

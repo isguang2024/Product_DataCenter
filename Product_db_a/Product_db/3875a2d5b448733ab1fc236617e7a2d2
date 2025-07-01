@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "3875a2d5b448733ab1fc236617e7a2d2",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "ZH",
+        "创建的时间": "2025-03-07 13:41:13",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "ZH-W245975071",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "立体菱格网球鞋运动鞋,Size：35-40（40定做不退换）",
+        "性别": 0,
+        "修改的时间": "2025-04-07 17:01:40",
+        "原普货标题": "2024 Spring Women Shoes Knitting Sock Sneakers Women Flat Shoes Casual Breathable Sneakers Flats Walking Shoes for Women",
+        "质量星": 2,
+        "重量": 1.299999952316284,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S296d39359c394ff7b32783ca34ecb2ecp.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S35f8da0b52b44fbbb8a31b790a26f26dV.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8944709d9d1a4e0090cda80842a24273j.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1bf376853aaf4b33836ae748e1ba07d1I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c5eee3e3d2342198bbd89978bf1849aK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86aca5483c33430e9a83e2a763bdea9de.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4f0130b0c6d442088462653202ceb68R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7329e1ade77d41aa8a3487138246902dD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc71368f2b894ebdb1397ef3097d07e3p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c7e8133183148358699c4f09cfe77a7s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb716c46a8cd4d0aa9fee09283264389y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfba040bf21d346f3ae8d571fc21fc1b7a.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S6c5eee3e3d2342198bbd89978bf1849aK.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0e1df18bbc53467bae1a1b7487aef760M.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6680edb993ab4863b364d30f27ea826fM.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S394912ab2a6341bd992fd6bc928e7fe7p.jpg?width=800&amp;height=209&amp;hash=1009",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ae6c6935d7b46459a2ed09fca58c0e6l.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd72c3899965d44b3b4e5d1071d7bcbe4z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0631c0d04e04a74860c1bb40cd446d5F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc0e5ace9f824f0aadcc96f3242579b2B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se58cf10ce59b4486b4cb6e28baf6b1edA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfd5d47092f9432193324443e36dc96eH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40778c7604f74a2180e53c5862e81831Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e47bd28d653416480d3de9defd1015f9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba721a5193c04e94bd96b743e1839e5cs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6680edb993ab4863b364d30f27ea826fM.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0f1db8fe34334dba9003cd83d9848589M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca4506c745d740569a21d96a078b3225i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38c6f0cf2fd94a8589462718a0c183c1R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65f3cfb878364ef18fa7cd13b4f6df36j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e7777f27fd54cbb850d7d9d8a02811eB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6680edb993ab4863b364d30f27ea826fM.jpg"
+        ]
+    }
+}

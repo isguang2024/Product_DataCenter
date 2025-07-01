@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "efd6fab3519c6fc7cf32d3a36d0d8675",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-06-24 13:47:08",
+        "第二层SKU数据": "",
+        "货号": "DG-142610767",
+        "进价": 170,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "链条包，重量：0.78kg，材质：牛仔，尺寸：26cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:52:37",
+        "原普货标题": "Korean Style Bondi Leather Shoulder Bag New Fashion Boston Simple and Versatile PU Leather Bag",
+        "质量星": 2,
+        "重量": 1.100000023841858
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5f27461597d4de69626e977122f9a22B.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc694eb11c9a401a8c864b14eabfb384K.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5468f9c378ae4cdd8f6896f13c37ff7bK.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1c3d6102a4f4948b554c1f102283131P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2be7f00e273e4897b42a885de5ecdbfb7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfda30fe268914613824275ec7b5719c3g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf009d368e2844e15828291ec615f673dX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31b76f8357094298bd5f8484235372ef1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01ff84eb9af348f98076fdfdc5a60dc6R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S266d44fe934e46bd94684011f9ee7e004.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36f11e32e6cc4d56a889ee07523330e71.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f2b3e5dcd194049991a418177686b4bH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf533e288cd414b7ea446f0c7b397d56bA.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sce3b652d2cfd44e5853a431d7c7c90feQ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2ef9e0036f4c4924aea372fe89bd64d98.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S9da0a62126b74479a26869e889664ec9L.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3471a4b357634906a7f4c7441bb3be83T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8eaf827b6e44b4eb57126d4ee918511A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S135fdf12484b481193e5d25d209eb1b3C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S644d36e524434c99a23c70a68f74365ex.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf69ece99a390468abdca18cdae3c154eo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b06c8d74e0e4a30b2461cf628dd7496p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3984f4ac616e458899b3c88f8a9e26ccg.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2bc1497ed3954155b0fc9ce267767329b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3984f4ac616e458899b3c88f8a9e26ccg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S644d36e524434c99a23c70a68f74365ex.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf69ece99a390468abdca18cdae3c154eo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S135fdf12484b481193e5d25d209eb1b3C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8eaf827b6e44b4eb57126d4ee918511A.jpg"
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "b7ffec34496ccd5cd626d3127ea299d5",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-05-13 16:54:51",
+        "第二层SKU数据": "",
+        "货号": "DG-163321777",
+        "进价": 200,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "邮差包 高级质量，重量：0.6kg，材质：原版皮，尺寸：21x15.5x8cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 13:45:09",
+        "原普货标题": "Large capacity handbag, simple business briefcase, women's handbag for work and travel",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S55a8623c24b94e0eb1e87ad4aa20b926h.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3f46b125132545fc8c1a262338e4ef062.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3491e57ff4c04440b4469c1eadf82edcg.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9dba28f9126f4a08b2d675a4731fdeebR.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se2edb90ec573480fa58db6eeee2c50f5m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17e995b1649e46d09b8e754f9b533ac7k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc75a55393e714a0e95fe4ec28060cf80B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Safb353646afe4d9dbbc5858f8cc47d08P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fef922fc12142259a8310f7c48aeb81n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8e75c694a45f47d294eac71d473315b0R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6c1885e277a44bdbd34da0b266bc264T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10de23a8751a4b3f993d4a8b0033bb69a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S493908ba5d644edfb4aae02560c11e69J.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf3b95363bdd1405eab27aa6a6d886f33E.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sbcc47eec7cc14380a68065217d3e4f13H.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd9d4ac53900840a5b3eab079fda7c3bcz.jpeg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2841add3eaef4df78aab48583fe6f28dB.jpeg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3acd295df03a446096516ba1ed0510c2i.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6505e84b24cd4d298326e3399ce4fcc0K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6650847a3e9447daa84d4e898368f8717.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb3f50390d24464b840c274fc268b5c9Z.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc515a9d519014cc5a23023c7d5ec7d77x.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b9da6223c2043a2b031b9f4117f622ca.png"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3acd295df03a446096516ba1ed0510c2i.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb3f50390d24464b840c274fc268b5c9Z.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9d4ac53900840a5b3eab079fda7c3bcz.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b9da6223c2043a2b031b9f4117f622ca.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S6650847a3e9447daa84d4e898368f8717.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc515a9d519014cc5a23023c7d5ec7d77x.png"
+        ]
+    }
+}

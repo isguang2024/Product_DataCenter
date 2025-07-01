@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "bb5928cd61084ca875556a82e50b1ca6",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2025-06-20 13:47:02",
+        "第二层SKU数据": "",
+        "货号": "RB-W123327991",
+        "进价": 100,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -1190321189,
+        "普货模式": false,
+        "商品简介": "原版开模 代购版本进口牛仔布私膜真皮大底全套专柜包装\r\nSize:35-42",
+        "性别": 0,
+        "修改的时间": "2025-06-20 13:47:02",
+        "原普货标题": "Black Sandals Women Summer New Fashion Women's Sandals Pointed Pumps Women Shoes Office Dress Shoes Sexy Square Heel High Shoes",
+        "质量星": 2,
+        "重量": 1.200000047683716
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sef1eeef06ce84d2e9e8fd821016c2cb4X.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S94bf9c96e2184032ae4dd0dda99dd65fG.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3818e7c11f144a7962abcef90247427Y.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5b033ad9ed6049f2b72ae3c5d1c79f68j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se135f7a6fa154c56a799260827d3d465k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3fee48556284416b9a1b24c1b0ce4e94o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6094acfb71974a70ad6816d48343f39cS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e2afb0f3a534255a6bd5d524458ae46j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08c0e5a3c4ff478d841cdf73fd486f09a.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S428df9c551874681ab48f1d6733e257ab.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S5d686c884ac04bc098cd28e24e955479i.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S44314be7957b48dba24b1fea7d18721cb.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S68050b229e7d4d5cb7e9e00eda58b64ei.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S23ed8f5430eb4aa7971cc13f8b10a9f2U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f40a7f66d1c479b9894aa221e9f92803.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1ce950d700d476c89df2555e82f8406U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4fe3787b29e04e0691caf1be4f312d1fF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se78275718d6941b39efd289c47e0efc9e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0affdd7a3d9e44399591f5a2e28c6d538.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8765e7fc8f0a47138c0c0b4c3dc4f3f1e.jpg?width=800&amp;height=800&amp;hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S23ed8f5430eb4aa7971cc13f8b10a9f2U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f40a7f66d1c479b9894aa221e9f92803.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1ce950d700d476c89df2555e82f8406U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4fe3787b29e04e0691caf1be4f312d1fF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se78275718d6941b39efd289c47e0efc9e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0affdd7a3d9e44399591f5a2e28c6d538.jpg"
+        ]
+    }
+}

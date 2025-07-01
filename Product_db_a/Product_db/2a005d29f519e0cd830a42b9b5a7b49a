@@ -1,0 +1,67 @@
+﻿{
+    "info": {
+        "ID": "2a005d29f519e0cd830a42b9b5a7b49a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 13:33:16",
+        "第二层SKU数据": "",
+        "货号": "GY-W1791529234",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:19",
+        "原普货标题": "Corduroy Shoulder Bags 2023 Women Fashion Leisure College Style Shopper Multi-Pocket Large Capacity Designer Handbags Totes Bags",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8a642c829adb4e309cbdc9f5079f51f4c.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1d45ce27fcb443ab8ed75964d8c392e1J.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3f4b5de3af449b182b046be4f5041a2Z.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3f4b5de3af449b182b046be4f5041a2Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S22045663fc2e414c80b61e894d4bb41fV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d9e4c27e08a48acabc1cad5f6b799aeH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71e4832d482445bb8c4a3a737fe39b38Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4ceaaca035a40ebb9a96825132282373.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab120ba6a8014b5cb0b1b6f85a9987504.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9944c20abe1249a5ae04630f2314f0890.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd80dfdd7eb064380b6fc3d7d8dccd0039.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02266dd8d3f448caa97baac108a2b5050.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa3f4b5de3af449b182b046be4f5041a2Z.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sa39e3cff0b954e9097e0ee28145b34a5x.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se39c28af9ce74248954153963d9ab0dc0.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S469ae47a2e994c19b393f6fbabe7592dy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb12159fcd1154ae69516c9f0240ee8ff9.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S68474c1a3b384ee9b5d9e3efed24f0ccY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa31dd702f5ab4ac0bbe9833015916c6c7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c7ae30837fd4dd0b146bb64b25ec6634.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3ad871523164646a5815d1dd168f8e9g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfefac2eb88db4ad69c2ceb905f515f44d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf1332425b1040e3a01c2942bdc01deeV.jpg"
+        ]
+    }
+}

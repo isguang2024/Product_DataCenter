@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "db1b628d5c36f9b6f368b0cc263a0ff4",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-11-20 13:53:09",
+        "第二层SKU数据": "",
+        "货号": "DG-177075373",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1007,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "双头腰带皮带 高质量，重量：0.41kg，材质：皮，尺寸：100-125cm 宽度：3.8cm",
+        "性别": 0,
+        "修改的时间": "2024-11-20 13:53:09",
+        "原普货标题": "4pcs Women Skinny Leather Belt Thin Waist Belt with Metal Buckle for Pants Jeans Dresses",
+        "质量星": 2,
+        "重量": 0.699999988079071
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb30790e2f7a349f088eea1bf16f141cb4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa827269642a446e780c321c9f78227953.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S99759f1938894caf8e6ec2e2bdc53a662.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10c9072a7701465fa942c9baf14f99bbo.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S42f450411f614224ae1523ba065d3d64Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd163446ba2e74df8b8d815f7b30250e9B.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9f0e4a05c3ee4fd8ba9d3d9c84e741e3Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se15290ed29f9416cacdc6a26843e3320A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36749fd201204be4a702254dc15b3a33s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42045eecdfb945e98f3e74ffb9f12000H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S250978e74fd64c21bd74794f9ffa8195c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42f450411f614224ae1523ba065d3d64Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se66b6de4e802413c8fe85794f39151be1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c03d3f1017b4aee88da2f4b3bfc0531A.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd163446ba2e74df8b8d815f7b30250e9B.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S08f9120c0c224d74af449acb75187f3fn.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sb517a90326dd4614a578248e44bc3ee0K.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S00c2cd3e13b24e428fbebdb0360a50e48.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb517a90326dd4614a578248e44bc3ee0K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00c2cd3e13b24e428fbebdb0360a50e48.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf113f697420a487ea73a24cad37509e91.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad4791f2eacd41c7a1a592a72375cdaaw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc421d53a508c4721907145e4ed6be01fq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se43648b8da1e4e73a115dce66e8adf302.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb55743b7dde64395aa82cea251fb5799n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00c2cd3e13b24e428fbebdb0360a50e48.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf113f697420a487ea73a24cad37509e91.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad4791f2eacd41c7a1a592a72375cdaaw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc421d53a508c4721907145e4ed6be01fq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se43648b8da1e4e73a115dce66e8adf302.jpg"
+        ]
+    }
+}

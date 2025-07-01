@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "607e4368a5d53740986c09ce55677ecb",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-06-09 11:50:18",
+        "第二层SKU数据": "",
+        "货号": "DG-195753282",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "铆钉枕头包 高质量，重量：0.67kg，材质：头层皮，尺寸：20x16cm",
+        "性别": 0,
+        "修改的时间": "2025-06-09 11:50:18",
+        "原普货标题": "Leisure thickened handheld canvas tote bag black three-dimensional men and women large-capacity simple shopping bag handbags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7060aad89d64b4e8a13addb907b396e0.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sca38344883954951a9d23308fed29df5l.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se4fd4f10c3fb41e9904964bbc796e457q.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se2f8dd5937094464ba0df555a5b32a16o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa4a74ec24d443038f7a010f5be7faae9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1be28232e55e4a5db413a175e40c5e64l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb7004c3353c40099b0def96c88674a51.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9203e18f5c0e46339c8fc85a803ee71eL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50058e408fbf46c19c23c5f476906ae8S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6b1e4c946764cb79b68a65b75f9349bS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04c503f467f64f039021c4889f88e572N.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se4fd4f10c3fb41e9904964bbc796e457q.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3e731d948a014d87ad0aeced512c9653b.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa4e606e9c812486f98f0f79b0b065384l.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4e606e9c812486f98f0f79b0b065384l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbee9332f480240bcbcbc67ddd46d67f2B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb57e21ebbdd4c958bdc2cff06525a62u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S057a6f193cfe40ecaff86ef1369e0da66.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d0bda611bec437296334bdbf73e96ecN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70eece63d8e64b73838dcba46935b27e9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3ccd57fb5ea4255b2fa088f2e5c173dC.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S082e02eeb9a54a6989803bec302f964bB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4e606e9c812486f98f0f79b0b065384l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbee9332f480240bcbcbc67ddd46d67f2B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S057a6f193cfe40ecaff86ef1369e0da66.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d0bda611bec437296334bdbf73e96ecN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb57e21ebbdd4c958bdc2cff06525a62u.jpg"
+        ]
+    }
+}

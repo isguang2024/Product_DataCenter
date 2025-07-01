@@ -1,0 +1,128 @@
+﻿{
+    "info": {
+        "ID": "a566cc0a3561d62bf8c090c01d267cc0",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 6,
+        "厂家": "DG",
+        "创建的时间": "2023-12-26 11:21:34",
+        "第二层SKU数据": "",
+        "货号": "DG-130497929",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "腋下包，原版质量，重量：0.75kg，材质：皮加毛呢，尺寸：28cm",
+        "性别": 0,
+        "修改的时间": "2025-02-22 12:08:24",
+        "原普货标题": "Fashion Exquisite Shopping Bag Retro Casual Women Totes Shoulder Bags Female Leather Solid Color Chain Handbag for Women 2023",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se438c80fd05344ad9374688d0297e754p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd529da33e96c46318cf1be7fed8eaf77T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4b023c7888945eca221bbe211f20862o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ab853edaa7546e381aa3d4093493576P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf48815943e08485295e056acf3bc3953n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfdfda90c03dd4c22a2c3ad7f7090c8efD.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S30f328c4185f4d1aa40d9aeebfd6ff7dw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a0f27ec479b47d59fec4f4a43fac03cW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a99f35a90c346d48c184a8d21650417l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7795b2af936649f096cbf4fc8d41278aU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e86e6c9a9a649c8ae397dedb07cea27E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb93b8bcdb1ce408487d79047cd00303dH.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9a824a6816f64975815428c853b929c9I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc627d4131d564a9e89227690f6c1464cw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c97a8fcda1740728e45519612cc37ddC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3cfc404a12e4386b0c7d5ba0cd335beH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13fe836c3b9d47ad961ff77d1aece455e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd768bc2c2cb44f8db9a76c4393ccd1122.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2c97a8fcda1740728e45519612cc37ddC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc305ba2363314952a49f29a343d714cc7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13fe836c3b9d47ad961ff77d1aece455e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52ef9f89a85b4c8babe2938c09431c7fw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5421b3028d764de8b379a8de667601a8h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4cad20e18d524f02b70c598f46304d0fa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89fda6970b7943ab857735891b4cd4ffD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S328329af2a2045f0b7aac6a43c5ae2e0W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20895d23c4844e8497b5ee85debdcbffH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6fad7f28c6b44f5bd8afe8de6381031Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28f73dee2025431e945d57c5c95e3a7dM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3cfc404a12e4386b0c7d5ba0cd335beH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13fe836c3b9d47ad961ff77d1aece455e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd768bc2c2cb44f8db9a76c4393ccd1122.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a824a6816f64975815428c853b929c9I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc627d4131d564a9e89227690f6c1464cw.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sc305ba2363314952a49f29a343d714cc7.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Se0a47ecb7e9644949ecb5b5b7ebcfa1f9.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S1e4bfcb221514ab8b6e2f952e1916cedL.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S22eb70d7198f42fd85a72006c3607b41Q.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S085d29f28a0a443e8be756f301968f14h.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc49b83bee5d34c45902156f6165d7b90Q.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S21de10d541f4457cb60580957e8a0586J.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sa33ae3bc4c094efdac53997422b45929a.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7de85197e0ca48efa25638103987fbe1Y.jpg?width=750&height=764&hash=1514",
+            "https:\/\/ae01.alicdn.com\/kf\/S75e2bcde7e7c471fb3020a37dacd6466Y.jpg?width=750&height=1848&hash=2598",
+            "https:\/\/ae01.alicdn.com\/kf\/S70d8f896ae784b459afeabbb15c01286I.jpg?width=749&height=778&hash=1527",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea256ad70d84433ebf250f5f980cdf81h.jpg?width=749&height=776&hash=1525",
+            "https:\/\/ae01.alicdn.com\/kf\/S233294e98853464a822be1c5363ce212y.jpg?width=749&height=770&hash=1519",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc85be06ff704e75b70a7e30ef73ff1bK.jpg?width=749&height=768&hash=1517",
+            "https:\/\/ae01.alicdn.com\/kf\/S97942f380aa9412aa2cad82f718cfc0dD.jpg?width=750&height=734&hash=1484",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0d220c3f09d4d25a8f2684afac62ef2M.jpg?width=750&height=731&hash=1481",
+            "https:\/\/ae01.alicdn.com\/kf\/S72bb5aa366024f30988f8c22c5cd0c3dj.jpg?width=750&height=798&hash=1548",
+            "https:\/\/ae01.alicdn.com\/kf\/S83253a34a1764dcfb55ea763b94c7bc3d.jpg?width=750&height=791&hash=1541",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8f6b3ff71734f039f4eaa94a359a7d39.jpg?width=750&height=784&hash=1534",
+            "https:\/\/ae01.alicdn.com\/kf\/S19068cd773ec4d0da82524321a6763f2T.jpg?width=750&height=770&hash=1520",
+            "https:\/\/ae01.alicdn.com\/kf\/S2bbc633b0eb24b4bbaf3c502e6979934Q.jpg?width=750&height=760&hash=1510",
+            "https:\/\/ae01.alicdn.com\/kf\/S0cfd300adbb84931a3e270e680be495dO.jpg?width=750&height=761&hash=1511",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb63b7431a74b4d6a8c38b327b4d8fa34J.jpg?width=750&height=760&hash=1510",
+            "https:\/\/ae01.alicdn.com\/kf\/S7de85197e0ca48efa25638103987fbe1Y.jpg?width=750&height=764&hash=1514",
+            "https:\/\/ae01.alicdn.com\/kf\/Se55e0267e7b548068886b9ec92645d3bx.jpg?width=750&height=788&hash=1538",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f767addc4f84b8980d1312e7fbe7d63v.jpg?width=750&height=785&hash=1535",
+            "https:\/\/ae01.alicdn.com\/kf\/S68737242ef4648c7b8c17ca5d249cc445.jpg?width=750&height=785&hash=1535",
+            "https:\/\/ae01.alicdn.com\/kf\/S437924445cef45cb834f43062b76dd16e.jpg?width=750&height=760&hash=1510",
+            "https:\/\/ae01.alicdn.com\/kf\/S737098ce1e9b4cce893ff34ccfd8ef43E.jpg?width=750&height=761&hash=1511",
+            "https:\/\/ae01.alicdn.com\/kf\/S536c976cd3d94eebbe37ad0a3c7b4bdbi.jpg?width=750&height=755&hash=1505",
+            "https:\/\/ae01.alicdn.com\/kf\/S591447fb8e7a49c9a77da814acc687f77.jpg?width=750&height=765&hash=1515",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa834ec5a9cd742bb863e8eba7605096aj.jpg?width=750&height=760&hash=1510",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3000eee5690497aaaaf922af561d907H.jpg?width=750&height=761&hash=1511",
+            "https:\/\/ae01.alicdn.com\/kf\/S514f48e504a9451f885e6c14aeaf4fc1w.jpg?width=750&height=760&hash=1510",
+            "https:\/\/ae01.alicdn.com\/kf\/S23ba26b84b394584adbc1f011affb5b8B.jpg?width=750&height=771&hash=1521",
+            "https:\/\/ae01.alicdn.com\/kf\/S7acb15a2233c44fa9af445e54f83816bJ.jpg?width=750&height=782&hash=1532",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc450cd0ff38e4ca3a6596c493b05f62aD.jpg?width=750&height=785&hash=1535",
+            "https:\/\/ae01.alicdn.com\/kf\/S09987fc08fc6484c8613f88db299a9fah.jpg?width=750&height=730&hash=1480",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fcb895b3f5c4e05b85cded46b0abcb6G.jpg?width=750&height=724&hash=1474",
+            "https:\/\/ae01.alicdn.com\/kf\/S9aca792a0a7a4a649408ef00d969cbddO.jpg?width=750&height=735&hash=1485",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce7697765d1b458ea742b8f769daf569h.jpg?width=750&height=808&hash=1558",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0ef4a91e44c4b2e82982cc79c827fd7w.jpg?width=750&height=756&hash=1506",
+            "https:\/\/ae01.alicdn.com\/kf\/S299d80ae1fc540a59a68ae31d67ceb18h.jpg?width=750&height=777&hash=1527",
+            "https:\/\/ae01.alicdn.com\/kf\/S92a16a619a144ad78a724e9afe7518e7K.jpg?width=750&height=811&hash=1561"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S74375612dc1240e1b0fe10e49321d94e6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc47c34f7d0f24e4fadd5246f66dfd044S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e376b58e66843b893271a8c270ed395m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S035eb1e5b79948abb5fcc2db70f2e02fo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S240b196f98b744828848a418868e1669A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17850b192f9143e7a5a34af21a4aadad7.jpg"
+        ]
+    }
+}

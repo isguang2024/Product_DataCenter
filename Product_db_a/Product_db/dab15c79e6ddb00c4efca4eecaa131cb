@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "dab15c79e6ddb00c4efca4eecaa131cb",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-11-20 13:38:06",
+        "第二层SKU数据": "",
+        "货号": "DG-177076811",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1007,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "双头腰带皮带 高质量，重量：0.4kg，材质：皮，尺寸：100-125cm 宽度：3.5cm",
+        "性别": 0,
+        "修改的时间": "2024-11-20 13:38:06",
+        "原普货标题": "3.8CM Anti Allergy Stainless Steel Buckle Belt Vintage Cowskin Genuine Leather Man's Belt Male Cowhide Retro Jeans Soft Belt",
+        "质量星": 2,
+        "重量": 0.699999988079071
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se8cc762a9b97453c88089c1fbfca68fbb.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd73247c94eb649bb9bdadb6da87b3e7cs.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf019805634da4b73b519c5bc0555ad8eX.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se0f61a4688ac46caa69460880e951f38U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S185d6472695b4e4b8996fd8895ec71974.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58fd6f60c32248fdb481bfb86f17ee3dG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb96ff194d9ad4df8817cff67bc723e00j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf019805634da4b73b519c5bc0555ad8eX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8ccdb82676b416ba536058d5786ddd1y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7cf96956a76146eca3e051a2024fa403V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se964b64e70ea46079568b1d5130ad239F.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb96ff194d9ad4df8817cff67bc723e00j.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S77219201fcfc4182bd0d9aa6cecb6f79O.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6d65f3370f714bb99d73f124ec6deb1bj.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3abc88a03629484380a1e69160a2d715e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3fd6f37d4e274cb88d34b20e76ab355ek.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcb6e44be92348d8a408250d7c48b774K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf57b013c5e7415ca1a3d04f479539b4z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d65f3370f714bb99d73f124ec6deb1bj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde3cb75f802f4032aaa4f1aa3a2c3507v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2190be4bd0f94b8b802f1a2c116068c5c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd0676669fc3460ab79f61ce6cbde9a5e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3148bbcb3d6346369eb3e4bff8ad51c9R.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6d65f3370f714bb99d73f124ec6deb1bj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde3cb75f802f4032aaa4f1aa3a2c3507v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf57b013c5e7415ca1a3d04f479539b4z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3fd6f37d4e274cb88d34b20e76ab355ek.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3abc88a03629484380a1e69160a2d715e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcb6e44be92348d8a408250d7c48b774K.jpg"
+        ]
+    }
+}

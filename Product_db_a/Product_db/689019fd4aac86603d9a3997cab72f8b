@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "689019fd4aac86603d9a3997cab72f8b",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-09-21 15:00:28",
+        "第二层SKU数据": "",
+        "货号": "GY-W740183177",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "size：22*14cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:51",
+        "原普货标题": "ISKYBOB Felt Stone Pattern Shoulder Bag Women Underarm Bag Girl Crossbody Bag Fashion Design Chain Bag Retro Solid Color Handbag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S14f8296a7ee94bb181837c681f1ed17c7.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sba65b6c51c48452b8616c169337a3a3fL.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0f57ac421a314c3fa4c2876e5281aa5a4.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S53110a20db074a3fbe11dcf18378808ai.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S45cfc71109b84faa89eba022337194efd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1614df37f994620b229933c51697c52W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f2be42101c2453fb26c569ee87a75080.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S751106bc7ac2415f95f1c71a4a448d93t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd1ac026a62e44f0b67438804bd6abfaC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf72abc14e225414ba7d25c189aa82f2eO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8a0b960f4a24c3380650fbe4c717cd1G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c02d376514e4879820ab560cc0ca3ab8.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7b0296f71ee24e4db0ca460db21c886bT.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sfbd3ff412fc24c77befe8ec204d828d5o.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S91bfc7a635aa48da9180c9076762c176P.jpeg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se19b46878c324ca48a1d4448d759ceaaA.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc862b2b8459e441bad1afb995d0ff7b2Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S711d3de9777e4ac1b45f616dd4ea3d8bS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7131ab90c735442f9ef9a5351210ae620.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa7bd3baeada4d6abf34929b1aa0b65cv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa978668ad9b1462c81a5a69a50c5a57dK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S148a1bf99c384a0881603c89574fcdbf6.jpg"
+        ]
+    }
+}

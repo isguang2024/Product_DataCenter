@@ -1,0 +1,81 @@
+﻿{
+    "info": {
+        "ID": "4fb1650123a145b60f00b5cea820e3c7",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "GY",
+        "创建的时间": "2024-08-19 12:52:03",
+        "第二层SKU数据": "",
+        "货号": "GY-W411751734",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -483631255,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:55",
+        "原普货标题": "Women Vintage Handbag Canvas Teenager Shoulder Tote Bags Messenger Bags Ladies Casual Handbag Crossbody Purse",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9af77d00ff2413eb1523ad73da24c66O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f824f7556e649d596667bffab9bdf5bK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcc2536020884498a5abc6ab253329ebu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7e52ffcbbe34c72b7b60dc49b0907eaw.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb3d4930526a4e28b43421c242538c94f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S699fe510a9894e999f41dfa022729464N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68ea2ed008cd468baeba0d4b123cbe70F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70fcc723008d41bd9409eb5b2efbe657F.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3558b11ee6894876bbd978f83f1ec8c9h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ee5b4e208dc4c30acd654dcb2de05bf2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6eb527d763d45c2a55439e78539e484w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f2e86e5220744108774508735fcda61C.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb874bc01520043b4b1334e1788576d9be.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se95006d14fe64227be775bec87954adbn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40fe823cc9454b0a956ace2275714a6fo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S880f4767003a48f39721813df3bd5fd2g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67bca2926ffe4389a19890818841dda8i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7b01e655b5d404984bb7c5a463a8fd9x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb8b95e832864399aa789509c1f66cb3k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6b7b16783f24880a88557bece338e33E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S836033f18de34c2893e0acc32c66638dZ.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S97e1e73e3dd14b81a73ac390d511b4b8H.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S83c952e54a08441d8ac1c15f1794b087D.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S66aa34522d9c455ca8dac40a681c36a0E.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S3a7575bc7d674f1693c693af559a2413I.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S9d1ced314ea147208bdd75028a7ee896w.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2863685cee4b43d7862a95e336646dd38.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S534ff8850ef04d9389ab267dea1c2227t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S605950a68bb941e8be6889273bba432aO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S865c90b04d264a4bb1c09cb1164525bcH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5d0079454db4b41849d42488b5f282fi.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3acd0a8bccdb4a9ebaa98675bc3ee4801.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S436f5f962400450a80d89432e6114b6cw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa139907a67f84de4887608478fdbeeb6E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S896d25119c124e509dbbd788ec2e6c50t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc8be3d609794305b0b68f9133661e08e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72e97415a525409eb89a6185015b7c8aa.jpg"
+        ]
+    }
+}

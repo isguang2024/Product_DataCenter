@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "4cebfc08a09799b8f956342702c42033",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-06-17 11:44:27",
+        "第二层SKU数据": "",
+        "货号": "DG-166946110",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "牛仔链条包，高质量，重量：0.6kg，材质：牛仔，尺寸：19x11cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 14:34:33",
+        "原普货标题": "Large-Volume Suede Stylish Commuter Tote Bag For Ladies With One Shoulder Bag",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7bcc7ff13ab9406ebe2d611a5dcc35c0h.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5c1a2fc037ca4dd28059628dc7791b7ad.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S111827af0c03442d947e753df1e34e48T.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sba802c9104984e98a6767b198ef2a1fdY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8e7669628e84e13b78a91f3493e80acH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S862dfd2236474ac29ff314cb7889d6ddB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d9eebd300ac4667976fc5fd695dbd879.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e702440aee44089bc1af2dc7e3dc68fP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0dfa0f2abc684aea827687c3a7bd8b0aJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S553c08dbd0de443dace1c873d989cef2M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f7443a10c254c23955f18d50c82c722F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ea2910eef884ebb9acd7f1fffdfc408j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d22dddf1be446049ec15c26ccbcde86d.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S00bbef169a5840ea9e3e33932ce67c21I.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc49bad4b54ab41458797612c21013285F.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6d72bb8f711d403481578eb810789b408.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8e015ef3958c440ebf57971ff8beb6afk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48848740a3d54a649211de3bb905dfdes.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd989b3bd61c7471b93195ccba0f2de9fD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S251ad1ca1efd4667b5f8440abaa0bcc43.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4440594a8a6468ab32925be2afbb3109.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60e6194376df4b349872e0629b918dbdd.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8e015ef3958c440ebf57971ff8beb6afk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd989b3bd61c7471b93195ccba0f2de9fD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4440594a8a6468ab32925be2afbb3109.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S251ad1ca1efd4667b5f8440abaa0bcc43.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48848740a3d54a649211de3bb905dfdes.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60e6194376df4b349872e0629b918dbdd.jpg"
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "ba73c702f7d66d665ca4558343f8c287",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-06-10 16:56:55",
+        "第二层SKU数据": "",
+        "货号": "DG-195896148",
+        "进价": "110",
+        "利润比": "100",
+        "品类": 1002,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "锁扣长卡包钱包 高质量，重量：0.32kg，材质：皮，尺寸：21x11cm",
+        "性别": 0,
+        "修改的时间": "2025-06-11 13:56:52",
+        "原普货标题": "Women's Double Zipper Wallet Fashion Short Credit Card Holder with Large Capacity Coin Purse",
+        "质量星": 2,
+        "重量": "0.6"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S493b86e991514799920567cdb0afd1efg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4d2c4bb292b4c72aa111739bc2610204.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9c5160fc4b94894b767ca42472a1a75R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sedd8ca97c1bf45519f0ecd9b28be7036Y.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se5b4d869e5fd4783aa8efda228bca2aaJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d39f3641ee94aeb8410c140970d6bc6q.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1a958159ad00439ab8b71bdc7ee49282r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28d84e846cde4c0f9bda830ef5419bb34.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d0f4432f4634e61962dac49a95ed2a7V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4549a5049c364e00aa4f006e08a5f593O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12efbc78f6a5414eb38958e9690dd9e7Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S409c189151db4ec289580467f6874d752.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc18eb3997614ac587709375d8bb1d2dZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98f3393b6c8b4b5ab719754641915a72A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12659f9eb8394ccdbb8803f3baebb7b3M.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S90c60355485f452bb730fe4cbe2f3877P.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2f3b0acc9d02479aa35f1c732d94b578b.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S96cab01f62a14f419622149cb6534f3dV.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S60107fa008354fc29d6b697a8fa90b14M.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa924ceee1ef4d63a121af58fdabefb4V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd1d2e2ef81f494cbbf62650795e35a6H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S764602c2d29541dfbfd2daa21c44cba4o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7e8b496251947b0821656a11e3154366.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se5d8d5c00df94002bf84b6113ed7fd44D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S191ed10e08804a50b78180fefea16709t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77174d2e326c4634859b31d9749c158aM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd973859805414f06ad10b03c852205dce.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70dd897636de44eab05fd55f50524f3ax.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S930f4aa900b94597ae509a53d0f4d5a9q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd70f74d3336b4533a16e851ea44b9128T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67f45f8949bb40e6b6b97b63531dd59eU.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S32e4ea2f7f41470ab17904c8775b1f5bm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c22f7a1defd41caa34fff7ee34fb683I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98f720e3a61040659af42d45012bafd2p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9ca9cc8684e4120bb552b59b8da5135l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b80d4ca630747ecab8ebe698568c7b49.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43fcb49acf424fbf96b83f84498a732aa.jpg"
+        ]
+    }
+}

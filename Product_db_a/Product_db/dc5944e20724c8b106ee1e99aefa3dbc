@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "dc5944e20724c8b106ee1e99aefa3dbc",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 17:06:38",
+        "第二层SKU数据": "",
+        "货号": "GY-W720080336",
+        "进价": "110",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "百搭到没朋友 就是酷\r\n时尚感超强 辨识度很高\r\n容量很大 上身也很帅气\r\nD-2尺寸18.12.25",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:16",
+        "原普货标题": "Fashion Denim Women's Designer Handbags Canvas Shoulder Bag Small Phone Flap Purses High Quality Armpit Bags for Women 2024 New",
+        "质量星": 2,
+        "重量": "1.2",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S959f11a7f78640bbb72cf79afc7abc043.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb03ce4c7e5ff484fb3cdcfdeeeabd487C.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S23b3b510e08443a1aeca5826d5877327Z.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se8848e780dbf46fca9a97db2fb783ed6g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3bbb42b83d8d47e1bc28c018a6a68281j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03281573169d470397d9f7a94c7bf653Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef730c78186f410d99b993bee79b91adM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b07f49fdb1044cb8ded930abbf48e5c9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1201ad191a844d5ba90d599e695adfc8a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2bfcbed44fa04ffa9b73b437c0c7fa1aM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b67e5651c0e47f88a0db3f55338bdfdj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41c17920f0f54ead90e4dfce6e3649f8c.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sc980a03815464d778c591857ff93285fT.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S620b3b284178484ab7ba05d6017a7f732.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S20c9da9c0f3644178e0a63fd84b4a8d2d.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2ebacfd125c40ff8e579efb97d653b8K.jpg?width=750&height=1012&hash=1762",
+            "https:\/\/ae01.alicdn.com\/kf\/S46fbb8a72abd46e1b946239b2022dffeY.jpg?width=750&height=1138&hash=1888",
+            "https:\/\/ae01.alicdn.com\/kf\/Scccd1b66f1fd48fba0011d97419c3a25V.jpg?width=750&height=1591&hash=2341",
+            "https:\/\/ae01.alicdn.com\/kf\/S51ca699d52cd46478cca3630990bf1ddw.jpg?width=750&height=1099&hash=1849",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b4caf21bb324b1eabf69ec92bbf8e14Q.jpg?width=750&height=1430&hash=2180",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a9c743ca14149ab9cd8c26a0df67275l.jpg?width=750&height=1425&hash=2175",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a7f45f0662843d7bb45c45dc042fdc1j.jpg?width=750&height=1434&hash=2184",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f4dbac9619041ddbb2953a52d2e83918.jpg?width=750&height=1432&hash=2182",
+            "https:\/\/ae01.alicdn.com\/kf\/S4281d3b98d3e48b29e873a0911e731269.jpg?width=750&height=396&hash=1146",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1dc3e800a2f481d98f34ea12717ef3cU.jpg?width=750&height=717&hash=1467",
+            "https:\/\/ae01.alicdn.com\/kf\/S611829193e6d4a49963a3144125022fcs.jpg?width=750&height=713&hash=1463",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d8ebd59d02d4dfdb3e3324d1d8e7d11W.jpg?width=750&height=1420&hash=2170",
+            "https:\/\/ae01.alicdn.com\/kf\/S76aef84cc15b4cdf9991480d64f640c3p.jpg?width=750&height=1424&hash=2174",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d78d71fb62842ed9a597b807ed978ecP.jpg?width=750&height=1426&hash=2176",
+            "https:\/\/ae01.alicdn.com\/kf\/S85806c6dfb3a490eaea2a7c317d62d30S.jpg?width=750&height=1329&hash=2079"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se242f0b358f143feae9a2ad8b86cb20dX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S098db3d20e0d4e1caec2d604e44b27b4o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16e545219d9d4eb482740c5823902861Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd906d86dee5c41dd88c5b82aecc5664cO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4e50ed00d094da1b96397f09687f77cZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa56793c5e3eb4a6587b9ea0a71bdc878l.jpg"
+        ]
+    }
+}

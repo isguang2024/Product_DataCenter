@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "4f21963904d1320ebe63fa0d28484351",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-13 19:01:59",
+        "第二层SKU数据": "",
+        "货号": "GY-W1486129055",
+        "进价": 170,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "尺寸：25.5*7*15cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:59",
+        "原普货标题": "Fashion Wide Strap Crossbody Bags For Daily Used, Square Matte Pu Leather Shoulder Bags Handbags For Women",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4fd5ecb80edd48e7b237595fdc2716e6h.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2a0f6eee79348bdafbf8ea4e722c941n.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4eae752cb4f54538bff80b1a6ef8674b5.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4eae752cb4f54538bff80b1a6ef8674b5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4741643c6fc49108706ae87a7067468M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a7e162cca4b472e9bf06c8a55678db2e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebf16079f929409898629073da75b154O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S969fd88e9db7485899d5c2f0f23baa2bq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S040033d8ca724e2dbb385e9a511841b6m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S210ab375ad404219a20349ee6c159bf5X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa770fd8b0d5347908d1bebb6749ec747o.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sbdc60e2ede0c4c6a98216cd27fddaadfs.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S456f93c4f4f34be5adf5707671f5c9016.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6b852c48007c4fb783438eb5f11001eet.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd30a95b70cd4413390d082a0af77514ay.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se45f7ae89fdd4ca496334c52bbbc4575E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d73065951e440ac89af29ffb458268ef.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9edf6211c6954720aae4a667c96ec910W.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3d55df8aa8e44dc4a27e5f4a5b1a6bebe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2dad6919494b4232ada02034753f6f8fN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S685f366df75b4a5c85eb1cfc3de172c23.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3644e19065f45b9856f84abce0360d7T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4be31b1ccc14f1aafa4b105bf1a6632Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e1729703f5e487ebe3a216796918297Q.jpg"
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "1bbdbe559ebd5f43ed4e0462d2063d5a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "GY",
+        "创建的时间": "2024-08-09 15:50:37",
+        "第二层SKU数据": "",
+        "货号": "GY-W2059501209",
+        "进价": 175,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "size：20cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:04",
+        "原普货标题": "Classic Designer PU Leather Crossbody Bag for Women Travel Handle Handbag Fashion Shoulder Messenger Bag Ladies Small Flap Bag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9bad58c1fb8549e79a395a8b59e57381D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S657afceb1330440f9ba0bb938dc8684dG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85c53777b32740638efe46458a6b28a4m.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf956b7b40d8b491c8d861305e0135182b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S087e91d546b046cbab578f0dd166f25du.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa297c757cf8b475eb4cfd4371d8c02f9u.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1523dd2ad024f21aa6c12ff6292b1417.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29db34e043164e4daae9b47f82596cedH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S951dd2b15cab4b4ab25457ae0b4cdd859.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4d0155bdea59437ba661f9e2a862b0eeD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd720951be39340ea8e739a3e8301c1efn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd98f44a5962e4179b54bbafa34b46322s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfdacf12381a44443b2d4c5b5ed20864eO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85ee9407eb9c4135a741e9e1e00df831C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a45179e3ea94db890665e68a0f586fdO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa380523fa28f4204bb677ea4902a9453O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7bd5545b6ed941d8a2b54e0a849157f7N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad7b3b40e01e42f7a9397fc67b6a9785n.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S82583531b53245ed9096eb1d394b64f18.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8dc424e905d8445394b2b97d0b7de890D.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sdcd1be057a394310b3899450c8aa79adb.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sa4bb8c26d51c4fe390c0ed12369b612a0.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf3fb2e7b165640369b91053710cb8defo.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8e68b663545149699ce3185f49828048p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2bdc737803ba49709499e2b326316ff8H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3867ec3406a45fea2ee79e8408c364fr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18831cf4aa994d329f92b8e3c162ece7o.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4bb8c26d51c4fe390c0ed12369b612a0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdeb5c2ed976346f8ba7a89726689701bT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7438ea23d5644df96ef236f71d3bffaf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S27d1b7f2b7b443a6bbf1a8ca121c2fddE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3fb2e7b165640369b91053710cb8defo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcd1be057a394310b3899450c8aa79adb.jpg"
+        ]
+    }
+}

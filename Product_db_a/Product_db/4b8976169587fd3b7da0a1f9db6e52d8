@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "4b8976169587fd3b7da0a1f9db6e52d8",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-03 13:51:25",
+        "第二层SKU数据": "",
+        "货号": "GY-W269824376",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "18cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:16",
+        "原普货标题": "Japanese Harajuku Crossbody Bags Women 2023 Preppy Style Patchwork Color Shoulder Bag Collage Student Messenger Bag Handbags",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S48209d512e674abcac24d88aa40ebd493.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S03f3c22b081341c08daa7d24e8606e33x.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3c8fb4c4471443b2b7a5ef01d4fa73e2R.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sed2086e07ba24726a5d23a8d9415f0966.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf83f4f2678e8486589b787592fe943bbZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfac3ce0289624f64870fb1d4531059d82.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab364b558b7842d08d317e22992021a9k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe5146a142e04d348c211853b67486f1e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2fb28c61986c4df8a903aa7f9168782b2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98a7c69888cb4438bd405f44aa32f67c2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3f129de639f44699c748ea4450110aa0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf10de9a8bce4556be18cb4038791d20D.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se301edc513664fd7bcdcb1eec239ff60l.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S24540e3bc8e54b3e8c037c112ee81861V.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S582dfe2a0e2a4c12bdb391c927252ae4Z.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2c7b9d44a92b4e458aa7199a7aa5849ep.jpg?width=750&amp;height=834&amp;hash=1584",
+            "https:\/\/ae01.alicdn.com\/kf\/S85ed6f2b10d34f889dc68ee3a2342865Z.jpg?width=750&amp;height=1382&amp;hash=2132",
+            "https:\/\/ae01.alicdn.com\/kf\/S18b95d9d3f644f1caa0c22ac1eb1517dB.jpg?width=750&amp;height=798&amp;hash=1548"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7a573cb80854ec698799b30ae739687m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S051a8c00d52b447fa1db71e584595d90V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S007681019c99487983eac374d6eda5a98.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94ff8e42807b43d08c2118eb3a3c35fac.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a57a2c8896f43a3881fd0e79579d7bd4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se80957ff71c649749e44313e97d0f8446.jpg"
+        ]
+    }
+}

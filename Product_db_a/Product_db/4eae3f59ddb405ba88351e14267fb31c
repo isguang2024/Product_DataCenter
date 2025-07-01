@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "4eae3f59ddb405ba88351e14267fb31c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-06 16:09:22",
+        "第二层SKU数据": "",
+        "货号": "GY-W1527479319",
+        "进价": 210,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "尺寸: 16.5x10x9.5厘米 (长x高x宽)",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:12",
+        "原普货标题": "Women Armpit Bag New Nylon Bucket Fashion Solid Zipper SOFT Shoulder Bag Purses and Handbags Luxury Designer Black Tote Bag",
+        "质量星": 3,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf827324d49247c6aa6c2c2e7160c7942.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdce219067d5d42fc9a11ea0f6e05a6feo.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb83124cef6874dec92d86d7539096c75I.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2592fa06932f4f80b60946d57af6be88F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S351d2e8918d745e7a58b9106ddfa9ffau.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sccf491c6801c4175aa738f3946dfc8f8s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb896d377b2847bea8d34f8d4f439e89P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96ef159f869741fc819ec17f37874b6dz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa64a384524a14fc89952dd293b3ae231K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7effc677039485e98715f8e7ce50ab70.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba6577bfe7f1438b9cd40671239ab8d7n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17b89a59d1fe414a81815fd3cc64f601s.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S138bd9815b6446179a173eec0dc213ecX.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf05424378f8e4f628d2af49c34495a41I.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S33a7f4780ef047bfa0f1b82ee6eb0ee1o.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9b2f011a8b4440eabb949c4f471774dc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf6c93bc1d114c66a3cd08c769e68cd64.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae4ef936860643a982a5756f632c17fdF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S130b05effedf4a3b944ace599e00f204K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2d32a75cb3341b185532c6aa7637f6fv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce135a34268c4650ad12d1b7250afe14h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ff608f53b364ab5ae8c28960fc90cc98.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b68082424124f7193f35207fd347469e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S219f2cf48b204218890685b3f835e8ecI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97c800bb11704e79928d0f42faee613cp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fff7553689d44e18874ae1148def125G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa26a170d80114d97846bc4d3fdc68b82o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8eddea3cd76446e3962ffe323eb5da516.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86afc14f50ae41c8933d09a4f0ae7c0at.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se0a121d8830d412fabc1bac2d07421d9p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7b1d81428ee4cb6bc6002ed3a6a85383.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef5c42830b0948dbad8cacbfb6ff5c94b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4681ceabc67d4fe2a9d1e799464dc3abY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3580187157ba495b9579b36e6703a417P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33a7f4780ef047bfa0f1b82ee6eb0ee1o.jpg"
+        ]
+    }
+}

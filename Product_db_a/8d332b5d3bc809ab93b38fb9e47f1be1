@@ -1,0 +1,85 @@
+﻿{
+    "info": {
+        "ID": "8d332b5d3bc809ab93b38fb9e47f1be1",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "DG",
+        "创建的时间": "2025-06-10 14:22:22",
+        "第二层SKU数据": "",
+        "货号": "DG-198872520",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1593490208,
+        "普货模式": false,
+        "商品简介": "草编大象托特包 高质量，重量：0.7kg，材质：拉菲草，尺寸：24x17cm",
+        "性别": 0,
+        "修改的时间": "2025-06-10 14:22:22",
+        "原普货标题": "Waterproof Wear-resistant Trendy Shoulder Bag Fashionable Shoulder Messenger Bag For Men And Women Small Casual Crossbody Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S40a3bf90831749e49aad5873d4d99e6b0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56f66e9c67db4001b8c4607085e51e90g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49cfc50e337043268e26d7caa5ee10abR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74cda0da82d54467bc73e6d3b393fb55g.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S920870c8028045568f7dad57dde91a9c5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S95a10ce957554aa283c7f92d6bf78110O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6fce3ee3a22e423c8c3e1158af9aa7651.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7df753dcc2c349ebb7024534d564c08d9.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S83c91da5d098422abcaa4c3d47c63eb1V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68b34558e1ed4422a14be3d13b37326ap.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Safb7ba18d71547079cc14ae70cb12506G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd6058d71d6c4f5583fc18ccfd3c2f99h.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4336a0e28ba346a1a55dc9eddd7468489.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf652f975b4ae46cb9b605b1c3499e7c2o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35c3dce21cf140848583444e34e1f430O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se24d7093146147c1a030f5ff34bf4aefh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbee5be3845f04e8986b619d29bacb4e2F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6a9d06c34cc472d88e01894a53cee73y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70100b747c404bf49ed98254706fea1dM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78815109955f4ab18d237167a20dff9cj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad341486fb594eb584c7a94d61b2e2d2u.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa18a61a6f7084d8295654cae9a52d11fq.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S388c4479f54b4a7b928e06805e9367f76.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S998cf1050b9d44a2b2b9233d8533f12aW.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S141a67325f494441be70e8f8d1f2787dk.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S62b0af2e260649ad9b1bde9afe5ed488L.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S9165457e62a94af09b0bbf16ba53c670X.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se9d0d45002124c91ac878e2ae9f6f67bw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbda64aaa8970440a9e5b398f3aa72640I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S656883eb4a9f42058bb6abf6bf929b90r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S474b736b66b249cab6e7c79298094fa8i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa85abf7a597a45efb12d79daaa9a4656N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80cf5b987b814b2d846355d8a13d278c3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff089d67887f463687946b4584b2edb9M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41737f2e72cd400b9f5edafb229d8306l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7feb462ab41c49b6b3a4977948f782c7P.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6919195b15124d5a9eeda791bfee0ab4f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S533af706ff6849d6b7a6c116664b5667l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S052cd9d949e84e1c8999b7f6f4193837t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47c38715463745b292ec83812aa55f62r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S866559d4034f40bfaf89c5dacd8e038d8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf87e285663b41ac9bac293826356dfeq.jpg"
+        ]
+    }
+}

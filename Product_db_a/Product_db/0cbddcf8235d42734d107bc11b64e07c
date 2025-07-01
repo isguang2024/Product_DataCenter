@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "0cbddcf8235d42734d107bc11b64e07c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-12 14:07:13",
+        "第二层SKU数据": "",
+        "货号": "GY-W1681167807",
+        "进价": 85,
+        "利润比": 100,
+        "品类": 1002,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "颜色 黑 咖啡\r\n尺寸 19x10",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:02",
+        "原普货标题": "Women Small Corduroy Handbag Cute Strawberry Print Little Tote Underarm Bag Half Moon Design Eco Cloth Purse Mini Shoulder Bags",
+        "质量星": 2,
+        "重量": 0.6000000238418579,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbdc77b1497114a06a7e48998f3258b958.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3cd56308092e49e4af1ca63d8d3924cc9.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2d48b4853371447db20c7cc1a16b4b48s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc17a8fb2798a4b81b9ebc42c43fdf814U.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se0d0e341dc734b5cada44b0984196f4aP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5608c3b86d09488e829472ccc28ebf57j.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6faa5f857b44459b615ee4207dcfa0bO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S22077273b4134e6d9bfa04935ab0653a7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S596e85c0ffb342eab662cca75a729e2dT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7be23afca0f14dcbb053fb7dab54a019N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ee9a05ed9434375a32628701c463f98m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3eec12633509416a829b913469603857E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55b33a25287b4db2902bf8ac9ff4213fJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ec7ee1b490146b5a20b30de28addc33A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa79cbc17cc9b40d6a9b8112bb3292eddm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42d23cf8213645caabd311f2dffac576C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S845187c7f30848aebfe9f0ccf88b369bn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S026e194735e94e4883529e3add2d44abQ.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S888104c72c5d44fc9ab0a44ac402de3eQ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdb27d381b3f34ba8a7b864549db4e0bbY.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S141c69d60cb64dfa966b760e4765d212Z.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S4df7d270f2cb462bb7d2b5ad0a4c4db0D.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S054f1bbb27aa43a38c351ce75ade3efaG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S396521470b3340db88307013e1e4cdce6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b9f0479fec245b19da3810bb9ae1cbcX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51ffc8adf0004ac7a20230a00bb796f6V.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1a72075ef8b2469d97e3dfae917331den.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4084034d6f247a69ed14399d861eaf7U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6edabc20a414f8e9cbae94aa8cdf80cC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6516375fc424cf79d056fef9decef9aE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S187049e0f2714d8e82770d938e2e45c3X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S141c69d60cb64dfa966b760e4765d212Z.jpg"
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "21c9973b0da43c6f06f985e81fc98a89",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "PH",
+        "创建的时间": "2025-03-17 13:47:18",
+        "第二层SKU数据": "",
+        "货号": "PH-189005380",
+        "进价": 1,
+        "利润比": 100,
+        "品类": 1011,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2025-03-17 13:47:18",
+        "原普货标题": "Dark Green Satin Tablecloth Rectangle Table Cover Bright Silky Table Cloth Smooth Table Decoration for Wedding Party Banquet",
+        "质量星": 1,
+        "重量": 0.1000000014901161
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8417e7e62ef4cbdae4a481e491e394bE.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7c70b0a3253746fd874100ccafc69b65z.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd431855a5f0400eb20c1ec5d05db031Y.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S16320a11ad954b9ca19e5cd403facbd4m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S112933fb4da94449b2980e0f95bac6a3n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3bddd413f0d044afba627dbfaf40b28e1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See95133ca16b4bc3910914f52003cb72z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S612c6991519b4f52bd9094d9c88deaf00.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b3a89c88fcb4be49597687ff5846afcL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f9add059fee4e22a5bb036d5e38b5d87.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sbd2d1d407342437e86eebae17a6f56a0T.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf5add7191afb475faaa5f84a2b4c3dcd0.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S731daa732310494baeeab6a30e8ddd39s.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf4e5fa773c24e5f8f5791e9c66382175.jpg?width=900&amp;height=39&amp;hash=939",
+            "https:\/\/ae01.alicdn.com\/kf\/S455792ca68374876a675ed1cbfd51c46F.jpg?width=1600&amp;height=1600&amp;hash=3200",
+            "https:\/\/ae01.alicdn.com\/kf\/S631d5978d72e48d0aac1ecd8953b1d6dH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf57f92f326fd492d86f44be055d79da66.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05cea0e69e7041ff8cd9c7d9e1526426m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0707bdd02c9a4083afec016b29a4a9aep.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S018716e6ae4b496b849dfd8146288d6bf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb95ce532d2e418a8f1a4916cbfff91aW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8526d15f0704d6fb81d6846de44d45fN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4763a400258f41ca9b912eaae37db897p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c0826d1c21b4e988b98d5d79f74eda0m.jpg?width=1000&amp;height=1000&amp;hash=2000",
+            "https:\/\/ae01.alicdn.com\/kf\/S2bc30636716e4c349168828dd3404d94p.jpg?width=1000&amp;height=1000&amp;hash=2000"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S731daa732310494baeeab6a30e8ddd39s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S14098fd26b1745a88c45a9f81745ed0f4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd5238c8e8cb4ca9baa2eaae5a7c8c442.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c42ba3008254e7b92f63007d6773fffL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S91ff6cb6222a434cbf8c7a60cfea6321L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24f1a2d3b7264ab4991a24ae62dfdd3bB.jpg"
+        ]
+    }
+}

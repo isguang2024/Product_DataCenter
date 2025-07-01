@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "b28d115c8d67ecc82eb577d9d8afc46a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2023-11-08 11:07:40",
+        "第二层SKU数据": "",
+        "货号": "DG-147668293",
+        "进价": "155",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": -227904089,
+        "商品简介": "斜跨包 高质量，材质：皮，尺寸：32x23cm",
+        "性别": 2,
+        "修改的时间": "2025-03-14 17:04:09",
+        "原普货标题": "High Quality Messenger Bag For Men Genuine Leather Crossbody Bag Male Easy Travel Shoulder Bag for Tablet Men's Leather Handbag",
+        "质量星": 2,
+        "重量": "1",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdff18d989cbc407bacc572e0f97e77c4U.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S65a8e6fedbf242e79a0d19f0503e8434x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S812a93d1c58846e7bf9d4c340d3b7f3cz.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd164230fbe7c4f57845bd67c73b2d4aeg.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7c4e10e605a4fbeb0627e7752b557ffG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9359ffd6fdb54bd085c7f72b992b98a4q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96147c085284470aaf30c788503f98a3B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1ae329b42c947c986e7882d19a1daf0m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d9289520a1c4170a1cdabf8655bfaeft.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sffc97e279da44aa097cc566e436aa094c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b54c40bf42140af9fa2f22b3f34f2124.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2759a10eb8e54b0cbe2d392a1215e5e6f.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8e0100c7190c4d79b67ed52ff58ca0beF.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1cff81b8b3084a17950c24e36a6926eer.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc033f783d3ea4e51919de62a15a8cfd2F.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S98d36118b69d4402a0f527647552d1580.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5ccbf0702f234f8facb1e26728c67331H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ffeb7f3db8a4593a345948c39e3f461C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S790c9443d0d2417580c663f249b7bb27l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c58556d2ea847a4a663f29b48caa7a29.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc227cc688094b7e93201aa540843a64T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd25677be4fe47a6a18b30c6d3745966N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad79915d1c7a42a7a5da889d68bfd8bdQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7dd5d0ad91fc4dc9959c28d802da0196J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb215a37d497d44ceb73bd16a814ecb57D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5ec0fbad63e4fb7903ce12400897b99k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa90726023084e87bc95a11116fbdcc4l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24b3739ab388455fba60c1a4a6726786E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4a657f1b05045f8b19fa9c29c5db3a9f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5940bb3388044250812c208016b2c362p.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1c0ea4d2c1e4caf8cbd09d1304f6799p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a9d9b656749496684aad37a319fe8a1e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S177f438d540a4c73b70cfdd5c16fc77ek.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf4b0e9990f54946894d4adbff78779bR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca26ed06546b49ed80ed7b43b07ae5c27.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scca8945978e5401cb0346b76681ed2fat.jpg"
+        ]
+    }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "c6971bcaa145fb24986419dd62fc8f48",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-11-16 16:50:07",
+        "第二层SKU数据": "",
+        "货号": "DG-178566460",
+        "进价": 180,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "材质：尼龙布，尺寸：26x21cm",
+        "性别": 0,
+        "修改的时间": "2024-11-16 16:50:07",
+        "原普货标题": "Simple Solid Color Shoulder Bag Handbag Oxford Top-handle Totes Female Large Capacity Shopping Street Zipper Bags for Women",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sca98267a0308429787f21c55dc1e5bc2Z.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S654b46d19b514277bb9001895f6771e0q.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S6ba8902d7bff4492ac11350b2e9b6007u.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S28a348101e054292beefdd0a3ce91a5a7.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S168e885caa644b3d9f23e4f548701d112.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sf591021dc602432eaabfc8e63c0ade91q.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S28a348101e054292beefdd0a3ce91a5a7.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sd57f915d01084b37bd14d4e13e5f02a0c.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S0595022abf524ee390e266e3211ff4c9t.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S41ae31318897427684fd0e5f88ade1f5D.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sc6c91c452e6640368900ccab948bf693R.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S66e603abc6af4f37969d4ce3c5b4c23eT.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S1c783f1a7ea64fe6b7f684f9f29eb99dx.jpg"
+        ],
+        "主图": "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sf591021dc602432eaabfc8e63c0ade91q.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S6fb7fac81cbe4568a045d249c81e4da4Q.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S0b3e91d55f1c457a9b1704612c1a82087.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd224797053f341bb87a16efcd90423295.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2bfa67685a6042888ef5179448b5961dV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d75838a12f04978a476668a5884ce7eN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1b7e87fd69f44e2af75d138051c1425s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S473e43e5b0814212aace64c19bb51c9aD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa08412ae58b43c7b9b6811966b7c8142.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7cc17923994a4a058384c1130d3ba471G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf11ef0e949d745d2894c2a1f5b1a5083q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa68ae0be0e464e7fb7ccf9de5e00dc41g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f6c81e3690b4625be1d766c5eff7aaff.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd0fae83deca4688becd8f8618e08addh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8cbe59014f74c8ea12c3552476cba42H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa11462689389435c808207027a70c22bZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7e6e87a67a84f7287e7c74632d16853m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S283e67052fb0471197668f4e9263ee3fo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S84a7e90485134f23a2769733b2df9545K.jpg"
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "b9aafa90bdd439f52a3736bbcc0c9fc6",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-02-19 16:08:29",
+        "第二层SKU数据": "",
+        "货号": "DG-185561381",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "腰包 斜跨胸包 高质量，重量：0.65kg，材质：尼龙布，尺寸：26x16cm",
+        "性别": 0,
+        "修改的时间": "2025-02-19 16:08:29",
+        "原普货标题": "Ins Lazy Wind Canvas Big Bag, New Korean Version Of The Single Shoulder Crossbody Bag Female Simple Literary Solid Color",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S467264f041c94dbe9c6871ac8c490cb1C.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2e4c75fe2d9f4e16bc40a235c30c88e15.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb968933a46b847a6aa7ee1b988ddb69bA.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se090d35f5e9c4dd7bd0e5dc3e10cf843C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S205c8a9a0b4b46f2aa11303ff19a326b2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa59084c2e31a4e5f88d079b45d9f4520R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd20fa95e26094f4e82b149781998e4a8v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a591f96c0624375b8eec139883652c4x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe7c0e749b364c83ab2d81bf4dec99c81.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44da86b3e65749999d025be960837389D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4bfede9fc7d44b7ba193657a704819d3l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9927986b11674b8ea9f216952748f953l.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf9e1db64f2954906bd927d1a1a6e26f1x.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sa36551b2d80047df87da1b7c16582253P.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sef54169d36ab4e87a327bf3f77fa75bdf.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S67a7d5acfb174b76bcb9dfd83efa872cv.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc46366627d934444b77a1c58c2ab88308.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47bf2967504e44d0b82b540dc36aa130n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S274b6d7762914935ac163031b67625664.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4fa2a22c9d64cb49b0aff386852bcce9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea8a74806f0d42a6b3d706440b98469eO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb393b4481eda49d5b1c1526d3be37080v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38e23edfe0ea4a239f02f1d543c4b727U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S91a79227e12d4bf9b3bf778db474241cW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a21a1119a9d4283a3574bbc8dfdf4ccV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7dbe26a2470e4017bd7cb68c98534a03A.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2c4176149304aebb7a06acea4779d2fR.png"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S38e23edfe0ea4a239f02f1d543c4b727U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67a7d5acfb174b76bcb9dfd83efa872cv.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc46366627d934444b77a1c58c2ab88308.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S274b6d7762914935ac163031b67625664.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36609a8b3e4642c998e63738f20fe14aJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9df52fd8dee04172a803e384c8610591P.jpg"
+        ]
+    }
+}

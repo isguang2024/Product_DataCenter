@@ -1,0 +1,81 @@
+﻿{
+    "info": {
+        "ID": "c367d8c54902fee748f4a1ec75b57f43",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 17:04:58",
+        "第二层SKU数据": "",
+        "货号": "GY-W173269434",
+        "进价": 195,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "size：20*13cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:16",
+        "原普货标题": "Vintage Wrinkled Shoulder Bag for Women Simple Versatile Commuting Fashion Brand Designer High Quality Drawstring Underarm Bag",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S154975e5565f4a33a720c8e2b5391f12J.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S38dc9772093545858faca78aa65e95d9c.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4159d688ac194804a37eecaa7afe18a9J.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sda09099e0ea4459b8ab651eed01b7af0M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf7d4a3d729c4573b36864fe9e08ca30m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74d3333854fa4ba0b55c017a525b9aa8l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ce5eb237c504b0784149f962e5eb081Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5d05ca8eb2e444c8c3f8f2271ccf7240.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe220daf738d487b9e43bfb9d5a5243bT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9303d5a99b804d3bbcf7b7903673f009O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f5c4ec145d647dbb07a0c94a89ecbcfm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74093215181b4ce3bd5bb355f75af3696.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S89bd100c733e4296bf836b9400567f0eG.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0c04ea9a8691483f9a0f70c10f098738e.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sbb66c658c2bb40f1b9b1b430926e4cb4O.jpeg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7f819bb6b139491d87bdc2713c24c022M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbca775a204ef44f8888570f938c34618a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf54b5b0c49ca4eb2b2dda44c57fc959aa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa36e38f0d055430591222394c9cbc1afr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb49280e57a8e403cae12933489226d1fD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4fc8497cfa8c4b9ca89d8cdd05362d39J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb66c658c2bb40f1b9b1b430926e4cb4O.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce5e58c70dc84a818801639dbeaeebaay.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd793cec0f6d24cbca07f2c38e59e81755.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4d71ae86f0e44799e778778ed9a4b87J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35c7f1ec20b74ea0abb0619aa3c2bc73i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8eb3f88010948b0bd57b2987286d6db1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37389b4c2efc4b938fe096083ea9393fS.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S225d7e8457b445188723fdb8f0bfc2b1C.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S95568922382d47b7b34c20f65b741873S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e9276299ee743b0923cf93a4da733f8F.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8eb3f88010948b0bd57b2987286d6db1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb66c658c2bb40f1b9b1b430926e4cb4O.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa36e38f0d055430591222394c9cbc1afr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbca775a204ef44f8888570f938c34618a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf54b5b0c49ca4eb2b2dda44c57fc959aa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4fc8497cfa8c4b9ca89d8cdd05362d39J.jpg"
+        ]
+    }
+}

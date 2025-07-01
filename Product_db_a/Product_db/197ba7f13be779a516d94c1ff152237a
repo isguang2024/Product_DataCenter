@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "197ba7f13be779a516d94c1ff152237a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-12 14:25:24",
+        "第二层SKU数据": "",
+        "货号": "GY-W1116554809",
+        "进价": 260,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸：25 18cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:02",
+        "原普货标题": "Women Bags Armpit Shoulder Bag Small Shoulder Purse Nylon Underarm Bags Clutch Women Hobos Summer Simple Handbags Bolso Feminina",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7313cc8cd499422398377d6ec73f302dJ.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9463f61e6faf4102aadbdae51f091e21B.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S77995e3e153744a69ed705068901d826G.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S77995e3e153744a69ed705068901d826G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61eb3b3d37c04676aaa96f3558d680181.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S168fa81ee6f54a53afbec9c91a4d55efr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38a58282a2ac4e39a6aecaf758515295C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb244553989eb4e1289f77451a85dbc60b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7030939c06ce4bbcbcc62afc343a318es.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97916a3a68e74196aeef407cb506842fE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8244dee9b8eb4ee2a6b5799d3dcbf7745.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saae4e8053b9f4f0fb415e10ac59b1149Q.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S77995e3e153744a69ed705068901d826G.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sea717dcfe5bb4171874f59d0d39462a1v.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/H8f1323759ac547b1ae0dfd36d7e0e693I.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb83bd7f5115448aeaf00473a8da4a32d2.jpg?width=750&amp;height=1156&amp;hash=1906",
+            "https:\/\/ae01.alicdn.com\/kf\/Se99b8b53c8a54451963127aee4b05f3dW.jpg?width=750&amp;height=419&amp;hash=1169",
+            "https:\/\/ae01.alicdn.com\/kf\/See177b6d5d2146b289fe907147455960n.jpg?width=750&amp;height=931&amp;hash=1681",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa240f709a6c4110b1f9cbb23e3386f9j.jpg?width=750&amp;height=886&amp;hash=1636"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/H9601671d8ded4834bf05bc6fc19be20cQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb430397fe7f841829e0dbea4c37d26e8o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hb915701ba12643d9b951381be9d26a00r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H98cd7ac901c542c5825d39375444e7b0U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hafe8e145dc904a8081a870332b2a1f20F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc6cd80e97a14d5587805b0b9b3b41f6v.jpg"
+        ]
+    }
+}

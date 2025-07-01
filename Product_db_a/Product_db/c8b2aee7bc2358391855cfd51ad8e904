@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "c8b2aee7bc2358391855cfd51ad8e904",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "ZH",
+        "创建的时间": "2025-03-07 13:44:13",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40@41@42",
+        "货号": "ZH-W1659350489",
+        "进价": 95,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "进口小牛皮,TPU大底,Size：35-42",
+        "性别": 0,
+        "修改的时间": "2025-04-07 17:01:40",
+        "原普货标题": "Mens House Slippers Winter Toe Wrap Solid Color Cloth Warm Couple Home Indoor Soft Bottom Non Slip Men'S Slippers Wide Width",
+        "质量星": 1,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6a464fb5fea24d61b2a4a5b35231428b4.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9ae6dc2a1254dc5bac37cf3dd28b56eD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a5293a91eb24813a4d4b7a1e517f8eed.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9828ff09f03453da33337830ba06165i.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6f6dcad11da4dca81f1dce3474f0563H.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc561e74c11a34d9e869036ef6152295bf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc54b1c8acd7498f86860fe75e4dccdbL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10e11243bec4488ca36158d0b7a74bf3d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6f6dcad11da4dca81f1dce3474f0563H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se173f544ffc640e3bd746138688628faF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa2a06c8023e4e32a335adde14616655J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S64e1cc0552c142008ac70ebe2db2927aQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9edc3bf2718447b8a8a045d26c6c28f6X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61eab80f84c14474a1bc96639746e22e2.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S10e11243bec4488ca36158d0b7a74bf3d.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S471834d5ff16493b8da8d2e722e35603g.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3ece5ffa40a741428a655a3eaf16b77c7.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S63b61ef038b44ff19c1f92b1bdd8f7bbW.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S3248747b4c8b49ffa8520f103f1eb7c4s.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/See69be0fb0034bfb81a1fd5e65d81b95B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0195ccbe3f6143b5926eb9c8827e024aq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46161d82cd28426ab4d3e8353abde760z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13d50eee6d784aad8a68969e8a6b6a13l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29df66f33e134cda954dee59df3cfdb4V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4df438a7c30b4bc3a53ccd54f016ed80C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56cac7724d3e4a97abca78c6d1045244b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41c8aeb39a034bee9c0450c4e30347a7F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3248747b4c8b49ffa8520f103f1eb7c4s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63b61ef038b44ff19c1f92b1bdd8f7bbW.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3248747b4c8b49ffa8520f103f1eb7c4s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63b61ef038b44ff19c1f92b1bdd8f7bbW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ece5ffa40a741428a655a3eaf16b77c7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46161d82cd28426ab4d3e8353abde760z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d52d907baae4cd2bda726462f64db5cp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41c8aeb39a034bee9c0450c4e30347a7F.jpg"
+        ]
+    }
+}

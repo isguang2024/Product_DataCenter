@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "bc59e742aef32678c1f613d5d409fcbf",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-08 19:42:17",
+        "第二层SKU数据": "p-5@2cm@3cm@3.4cm@4cm",
+        "货号": "GY-W299089280",
+        "进价": 75,
+        "利润比": 100,
+        "品类": 1007,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "size：2cm 3cm 3.4cm 4cm\r\n牛皮皮质，全套包装",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:07",
+        "原普货标题": "Retro Gold Designer Belt For Women High Quality Metal Buckle Matching Female Dress Jeans Adjustable Waistband Genuine Leather",
+        "质量星": 2,
+        "重量": 0.6000000238418579,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S839ed3ceb45548f3b5280b5d9ed18cd7a.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5f083bc9c8840f38e5015ce3862db12o.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S092ec858137e49829e07627155d56c7d2.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8421fee8ff64e9393588faffde47aba1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S092ec858137e49829e07627155d56c7d2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36d9fc98084d435e9cf1bd06814ad46fr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d397c254f00463db8f8ccf821666abbA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa82d6ead37114c0dbe9e870838f5072a8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1815c510324a4f538db5efc89e1c3bf1H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2b26abf5b444ca18e8b89487b6dbad0s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S085d089e172e413eb0afaaffb3c07b40q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c95414fd5ed496abe1bf0ad3638d604E.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sefa23313ab044f8cb40eb60f7af4968aK.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Se89cd76385114091ab55f16d212ddafaJ.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S875ec9447d8d47a8a36a6cbe79464528b.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6109da5420b646adb79d124009ca643cm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3977aeeae92440928a40b92c9dbdb62bh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f8ff905d35c4df0953419b58c52e9d83.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S946c23a5095946faaeeb219eb4ee27d8b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b5dafeb2be740c5a7aaa309ee44d7bcY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3fca291c84d043a282bf41d0ac4f51e6Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96963ab11e4e4455b90164a541d113198.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S107f043972ab45efa267dbe5a7e179e9z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4594c547c9914bbeac68ea2a6c3db589l.jpg"
+        ]
+    }
+}

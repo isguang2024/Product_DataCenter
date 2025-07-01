@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "e31e808d195aa56fa7dbf24c950bdd94",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-06 17:03:15",
+        "第二层SKU数据": "",
+        "货号": "GY-W647839219",
+        "进价": 195,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "尺寸：26*16.5*9cm 全套礼盒包装  配三条肩带",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:12",
+        "原普货标题": "Female Canvas Fabric Hobo Soft Slouchy Shoulder Bag Y2K Student Leisure Medium Size School Book Laptop Pouch Messenger Side Bag",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sec8dbe351b9d4956990c639a90a336423.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdebbaa42c0024691a8ad2f01c371bf7dk.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S30e1a2d1261643e18ac064b6aa294e1de.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb99b7d1138cf4f6f9c5f4f4c2b06ef5fT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46abad1f923d421393f0a79fb54985fez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2eca39ca956b41248e319e006be44ef6l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03251fc2d65c4e46b70e1e461ae82f57z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08957f05fd6b4defb03754cf70cd6b12g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19cf86ac15744b109e8cc2275392886fc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07dabd97bb784470a835159fdcbe4285A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35f224aea55844adb7758a55b4ff22d1c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c480dce1eb243069be7baaa818b7664F.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9f4af01b7c304a908c7cf5ff7bf66e5e1.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0f1cfd4b84104e3597be3015dd626bff4.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sf867c9a8dea34140bbe0071493a25930W.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1m1uydjrguuRjy0Feq6xcbFXaB.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb9326a4cad84c78a59a0479f874821a7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1136bc66d0b14ad882ebe4312ceb6da3n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf469a5d994c54064958a501f7beb1d97f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20c6aabfdf534460b123fc109cf4a39bn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5293c79a3bf4bcaaa56424f29dd090dY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50d976d65fbc48b4ad00cdb2e77e2791i.jpg"
+        ]
+    }
+}

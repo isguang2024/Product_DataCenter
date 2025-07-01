@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "2d24f246b30bbf52a6692ba62afc1e91",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2025-06-20 14:26:48",
+        "第二层SKU数据": "",
+        "货号": "RB-W1332788588",
+        "进价": 100,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "原标 原盒 正确版本\r\n定制印花鞋面 私膜真皮大底\r\n全套专柜包装\r\nSize：35-45",
+        "性别": 0,
+        "修改的时间": "2025-06-20 14:26:48",
+        "原普货标题": "Trendy Cross Sandals 2025 Summer New Casual Solid Color Flat Bottom Anti Slip Beach Sandals Luxury Sandals Women Designers",
+        "质量星": 2,
+        "重量": 1.200000047683716
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd7d08f1114042f78e2125b61a34f340t.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S82deda77e16c40b18af28cbf351ed221K.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3c21179e57aa4a07a430d9d23b89af5dk.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S80703c9386eb4df9a6a74b38bfcf9c88X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0ed8e3994a64f14bfc152b8831f7d83p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0836ffd65f7479190f440b735195dc2I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57cc51e8957d429f9353a979e040340do.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c1e2ead70d34fbe9c5090b0766476f1d.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0836bb933c7444b6a143136e4dbf5599F.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf80410b253b847729288ed5d6f5dd066H.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sbe738810c3884f32ac81f9f958229d8dk.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7823612d561240d58ff35e05c9834be9w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S464c3af971934bc994c5939d82c252bfe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d70818145514de78200083d1ab3a94e3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9bf23387ec32459abd366a80040d9a580.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ad79524092e4535b8178e83dbdcaf4bx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d7350a24d1245d39b7703afe0df3477M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe738810c3884f32ac81f9f958229d8dk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6332040d93c44abe95118cda9a7cee54I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57291f4cd37c40d58515c61b2245cde2K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3db16ce83e4c4d3b85ea101932a9969ev.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc38e20a393904e2eaa109d9bf1419dee4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5b2d9ce538841288e1fd3777beb1f19q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0c3c86d3acb40aaa517e0fcf4089697N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2373ea30b29438a88c00f699dbc99775.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0caee22fcf9d4d56a104a822dc382d23s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S271a540396464469bc8d053cb61bac73Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce87772580bc474ebae9babb2873408dH.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4ee20c476ca433b9b3a18fe597a3f2f2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e82af2bf9694b37b6b7a0d637f43c84m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See7b40ad4ac04fd0b33647308771efddL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70797a750f464d1dbcc2a2c887266878d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2bf85f1edfda489181a5f5be2b2c8fa2y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7999e3f18974d83a08c2e78ed09b82eG.jpg"
+        ]
+    }
+}

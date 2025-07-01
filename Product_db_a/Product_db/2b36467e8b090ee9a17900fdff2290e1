@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "2b36467e8b090ee9a17900fdff2290e1",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-11-14 14:32:41",
+        "第二层SKU数据": "",
+        "货号": "DG-178913481",
+        "进价": 70,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "手柄化妆包，高质量，重量：0.5kg，材质：皮，尺寸：18x11cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 15:14:50",
+        "原普货标题": "Women's Bag Canvas Large Capacity Multi Tote Handbag Layer Function Crossbody Bag Women's Handbag Shopping",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S969f1c875b95422291b9f664f2dcdcc8U.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sade0b7495d8946ad88111c68e2b680f2L.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd81f725d4862495faab59bf36316fd920.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6548ba61e5d44919764ade0ddd57c3cb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sffd1f3f53f764bc3ba4d15139ffef960Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1de97b6b66534469804443f17a761d34V.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S482d91d98d5c45c8a8a435cf54c797c5T.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdf7de404f7b042b38b9c505120b6539cy.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S319d8d4a5a71456c9625137d0d352726X.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S45da9da45ebb46efacecbec33c98ab867.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6ea5032f23c48319da07c733313e6a1m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09188dba08284e0db968b2284a8acea0b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See8185b2635e4b11825cf3f4b0e1ad86c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78342c7b11c14d86a321cd1786e7ee27Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d6b421efd1040eca196b81fa0829e10e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f79b077a495481c9c08417cea048776p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S790a63cffbb64fa0aa294be0c77ce30fb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb4b456cd5a049adae85e2a32ccf3b9dF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se2a0fec0ebe84a7c850d73faab464010l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S319d8d4a5a71456c9625137d0d352726X.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S45da9da45ebb46efacecbec33c98ab867.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6ea5032f23c48319da07c733313e6a1m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09188dba08284e0db968b2284a8acea0b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See8185b2635e4b11825cf3f4b0e1ad86c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d6b421efd1040eca196b81fa0829e10e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S319d8d4a5a71456c9625137d0d352726X.jpg"
+        ]
+    }
+}

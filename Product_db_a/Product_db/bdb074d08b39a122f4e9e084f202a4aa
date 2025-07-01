@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "bdb074d08b39a122f4e9e084f202a4aa",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-07-08 15:28:26",
+        "第二层SKU数据": "",
+        "货号": "DG-168734670",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "腋下包斜挎包 高质量，重量：0.67kg，材质：杏布，尺寸：25cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 14:34:32",
+        "原普货标题": "Four seasons universal casual fashion trend all-in-one denim bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se7c9532ce2de4b4e92d42f40ec33040aQ.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S52bd9116f66a468ea9758cca8a78a321L.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9cee79af3224c06aad844cfc75c0cd0u.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S47972ced26fb42f083fb47236a75a841P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07c918f46a6647c7864872d57c3824b9S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S125dff2ea57740c5a50f396b8644d1e4q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08647dc389014118bd2ade171a5a6fb7x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1cb4c6dbc5cc43e1a77e9095697d1e4bR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1a055708a3445ababe0a63c86e99876r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe381c0ab37d4a2fbcf9a5b38b983861Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e57384891b042139c7a9cb1be21728b3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8d4c7cf05a442cfb01ba117067f97e0O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97cef6501dce45dc9b44c18e39a0a9f7F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26cf31058f614bf398aef7281954cd08U.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S31476dafd3eb4733a8e5b10042ba5b10O.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc83dd12b2ed044859c9d3e4a867fe580n.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S51f98428da8f4420adfb1724e2a5ba6fE.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3ab5a935dcc4582ac8555c722800ae3i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S122f723d14174e369fc0eecc529062954.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S745d380cbbec43c68cae921545b3b1f1S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2450badb83e64467a2db6d89acfa3d8dC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8231c967f6004830b84a7837764ca9943.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c8b2b2f18a742b78381dd8b2fb88d6cl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8426c44c4964e3ba747058a1cc0d9e9W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See75457ad7dd4c5cb7555ca8b8c2298ei.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d8a4d9504654d03b9c2f3e4ddfa73e8I.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3e438d3a19954a3aa0d2aef9cbc5bb53y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf43732680b14e25ad3a8b9af5ee8fffN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S597611fbd7bf42de8cf412fa2a2edd2da.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2450badb83e64467a2db6d89acfa3d8dC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0aca1aa76b8f4960af0c67a2fb80ea608.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8231c967f6004830b84a7837764ca9943.jpg"
+        ]
+    }
+}

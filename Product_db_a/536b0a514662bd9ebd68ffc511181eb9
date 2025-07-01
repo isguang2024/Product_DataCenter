@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "536b0a514662bd9ebd68ffc511181eb9",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-06-07 12:27:42",
+        "第二层SKU数据": "",
+        "货号": "DG-195755766",
+        "进价": 180,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "托特包 高质量，重量：0.78kg，材质：头层皮，尺寸：24x20cm",
+        "性别": 0,
+        "修改的时间": "2025-06-07 12:27:42",
+        "原普货标题": "Women Retro Checkered Quilted Shoulder Bag Solid Color Soft Handbags Soft Tote Handbags Pink Sapce Padded Tote Brand Designer",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5f477c13c5074e58b0b5a8ee318988acN.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S273af06b3f7f4696a8b219d431e458f3S.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4db29409938e4ca8beb4b8ed08dc357b5.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc25f83b146504cb4852427a311cdc9620.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se88c2999593542fd946a3328092a52404.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S92e8f496408b45c796b976ff7b253abfE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S459cb8d640a2476ea950bf8d41c2010cu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ec0c0e486d34756bac8aaec4b4250945.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc578654af65a4ff190228e0a29273ea9R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S45444675513843d1ba2b2b701044a730d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2dbbf8f5606e4c50849345b5d62d1fbfj.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S001140aba2a24823885c719993afc91a6.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf1c4b325020941f2abe82227fd95348dV.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sae0d9384371a4423b0396caddbfc8c6aL.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8c301228bf7a447481abf5fc71f71160W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37b719c0134249b3b37811fbaee620066.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a0a15b19d80433abd76b9a2b3ac51595.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa36ed3c604e042e59b775d4e1e6bbc26D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60521d3540af43bf8ef5d6d6a644a8ad5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd15e7e72590242e0a030d04cba3ddb38R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37b719c0134249b3b37811fbaee620066.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99998c482dd746e0a319c874ab955fd9v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S780eb05a45fb424bb486cc2111f3f13fE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b36377df561498a970b6b9647ae1f1ef.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4a6ca1924e8146b8b7235dc657d6c5e5W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S546bfc2d3bd640f884f12d5d2e1bfd0ep.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e5b09c196914e489435a8e2d77d3f5aG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec485cc2596e4029b2cc69e862dc3400s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf36b776c0cd0450fbffaa302b9db45866.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S687027f69355458c8d83dd89400bb213L.jpg"
+        ]
+    }
+}

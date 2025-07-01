@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "7dbd3f039a4cca08247415fd720ea507",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "PH",
+        "创建的时间": "2025-03-17 13:31:42",
+        "第二层SKU数据": "",
+        "货号": "PH-188651123",
+        "进价": 2,
+        "利润比": 100,
+        "品类": 1011,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2025-03-17 13:31:42",
+        "原普货标题": "Life of Tree Tarot Tablecloth Runes Altar Cloth Spiritual Oracle Card Pad Pagan Witchcraft Pendulum Astrology Divination Gift",
+        "质量星": 1,
+        "重量": 0.2000000029802322
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7b6919d876b4a0b8062e256b0ae5c3f8.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7148c22bddd64cc98ac41a7f69b8cdc90.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc84cfb14d1494b5ba41b7d4a9a4e9bccd.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3dbf58f3d1d44738a39295f074297b4dD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc84cfb14d1494b5ba41b7d4a9a4e9bccd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc5dc9b63cb547659671c988129bbd6bB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb838f7cd483546b286b2a02efafaf7efY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6ee3fe9e4c24d11ac3570c2b70c4833U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17aa88713a8149479639ba002756744fO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a5edec03d5d4026b00d591c396048f9y.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sc84cfb14d1494b5ba41b7d4a9a4e9bccd.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S79f775f872d449adaef66b1d655ea49dr.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa1873a81e92b4665b62f0ad73bc87578S.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7ff8a3d0977485c9c9e83fffe02a157r.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa4946cc159c4634970f8eba587e204bN.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S3194b713b1104ddfba7e546013a1055fa.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S9afe63ea588c4cabbf0c724c0f10925dp.jpg?width=800&amp;height=800&amp;hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5b6631643fd7412e80bf2835c39eadc8C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17a4a0ab041c4bfcb6e9a03bbd2bfab38.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3dd683beabaf48b4a47c4ad037e0c3f5J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf65cf2d4641a4c1b87c88b7abc12942dG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S646c9686a87f4184bbfa3fe3d75555f9E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1873a81e92b4665b62f0ad73bc87578S.jpg"
+        ]
+    }
+}

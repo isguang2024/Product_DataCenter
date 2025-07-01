@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "2bbe29f7215740a03c8c76d6abc4565b",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2024-11-20 15:00:56",
+        "第二层SKU数据": "",
+        "货号": "DG-177075225",
+        "进价": 100,
+        "利润比": 100,
+        "品类": 1007,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "腰带皮带 高质量，重量：0.35kg，材质：皮，尺寸：100-125cm 宽度：3.5cm",
+        "性别": 0,
+        "修改的时间": "2024-11-20 15:00:56",
+        "原普货标题": "Sheepskin Microfiber Leather Round Cord Women's Belt Adorned with A Versatile Bow Dress Featuring An Elaborate Knotting Detail",
+        "质量星": 2,
+        "重量": 0.699999988079071
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd482e59aa4b487dbbe22e2198e0069bi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4e7fae3266f4d8ab9a509baf60232323.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb95fa8d24c40463cae465654c44a45c4n.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S27e073fa61d246389c308d4e036fca17N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55d06bcda86a4b8bafad3e113edebf03W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S216fc140dc7643de81783f0271264643w.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa49cd09f16b0465694d51e53c5837c6dT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b12262c382c4ca2a38078e1620c17f1W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ed68e7a00bb40aaa2ece6df45a15a12S.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2c8cde388aa444aaf6945c58b8f1499u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0d9e81447654f38b74035b86bfc1146g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b0ab57ba765429d8c6e9d2e0ffac2f7K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b5920e662bf456f81cd9dc9222473f6T.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S79eb816753e149dfb92c65f04058c9c9k.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S21fe63ff24544cc2a6997d92508d63d9F.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S34779c2d19924c59acd12d08b7b2cb22X.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S098b9179ea984862b6444f4c74752635i.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2f31952c6a884fcd8230fd16887ee647f.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa32752c77b22419fa9b2359766db25f9j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf596170d3d324745bf8419ddacde2c92y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c04a6069c2f4f99a5e3def8856ec635s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S098b9179ea984862b6444f4c74752635i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdda60b7bdc43481f8f20b031b6573a72F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2fe47d034fe44429b83a6ba22febb5b1K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73e2309d211c42dd96244166ff0c1523D.jpg?width=750&amp;height=470&amp;hash=1220",
+            "https:\/\/ae01.alicdn.com\/kf\/Scab4d36dda6f474c93e99a359bf5017dD.jpg?width=750&amp;height=498&amp;hash=1248"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa32752c77b22419fa9b2359766db25f9j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf596170d3d324745bf8419ddacde2c92y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c04a6069c2f4f99a5e3def8856ec635s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S098b9179ea984862b6444f4c74752635i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdda60b7bdc43481f8f20b031b6573a72F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2fe47d034fe44429b83a6ba22febb5b1K.jpg"
+        ]
+    }
+}

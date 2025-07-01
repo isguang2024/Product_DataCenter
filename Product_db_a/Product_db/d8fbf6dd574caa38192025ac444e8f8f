@@ -1,0 +1,82 @@
+﻿{
+    "info": {
+        "ID": "d8fbf6dd574caa38192025ac444e8f8f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-05-21 11:22:54",
+        "第二层SKU数据": "",
+        "货号": "DG-123188491",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "胸包，重量：0.55kg，材质：牛皮，尺寸：16x31cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:53:49",
+        "原普货标题": "Men's Real Leather Bags Small Shoulder Bag Genuine Leather Men's Messenger Bag Business Casual Cossbody  Bag Men's Bag Leather",
+        "质量星": 2,
+        "重量": 0.800000011920929
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf36625afe8a4f4da03726b0ea330a70Z.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbc520494db94dc1ba9f246f874ab964H.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S84d702caf78e449ea84c37a158ff8dd9m.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0eb0601ad7384e88ad78487e352ad8b6W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S767c989a74ef40f482593666c3c39777h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4d41a3a53af448294fe4cecc65d22a2M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8cb4de1570c44060955e45877718f22aa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6649634e9f064830be8f54717fc01a42w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf2b1dfef627496ea7fc23912a54cf1dV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b149c3b57834ba9bfa442f3ed013dcfZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6251159ade054e459270e791f3345267Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb374183087c4492832f1a272caf689bg.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se36ecfff1a8443f4b5eb7aec6c7058f3q.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4a27425e8e994fb5ad935a503ffee7a69.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S9fbe5257515c47ccbfd36baf6c8fe3046.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc67a67e8765045699ff5f27e030708bbu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7fc365c84aa34f87820cbdb7bc7540b7h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc0e6b5a31bb4489910d61393f9329cfr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c008e8c71c54bd4b029b3747d2d3904s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50ed22cde10d4261b5a1e11749401d10k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c1136c974c640bf9e580b3d1aa40c97z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a742d01cf55481ba922f889e0d42803U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefdc12ace4b6449fa3d45c3512988340d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3e59b47dda644138c7f0679f2471d15T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0c0ce19c940489986f49733ef4fbfbcw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc50ef4471f484555bc46dcdb096f3966Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf55946ea2bd54e1e9f71dfde230309d3j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S173e59bd88df4c66b277221700b0d0854.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75f129ab92554f538e6ed0d45b3ee44fn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec76ce9e8c0e4aa3b29056642ee0b0adm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5b32702659f449b983e1c88d574dfc7i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d2d308f5dab4ff585de3d1892a0ca42L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc25b9472e84d4319a0c1f6886a3153d4D.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8f9774d971d94425b7decda410a8bc97W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1871b08114f642e2910d1e87a6637d42v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f6cdd8749e74f6d945e1168462fbe6bZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c0c46c13a6d4b60bafeeef2010fdea3Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S304fa790aa044bdaa7ab043bebaa2e67O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S392081bb60fb4651ad2db8d6a22076f59.jpg"
+        ]
+    }
+}

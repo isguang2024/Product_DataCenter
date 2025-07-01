@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "b9188a8a703a5bcf578b99e75c13301e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-06-09 11:47:14",
+        "第二层SKU数据": "",
+        "货号": "DG-195753618",
+        "进价": 170,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "小箱子斜挎包 高质量，重量：0.7kg，材质：头层皮，尺寸：24x13cm",
+        "性别": 0,
+        "修改的时间": "2025-06-09 11:47:14",
+        "原普货标题": "Women Canvas Shoulder Bag Casual Cotton Cloth Crossbody Bags Solid Zipper Handbag Shopping Bag Tote Student Eco Simple Book Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se1d9f702ab144306bcee5c43f0d78ffes.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S984c95a7fb184a00921993c0d232abf2L.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2342399f49344dc8a6fa7787fd953dabS.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1b50f47bf0a64e00ad6d8134f2db55c1N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde83d1f9937f44bba4e1f7305bfb9b6cY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9afe881ae3046d3895345fc57387e13E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3052f09a8794223a1ed3fb90dd5a975s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e0c7e2d003543c699a51447f9bc548c2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec5c9682446e45d881d235fd08d41657l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5bb2bccf1d5f4a5d92712505f1e0e177Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86e528bd979047d2bac985a5ec9cf126W.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se06410da27e64d738f8f0f58f4b793e8O.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7da5fc4a4df047969a26dc36f30d7f81b.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/HTB1AoTboDZmx1VjSZFGq6yx2XXaN.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1yVLDVHvpK1RjSZPiq6zmwXXaW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB19tTHVMHqK1RjSZFPq6AwapXau.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1k66HVPTpK1RjSZKPq6y3UpXaB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1lhvHVIbpK1RjSZFyq6x_qFXaC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1OS6FVQvoK1RjSZFDq6xY3pXaR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1Y7jvVSrqK1RjSZK9q6xyypXaY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB18QPEVOrpK1RjSZFhq6xSdXXaM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB11WPDVHvpK1RjSZPiq6zmwXXar.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1WazdoDZmx1VjSZFGq6yx2XXan.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB14H65VNnaK1RjSZFBq6AW7VXa8.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1XPzboDZmx1VjSZFGq6yx2XXaI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1fA6BVRLoK1RjSZFuq6xn0XXaU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1DBLAVNTpK1RjSZR0q6zEwXXaz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1KQnKVFzqK1RjSZFvq6AB7VXaR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1HoPCVSzqK1RjSZFHq6z3CpXam.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB15zvboDZmx1VjSZFGq6yx2XXac.jpg"
+        ]
+    }
+}

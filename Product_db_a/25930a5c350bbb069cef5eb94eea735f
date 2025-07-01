@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "25930a5c350bbb069cef5eb94eea735f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-06-10 14:50:19",
+        "第二层SKU数据": "",
+        "货号": "DG-198738494",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "抽绳水桶包 高质量，重量：0.7kg，材质：皮，尺寸：17x18cm",
+        "性别": 0,
+        "修改的时间": "2025-06-10 14:50:19",
+        "原普货标题": "Ladies With High-end And Exquisite Bags New Women's Summer Handbag 2024 Versatile Foreign Trade Crossbody Small Square Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S47b9a655b9984bf59664d4695df720bf8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd10f5b164d584b80b533bbf76c65d0e3k.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4590c8d3e0df4cb481ea6cc0735e9f2dQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fb0dea68b90462da75d57c30525ad51k.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9a66e401de984dd7addbb3c6e9ce9c1a8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ac12cf57f9d4d399e79d8e6d32cfe77v.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7f9319be5e0249ceb337a8defa553f288.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a5f6fec2766437db82dab73645f048do.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc94791ecfea247ee8ee07229dbd7892bI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S83ed826e01a14ef9972a3335bf1b9d83V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcb20e953f024607a392b3a753ddf3d5g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8e001508612445ca8c96f4e37bc46838a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a47d4e240fe48b3b4cc211c7e569461x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc370335c6c54118943d8f74ce8084fdU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S809c2394606b45d6a3027b016f6b4665x.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb2e0ecc6990140b6a88fba47ef2fd64bC.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S6fb482c286be490a9f6bcdc73b01b696H.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6551f2c0257f4424b972e3c355a5f9b25.jpeg",
+                "https:\/\/ae01.alicdn.com\/kf\/Se3a3c48716d44585bbc302404891e109g.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4c1634268a444cc8940f83f16c8d6222d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb55c1340e7e147d391ca5e38279b06914.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99e1fb2b4b1a4c01b25178474495f623T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3a3c48716d44585bbc302404891e109g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff88817aa5064b49aeb91fa6b64a0a85i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5e087f069fd44859916698679bb9547J.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4c1634268a444cc8940f83f16c8d6222d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb55c1340e7e147d391ca5e38279b06914.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99e1fb2b4b1a4c01b25178474495f623T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3a3c48716d44585bbc302404891e109g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff88817aa5064b49aeb91fa6b64a0a85i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5e087f069fd44859916698679bb9547J.jpg"
+        ]
+    }
+}

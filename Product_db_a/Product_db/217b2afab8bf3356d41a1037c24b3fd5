@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "217b2afab8bf3356d41a1037c24b3fd5",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-26 19:01:45",
+        "第二层SKU数据": "",
+        "货号": "GY-W195124176",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "尺寸：19*13",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Corduroy Women Waist Packs with Zipper Ladies Shoulder Crossbody Bag Fashion Casual Travel Fanny Pack Female Adjustable Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S80970c2d29004b0cac1ed4e8a917b3a4D.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S73114a62dab849f4a3f8e49a34342550S.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6b652cc793a49acabee60de3b571b43n.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf3eb81e8b764382bf3b14a81e921c52l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc12f932c6b7f45d58acddd33ee491f644.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4822b6035bf24658932a95f1e9dc557eI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbaebd14b953047df9aa772f101b23a13L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S757cceb7013c42e0b1a6bfe4b6d51c82C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08971df7d2ef48a6b8a7be4fa4502dc53.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ea169d2848244558cf13dfb245eb43bo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa20a81fa63594844aa286c413a5421755.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4595bd87be804923aeaa9cbe8a30be6aV.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S20ec560589af40a19f2f2ebab40e5407e.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdefcbb80b9d543ffa3bc4691cfb865e7a.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S5060a8e98cf549afa99b97fdee5bd1a1R.jpeg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S38502908bda0494e8ea7e444c2d11b56L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea8cfb16b9fa444faf8daf61730f2cc8J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d5c03d8fa3d43ac823cb0aa1da5acbcy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ae36485881b4a778d8c9f2e22144ad93.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e6a52c3a8ae48a0b42026afd54d06ecn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc03a2122d15d4110938f529ccafe9345o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa680f88e397b41da867d0f09db6cdbe4G.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S79bd37e830a148c28f01422c5706e6a2R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea8cfb16b9fa444faf8daf61730f2cc8J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S094a6844ab2b4f9dbc1917ad020188b5v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e6a52c3a8ae48a0b42026afd54d06ecn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc03a2122d15d4110938f529ccafe9345o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38502908bda0494e8ea7e444c2d11b56L.jpg"
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "e908dbd486a7952cbd087a813c9afa90",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "RB",
+        "创建的时间": "2024-09-26 15:27:52",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W75520313",
+        "进价": 90,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "尺寸35-40",
+        "性别": 0,
+        "修改的时间": "2024-09-26 15:27:52",
+        "原普货标题": "2022 new summer women's sandals outdoor beach T-shaped toe clip fashion flat bottom simple European and American cool slippers",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1c13f0e31bb84453af8743379a306497H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ff01dfb2af24ee0a9060e0a895130e5O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9afd39baf09b435d97d343df158942921.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e01408539c4415881ac8f1dad179ef8S.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3726c2140967449aadd41b1246de7419j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d899f3627a1467eb3c63e49a30728f9x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seab9688e61974e9e805665a2b0dc80b27.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f603cfd52fc455eab39c4342949a90ey.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2c716be243fa4e41b9b5605ae08bdf08R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3dbe0a1d4ac43c886875d26533242c0a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S709fa93814664b1cb8fb0e9b23c15c9fx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e66cf5295fa426fa7bebc47973361793.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S83b46f650bc44042a6274f3df40662cet.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a3d848fce8946b98468badcbd522a80w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8dfd35d492cf4b05ba468d24be46c239i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7038b432d19e4d48b72a3688a7f389ecE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2db4d52b7f974529a57491772271f7186.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c542fa36b9e480e9b5429530639a2eeP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb64efe980c304e8e811fa2d180914edcf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2baa9847ca9247ce968a1188b352a771Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S234367dbf97f48618032a5ae4ea8647cT.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S2df6032c6fb345e7b287428ee6f3c0c1l.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sadaed1d9a446406bbaf96ad3f18d95a8x.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4e584b888e58444ab6bd6a981ce4f7c2t.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sbfcbe64614dd4c8486dc58478baa2f1f7.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5fb57ba8d6964f55a16bd273fc76833fC.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S1f39e8a92e824eef967e2fc2e974412cL.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7947a04f74f24fde91a61dbad86e48d8v.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3df399a81fce4b7eb33143240f39d1cbD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc13c46f09c9945c19376ab096a1cc885T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3c47a3fe5f54fdaacc259943931acc4W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57ef8f85d21f4c7ca7a9eeba0ffec863X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12153f90d174443abd639780f1cf7b07S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3f0eea6bd9c407d8264b8f28eb2cfeeb.jpg"
+        ]
+    }
+}

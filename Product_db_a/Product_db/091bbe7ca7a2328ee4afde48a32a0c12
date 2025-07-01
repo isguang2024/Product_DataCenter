@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "091bbe7ca7a2328ee4afde48a32a0c12",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-13 14:59:52",
+        "第二层SKU数据": "",
+        "货号": "GY-W1969845833",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "size:19×14",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:01",
+        "原普货标题": "Women Canvas Bag Japan Style Girl Small Shoulder Bags Korean Fashion Casual Female Messenger Crossbody Bag Purse Phone Bag",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9f7abb3e6f884074b5346a1f53b78ef9W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30d8f90740af46fca0b4d120e1e88378X.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S30d4402717de41119c1f678bee453a701.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2210e6199fed499d91a4d7f3da2f0be0f.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0b5fe96c8e1445788709de4dfa7a245C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff589fa745534fd5b493b1f64fd936ceo.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8f4e030c66304d28b601eb3670610de8Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9500a78ee5884c8dbbc6e320a54826fdA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13716685ad3149d598909d0350e9bbe5y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1682bbf638644e2daf556299ab8f7985I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se598aeb6b0ee427f9800d85e566c49f2t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c4644620ed240bab7dc458f9d1dcb745.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6326856a524346bc8ca1d8b2940db978g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4cdf0a67dde4474b854dd080f100a9d54.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S421038fddaa04a0a8740a85affbd28e3p.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S3a9637ff3b2a46859645d91365bd765da.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S6f94fe9e24454ba197a53b484775d53eg.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sf5787dc2f2ff455e945d14fc23edcc53f.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S903381b91f374d5683cc112cf21b74d1O.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se97119c2c71545be8794e361b6f06867s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seea14a13964046aea77b53d8f27bec44D.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S74bd082737794b85a73dfb2ef105031cN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58b077b6bd5e41d69de4c6a2fc7841c4I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5599dc754b9645e5b91fa65fc28147caQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49987f347c1743e6beca1aaedf0c52adV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b2c41b608b748848cc13aac5c9dd28eD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2f3a0404db14f6e920cea6c36ac9b12A.jpg"
+        ]
+    }
+}

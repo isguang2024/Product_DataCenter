@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "de9ac64af4fe58d5a698373e16e237ff",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2024-09-20 14:22:56",
+        "第二层SKU数据": "",
+        "货号": "DG-173998857",
+        "进价": 138,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "3个颜色，巨蟹座挂件 高质量，重量：0.35kg，材质：皮，尺寸：9x7.5cm",
+        "性别": 0,
+        "修改的时间": "2025-02-22 11:50:54",
+        "原普货标题": "Womens New Leisure Commuting Casual Tote Outdoor Bag Simple Solid Canvas Handbag Zipper Shoulder Bag Luxury Bag Bolsas Femininas",
+        "质量星": 2,
+        "重量": 0.699999988079071,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb59d16b278254ffd8ae2940214755c14F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2c50b0ee994424896670dd9911bb6b32.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2deca969341d4ebaab83eacf7ee44851y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbaa19416086b42b2988d23687c9b7738A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7996cca1bc8c4e3db4ef3d5f72f48aeaa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42ddf3142e3a4c25a4308032cecc8cddm.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saf702dba48ba47f6816d9c356e858937P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15e6b4a1898a4715b6c3e659699a5a72c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5af4ac2df7049dd966cd61b84e4b3474.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe8b563b990349eaaf54a8a6851b092dx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S461422d8ab024342af7b38cd69e2a122A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5af4ac2df7049dd966cd61b84e4b3474.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S814481e1f3994eaf851b49db7ea7361bN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ed1074ab7f248ba854d8ca16a31eb595.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb210b5e2950d410797e656ad4a6a53c9t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S759a57accd8e41c9a086287d52c9add69.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd81ab0b71bb64fe69480cef6e702b6edC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8cefaecf886b4875a25e303fce7d3d9eN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ddc25a7e7564cb3bcc9f288e55d938ah.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98600da462744705ae2ba5a0dff1768cA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a3d8c2649294924ac7d3af3077aeb60r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e9bafe0abc648d28fbd4b6254e1f290B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9fb38e85f8364d7cb0e72e2d9c9b5395Y.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S814481e1f3994eaf851b49db7ea7361bN.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8065e457bbe74d108696febed168da7ca.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S9de2e84771a24c009ac8611a44612fbbu.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S97111e486924473cb999ad1822b33d68M.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S6e58c72fcbe043328fdd9445844669058.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S127e57015abc42fcb80067538389b334h.jpg?width=750&amp;height=666&amp;hash=1416"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sae504d9650c1471a9e298344e4844b32b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94ca1b20a6464679b1405b1a16e57ee7V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf10eaa865d27417aaebcd80e1afc1683x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6426e52f0e9142fdaa2e764f057e99d4N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ef0c0682e854efba3bf24562c56ffafV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5bb4860ad98c4b29be255d1d29de35daO.jpg"
+        ]
+    }
+}

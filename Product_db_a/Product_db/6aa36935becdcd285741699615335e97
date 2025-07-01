@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "6aa36935becdcd285741699615335e97",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "PH",
+        "创建的时间": "2025-03-17 13:10:22",
+        "第二层SKU数据": "",
+        "货号": "PH-188288714",
+        "进价": "1",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2025-03-17 13:11:46",
+        "原普货标题": "Gingham Table Cloth,Wipeable Reusable Hand Washable Tablecloths,Table Cover for Outdoor PicnicDining Table,Light Green",
+        "质量星": 2,
+        "重量": "0.2"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S27ba113c9cc2489faa898a844d632469U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc97cbef760c24ba0bb8c528bbc55cf60d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a1e62c8a6c64254bd1cece209f70b02Z.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9a2d7e6612ee4a849d8d619ca74dcf9aj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc412363f7954e68a0ef586e668b7f61h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a70085a5af7428f944e19a19e0d5b521.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scf1c650950f24df99abd55aa7a02f8a72.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S234039b47d2949038da215dd07661006n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S501ac7d7822d419a9b496cfeb94b4455t.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S53f4a3ff9f3f4d6dafd0c084addbc29bT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd982d32760374fa692984a1638f2863b7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74648eda7c12426086944807b3332925E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7bf07be4817d4b2d93c4acfa39d04a79Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd232ace5bebd44adb830fa241fd70b30S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefe1126f3fab462781fe593ae9fbf7f01.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce0139860de443e6a524f79c98f4be167.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S358b0b5fd8454753a964b5d24bb946b4P.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S29f09c82387e492f83f7fe132a48829ay.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S11e4e1fce0954176bd71a6273ad53f45z.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2dd8c5868e544ed3a3b35c4abf9e822d4.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sba4257faa9a94297b5620f5fa653ca16d.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/A3c150c859ed44180b502651ab1f0aebft.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Add2ee261866641b299e4519b79a33580i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A50bde00099914e3c8706dc81c28f8d31m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A93baedade23144e5af66474718c495f3i.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0583c6d4e7049bea43af009caf29891l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Ae55190db7ccb42ea944d0844773a116bh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A18afe514840445fda1abe67c475f1822H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A7fc6a85864e84fbca2c8136b12d1b62b7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/A50bde00099914e3c8706dc81c28f8d31m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Add2ee261866641b299e4519b79a33580i.jpg"
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "26944124c152c28f62eab3be4751aae3",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-07-29 16:00:06",
+        "第二层SKU数据": "",
+        "货号": "GY-W86352266",
+        "进价": 75,
+        "利润比": 100,
+        "品类": 1007,
+        "品牌": 577247229,
+        "普货模式": false,
+        "商品简介": "原单牛皮皮带～热门款 皮带里面最火的啦～质量很好 全套包装！五金绝对不褪色 皮带头和专柜一样的哦～ 配礼盒手提袋发票",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "2023 Women'S Belt Soft Pu Leather Belt Square Buckle Pin Buckle Jeans Black Belt Chic Luxury Brand Fancy Vintage Strap Female",
+        "质量星": 2,
+        "重量": 0.699999988079071,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb831a41b5e724ae28b046f1394c62ce18.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67293ce424d049068f498be14ef4ae58G.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7dad14aba8a94d8c87dde210b024b464W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b7e873d3805474faee9296caac81bd5u.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb422214a0c8b48de9eca1f0a17d3987eU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd472f3c5a4d248f4974a5516ac4382eeV.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2e59b207f2d848a5bf338093ab93bcc2l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd472f3c5a4d248f4974a5516ac4382eeV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70fc58fe74724d018c7840b455964e9fv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8eac81b44ffa4a549fe31bbecb2d91fcQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd976f073378e4f3fbcf081c33009d6c6M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S758826a366574ada9a0116c21651b249w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2713ea78d81420fb025a9183293bceca.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S421f201b171a4130a99650e91afc7661R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb422214a0c8b48de9eca1f0a17d3987eU.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S22b7f02abc42401eb43ef55d8c9a4096f.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd21af768222946a481cf4ef795d0df2dA.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sef17ddbabfb3481a8e72dac78a7b05a2D.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S7c80c1df07504454b50133e68abfa23ed.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa50aa4c748784e89ba67c0cab4d8acbb8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa477ef1796c14afaa1422ddd89cf2f72S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5630d04c2dd4aedb7f236ee1408ca65C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1226486415114923bb7a9d1060a65b08w.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S161da3f43dda467399c76873b5cec7e0X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff4d68f6d9384adc9000eb4e1c9215e8c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9d11d04826a4afd91adc7395e583931C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfc7d04d9be6417b9b57b7ef81fd8a312.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53de407851ba41bebe3199e06038be70x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S14a48c0aadd8466280020ec8df1570c9a.jpg"
+        ]
+    }
+}

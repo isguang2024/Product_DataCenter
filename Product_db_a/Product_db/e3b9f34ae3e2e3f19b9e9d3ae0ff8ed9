@@ -1,0 +1,67 @@
+﻿{
+    "info": {
+        "ID": "e3b9f34ae3e2e3f19b9e9d3ae0ff8ed9",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-13 17:44:24",
+        "第二层SKU数据": "",
+        "货号": "GY-W1304156893",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸：18*8*15cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:00",
+        "原普货标题": "1PC Fashion Vintage Women's Handbags Corduroy Underarm Bag Casual Women Shoulder Bags Solid Color Zipper Female Handbag Clutch",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf15bcb0acbd8431599a55af3dc659a85O.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb13719a86a4a4df0a8e9a42c16ca832bP.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0e977a0ef5d4513a6e454b82a03c76fb.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S58bbad0e63dd4dc38d878e973d26278au.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa143d404173f45f2a0b8081e91316bf87.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36f135600e7841168861501caa5556bd9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46d862da510445398f64a91933403ba0v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See496fe0e81347ff887abd5341edac1a7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb61c6a3cc9b24270a0178197c3d1cb63c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb87001af4dc4469a98efaac44a7850d8i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6124cb902d4c4e328a8b1dea0fd22fa3n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e32bba2726a42be840cb359d255e2b9f.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd70e973f9ff74de0a24989bf5172a151Z.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S843971f6d1ab4a37840a50c6a717dbc8m.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S99dbcd3bd222490d8833fb72222c1f4cJ.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sac8db9727c3842ac925eb1e4c5773616t.jpg?width=790&amp;height=848&amp;hash=1638",
+            "https:\/\/ae01.alicdn.com\/kf\/S474b2774bc894c2e9c02a70df204d4b7n.jpg?width=790&amp;height=745&amp;hash=1535"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0bacfff64b824187a83fd4fc40d6fa07C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9bbb963f36141a3b02fab760d9fc603S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21cf173b0de841ad8aaed68006dc80a7B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6190d11ae9ea404aa9585d8dcc86f59fd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60ba902cf6c84fd79f80d52ef0b195e5J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa55bd01ce5c04e39a40b8a019b791c81D.jpg"
+        ]
+    }
+}

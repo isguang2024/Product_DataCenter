@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "97327483bb3af20625e5b38641837805",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "RB",
+        "创建的时间": "2024-08-07 13:39:36",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W1259196684",
+        "进价": "95",
+        "利润比": "100",
+        "品类": 1004,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "Size：35-40",
+        "性别": 0,
+        "修改的时间": "2024-08-07 14:10:13",
+        "原普货标题": "New Summer Silver Woman Slippers Fashion Open Toe Bowtie Sandals 2024 Black Ladies Comfort Beach Shoes Zapatillas De Mujer",
+        "质量星": 2,
+        "重量": "1"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2ea15f9aa67f467b96c5176277f77cb00.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1d6118d93f4468789bd36d77183866dL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S938d167930c34405bfbdec685ca8c00e8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d16f4e5bb934ddca2d7de696114056ff.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8028980e3a7242dfaedf0fb3d17b837be.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1a297eaa6c145eb8c91b0da5c44e86an.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41c4c1ad1396459a91bde0968fb3d7dbf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc162f7b690984117983f2079434d61d1P.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S25f584710ecc4772a8d174f27599f609s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S712962c06a7e4753878d2da902e1d4d5e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S270d4e6054cf4ed2a518f5a5ca81bc031.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec2dec578e1f49478a0f39006c853921U.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9cb5d3ddac9749628ef6a9e4f2a72fa1P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab524d2c73564dd0ae8fe5adcd21211e8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f0541d8c43f48b6b1d13a354dce0ea41.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S467fdfaab0324b098b45c58fa08b62c1T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43de2ee7d200440b854c09c3bf8a979fv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc47290b408149c5a16a7cff319376023.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S385ec3e78a324aac9c50ba0cc5280bc9W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c540168ee774098ac502d176e3f74f5b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7434989f48648448701dfb6781e89e6h.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S1ff9dcebef9e48a6940323d7d37442a3b.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S87ed31499b3649a3a6d978dd467ed94ef.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S9c22a448a21246798e20eabacaacc9cbv.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S0685923e6b9c4afabb81693947f972cdQ.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sffe77749b34042d8b9aa0eccdb4fbf9d9.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sffe77749b34042d8b9aa0eccdb4fbf9d9.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saae730df91a44d8ca0454ee7510f02c06.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d4dcba1a3064bc89c33a20875ff250dR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S016467c7957943dbbc4bd84f3493fce17.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb01d493be9ed486db3d3909baaf57671k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d4dcba1a3064bc89c33a20875ff250dR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S45338d1f5b9b465c94a292a883a084608.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4589c98675c4b47aa6f3d6084808965L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S016467c7957943dbbc4bd84f3493fce17.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c22a448a21246798e20eabacaacc9cbv.jpg"
+        ]
+    }
+}

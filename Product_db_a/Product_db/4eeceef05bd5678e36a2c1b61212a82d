@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "4eeceef05bd5678e36a2c1b61212a82d",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-09 14:40:12",
+        "第二层SKU数据": "",
+        "货号": "GY-W572800662",
+        "进价": 220,
+        "利润比": 80,
+        "品类": 1001,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "尺寸：29 18",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:06",
+        "原普货标题": "Luxury Female Casual Messenger Bag Women Handbag PU Leather Shoulder Bags for Women Underarm Bag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd07b8dbe9a59419589f07cac2b0496c0z.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se096dd63b2384f5ebb6eed331eb40d562.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sda6edac081634d2a91ac308ca09f86402.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sda6edac081634d2a91ac308ca09f86402.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e22ed1e02df46f5ba58240cc768d0a0O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29abb86b6db24be2a790ea043f390937b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e1f3a16e64f4cdf916ed796c7412c7ew.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1aed2bff3bd4caabcf2c11cb70cf491D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ec8434a2bee47538f0d87dc8a32153ea.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfcedb739f5594d7882dcc09383effff8J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d47fc49ae094f61a0001b1469bdd21fe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4945da0c6d074c919b53fafbacc2123dW.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sda6edac081634d2a91ac308ca09f86402.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Se782850d5bf94b7794737de8163709c1t.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S80861c3a02a643a3af29123e803c4a5dw.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S976bd3d072ac4282aab3405533320958D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S953345d7bafa459b9cb64d41acf42b89I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See3697e304e54206b3955a38a4f8ffa0W.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S953345d7bafa459b9cb64d41acf42b89I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc06bbfe87a024760ab360e13bafc8402L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f95ea3a8d1a4600b1265ce39e5a033eD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See3697e304e54206b3955a38a4f8ffa0W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S976bd3d072ac4282aab3405533320958D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9c0da78ab6e4be381af152b7b8d5633Y.jpg"
+        ]
+    }
+}

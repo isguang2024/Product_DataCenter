@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "b2b66ddd75d522be61b4a885e9a19d6a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-05-29 13:47:46",
+        "第二层SKU数据": "p-200000124@34@35@36@37@38@39@40@41@42",
+        "货号": "RB-W447297854",
+        "进价": "90",
+        "利润比": "100",
+        "品类": 1004,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "进口压钻鞋面，垫脚羊皮，原版私膜TPU真皮大底",
+        "性别": 0,
+        "修改的时间": "2024-07-21 14:02:52",
+        "原普货标题": "Summer Solid Color Flat Sandals Popula 2023 Open Toe Outdoor Slippers Beach Women's Shoes Plus Size Zapatos De Mujer Slides",
+        "质量星": 1,
+        "重量": "1"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc84ce470141340ea95a2b0366dc69cf8X.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7834fa539154fd7bd6e57f88c53ca62W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ecc6fed41ee42919246c6e9069fed7aH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S300d65f43f694d4a9adecc89fd6fc7c4Q.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3c9cf9153a87489cacee1da3a41e964d5.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2f8297333589488eb88a9f4a98c9a4cey.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scba1757083dc4a059617b3d13f2abb67e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdedd4aecad394afaa2c089350a21d8d6U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab50a90347d448f8bea24c3a00070385z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a2dff5193364cd8aa0206aece72213eY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9a1bc19e1604d3e8947ba8251eede3d1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6452214757d48c196110e1cecdfe3477.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13c22718317848dba2a42d92dd465136e.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S28b0f5a9394144c689d6ce1fecf9f96do.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb43bdf5a2efe40d8adb549b8d0db759ai.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4ecd78dd5f1e4db9bb35b8ad4d903af98.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S0af352cb752a4c95bb07b1deaa3c2ec9F.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S241d47b4198947beaeb9fd777e59996af.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3829e06be2b453eade38deb2c1ba8e38.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ecd78dd5f1e4db9bb35b8ad4d903af98.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f2f493704fe4615b47484b5f922bd0eU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0af352cb752a4c95bb07b1deaa3c2ec9F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7317c82963f3409e973febd83db4d0fds.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S241d47b4198947beaeb9fd777e59996af.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S241d47b4198947beaeb9fd777e59996af.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7317c82963f3409e973febd83db4d0fds.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0af352cb752a4c95bb07b1deaa3c2ec9F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f2f493704fe4615b47484b5f922bd0eU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ecd78dd5f1e4db9bb35b8ad4d903af98.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd70bee679b0c449ab975c176ef28795cK.jpg"
+        ]
+    }
+}

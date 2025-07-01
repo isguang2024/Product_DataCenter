@@ -1,0 +1,91 @@
+﻿{
+    "info": {
+        "ID": "3e77639673052544aa7510ab3cbf5390",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "GY",
+        "创建的时间": "2024-07-26 16:26:09",
+        "第二层SKU数据": "",
+        "货号": "GY-W1786236157",
+        "进价": 220,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "size：17*19cm\r\n",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Solid Color Backpack Student School Bag Japan and South Korea New Teenage Girls Simple Large-capacity Backpack Rucksack Bags",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S09d737a6aa224dc0924140e35257e1c1K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc961aed001f74576a72989f10d3bffb6y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d71faab06ff413f8ed18d9e8d925800i.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S42abf225100d41f6ad379a838dcfd95eD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6e4407429904ad38a7699b1b0af84d6Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ced0ea708af4614afe01156f6498619C.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S93b1f7cfc46545908984110710c45ad3b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2c8fd4ce5c14ce8b7a634d33c7eeae9J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S454c36b559dd4af9aeff5d36c8a3831cD.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd457bd6dbf0841f49a383cc86b6f3ac0Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scaed46a5801c42e3933ce3a053f4ade0p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S271f2a301f044f4bb1c28004bc570467q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se5b29e1fe03f4701828b665ccce0fc225.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4479832fb29b4cdb9f9b1475dcc492acl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfca7695bca048ae941ff6b6de694cf8N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0484b40e27b440f9bf3c317330bb670az.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb437b71703b34334b7590175efa3423cD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f9acfa4046b4dda9335df2b16a5c0a8x.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb9c1f082700b49adbb8478cfba194674a.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Saab7af98e42445439188e458294ad839v.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S50856cdba9de4b06a4184908e42cd384r.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd607f31f266c407bb9bb79b610a3ed3cU.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S52dad3656a3d4f2d99d01f33ab9e072d5.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se3ef16a2faaf448293f5f01949c51d7fJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69badcf3ebed477baa6986cdea51b7908.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S595d293990af4a96a6c818aa52e7fcda8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4687a87b1ce1429a9947f40cc256f803I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8f6a451d106425685954fa43529291fC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb868855338d49cbb8d6285bdc0e8031M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d642466e1b94a01b58e51c15d251fc6r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebffc8ba8b6b48ae9da326c6ad1f7cc47.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5eeb2513f97743878fe700b2d75c0bdcy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb0b3549c587468fb91c70490542b3ebO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b4862df8f774efe9054a38c594e7fa2L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3371326ee81540adab091e2f905c66b2q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81ed819c9972456d8cdf5670d479c1caU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85a0831857ff43c8877c704b998f5908F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd34ae89f2c84a108a412293a3d1609ez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S760fc8a010c442fe962f2403fd6a9eafD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb8bae7905ba490989539efc8754685dE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7da5b53c2df045f2a37e7cd066d0e7b91.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0dd7604dda5347ef9d37bd5278e39b6e9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8f6a451d106425685954fa43529291fC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85a0831857ff43c8877c704b998f5908F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5eeb2513f97743878fe700b2d75c0bdcy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69badcf3ebed477baa6986cdea51b7908.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3ef16a2faaf448293f5f01949c51d7fJ.jpg"
+        ]
+    }
+}

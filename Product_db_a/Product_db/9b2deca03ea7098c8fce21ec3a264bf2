@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "9b2deca03ea7098c8fce21ec3a264bf2",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-24 15:13:32",
+        "第二层SKU数据": "",
+        "货号": "GY-W494079265",
+        "进价": 170,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸：21*3*13cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "YS New genuine leather rose  the same style single shoulder crossbody handbag  high end light luxury",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbdc1dac6bf564505977a55699d289483h.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S85fd604a2d444b79894743b56a45f482n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc53d6ae0636041c1add25968d6ddef5c0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19d393aba9c24af392cd606e2f2e31788.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4c3a913efb9d4827bad76c59b8c4dbd60.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1691678b24994c3bb65094698d2aa733L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12c0f85abc094469a3ea65af4387a29f9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S83c4f9d2278b4254a84cdfd44e8371375.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18365aed101747b8bbe32d2b9bf182c9J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4469d76e1a64affa32a5537344a3100r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3fd48f2902a44cf98c6bf02c2a2258a7l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c68b68d458b47b5a1a203ad0fcd4c341.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fffe6b6608142ab87f0e59c5fca91c4e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S436807a7c87d455997390b81e63882caO.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S035a81a2da4642508ed8e3bd4d07a2668.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S749a3199721a445b98b1938b96c23bc1v.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S87221fbaabd94b63ad53e136737c30c8k.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc9e0a6a2a5244cb5a34a47221f85564d8.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S33e7116baa034fac96f26eb0594b74ffD.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S33d41ac636ed454b8e1ef6d682813f1c9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ea1b78add8a4e0899c63ff865fcacfco.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se31f3572fe2749b3930f2e5dee697fa1p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5a9ff923e134ca28b6623e0ed5b498fk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce74004d94c54e988855acacdcc943e58.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S33d41ac636ed454b8e1ef6d682813f1c9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc2cb27a0144456e83ae247d4c4c6f3cQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce74004d94c54e988855acacdcc943e58.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e92e705560544869d8a82c2e7666578i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9e0a6a2a5244cb5a34a47221f85564d8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33e7116baa034fac96f26eb0594b74ffD.jpg"
+        ]
+    }
+}

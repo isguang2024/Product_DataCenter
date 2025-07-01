@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "8718a8caa7dac647d987632c577b6af9",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-06-13 13:03:58",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40@41@42",
+        "货号": "RB-W2003243527",
+        "进价": 100,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "米色和浅紫色大号 GG 帆布\r\n女性的\r\n高跟鞋\r\n4.1 英寸鞋跟高度，带 2 英寸防水台\r\n意大利制造\r\n码数35～42码",
+        "性别": 0,
+        "修改的时间": "2024-07-21 14:02:30",
+        "原普货标题": "British Style Flat Bottomed Women's Boots For Autumn\/Winter 2023 New Retro Mid Length Coot casual Women’s shoes Botas de mujer",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6df95aded1754c48a6f83aff25bbc1186.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sed900dbd1a0943e181db37e77f90837ev.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S10607763ea894f269b15a307d94987a0C.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1e72214786b448289218b83a56d927c83.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10607763ea894f269b15a307d94987a0C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbeb4df2bae4d4a7b929ad43357611d9ds.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdce28923ac1e4c11b3f8f8800bc2ff69O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saedd51c023744e7d913e6c0973253c7fq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S694a7d878cf14776898002c3b92eded9c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfdb211da8ee043b2af86c486784540bfF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48612cdcfe0b46a18dad69a28e8bcc05q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea5cc14e1e6945bdbd0ed5af36b953eae.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8fc370ae306e4defbec60b75f08f2a66W.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S33ec7e5831ca4d32a5f876f40b2e2ba0P.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sdb8e4e759ee64a34a686a35c9773a88d6.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S19f0b747a814419885ecfa437f3a23f2P.jpg?width=790&amp;height=652&amp;hash=1442",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a63539e797a4af48b7e3d1825727f4aE.jpg?width=790&amp;height=1276&amp;hash=2066",
+            "https:\/\/ae01.alicdn.com\/kf\/Sddb054545c794c80b8f477c54c6a834f7.jpg?width=790&amp;height=1480&amp;hash=2270",
+            "https:\/\/ae01.alicdn.com\/kf\/S6be8762009cd4f0b9edd26ddf190053ef.jpg?width=790&amp;height=1603&amp;hash=2393",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ddccc206e34495ea577b49231de9361B.jpg?width=790&amp;height=1320&amp;hash=2110",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c3cf8d298be4a1688ed15fd369163eaa.jpg?width=790&amp;height=1135&amp;hash=1925",
+            "https:\/\/ae01.alicdn.com\/kf\/S60a5b7b3eb694b04877b25e4e76f952cM.jpg?width=790&amp;height=1662&amp;hash=2452",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6423ec1cec8459dbcd9c2b644fbf813K.jpg?width=790&amp;height=1750&amp;hash=2540",
+            "https:\/\/ae01.alicdn.com\/kf\/Seea6fe87289c48dfb4838f51ff5ebf18j.jpg?width=790&amp;height=1356&amp;hash=2146",
+            "https:\/\/ae01.alicdn.com\/kf\/S62a59b0386e349b1abb78c883d5d7b97Z.jpg?width=790&amp;height=1656&amp;hash=2446",
+            "https:\/\/ae01.alicdn.com\/kf\/S2747ae63592d4f05b2f9b775ec6c1ad7X.jpg?width=790&amp;height=2156&amp;hash=2946",
+            "https:\/\/ae01.alicdn.com\/kf\/S31fbcb1b197e4a1fa7cf99719c51d772j.jpg?width=790&amp;height=1831&amp;hash=2621",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b98a12884c9423a966d21ab74efa78f7.jpg?width=790&amp;height=1061&amp;hash=1851",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6c49043f76a4eba82e4e48c8437d3d4m.jpg?width=790&amp;height=1479&amp;hash=2269",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6794e9741ab4666bbb241abefdca3daa.jpg?width=549&amp;height=544&amp;hash=1093"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdca810623edb4ac1b379463cc9805aebt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S159c762e8cee40d38bd7292a670c703cB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8e37a14e685d488286440061fcdc5abdV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd19ffe6f611d4c4aad1c000019635a173.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56d65a1d6bdc4822b6e64a466597d1cey.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31b40dc6bbcb430f90b9a188a234a260O.jpg"
+        ]
+    }
+}

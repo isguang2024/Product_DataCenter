@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "cc3ea162de802b53a2a5a9b15cf15553",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-09-26 14:30:29",
+        "第二层SKU数据": "",
+        "货号": "DG-175911039",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1190321189,
+        "普货模式": false,
+        "商品简介": "丹宁链条腋下包 高质量，重量：0.63kg，材质：牛仔，尺寸：20x10cm",
+        "性别": 0,
+        "修改的时间": "2024-09-26 14:30:29",
+        "原普货标题": "Large Capacity Corduroy Tote Bags for Ladies Simple Striped Handbags for Daily Travel Use Fluffy Tote Bags Gifts for Women Girls",
+        "质量星": 2,
+        "重量": 0.8999999761581421
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3822af3bc5e4d5faca5a9290b34e491L.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc20787d61e544bc6a002869083562267L.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2ba663ded6fe4fe3826858c6f6669e8eW.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfae1f76893cc4c6cb6ae4d1eeb90952fr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S248c1084533f465a8d5d726aa7ef48c12.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7613d60cb2d04e5a9b2c3750b5a9c753u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9cfbf10fdade457caa2624017f2e916aX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c5aaa69c8074847b79d30509dcfa5766.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa35d8bc74983487c94a149c32bfc2437U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a9fad77695740b9b8686ab91fcf93edn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0206351ad7374733a6ef83bb40a31aa0d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd0d81fd0d3d4bb0b988aa480d08e22cv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53f59ed8b13846adb663a2b674d9848a0.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sfae1f76893cc4c6cb6ae4d1eeb90952fr.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8ceca98a4513407c8fedfebb9f7827b2Q.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd933b3eecc53423ca8784f8ce57c2745o.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf4b40291821407e99583b222bb83dfbL.jpg?width=790&amp;height=891&amp;hash=1681"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S50ef63f9f7ca44a19dccb7c1c89b1d41W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a4fb6f4f41f4904a916b315d6bfa1c13.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03fc688e748f43c59fcf2ea3674a7066P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea18a99415af43d29905cd20eaf230ff5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9ab3f30e20048ce87e1dbabb2e3e610d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88b494cd3e7a4f4b8981c06b8b4c33546.jpg"
+        ]
+    }
+}

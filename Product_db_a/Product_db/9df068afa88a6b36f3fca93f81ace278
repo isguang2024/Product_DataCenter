@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "9df068afa88a6b36f3fca93f81ace278",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "PH",
+        "创建的时间": "2025-03-17 13:22:30",
+        "第二层SKU数据": "",
+        "货号": "PH-189025543",
+        "进价": 1,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2025-03-17 13:22:30",
+        "原普货标题": "1 Piece of Muslim Zhaiyue Round Tablecloth, 5 Sizes Available, Gilt Muslim Pattern Printed Tablecloth, Edge Embossing Process, Kalanz Restaurant Tablecloth Decoration, Tablecloth for Daily Home Kitchen, Terrace, Zhaiyue Decoration, Spring Decoration",
+        "质量星": 2,
+        "重量": 0.1000000014901161
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7018d76c71544d199c2ee075b09647d2w.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S990b65926c284bcd88da2502a7b62b26Z.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S76db1abdd33c4e33891d14931309af96o.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4b0169385d854c679858ae1eed97e6d0H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d13b250f6fd4b159c6a11d81744b5e6A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5dbdc9afc4d54e28a3fe007d47aac78fI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S164ef38b67624952a50190d92d9cfb0b0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab4057872750472087698d0a32fa8c6d9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09751a3e94fd4274b51ef315193901e1k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d30ee2de7374b03bab5335dc90172eaY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda0da51c746f4807a80b0ae1597569940.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S76db1abdd33c4e33891d14931309af96o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf70246820b144243a4e9bf547bd282a1Z.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S09751a3e94fd4274b51ef315193901e1k.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc8949c8b53eb4487b8bb3b59f742fe27N.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7681b3d283f145dbb1b9532f69184a9cP.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7681b3d283f145dbb1b9532f69184a9cP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scdc3abdd624a413cbb1da0ba880ad4e9X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S464bae49de6a466eb3ca710b1f9e7246f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S612c902f0f8741b3a3fae4d199c257ebc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93428e7a44ab467f88296e87e104dbd5f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c9f9e3dbdd8425eb950f403196a05d4x.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7681b3d283f145dbb1b9532f69184a9cP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S464bae49de6a466eb3ca710b1f9e7246f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scdc3abdd624a413cbb1da0ba880ad4e9X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S612c902f0f8741b3a3fae4d199c257ebc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93428e7a44ab467f88296e87e104dbd5f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c9f9e3dbdd8425eb950f403196a05d4x.jpg"
+        ]
+    }
+}

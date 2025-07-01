@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "6a34d929f3476ec25545721d017789cb",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-09-12 15:06:24",
+        "第二层SKU数据": "",
+        "货号": "GY-W1990537815",
+        "进价": 90,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 2147368680,
+        "普货模式": false,
+        "商品简介": "尺寸 12 18",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:52",
+        "原普货标题": "Urban Minimalist Female Student Large Capacity Commuting Horizontal Canvas Single Shoulder Diagonal Cross Portable Tote Bag",
+        "质量星": 2,
+        "重量": 0.6000000238418579,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdff2ac3a2df641f19b625da908b1485e0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc658162e11544f26a992ac46d849acbfW.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S97b2cde8e931486ab2d07c8153d226893.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02e591fbadb64531b73ae7cd99e4c6fdL.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S73b980eba21945cd964632cf43c73649H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50f141e81406425b90b6d0720ad0d944Q.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcbe43fd5d314eb190787fc3c8a9a796E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73b980eba21945cd964632cf43c73649H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01b035314baa4444b62bc94f7e6668c5s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf207fa48f09416a9fd58ae668ff54f8o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57c88c5d42764662b665d8078d7f3f487.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4172f44f8bf4369aba00aff3d5a74f1N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0fe8b4b00924f69b7f3a14ca7b346ff2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9fdf8a385a6946b9b2d1973b55f686e5G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se346ea85c9954e9ea9062f569b6b43c73.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Scdf1ebbd5b864192a4bf07632ca4d5a4y.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S068ab911afb84e1ba8aa559a641e7d285.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S2be45d385b45449a940b5da901b3751aC.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S30ddfef0348c4037b69e0a29467e1b8bl.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se0e83a3ba94942a9a21e92cddfaee5fci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7ef7b9af58e48b79ea85e36ee432366s.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7ef7b9af58e48b79ea85e36ee432366s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0e83a3ba94942a9a21e92cddfaee5fci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0d0e21965b64c14a5d0b9ffeb02d7047.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3bad0940df9849dab3cb299879c47376Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4666b88856ef43a2ba08e615539d8c6bF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6635bdaf287d45ceac41346131716d40B.jpg"
+        ]
+    }
+}

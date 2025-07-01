@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "9fecb39ed5f29b54dc8116ea23a6257a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "RB",
+        "创建的时间": "2024-09-10 14:48:38",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "RB-W435022454",
+        "进价": "110",
+        "利润比": "100",
+        "品类": 1004,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "Size:35-40",
+        "性别": 0,
+        "修改的时间": "2025-04-08 18:00:57",
+        "原普货标题": "Thick Sole Sandals Women 2024 New Summer Soft Sole Elevated Casual Roman Sandals Small Womens Shoes  Sandalias Mujer  Sandal",
+        "质量星": 2,
+        "重量": "1",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se2d7a956596440fba93c83a006ab79b3s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S165ddec7ea704a36955ed17c78538243T.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6a141891e3794f7699905390da9f985a5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c642d58188a482b93f04fdcc6d77540T.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf10811404904476a6ba856b66e5909fd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S939f3421e0584a20897e4f35ed513bfcQ.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf10811404904476a6ba856b66e5909fd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f485705168a4ce8928bb9f15f5f3e61i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb0f71963eb24214855d8f456eb996489.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6bb63f0de0b9438ebab541a2e9f66b741.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab807d36b5c14e51bc65352fc1edcacbf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e6af1753cfa40499b96bc83036749d6F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbe328656da9473aa65a800335226f7cN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S91e3ea9461414aac945979230c956307s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94296e7c04794d82ab56426b2666a1e7A.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4c048e429b944c5fb25f8d4fbfb9865cx.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S87adf1fe2f5d4d3cacf600e2f5e1bd6a1.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S0303cefece1349cb82af7dcf1f6be8aeQ.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S1e921a9301b4439e9a2e325bbc39dc25u.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8b6158c293da42758573fd43d30fa8daW.jpg?width=790&height=1031&hash=1821",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c02a1acf56d4b1082ab3eeefa75d48ej.jpg?width=790&height=1021&hash=1811"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6551824d2a374908afcdd0be83d6ca54d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e921a9301b4439e9a2e325bbc39dc25u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9f2a8b7e6584345b5c29906d1cc7b00r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0303cefece1349cb82af7dcf1f6be8aeQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9cbea4c834614b508c6b8348acc3e432b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87b5d6a27ad947ea97a1817d7c67aa9bu.jpg"
+        ]
+    }
+}

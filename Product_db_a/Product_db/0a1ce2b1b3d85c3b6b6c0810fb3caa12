@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "0a1ce2b1b3d85c3b6b6c0810fb3caa12",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-11-16 14:39:31",
+        "第二层SKU数据": "",
+        "货号": "DG-178187513",
+        "进价": 115,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 577247229,
+        "普货模式": false,
+        "商品简介": "单肩包 高质量，重量：0.68kg，材质：皮，尺寸：23x24x6cm",
+        "性别": 0,
+        "修改的时间": "2025-03-20 14:22:23",
+        "原普货标题": "Women Corduroy Shoulder Bag Female Small Cotton Canvas Messenger Bag Vintage Bag Large Capacity Student Tote Bag",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S13d54ae7df0d4745845c802438be58dfK.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sf7734eb107524d57850c78d264e0a575u.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S5f870d5940e5477bbe71457e296fb6d7k.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S38decbe47e3d47cf85dc3ca8014c6b2fz.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S8bba67ef3536430eb14e02a8657b172ez.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S7d64185f8b544905bc9853b31dc48967C.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S2203ef68101347d6967debf2788dac36R.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S9d0a3350659246b08e07d75eeef79695a.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S5f870d5940e5477bbe71457e296fb6d7k.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S0db9b7dae7d949888cbb69eb0d073c9cT.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S819bef4031e84dc3992f49336fa8f665j.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S1df6c779a65740ef826215b904dd7ce7Z.jpg"
+        ],
+        "主图": "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S2203ef68101347d6967debf2788dac36R.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sd8517c9598424317aeedf4a18524ee2cM.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3785d6dcdb0f4cccaa9bb800aa8ec4c91.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S12d210d21dd7489bb69669b94f09b012U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30a9c61fb9544078afcd820cd3b172f4I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a85692609244764b1848fc8b0f1c15aa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23187945c63c443c83318f532fb44502t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c22dc06f55c489ba6605a57412e44b7Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se024ae52ee9d408a9228125b0c8a0160z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3785d6dcdb0f4cccaa9bb800aa8ec4c91.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S864381dfae0346f79c4432a8695786edx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S76c6cbcbe6ff44c3983d85d7d2ff9a513.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1e36f8fdfae54d8faba7801e78d72af6V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4cd1e1c4e24a49beb29a96ca7b3027121.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se746e02044114f45b8fc218b3cafc5dfT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4cff597913aa461f98e8aa40f38507f9Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S76c6cbcbe6ff44c3983d85d7d2ff9a513.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa20e29d47bb643619687b22e9f1acbd58.jpg"
+        ]
+    }
+}

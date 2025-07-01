@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "4adc8481b89daecd210eed2f8e698c72",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-11-18 14:53:19",
+        "第二层SKU数据": "",
+        "货号": "DG-180539244",
+        "进价": 115,
+        "利润比": 100,
+        "品类": 1002,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "钱包卡包 高质量，重量：0.3kg，材质：皮，尺寸：20x11cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 15:14:49",
+        "原普货标题": "White Black Shoulder Bag Classic Canvas Books Storage Handbag Snap Fastener Tote Bag Student Books Storage Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S115c365c3d4d4a26b1a2da3912b366beR.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S9d73576a62484f25bd9516f7217a13d4x.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S08b51dac0a4647ed9e466e2e03c396ebF.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S3d3379faa9c447b9adeb06f71a89c722J.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sc2eee6ff82b949efb5fe99998c2eeca50.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sd66d4f96fe464872b15719f509c98afff.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sf206bcaa734349529e5391ec1fddca4aN.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sec2d6f803cae43ad83c1c137b6c2f57aA.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S08b51dac0a4647ed9e466e2e03c396ebF.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S8f1bf9ef1e144f3ab3edd080df406829R.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S2c94f90a6ed5470581c38f8fa1e50527R.jpg",
+            "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/Sb372196930d64f44b4256a74ea65dbf30.jpg"
+        ],
+        "主图": "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S7d526207c75b41de8c5581adc1c45ec4c.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae-pic-a1.aliexpress-media.com\/kf\/S17c7ed0f560744bfb3425dd106d9e822n.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6ef94ef5480440a08a99161054e8d1528.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S88636e4bc10942968846147561503672W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S388fa44be97b4b1fa77c339109778cbao.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35d3b228215540f0aa4eb9136e2253d6K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S202ff74993bc4311b3c90d34945b4947d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ad4618e976d450db9187601024e90cd5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38d52cdd6f5d438098a10f9d03a7a2c2b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e30dd5ddb9c4e6789d658eb5e616470r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S453a5781b1194642bd88b5ef8978730cn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S578f80769a0848be8db93473152cd5c49.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S150cf491839a4c308fde4217290ace4cz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa16d4727e0ce40d8a0c41be7a14357a6D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80a87f4945f64f17963c7476bcf004d7u.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0e039aa7379b4c9ca7999deba10b4e1eP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S150cf491839a4c308fde4217290ace4cz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa16d4727e0ce40d8a0c41be7a14357a6D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35d3b228215540f0aa4eb9136e2253d6K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2dfd2532270f4d7899c69e289adf1d3ar.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S388fa44be97b4b1fa77c339109778cbao.jpg"
+        ]
+    }
+}

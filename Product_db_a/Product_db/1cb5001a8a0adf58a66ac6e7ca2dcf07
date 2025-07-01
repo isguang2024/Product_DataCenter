@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "1cb5001a8a0adf58a66ac6e7ca2dcf07",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2023-10-28 11:20:23",
+        "第二层SKU数据": "",
+        "货号": "DG-148051243",
+        "进价": "195",
+        "利润比": "90",
+        "品类": 1001,
+        "品牌": -227904089,
+        "商品简介": "饺子包 高质量，重量：0.65kg，材质：皮，尺寸：23x14cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 12:22:41",
+        "原普货标题": "Real Sheepskin Handheld Bag Solid Color Cloud Bag Pillow Cotton Crossbody Bag Shoulder Strap Embroidery Women's Bag",
+        "质量星": 3,
+        "重量": "1.3",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6fe6c0d424954c1d9ba39ee71ad35787o.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2016fd993e894c75b6bf883a7f40fcf6M.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S990675f7580f46408496b49f0309f76ak.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc50efb177a5341efaeab1507d6a4bed6j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8db55416e9f473fb5eb2acb1bfa6bc4i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28304dd7825b49fba426a74234fc440fM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72b4a220ae7b491cb1abb01eb47c3216n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29908dc6e5c244709d412d4b9e63ad84T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7770a482b238455d8829803eff72fea7a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf850648250d54d8ab6dd202910fd3ea1v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ffa745dfcd7489cb5c9bd582efb71a2t.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0f21f36f470e49d8b3d746e85ec92a367.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sacbd7f2fb2054c8587b5fbde7f8c01adj.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sfb9a6a0a864a430bb5b159f44ba0fa3f9.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2817715305b49ab94877331025aebbeO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43fda73d4fa941e39ddb49130fb3f80eP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc715a13e6f3a4f71b339a776baa7f292d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb917addb29bd4c2abdad4d1bf71f3b9aX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd821b3afb1840518e658ea9db3900f1k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18f1849aa80042bfbd2f1da03352c493c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b1bd21b950c4c329d9793fa6fbeec2ap.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S49df2c2c1fc84597be39ffcad96df7f7Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb9a6a0a864a430bb5b159f44ba0fa3f9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc80fab6fa7104193a13439bd05c2f35fG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9aa89cb1366e4ad58b3b2a8beb7a2819P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S431bd9e4d8bf41d9b03a2b5ee3ad29e7r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd1b74d74d204ba981436ae1d1edf35dK.jpg"
+        ]
+    }
+}

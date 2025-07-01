@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "3fd419073c4f4df25a336ff7c50101be",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "GY",
+        "创建的时间": "2024-08-22 14:15:38",
+        "第二层SKU数据": "",
+        "货号": "GY-W919073490",
+        "进价": 220,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "20cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:54",
+        "原普货标题": "Thick Canvas Women Small Zipper Shoulder Bag Simple Handbag Little Totes Female Cloth Crossbody Messenger Bags Purse For Ladies",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5d55b78e60f444bf93919248ecd842aeO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4b73a9dac4846a691980ee8f060c700s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc678f46b3a814d08a9cc639a031563514.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S41e8d645d06b44d09f95d3a1cb48a2e68.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S487db753938c4198b190b734676edfacf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70c9958418a0488c9fb0b02770e48ce1h.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S217c0d321fe9450092a42eecae0ba4c9N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba11225e56be467cbb92a7f4dd01f8d9Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S54fcbff329e649a785ccd8cfba6e5489e.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd48c61641c704d60a03d1dfc219e8ebaO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65c92458d225420bbb7406f90b988994N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03211dc5425044cfa172769e45457e6bf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc329facf5ae846bea54dd09c96c05fdf8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbfc77b86e43488bb3fc23441cf6c5769.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd66b3c601caa466da1548eb7f9a355e3D.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S91256b73e85a4352b291b75fa361cd6d7.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sa747fe6974054e2aab0fa497c18718f77.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8029be9b046a4897b28be56ed2a74e1ax.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sb4cb291374144e389f5db273bf04849cO.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S07ad67f2e181421daf23c7199f9f9900R.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3b62ab025a9042ecb364d74cc2fd82b26.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65fea3ebef7a49a8be44f12693ea62fcq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1e14b69ec984f7a955758d541566372t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe3b57f3a29242adaae0ddd2968381bbn.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sac5eb2593b1644ec8864cde8551bce2eS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S209b52b2659140499485b35a2b1369f1W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4069bc2772b947e699721f838747cf13R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc77be20e9eb49cb8a792d56031d8ae53.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ff2b47c75504164b2132145d71e8623l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa73afac6ac440db83a81e11bcc52befo.jpg"
+        ]
+    }
+}

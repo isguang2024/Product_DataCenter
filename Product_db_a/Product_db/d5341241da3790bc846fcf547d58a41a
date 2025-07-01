@@ -1,0 +1,105 @@
+﻿{
+    "info": {
+        "ID": "d5341241da3790bc846fcf547d58a41a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 6,
+        "厂家": "DG",
+        "创建的时间": "2024-04-26 13:50:24",
+        "第二层SKU数据": "",
+        "货号": "DG-122668037",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "邮差包，高端质量，重量：（0.6kg） 材质：头层皮 ，尺寸：22x17cm",
+        "性别": 0,
+        "修改的时间": "2024-07-21 13:54:32",
+        "原普货标题": "Trendy Square Crossbody Bag, Litchi Pattern Shoulder Bag, Women's PU Leather Zipper Purse",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S032f1028f87e478486acb575c7639110r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sddcc88e4176d4e83966c1ba04a62611d8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2d9a11c6b4348ba929756d26a59df17C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f793acca2e0414b87ac81af029a54eeK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc62f4c241b094bb5b3a7ed99491d1be1U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1165e17f19c944649e75494336f79523u.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se50d1f3022754a298060e590ef1da396Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ba19ebd43ec452a8dcb5ce9dde090a6g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4c21c501ac7463b9ac561ada34ea58er.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9de3fda4f3be484dabe7cd30e49fa37bD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S013a9da4a4a541628be73bbf8ba767d74.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9392f4711fcf415f9f9349ed91807743M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf10a56596e6a4408bb9afe24f916ee30u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8dc8c7fb3c5c4846a31c15b3e21b0e8d6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf902e375724c42e9b2d531384d16ee47f.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4c09cf1c984b43efb4d598d63f5205d2A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S697679e723e2472791043208d63fe3a1Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6cb13a894899449f9a8c17acb6a58720e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S973020026c914c0cb28cbbd39505750at.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9092aff7fb294a5089d6e96cb5c4c595M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S795fc3d8b6574ce7b44c0d5650da83eaJ.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5d85184f0323407f9d6b9d4226de55e3j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a56956d6df447feba909432de770eada.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20ee24b60c9a47e0a485b1afaf2943eet.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fbf122c1d0c43f8bc0a6bc8da1cf6acm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6cb13a894899449f9a8c17acb6a58720e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d8ad461d6ae46e4b7f79ba7693bd53be.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S973020026c914c0cb28cbbd39505750at.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce970f355c1941e1a4c3fbe463b1546aH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9092aff7fb294a5089d6e96cb5c4c595M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S730538d389a24cd5b6b56d24c735724ee.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S795fc3d8b6574ce7b44c0d5650da83eaJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbe029c6ce7e4f919ba859aa831590cc4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c09cf1c984b43efb4d598d63f5205d2A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S641b895428404b4586fe035daec4b871e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S697679e723e2472791043208d63fe3a1Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b682a67999b4f74904e7a157d46981a6.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se4907ab95c4a4ce2b29df261dbf32e1do.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1ca1b11595114764ae3379a086c25174J.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sefbe0bf89f9342348ab563acf4703f81I.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S693dad390d884c639e7c7b1b7447a815F.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf9be680afebe48cdb3947d5279d1335aG.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S491a708dcaa34dad9a602ac08895ea32Q.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf501a0a178c746b7bf39c1bf1ece4cafJ.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5152aa70996a467bb3f7c869df076bfbo.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd155843e32084b0abb359e0205987e6eU.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S06311c23be6d4fd69bed91bbce097bc9B.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S639ee4358898498fa13f89c279bcb684L.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sde93271b431a4219a0c8f9640fe12dcbg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S76adaa0231eb4fc38eaf4d5dc0562670C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S91416a64b0484e5386b54c1d9bbc91d81.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8056becb989948acb047aa6440333fb3q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46716ba50fc84c06a99ca1920bad70fbR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2aa5558d319a4f6aa331ddcbd5dfe283X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16dbcde0e4de467ba6fef92585fc39f96.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefbe0bf89f9342348ab563acf4703f81I.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saf64e67e95ce497d86ff9112061988f6w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46716ba50fc84c06a99ca1920bad70fbR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8056becb989948acb047aa6440333fb3q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S91416a64b0484e5386b54c1d9bbc91d81.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16dbcde0e4de467ba6fef92585fc39f96.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0e5f37d800b4020acded62d57dcc312n.jpg"
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "0191ae95c3d5acdb43c98217f9c69ab3",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "RB",
+        "创建的时间": "2024-06-14 12:21:51",
+        "第二层SKU数据": "p-200000124@34@35@36@37@38@39@40",
+        "货号": "RB-W383302077",
+        "进价": 100,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "标准码数：34-40\r\n颜色：黑色、酒红",
+        "性别": 0,
+        "修改的时间": "2025-02-26 16:07:21",
+        "原普货标题": "2023 Summer Women's Sandals Square Toe Backless Women's High Heels Mule Sexy Fashion Simple Stiletto Shoes Sandals Size 35-42",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9fcf07d97dc74ae6bd4cf406883e03deQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd13d0e35b6c041c98cd67ef7a9ccb0b8s.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3c67a399e91432aae077aab146a0d7e4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbe9bf0d68a7486da18b67957787bbd5n.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S42aa45d97f254880bd67246e83029d33a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf5b20cbcf1c41d093ceceaf68eeacd1I.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sce26c9ac25f447eda945af3307ca17055.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4c6ffd36e5d40d5b05c7437809b38d4A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99c2272460654d1da7638f61eb1fc879c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S606515dab7e04c74b6d8eb39651b35b3X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0c8d8830493424b88d6882a5de32dd55.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb2c902726804e59b6320a49de18db04W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S815f80b5631e4d1090d2fc0c32ffdbe5R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39c96ec2cafb486e853212ede52cbff81.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42aa45d97f254880bd67246e83029d33a.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S14dc7f8811f54c398a6bd4fa5b99e1ab5.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S970c9d04d118420cbf1789b1c8fb1592Y.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sb2b18e21e5894e86a9b0de618f8a6edcF.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sa42011b91dd04665a40b355e1e9cb5e2j.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scf6b26ff1d41477986dc80fc7361065c6.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c89838156ad4019a430561f0db29cb5S.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b861c6ef86b4026bfa3f14d2354b2cdT.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S7194a30aab024195916be1a863f24b0eA.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S373bddbe194a48a69b460bdf799baf5e0.jpg?width=750&amp;height=1000&amp;hash=1750",
+            "https:\/\/ae01.alicdn.com\/kf\/S97ed60bfe9944eae8f86539352529fd2e.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Se37580777d2241bda58eb42aa2f0718by.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S05e119529efe41cc821aec3b392c6fc34.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S98b49b86ca054bf7a6e2990bfc75718cV.jpg?width=750&amp;height=775&amp;hash=1525",
+            "https:\/\/ae01.alicdn.com\/kf\/Saff32c052b834a2982a78b910bba60a0T.jpg?width=750&amp;height=773&amp;hash=1523"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4548accefd8948019b833e1bf35328935.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17e2a90551124340841c030efed05039F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46c6650031e94d959078654a41bf6ccbf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb399e32ee7c14263879857301ad7dd0cS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc171c07bf1d54d50b6aaef68fcbfabc9Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97bac3dff0a247c7ac3150e3a72c6b18V.jpg"
+        ]
+    }
+}

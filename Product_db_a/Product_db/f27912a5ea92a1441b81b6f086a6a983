@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "f27912a5ea92a1441b81b6f086a6a983",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-22 14:36:32",
+        "第二层SKU数据": "",
+        "货号": "GY-W2020029638",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸：27*5*20cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Women's Tote Bag Canvas Sewing Thread Large Capacity Advanced Sense Handbag Convenient Practical Female's Commuter Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scdf52ceb433d46b989a8eaf390456f66v.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S51ffa14b8b4c4e9a90228c2fe0b12f785.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5c5a36b240004ea5b9842aed05e98166C.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7f90e8eca2744e98eb96671681a5afcz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58775b9e43a64c7fb2521fe1a1e51b25n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62d6af8b33274e2f8f981e78459d4e37b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26e6a9f4f8e145f68a1650426716dc7eD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See64910352574dc8b5ad42e5ca6ea6dd2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d1785479bba4a01982f17c869b578b3b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7f5e540ec0d491e8a98d206271473c06.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S443a1a2ff9324adf9f2360df3821cc94b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S280f9895a16044c2978a95a41e051d7du.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S99ae2a5449e4461bbe45a4cdb42c58a3E.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9f2973aeb5d64663a501bd7456a3e801Y.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S0fc7f14401724d50a2b996400ea93dbdl.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S17b24c0b65374594a5acf572ce7f1deaD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf722221a3234aa9b4d888682dbafc988.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sffff55a16a76439a9257c66e5506c86aO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scff0ea310bcd4f81adcae56c9f5b60e5Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1edc24f7f2f46dba92040fe93dac50ak.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa897cb7de97643969f2ecf4ca3a028dai.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12ba88deacb94711b8f684b6ff9c54828.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa196a67f96ed4ec987c84459742db5de2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26b69eef3cdc4896863f52692240a84aF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94bdf6f8fd7344d7b1c55cf387af8f4a5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4eeebf4fa43843388b420f4c1d9e78cdE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S832c8ec9fdeb4d2a81b762adc1f7dd68q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d3405d1b6264d60a37127ce432151e32.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19434d94ce7d4c5280d6924e1a7cdbc5w.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0ca004d41e14469eb9b917d5c4fab49cU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9120fe3dbd542508518ce7c0293b968O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa7471f6a35d4ad6b003f77b1727bf6fe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa511fc83a6484e1c95216f979ffe7b02N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb83eba5a023e4663886551af3b9d768ct.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57c60cd830ff47eb82c380df60514bb0H.jpg"
+        ]
+    }
+}

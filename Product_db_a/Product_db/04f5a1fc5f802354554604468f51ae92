@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "04f5a1fc5f802354554604468f51ae92",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-13 17:47:18",
+        "第二层SKU数据": "",
+        "货号": "GY-W1819801439",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸：21*3*13cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:00",
+        "原普货标题": "Large Capacity Zipper Shoulder Bag Waterproof Washable School Student Backpack Nylon Versatile Backpack Computer Bag Travel Bag",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8ff1231a68d647b0b00d47f3fc3957abc.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S797c7e209fff470bb1d2a006dd8a505dE.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scc96c40fb5c7430383c33e2ccff441f0T.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc082671184d242e1abd463d448a9f289E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scfd2d3488dba4e719b911174d689f720N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66a37c7291574ed6b2fc6250aa0c6625L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29a0ca77f9f14923863f38ed4e237c9c2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9014d5c9a084d518516337a772bcd18U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S321823f2ff5645b0b3458abba0a55b4c3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3547e244c8b428a99042ea495b91191a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2aeb69c742c04f3e9d982c35a8c5ede24.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94f00874f6414e9c8fdb312f34279ffeO.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sadfd47923b4042f09e4d803371bd2eeaT.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Scbfde3dcc3d3477eae8da84d4dc11c411.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S148c8b40274441ddb38f682abb1566fbX.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1d3453b2a67e41d18c495abccc761bacB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2bfc35a096ba4b15b99a478f6ea8954ec.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf673230704c4cdca7800f7f1a94f752n.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scec3594bda51491ea86b77f0944a6a65y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24cbda7c4ff94a2f93ee6579da96bd62R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S002ae41b1e37493787a79cf7213795deg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa40232a46b3462c80e9bdcf5f61c7d4P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24767194a51f4a378f96b88be36f4a37a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf673230704c4cdca7800f7f1a94f752n.jpg"
+        ]
+    }
+}

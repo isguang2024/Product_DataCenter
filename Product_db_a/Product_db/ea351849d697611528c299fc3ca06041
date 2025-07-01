@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "ea351849d697611528c299fc3ca06041",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "GY",
+        "创建的时间": "2024-08-15 16:34:33",
+        "第二层SKU数据": "",
+        "货号": "GY-W699962401",
+        "进价": "145",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "尺寸31.15.28",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:58",
+        "原普货标题": "Big Black Shoulder Bags for Women Large Hobo Shopper Bag Solid Color Quality Soft Leather Crossbody Handbag Lady Travel Tote Bag",
+        "质量星": 2,
+        "重量": "1.2",
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4f70577ce9574b8991e117ef6121751co.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc80844cf7424345b87b9067ea02a99f3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S899b46f6901b448e9ff018e97d23fc52J.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S34b46837639e45b28d8993f6278bf3d67.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e5690b128a4465a9d431917d143a312l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d3ec093cb7844b98a6545b7b40fa801n.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S71b64700d85e4aefb3052262a2d2a4e4I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1f746dcda6640fd87f30f3aeee52100Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb2941f299ab4091970e0076080eae4at.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seb2941f299ab4091970e0076080eae4at.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S549b97273b06478e8ff549226ae745cbw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5477cfe4d5b74a91a6496f2caf4b1b55H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29c1c2726c81487d8e5d279b3063a368x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44ca9f62460b434caf67ca052d307f59X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f19c97b48e64e6b9508d15c0526e0bdW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4cfc1d6d366c48c9bc97f81d579d8c99K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89d68dd049064461a7c319769bd7ca76u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16f97fa0cdb74299b55afd33d5e5d744l.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Seb2941f299ab4091970e0076080eae4at.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd6e5b5e4a7c4492da8e65330b461059es.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S9b56b8a05f2e40999195e063db4e9639u.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S1f2b2d9999c4400db167f7521a4ae39ao.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sdedb510891044e7fbb6b5e78672cad85I.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb14c655f6184adc9838c1c4d38551b1o.jpg?width=750&amp;height=839&amp;hash=1589",
+            "https:\/\/ae01.alicdn.com\/kf\/S292256dcd93f46b5b076ee3b08eae6f9d.jpg?width=750&amp;height=573&amp;hash=1323",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b37f6f53411427aaa1d55b95aeef383k.jpg?width=750&amp;height=995&amp;hash=1745"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6ac85e1fb8534352b233ec155000481f6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S92aabc36e74d4adfbd8e031a68dae048d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01c61fe81494406f909b2b288186ef5ci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd03e9da227b740ddbd13650d629dc52fS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se36e674a5f6f47afb172be87247de338B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S311e10e4bc3a41fd9045d69418a51e7bl.jpg"
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+﻿{
+    "info": {
+        "ID": "5e7a1fb5365ba3c5b4dcae2f3f568dbc",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-24 19:51:18",
+        "第二层SKU数据": "",
+        "货号": "GY-W674185304",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "尺寸19.14cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Large Capcity Leopard Printing Canvas Handbag For Women Shoulder Bag Female New Fashion Luxury Designer Shopping Casual Tote Bag",
+        "质量星": 2,
+        "重量": 0.8999999761581421,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S15873a5593ed410b953bf3825c4b3074H.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0f261daf58a847cf855aec1697f05c55n.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3ee117d23b6472c8056926f2ad5a461W.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S232c05085fd64f28a79b245d05bac090r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9809c755cac84b969b48bd58ec8cb50dX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3edbdb256a5e4788b5b9e5ba0240653a3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9639503c065d444fb132c15aab8f4beek.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S64099d14344b4f80859949cabbe6ec054.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda7ff0b64657496f9c67793506e81b84n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfde1e921298a420981ab5a10af1d67b4g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b7865ef16f44b0c91ee2ca50abac49bo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a65bc74f6f24f02af32136ad57294fdl.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S232c05085fd64f28a79b245d05bac090r.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S30cb6c4d77e44637bcd91f8990382c10O.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S1c4048df97c34021ab87d0bd5437dbcdR.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/H32feaa85d1a7468b87cb02a77b273a82G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e860996b0e0494da6c367fa19170cb62.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hf96dbcdb060c4b44a42365472d59d1669.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf310d2cbe0247bba924e5e37e63c3e7L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1fecf1694ca43088a6efe8e35359abb7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S696a6e7d4fbf458d97f3d8a0c099531dM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd767e0631d94471b82d8ee118745b320l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See8a0f014c9045b797bf33dedc6f42a6P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S22df8a91ffed48d6b596651a9eaf2107d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19aefc5973e44141b3e1a69bd091c2e2H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbc59acfd8a2418db06aebfe92363d36u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2a7d3249f2c4a5080779fd76ade593aA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S333c073d9d254a1f8db2ad2f851613ceh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H76df7ea6f6d349698a859c468594986dM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b7e39f346f94776a798dfd8928191ebA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1db5f4255f1e4b159c25534a57a7e213C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c4048df97c34021ab87d0bd5437dbcdR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc6d3419834f4ef3b088847fb633ab5bA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa42960cd8004b26a305da006533e649C.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1c4048df97c34021ab87d0bd5437dbcdR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1db5f4255f1e4b159c25534a57a7e213C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf310d2cbe0247bba924e5e37e63c3e7L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1fecf1694ca43088a6efe8e35359abb7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd767e0631d94471b82d8ee118745b320l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b7e39f346f94776a798dfd8928191ebA.jpg"
+        ]
+    }
+}

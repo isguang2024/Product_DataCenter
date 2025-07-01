@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "9f942b2447ce7932b6bb846354aa4b01",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-08-02 17:13:48",
+        "第二层SKU数据": "",
+        "货号": "GY-W1827830566",
+        "进价": 115,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "水桶包\r\n休闲百搭轻便实用！\r\n上身超好看草编系列 \r\nT-14尺寸20.14.20配盒\r\n",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:16",
+        "原普货标题": "Canvas Bag For Women New Casual Shoulder Bags Shopper Girls Handbags Eco Environmental Storage Tote Bag",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0cdb1e884ebf4933bbbf52ed9216493bP.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S31a7287058054c5e9b085e96a7f7fc71b.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa29345a542354cba8d23203ee2ddfec7P.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sde039daca66f44e9986024cbeaef103dC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se45867d2265a4f1ba8038042ad5eb467N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01ae75808ff042679cba82b4e26b72a4X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6ac1f8adc964692a3003ffd33127184m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5f2d621d1f040708e8213234a96f9b83.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7515347edfa04a4aaafb1832d00ad6fdc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7c8ab880c5b4fcc9fafd0977e1543e0N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa033f209f8c64404a9af4d7adba12192F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63476358733f41f6874bfbeab7342addL.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sfd759ca3d8854acba642ad7575ea90d2U.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9e883e9582ae4d06b8455ca7e0a81cecl.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8c32c73233da487da854b7c6d6e5a451r.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1e2ee74fd474641978fd38c7fdf2879S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4944861e390643da9c8b81aa52a9606eg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7dfbabeda93948c78edef6520e7413bbr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e34056159394d7c8185bf7fd69b3a0bT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d98f8bd7b144051a1b75a8aba714de4S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd72060723df4495cbb3007e01c5c1440B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37030ac713f74732bf0a50dd943d167bo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d8921a4df94484494b415d5d005dbccV.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S19515ddc9bb64a908c1d548bb399f5e7r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4570614d376e4f42b8752f743fbd6801u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3704187bbe3d423bbb20fa1c2c7f12683.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c32c73233da487da854b7c6d6e5a451r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80293a941156496791195d42ce956c58d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf0093e7535544e698b53d23567816f80.jpg"
+        ]
+    }
+}

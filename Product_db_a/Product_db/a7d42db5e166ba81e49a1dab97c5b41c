@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "a7d42db5e166ba81e49a1dab97c5b41c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "ZH",
+        "创建的时间": "2025-03-08 13:07:59",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40",
+        "货号": "ZH-W1711003493",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -1898907760,
+        "普货模式": false,
+        "商品简介": "鞋面 原版特定牛漆皮、牛反绒 内里 进口羊皮里 \r\n跟高 3cm\r\n码数： 35-39（40定做）",
+        "性别": 0,
+        "修改的时间": "2025-04-07 17:01:40",
+        "原普货标题": "1 Pair One Time Use Hotel Slippers High Quality Closed Toe Non-Slip Slippers White Disposable Hotel Bathroom Slipper",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S99df6cd08c5444c28db12e15e5916d7fq.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4c77aa9545784dd19653e1b68f675005n.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S25c129fc0ce74e2da414cd53aeb51afeg.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scce93bbd3d324f07bc6a738e7425579dI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf344e694f0b948e18d6c1f9b3f030e757.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S25c129fc0ce74e2da414cd53aeb51afeg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa35126b46b944fbda5680508706d61e4T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18906969527c497aa51f0a75c9e00c61u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8987328d4cb49118d5198c15b6317cfc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S84600afffac14588a000fa88e2c889d3u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S944b7c8f5c6d4211b332bb7b03f51d1de.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Saedddf8482d941ff8d64ea7f54984f9fb.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sfa581ea552f146ff8849580e99135926K.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S63eed9d32ec941c5b3b3b1bec985864e5.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8eb11947035f41fca41def03552abfd6S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa73fd4f838dd43c0baa94a27220fe659e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c02688659104f93a326b978bd65df30m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8aced80929047acbd108857226bb30cH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se89776f5f5b34511a5b88a65b48953bbf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb338805778244d92860754a780fd68eeO.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S078eb5558a414e36941933bdbfe368c1Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa73fd4f838dd43c0baa94a27220fe659e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0d61602a47744ffb73657f8288c04ebR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c02688659104f93a326b978bd65df30m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seebcd3bccb434664ac0f8a2bf35392008.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8eb11947035f41fca41def03552abfd6S.jpg"
+        ]
+    }
+}

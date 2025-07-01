@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "3d3509bae42621aaebcc8ebb319f2256",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-09-20 14:01:33",
+        "第二层SKU数据": "",
+        "货号": "DG-174978827",
+        "进价": 195,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "镂空手柄相机包 高质量，重量：0.67kg，材质：头层皮，尺寸：20cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 15:14:50",
+        "原普货标题": "Fashion Women Crossbody Saddle Bag PU Leather Small Handbags Purses Retro Semicircle Designer Messenger Bags Female Clutch Tote",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S763f7723fc7e4d3484ce4aae2d16c535y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S242033ca9db648b5857a7aa2dc1202d5J.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S570bdaec271a4993a1a2a96e14e4abc1p.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7ffa4d12101d4e26a5eae63318e774e3H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S286235b94bc44b97a695ece58bfa577aB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3cb8d3d9799c43008ffae04d50be24d8j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S916fafa05fe94ac6ac1523d1c3bf1eebU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57910a9b825b460f9913855c74667f6eP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86c32911e2b44d7695eb3a9f1ba7423an.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0aad5dcedad340e1a28d1f2fda938797l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80262d86540045529033db51d0e7fee6i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09440b0173594b169d6cd26f08eeaac4z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3ff8d48f90743c9b880618e16584a6di.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S99fd644287354503a7bdbc6f9772de77I.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S189861fa80164fd9b91d44eadaa265886.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S9e1f48fab8674c2bb07bd946a8aabb0ev.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5cb653d31fba4be49172e94f472ab4eaY.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc97e623d521d483fbd5124feb1895245P.jpg?width=750&amp;height=558&amp;hash=1308"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2664b59710e412d8abd664b117d12ffA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40fd25cb5c2344bbaaee72a2b5c9b4f7h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a74946ee2a446ad8ddfa32cf8af9c05N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a203d8dcac34c4f800a048961ad690b5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6e74e7cc3f7478dac39a561beedce66M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S293ec0fb09c447bb9f56ad27897bcf55a.jpg"
+        ]
+    }
+}

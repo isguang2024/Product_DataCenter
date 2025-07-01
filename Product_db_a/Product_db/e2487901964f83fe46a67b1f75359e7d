@@ -1,0 +1,67 @@
+﻿{
+    "info": {
+        "ID": "e2487901964f83fe46a67b1f75359e7d",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-08-06 13:20:56",
+        "第二层SKU数据": "p-200000124@34@35@36@37@38@39@40@41",
+        "货号": "RB-W1803849395",
+        "进价": 105,
+        "利润比": 100,
+        "品类": 1004,
+        "品牌": -1190321189,
+        "普货模式": false,
+        "商品简介": "Size：34-41（34 40 41定做）\r\n跟高8.0cm",
+        "性别": 0,
+        "修改的时间": "2024-08-06 13:20:56",
+        "原普货标题": "2024 New Fairy Style Platform Dissolved Shoes Seaside Beach Slippers Ins Pearl Sandals Women's Outer Wear",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd268f46634064d15bc7cf6c56c23215fZ.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9805a33282641be9efe238f3eb9adf7a.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0d3ed4f00f2e4d6f8ffe06e041c29e080.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5a247de7a4ff44dbb1fcb978a60cb8b6z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5aaa5e6aa9ba43498bbde3bb82184fffh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc096343a159440789aca0fb731c4c3894.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd3ea1633e7844a4bac8f6a945897ba4c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc00e1b22bd15467cb4a7fe1559e9e5d55.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc75ff6b8cf3546cf9d13ae90c719c767X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef83c9d5ad054613827c5ffbebd8fb4ap.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb426d0fc8472472a9a8f933ee93ccb009.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f45942ee4ba466d875de82075e1c02bK.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8a6af1b6a97441d590eab5dfc02d72fes.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4da722d91c4f4abc9161d58dcbdeb7d9y.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc6b16dd1b6e24fb09d9979a1ce458999M.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbdb98d1bae884d1c99a2a63f21572519w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3631b4c371bb4b52874678ca39710f08k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62d77be0eb004eeb96fc6a585cecb2f4x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf68d8fc6a007459eb312604d9c27d0a4p.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6b16dd1b6e24fb09d9979a1ce458999M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d891f9dd08a4e6dbf5293adee280ad5Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5a46101eb3b475c8bbaf169e5aa3d31n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81995057286645f980fb1467ea8b1658i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S955cd42f8ecc4ca8a096329c5d3ee7fb2.jpg"
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "9b62b8767004c4ce9b8cbc283c5512bf",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-06-14 13:38:40",
+        "第二层SKU数据": "",
+        "货号": "DG-199301094",
+        "进价": 180,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "白三彩枕头包 高质量，重量：0.7kg，材质：头层皮，尺寸：16cm",
+        "性别": 0,
+        "修改的时间": "2025-06-14 13:38:40",
+        "原普货标题": "Pu Leather Retro Women's Underarm Bag Cool Y2k Girls Vintage Small Shoulder Bags Simple Female Crossbody Bag Handbags Purse",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S800d744792744fc595c9e75186f498a9G.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8de4709ce1b42798eb306d93cfa609ea.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb899f16f80f447399b44a134a1f1e140G.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S40192a5d18f54b6ca2ad3698fc8832bad.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8555f8ebdcc49eba48d3a5be59a26fez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8090bae327da42cba9f1fdb2f2d6ec4fD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd578f8c3e990412587c92b2f2cca55bdo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4306eb997004cfd9da3ef501978af8dc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S669c5ad9715b40dfaa332ce1700b6f4eT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e700b4a462348599a9e9e5afb19550b3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07a28e1f65bf4b09b8be4c4a42bba66fn.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb899f16f80f447399b44a134a1f1e140G.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1a180513ca204b3491228736836504bbl.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3f19af8586b742a49f150d92d1354b36f.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe57358311a64be99cf2539e7f4614a8e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe138aa9d6be4295b62babc60eedc02fD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b9adabe9ff542bb8740a8c97e2686ffQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4eb44a0770c342188abfc39bbb600591d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9cd36b9f63aa40039c95494c669ad3fbo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd66f3ada7bd144ada5cf60e2708505d6M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5751771153774e4a979724766c9756c6L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4675de1028294563b115e3dfe9196acdO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S496cc698844e42c3a40913e29d708b45A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2698e27bcc948a097222074a52408fdE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e5b3373a6974f65bce156168dcd89265.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9b92c88ec0743ec80694c22dc486ec8W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09c32472d58944108dd3c171c9ae0ef7Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb33f882c1ae54c19929aaf4fbe8bcbcai.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd87991bd4f1248e19a35d68030d8bbe5L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2b9cbfba4f54a1ea4af957f441f7278K.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1c7cf4fcaaf4e4c94c3fd710159960as.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf074f1b853d84949b6e72ecd94ef230bq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c5bcea9974e4d1386a84ae4e22b18538.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf4462a967dd4014be7f20a2954a6d9e9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4d88b25507c4fb992e0a70b312b73f6X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc48095ea40924fb6a493176cb7e7192eS.jpg"
+        ]
+    }
+}

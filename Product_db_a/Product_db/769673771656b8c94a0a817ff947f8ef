@@ -1,0 +1,86 @@
+﻿{
+    "info": {
+        "ID": "769673771656b8c94a0a817ff947f8ef",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "PH",
+        "创建的时间": "2025-03-22 12:46:33",
+        "第二层SKU数据": "",
+        "货号": "PH-189025021",
+        "进价": 2,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2025-03-22 12:46:33",
+        "原普货标题": "Rectangle PEVA Tablecloth Table Cloth Overlays Wedding Christmas Home Dining Table Decor 2024 Baby Shower Birthday Party Decor",
+        "质量星": 2,
+        "重量": 0.800000011920929
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9347c248cf0a4193b3868279286378aeZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se5d5bf63b0c6440084b9d67c65041d746.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S44c66a39fd2b417d83ca32f6ab132ec2P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd053eca84cd46eea54bf7c0888f6f70Y.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S82ed016cf69c44fe85a60cdef431c089I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4e3d83c71b34e99949cdfdd5cfc2504G.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1f5280bf15c40fdb0970529ae8665fab.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S271cfc90f0e84389ab5be8a76bd7b53c3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79c729fdccd54d5085f2e0905069cab0x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S680c1247cebe4bfba58a04bc277963c23.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda200e8137ca43e9ae727004c081c86bc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93e639cc863c48feb4626cb9d8a2b8adi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3657c4869ed44baa6bf2b19c95caee92.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae3c6373b62e4c95b2865fd6e9c2093en.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4e3d83c71b34e99949cdfdd5cfc2504G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S082a5b98cd584a58b9d7b64904a0e9803.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8dd08f0057fc4f1885526e53a99305a5k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20c039b9a2834d8987f1783b66403853Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S567e96f0bbb6446283849450ab2c3573u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1215b2ddbfd404fa2b2d1d0b2d8da994.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8dd08f0057fc4f1885526e53a99305a5k.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S02acc3fe7fc944fdbc983c91ab5f336fn.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6f8c6eefd3c4425481b57f31cbfe010e2.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S864cd0e89af64b5e941fb2d629729461e.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7a9870466a4b41d0acee802dbd1afd2dx.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S880041155f7d4901a292454773db28c5K.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec64ff4f04764e4db5023779eff1ab27J.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Secbeccb0b5d94ee9844a1c5be0e813eb2.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S4dce5e9bfc4a4ed4b84c9f4cd0c81c52J.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S3219f0ebd1a041eb94a3b3e6099b9bdfL.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c309e52e7d64da4b74c14175b756dbaI.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec64ff4f04764e4db5023779eff1ab27J.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S2685e09db5c0445984aec292e8d3d3c86.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S6592dcf68ef44b5784706767d866d7cdw.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf9a13061199407aaa99d30e4c6289a91.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b1b7c0b04b94851830208d56639633dw.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba1f6f7cee504ba6947791ec2be136c6R.png"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sec64ff4f04764e4db5023779eff1ab27J.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S3219f0ebd1a041eb94a3b3e6099b9bdfL.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7930fdb054a4c34aeba5c389986c5cdP.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Secbeccb0b5d94ee9844a1c5be0e813eb2.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a9870466a4b41d0acee802dbd1afd2dx.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S2685e09db5c0445984aec292e8d3d3c86.png"
+        ]
+    }
+}

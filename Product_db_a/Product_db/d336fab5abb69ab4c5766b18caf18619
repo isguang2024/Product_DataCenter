@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "d336fab5abb69ab4c5766b18caf18619",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2024-08-21 15:35:08",
+        "第二层SKU数据": "p-5@27x18cm@22x15cm",
+        "货号": "DG-173021446",
+        "进价": 240,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "2个颜色，珍珠口盖包 高质量，重量：0.84kg，材质：原版头层皮+珍珠，尺寸：大27x18cm，小22x15cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 15:14:50",
+        "原普货标题": "Ladies Shoulder Crossbody Bags PU Leather Women Underarm Bags Solid Color Small Top-handle Bags Purse Female Daily Handbags",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S71b2f5c1e4304ad0a67281455af5c80bb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd07ba6042166473aa394113ba1a0e5e4d.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S39fcb1a0d2274b96a7ea14b9ebf0aa15a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S90ca8f9432f74b43ad9f342fe357e3962.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S981bebc36d454eb18bb344bd6936a29ei.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b3cba23a6aa4f8b8bc73cd51deac7873.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S981bebc36d454eb18bb344bd6936a29ei.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b3cba23a6aa4f8b8bc73cd51deac7873.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S95dd08188146404c801f9c50c8edf99bE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53e161debe2445029129df97b4d0f0beI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S981bebc36d454eb18bb344bd6936a29ei.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2ad73b8ef654bd2a70a5ef103566968u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7cca1cf5c7314188b1942848b394e972H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66a2d9275ab8474da20e2484dc77bf14r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0d34d7a7b274cd6803bf33a61bd097f4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d825f9e92964fd591aaad2bfcb1e4edC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb619fbe17eab4e0ea95cb251f0ea4a80i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebba52d6c3954984874150982bfab08dK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8dd3b984d4b545cdb96505a262f40e6cw.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S95dd08188146404c801f9c50c8edf99bE.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf08a8caa9f174df2baa117afcca1970f3.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4f1853b551334af4aad50250a7b202bcD.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S04f20b612b6940f7b01235676530b3ceQ.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1c95afcee9614fcc98efcc5ea57a38bck.jpg?width=750&amp;height=862&amp;hash=1612",
+            "https:\/\/ae01.alicdn.com\/kf\/S348f44026c78469a87dae366e6ce4153c.jpg?width=750&amp;height=808&amp;hash=1558",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd19ad792a067471a9c983f55237caef57.jpg?width=750&amp;height=760&amp;hash=1510"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2e90a7cc4f58436fbbe2e6aeaccfcd302.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9143adc86bd6415e9486d7ce99e5a2c5W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01d8522737a3490d923fa83845c44415t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53777a90874b4f9da08c86140e3e4aa11.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S123ac05fcf70481cb7525671c286db29t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb353adc870da4f4faaf90c11d9a4263au.jpg"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "9ef095a423074ccd7cfad26ae516c794",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-06-10 15:32:20",
+        "第二层SKU数据": "",
+        "货号": "DG-195987788",
+        "进价": 100,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "黑花手拿包 洗漱包 高质量，重量：0.65kg，材质：皮，尺寸：26cm",
+        "性别": 0,
+        "修改的时间": "2025-06-10 15:32:20",
+        "原普货标题": "Faux Suede Super Popular Niche Suede Shoulder Bag for Women 2025 Hot Sale Single Crossbody Bags Underarm Dumpling Sweet Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa177989028054bfc9924e589b4e7d502r.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4c61befb0fa24193b7b2c69f56af4996I.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1b4ad1c21704452bb2a8188ad311bc6Z.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1f87a1d24c8f46d0a27ad02f44f2b588c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6e81e3d14da43489659c63bcc57f215W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sadff7046ee724da4b7f7cc772e0ac16cw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a139769c966411b8275f7e94dcf94f8r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15a255f3325e437293205899dac16de5c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d004edecb5646c98837ba3c0fb23eb2K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1e2b9ff091148b28db69b676238a10eq.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7b0d0d28cc5c4ac5ac0d92bea88c4110b.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S61f0a1dc844747ba9b1660ae2242845cs.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sdfbba101b1c74a5bbd231dbfbdff2c31h.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8c52245ccf534e2d84d52c18cedc62abY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7649c79719f649ad968df6628e776ad9Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6baa556d28ff4d02a2aaeaa7d3aa1ad5m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S371e77d52d82473a9cfb085fa1f764c1t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S489ac8620a06463bbcc2a38932edde948.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03bfd5879ce84aea9f4dcaee5a59a408s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb21a6b5c7d441129763bc729f9400985.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S006e6487495049daaed6d35b76b349d1Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b7065fc143b48e288ac16c806d4c1dfd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Safa247382ff5448e98af90efe79cd435n.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6a1e4f18f12947c5a0b7c255491529d7G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa563426a9a6744bb8ecc7c3f9bef0461i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfff709af4096480c9e66b03e42a86d5cp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2cce5a10e36047949be5a38a1b6f43f0i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35d23e122b924907b1ac1329c78e65105.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4786fcb56c4f46f68b34d36ead6bcce5Q.jpg"
+        ]
+    }
+}

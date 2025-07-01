@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "cbf74ee4eab6b68d60242f66c23e2034",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-06-11 14:02:18",
+        "第二层SKU数据": "",
+        "货号": "DG-195894648",
+        "进价": 110,
+        "利润比": 100,
+        "品类": 1002,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "拉链卡包钱包 高质量，重量：0.25kg，材质：皮，尺寸：11x10cm",
+        "性别": 0,
+        "修改的时间": "2025-06-11 14:02:18",
+        "原普货标题": "New fashion solid color PU wallet girls zipper print clutch bag temperament simple sewing line coin purse",
+        "质量星": 2,
+        "重量": 0.6000000238418579
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8b68687a75e5483ab6003d48e1822378M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se943b550206e4a95b2f9347972435c2ea.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34885ac9a6b94c7a8ecd322231ad7c20I.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc83c392c0c8642ea809feec065fd6937q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb6834bf62184c4fbe658a02aa489ff0g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd12429fcb976408e960f7aa30a544d97R.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7fefee98bbb456fb18de2e724852e284.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf336513d6d874e71989c11e3c7e7f1b5F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfeb6962bdb2243c984e752d803766d5dY.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2ea8314c49cb45daae899c68b7ad2119j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S937f9735c8b84c0e9063654b55620d1dz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S519b0bfee4494ee8b5c132d6346352c3o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfeb6962bdb2243c984e752d803766d5dY.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S702146d32fbf4dc2b8d364c896265cacl.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sfdd348486fc44877a1f07c6d31685dffK.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S5b6c439af3a3425cacbe9af7dc85c1b8v.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd0895e0859384bc08432c2bef368327ag.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/See5d158060c74184a79cc451faeb0c12h.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S290f1e82b11044d5ae38aeb106b25709A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa46675b4f134110b97a12981cd72f31Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S844a8971689144a58d900187a77c3c43U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc987254e83fc46e2adbde71377a9678aK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5db3a6d9dee4943b85925bbc1a37f54U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09139d8ea6b245e0bab51eeba0d8fba6j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7128d66eaaf48e2962cc51de475eff7k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc58aabd8ae442ba8b0890789fd41fa2V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42ac2737f1e34d71a2f0aa6930b3e1eaL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf8fa0babac7456986d72d647a9a0570j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f57e377d65c46f9877d9b3fde41aa6dq.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4e68a5fb73094a71a39948adab351eade.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S192feae0e59443b98905e0f3dd502a42n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se14c10b6b69b488c90e4a21a3ee722ddR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96d7f34cbedd40cea2608920e8396e77s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebc388c304e54eafb33ea4bd2b1af2014.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc459a6404ede41abb638a309a96285c6p.jpg"
+        ]
+    }
+}

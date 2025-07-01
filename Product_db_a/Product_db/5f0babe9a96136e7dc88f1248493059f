@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "5f0babe9a96136e7dc88f1248493059f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-31 15:03:08",
+        "第二层SKU数据": "",
+        "货号": "GY-W868014864",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "17.5*10cm 牛皮",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:20",
+        "原普货标题": "Corduroy Women Cosmetic Bag Large Capacity Makeup Storage Bag Travel Portable Organizer Zipper Wash Bag",
+        "质量星": 2,
+        "重量": 1.200000047683716,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4a6fb0870e974d49807ec694600058adk.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5aee60ca84a04522ba1476786fb185c7X.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6d39b21a6f084f509b960b4e3e7856b3R.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sca5355e556154bc49233d9df4c10d7570.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S702c40d29590445b895aef95e01df594k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d9d83fccf7746d29a5dd966b9ea5411w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8e94a1e4c834083911370f947f9d816n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ba7281c5ece47acb9dd18e37ce9e744Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13761a93d7564c3fb4b33e39431e56c5D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c2fe2608be745f691b12b9db92f98edw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1dd2721e213d4a6799f198348f993978U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S25ee6b9242f641f2a94a8fe5f3ae2810a.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb01723161da04d5bb6a005ce7d06a0573.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S617797030e1c45b6822aba1948504194C.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sbf213cf78d2340f2b874ed116b00c718a.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf213cf78d2340f2b874ed116b00c718a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9306ccca5d824cfbaa6f6554227ae2555.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf50f897344a4df6806d7fc9eebabe602.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56df84f08b2449ff8865df4ab66eeaf1b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e3c2be7dd1a4cc99cbbf0873d399863G.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf213cf78d2340f2b874ed116b00c718a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9306ccca5d824cfbaa6f6554227ae2555.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e3c2be7dd1a4cc99cbbf0873d399863G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf50f897344a4df6806d7fc9eebabe602.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56df84f08b2449ff8865df4ab66eeaf1b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S154dcd034c93442796ed3893cba210673.jpg"
+        ]
+    }
+}

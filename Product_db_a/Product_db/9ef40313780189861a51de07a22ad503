@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "9ef40313780189861a51de07a22ad503",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-22 16:43:16",
+        "第二层SKU数据": "",
+        "货号": "GY-W1256352379",
+        "进价": 185,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "尺寸 26cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:05:54",
+        "原普货标题": "Large-capacity canvas bag, three-dimensional multi-pocket tote bag, simple and versatile crossbody bag, lunch box, handbag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S090ae0268b944cf9a501e48b9290d891e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf93364673f3c4d40a939aea39462175ag.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4adb403ebd4a4fb78d2a6945045912c4i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b6cdf5730dc488e8b642f2964b6bb49B.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S08b023cf63964adc9c900cb2e66675f7V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb27f482639b4920a75cdbb2c2c286c1k.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4331fd662d0f497a873fd430349573eek.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S183cbc77354044d0bcdd21cd68d5dd7bM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa568a74c5c3b4d60a1c9f197f6166c45V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb36aafce015a4082b46731eb762fe4e4P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35a6eaa72ef94b5088b59a067752fb9ep.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S290f38d9c3254a0e9dc0658dbbe74a73v.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S877f8017ce9e4dfa926a99e7ac90228fZ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S834850fc72d048bfafd29d77d867b88cN.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S1c9fd8722e3246a69485541a82d3cb85j.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S08358870c4c9451ca56d2ecca3e2f16bb.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1c9fd8722e3246a69485541a82d3cb85j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81cd52325c5c496bb95fb5e006b64e6c9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S485a33bad08c4d1bb3aba2a8b59852ea8.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1c9fd8722e3246a69485541a82d3cb85j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e9509d7853443ffae12f3cfb8566e864.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21e20413f63f42fba23f1546d9567d4bV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda6ad3b5f0714e69a83c7a428204ca9d4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d3adfaf10844cd5b328965c9995c88cV.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7a546816d244d669d9136dfeb45b530P.jpg"
+        ]
+    }
+}

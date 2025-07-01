@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "6e7243e2e8f651972ee690bd285ee097",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2024-05-10 17:20:13",
+        "第二层SKU数据": "",
+        "货号": "DG-145496680",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "月牙包，重量：0.7kg，材质：皮，尺寸：21.5x11x5cm",
+        "性别": 0,
+        "修改的时间": "2025-05-06 13:45:09",
+        "原普货标题": "Women's Handbag 2024 New Fashion Genuine Leather Large Capacity Portable One Shoulder Tote Bag Designer Luxury Commuting Bolsa",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7290c0453f714118bca8514c0929890fA.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1e983028cc64ea198e0b3a0a12a4ed36.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97bf08fa5633484bb243f79bb1169bb0r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seacbe0356a254d95b305cb766a8e2b6dN.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5bc8db2b9ec04e58a7aa34ec3df4ff16i.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S964db29cf59948628d197b5d8dc40d34I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c40927cd95d40e6b3d5c39a927f156cK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2ef1b7953d7486b9f686ddcd656e240W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0bbd131246694f12abbd26678fbf7daat.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S304d200995eb490da2c1ae055cb9ec19G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6646fa70da54cf0a60b92a42ca1f5611.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3eaecd6636844dbb893a36b95a1d9ea6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saed7b341dcec40808dd7f9ce7abef199a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6287cf0c56654b32af75b8be2eef7e1eD.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S784f3dc60dae4772b4c663971ec59cdc8.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf22cff640f0540b5a44b637e343ca880u.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa50c4a48417f4771b6b164a1df572a19C.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S3f743a5f781a48349df4cb995f8bdf872.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S58d5ba7fe73d479a96c02e72c694f2bba.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S73d6537f13fd4df2b861a02a2d3d1d0d1.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S7cf7ff3344f546de9bb45bc209a23686o.jpg?width=790&height=808&hash=1598",
+            "https:\/\/ae01.alicdn.com\/kf\/S9811ad6103b9484b8b1e68bebd72ed90u.jpg?width=790&height=690&hash=1480",
+            "https:\/\/ae01.alicdn.com\/kf\/S94a3c8b6f89c41da8305fb115028862a7.jpg?width=790&height=1054&hash=1844",
+            "https:\/\/ae01.alicdn.com\/kf\/S19802e2903ee4371a62234d3dff6eb80L.jpg?width=790&height=1072&hash=1862",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a10a9dde39d4afaa227c95aa0003edaU.jpg?width=790&height=825&hash=1615",
+            "https:\/\/ae01.alicdn.com\/kf\/S58d5ba7fe73d479a96c02e72c694f2bba.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f743a5f781a48349df4cb995f8bdf872.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa50c4a48417f4771b6b164a1df572a19C.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4747808eb0a842db908a5b739512e6b05.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S416d92e881a04259b32973bf099247117.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9abc61cf9d8143dab62021bc2a53da61X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc01aa526fae643269a571cab77049f5fJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S971221db680c4f47a9f73679b52a4d27j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab3cb821fda1401886c9d640cb3ffcf2z.jpg"
+        ]
+    }
+}

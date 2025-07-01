@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "60050e5f46778bf268240f01f8d06f78",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "GY",
+        "创建的时间": "2024-08-09 14:54:52",
+        "第二层SKU数据": "",
+        "货号": "GY-W512551925",
+        "进价": 175,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "size：11*9cm",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:06",
+        "原普货标题": "Luxury Brand Crossbody Bags For Women Fashion Design Underarm 2023 Woman Shoulder Bag Female Handbag And Purses Solid Color",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S600554e13aa34832ab580270c4be3b1cc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S84fead5aed5b4708b4349476e29ec22db.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2538a292b10341959fa8767e5f1008caI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6cd111508b2e4714a4290509113a7563u.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9cf2d754154c4c8f8e52013366405053z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca414013add74ec5922cd60decedcd2fQ.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0831f6b754c4c47829e253b2aa6ca46X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S430c4847c44448f79f6174d332bcbf1c2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ac9955b9d714c859c2e647bce75e0d7C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6598f676772e4e07a10e9f7b57fe7413A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16ea3ce0487948388d94a18147b31ce0e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S627e0dfd8e724377aee62d4a0f8289900.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31e7651ecf8d4aeea2050db61e7a116fW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1d638bce4b644df8f0a60cc4badcb7e2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2a8811ed79947bcb4a9439d042d9564U.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sc0831f6b754c4c47829e253b2aa6ca46X.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sa415b20716aa448c8caebd843b92e291g.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S82cc7d1578ed48909fc680bbc0f455d5r.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sb7c7f510fbd442a6af63ae515c47e349F.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S537803dae8b64957a7b72bc16e51791eT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05b5395f2b5a449f8d35d5ca00e94b00w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se02083b778ef4e19b159c0b54abcf9c4f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S680cc86d70b14b959b38b0194fc66c9cN.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S104fbd09849a40ddb7232f778ca3dd69v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b35f04329ba47aa966977b7ae707b0dW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saab283ebaf36465583a1a8b2c3d79861c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7c7f510fbd442a6af63ae515c47e349F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82cc7d1578ed48909fc680bbc0f455d5r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4fb005c775d45a4b84ef96c4d12de76I.jpg"
+        ]
+    }
+}

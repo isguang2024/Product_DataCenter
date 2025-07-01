@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "ad7317ae1c4229eba42e80e27e0a2ecb",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "GY",
+        "创建的时间": "2024-07-22 17:43:42",
+        "第二层SKU数据": "",
+        "货号": "GY-W1834923722",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "size：17×19",
+        "性别": 0,
+        "修改的时间": "2024-12-21 12:06:21",
+        "原普货标题": "Lady Fashion Simple French one-shoulder Crossbody solid color fashion Underarm Pu Leather small square bag",
+        "质量星": 2,
+        "重量": 1.100000023841858,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc25c6023711b4fa0a577a85d5b1d8d29u.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S00402935334948cb9e7a301fd25245ac5.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S00dfc673ead24e98b511e7180356e079Z.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S00dfc673ead24e98b511e7180356e079Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3bdc89cdad04127a9d87ce016b54829h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S92cf5260d8b04c89bc9b614b8bd19c0fh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S511780c46c5649cfa34b80d23795fa8cP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S035e14c6dab843ea83aa485e1e0e1d0co.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb289a941404b499ab2986cf129ab400e6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4fec6decc8ae4ab583b309eda8bfa6eeq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S439bdb173c7243c4b4451b4076104f915.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scfdd328bfcd042a7a37226fa3b3a77c2w.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S00dfc673ead24e98b511e7180356e079Z.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sa03298a18fc54a539770fd4db7eb0ec9i.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6ee23d7299174ee796d6ad7c7c883a85e.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S08e39197893d4429924510754b9dd235J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a84be7e160f49f291150cb4f0277797k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5cf707d0bb5a44509ccc27007052239cm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1c910629e4d4ec19b11fea98ae1a49c7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49bd1b38faf646b1ba0085a635452961W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c68f7c7c65e41c68d6a7e112a735568G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7432ed43274f49048b9bb83e26666301q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa87adfdd94594006a80c5412bb538215t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17d8381929e54effa07770ddd076cb9aq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S733a7924789646d5ab762d734445982eg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9c73566c38b452085248249871ef54aL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d76d44575b4433f998dae0e00f149f43.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d555bf5865c4a7bbe7fb3fa83c9d1a4Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35a9a1b7715646788d8f8246a5a9e43d9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S791edaefb3ef48c38d7a55b7d9337f77l.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sadae57a86a5f495db476b6e8aa777537x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa039516a62aa4176878d8b9c70967b74A.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc205bb277d64ecca98fea692c24c7775.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1c910629e4d4ec19b11fea98ae1a49c7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa87adfdd94594006a80c5412bb538215t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a84be7e160f49f291150cb4f0277797k.jpg"
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "8a45bc65eb006f1ed8c4f8623024d3e4",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "RB",
+        "创建的时间": "2024-08-27 13:52:16",
+        "第二层SKU数据": "p-200000124@35@36@37@38@39@40@41@42@43@44@45",
+        "货号": "RB-W1437034542",
+        "进价": "280",
+        "利润比": "75",
+        "品类": 1004,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "Size ：35 36 37 38 39 40 41 42 43 44 45",
+        "性别": 0,
+        "修改的时间": "2024-10-11 17:52:49",
+        "原普货标题": "Women Summer Shoes 2024 New Mesh Fish Platform Sandals Women's Open Toe Wedge Sandals Ladies Light Casual Shoes Zapatillas Muje",
+        "质量星": 2,
+        "重量": "1.8"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0fadb8a0657470bb63076eaa2a0bdf89.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7b8a171d4a0649fda7442f2ff6152a02v.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S25143eb5e70f47199a2128bbae1e098cA.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S11df514c57f647ef93665d405e4667d2c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05f68edd60904e698e551067b74f293ea.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S392aeea8196e42b28026d5ebc645b505m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41bef6d24ddb460f8f5149eeaeed4b5ak.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5f51b2919104d6681fcbda58d8e2b10H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa061d2fd68514752b9d9ef251cc024e5m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S027b43ae60ae482f8755372787fc5fd3U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd7bf85759b341b5b30de3887fa6bbd2T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S538ebb54dd7b43aab8461ee37a6b9caa8.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S91d9f8c8f61142579708c001641e1b36p.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8bbbe698a95d4242913cc2fac18f69b0k.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa97ab4fb4461428f83d904eecb51dcf83.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa69c499d6104ce784a56a3a6724fc4eo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a155a58690c4df09c0c0c8086363ab0C.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb27d95562df047728ef62dc0569ea677g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73a006af32d74b1bb55de8ada47b87edm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbdab929422f6445fbd279926b5914030E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf342ba8de0004344928144bf877639b6d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa97ab4fb4461428f83d904eecb51dcf83.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30e30689a54846aab991fc015cdaa8abS.jpg"
+        ]
+    }
+}

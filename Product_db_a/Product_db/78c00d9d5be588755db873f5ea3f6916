@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "78c00d9d5be588755db873f5ea3f6916",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-06-10 16:58:10",
+        "第二层SKU数据": "",
+        "货号": "DG-195895985",
+        "进价": "90",
+        "利润比": "100",
+        "品类": 1002,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "短对折卡包钱包 高质量，重量：0.26kg，材质：皮，尺寸：11.5x9x1.5cm",
+        "性别": 0,
+        "修改的时间": "2025-06-11 13:56:46",
+        "原普货标题": "Women's simple letter bifold short wallet, thin solid color versatile credit card holder, casual and fashionable clutch",
+        "质量星": 2,
+        "重量": "0.6"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8b5dc01bc8ba4b2a9f100645851a48f8i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b60ac6638c0409f804d51bf9b3b4dc4b.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S80a164036b994c799c077bb752262ae2d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1918caf624e149948e6ed644ec75bdbdu.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S91282759b4aa448c8403339045d83b50K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd38ec89c2604ab894434f8025a5d9084.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7ff7bb843f57406fa87d554ae2b1d11ej.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74a942094de840b88b33aada787635a8R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96d5493d79214f06885679b0d4128249a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S609a63a90c5242b9a2d0572c41eb62e0A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S189298eb5c1745dbbe088ff1404087d3T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5a99e4e4cf04d2d9a2cd3f2441725c6F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa749e21310fa4d31afa03928da3e8889n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6d0810d98ca42aeb12b3ed355d7651cS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbefd18d07be947db816d9d1539551a5aI.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S03166d9ec85041ccaf326b6f0c0fbbdba.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0a8dec51087442f3ac6c4e259eb51d93d.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7b498f8ec0104beb82375ee0a508da9ae.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S007731a717ed40119188fc5d70c124848.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa891e27876ed4f0382eb849dd376f0deK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb5ba8ff534f432b8aa575a03f166f37f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se68f16de3a024e6ab40c1d7e9baae523y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S126e46291ec741e3b5d36cfdf503901fm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f5a4965d72d4d5a9ee1f94832eb61506.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6367b186826b47779f4dfa536f095f63M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0bad9cfa7b384a9399b95e4086f5a712n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb442b81e46c748a08becbe435d435674q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13fb8e4cfe934c278de042c99866bbb6u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42a89eeb25734f35a5f02c2403bd3048r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d1f734aeb7f433481236050b66adb89Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce95ee70310d47f18109ee2ac1d578e5v.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S485709d804c14723b4b755cea035992f9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6322f8fa81f44b79b945a27c78c1fa21W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c326f8b138f41be8245f1b1d92e14dbd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb072064700c4e1594c3da438300c5f3V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9610906a8c1049b2bff1a3c7422e9841R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se68f16de3a024e6ab40c1d7e9baae523y.jpg"
+        ]
+    }
+}
