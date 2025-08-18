@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "530d02bf8e2e20772c8a27a802b78fb3",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-08-12 11:25:53",
+        "第二层SKU数据": "",
+        "货号": "DG-206528701",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "化妆包 斜跨包 高质量，重量：0.65kg，材质：皮，尺寸：20x13cm",
+        "性别": 0,
+        "修改的时间": "2025-08-12 11:25:53",
+        "原普货标题": "Workwear Canvas Shoulder Bag Large Capacity Retro Messenger Bag New Student Class Messenger Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S38d5285078054a44afc0a5b30009c0ffm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77687ae7175544ad83e80d4451fd1f72c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfac68b84b0248c3b0cbe298e694e94b5.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sffac5ea88c1d49f7b7d921b0fb20288cM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ff63ef55b0a4ad69f0d4a161c7c4515G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f39d0d8f29f4c8ab3d082da366c095ag.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5439a7fe3cfa4f499dae287675d9c5a0z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15fb79b9d205411a89b031d76fd1d850M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9fa83b4a7062489e8a3a085a237e4306D.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2617e41344164140bbe65c131c60c120Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4652539835746e4ab5fc919cea8c97eU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f46ccda76f94e42b53df02398c56e2bH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S846e638fa86a42c3925076e4cd38ae68e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0aa84633d7f4d2ab0e2c8811a879085m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69c54f9baacd42908bb93e53f8471b3aH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4508a6cbbe24d9dbc8ec548cdb3dfc6D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0beff300912344fe817f45d307e18acck.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd6a33c1b199e49a5ab01276fb17194a4v.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S111a65f916be438094cc5917e7270368r.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S73747aad4380496d94c3fb9b3ab451bc9.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf69eaa3b27de490a8404c09acb2c85a90.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S43661b6ee23c46c9a53757b545cf7f22Q.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S43661b6ee23c46c9a53757b545cf7f22Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73747aad4380496d94c3fb9b3ab451bc9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a90f2612c554945af8e9ec8b857c8d2Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc973e33f449c42599baf7af4ec286eaci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89dfa1d307c1479e8d9c90ecc7883d0fz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed6b110416584fd191c8e6663fd17c227.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12c380781316484b906ace61d823cd27h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff8ffeaebe15400a8759efd0a0361799E.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S43661b6ee23c46c9a53757b545cf7f22Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc973e33f449c42599baf7af4ec286eaci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd475cd45d8c4ebf9bac8e45e59d4b6dX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed6b110416584fd191c8e6663fd17c227.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09111318312843418e31ac6dcbce371cV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ea7506f9c36494fbd7e4ec6888d23d4t.jpg"
+        ]
+    }
+}

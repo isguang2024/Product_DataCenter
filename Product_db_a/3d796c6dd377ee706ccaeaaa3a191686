@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "3d796c6dd377ee706ccaeaaa3a191686",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 15:32:00",
+        "第二层SKU数据": "",
+        "货号": "DG-205312036",
+        "进价": 205,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 198398445,
+        "普货模式": false,
+        "商品简介": "重量：0.9kg，材质：原版头层皮，尺寸：20x23cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 15:32:00",
+        "原普货标题": "Fashionable Small Square Bag, Mini Waterproof Travel Bag, Casual Bag, Men's Bag, Women's Mobile Phone Bag Handbag Purses Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0e040ffbd2fd400fa769999863304517e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb4722f0858849f6bdd9ddaa86e95b0ai.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se70fff8d440246d3bc77d893c2944d2eq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S810498618f454f10a88f8e9efd40fdeaW.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3fc47b7f8d8e41e2bef8416cc7ac5853f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sadf58a8f33094b398da4134c9cd2df61j.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2ef1957419bd4f41ac28d61940eea627B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Safe00726b5374f5a99b2dfa2cf8c5d27R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7dd95025e1884bd688d2122df208c346f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9bf1a956e0b346589a7f67f3d0372680c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef427f4753fc46aaa289743791d47fbcs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S753437edb1be420f8f67a31f6950636cO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74338e8ae9ba400989051bcd9fa1a4a9u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd947ec60aaf64e35b43b9a2ca92dad3ab.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb5712888179d44e2b20964655be30220t.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8552fa197a5142fba12f0141cd06145dx.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6883c29e3db2436ba32f88a62d6037b40.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sdee3f51eefa946ab8f1a9f2e6577bbd2u.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se654ff5ab706492293572caac4e814ddv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42a1d3a89a574300b57ce7d55a8e865cr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb910adead8774fc0af75d30f26d47391e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S766b14714ef94b569e111c76313976f3L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c0b273f185840c7a0125c3000f5f0feA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11f665f162964ea6a684d4d94d170f0dP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ec2cc67c8f845c9b4d7e52a097bb9e8c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba58a18787af494485f0785cb07e2d053.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8f01c7d0d9947c3ae6751bb3f60291c8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S902f870f543c40f6ad40cd815b3ffa4c4.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se654ff5ab706492293572caac4e814ddv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec27a96f9cf240aa8c396ec633b00e8bP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S725d2b1d124f42bc8b6e8088ea4812756.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42a1d3a89a574300b57ce7d55a8e865cr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb25cd5cc63784c1482b3f2284a9b5a18m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S798db72fb45d48ca89bc7b256e957015Q.jpg"
+        ]
+    }
+}

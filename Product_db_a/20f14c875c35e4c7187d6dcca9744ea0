@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "20f14c875c35e4c7187d6dcca9744ea0",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 14:24:06",
+        "第二层SKU数据": "",
+        "货号": "DG-206714384",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "重量：0.63kg，材质： 皮，尺寸：29x18.5cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 14:24:06",
+        "原普货标题": "High-capacity Unisex Shoulder Crossbody Bag Large Men Nylon Messenger Bags for Student Brand Book Bags Women Handbag Satchels",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0c3f2fc2cbb478f9814672beafaeb47x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcadac863a1f4d70be1f04c5338dd40cG.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S060e52b867bd42c5ad0907b29debe122e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18f4e82b5a7f4302909bef84a39d12eey.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4389d1c93f9432fa7f322ac781ece01a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S784e22e4eb1e4b2c9fdfe49a8f1a0febb.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd201deb4daee411fbac696eb0e6431b3E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7be0b060d084354a227ca47b84f8541q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce1faa5e55b44ae5be632916a84a64714.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S047f3476b19e49f3964b2a1db2018472J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae295a63eea346a0b840b9bcecf9791fK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bbdfcacac7246bc8f8c16d5f4d6c545c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ecf051bf9874572b24ce37d84eeda06H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4389d1c93f9432fa7f322ac781ece01a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7132cde27051457b9a54af40be2768d3K.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sdc1c7c8ef47a481f99563dcef9b7c948w.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S5864b30278094b7abcd7f8f1ecb07008p.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sdf973b66f958410996071201fa71b05bl.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S64ebb73e6874487baf7f6178513604f1d.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4225d8f62ad040bd9d75ffcee5fd5ede8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5bdb4cad7bce41faa6f931acdf6f2e4ev.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scfd899fde7c54a46aeafefd8bd1ea8ffW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00550dc703ce470fb43e30d562546063Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b5ddf457d9b41afbd8edb344c19bc1fg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c9eb20f6aa0448f84d048b77a096966D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3945f348f6947b6902a2de806fbbfc0p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6050819a63840bba5d12abd83f4e99ab.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S887a3e8921f14fb99ca4a1ae9b52e90aI.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S21ddba28d6204bffac74f026c342b351L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f9ccab9688241fa87e5d6a14730a129N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b91884136124166a7d940cb70699ec6K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01c6e818de7b420c83ac91f7cb93c8daO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S975d07160ec84028961038a94e1fb0d3J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0103d4368bf4189bbf1f5b064fdab293.jpg"
+        ]
+    }
+}

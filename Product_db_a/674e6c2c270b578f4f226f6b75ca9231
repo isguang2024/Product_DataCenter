@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "674e6c2c270b578f4f226f6b75ca9231",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-12 16:52:37",
+        "第二层SKU数据": "",
+        "货号": "DG-202614967",
+        "进价": 210,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "印花枕头包 高质量，重量：0.78kg，材质：原版头层皮，尺寸：30cm",
+        "性别": 0,
+        "修改的时间": "2025-07-12 16:52:37",
+        "原普货标题": "Vintage 2025 new canvas dumpling bag for women large slung single shoulder bag wide shoulder band for couples dormitory lazy bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S102c663522954c36816a6517ed8d9dc0b.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7e77813ade984d2a841a22adca7b8291a.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S983c98c785dd45858d492de70215f885P.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/See1fe56af04649a0886f411400acb578n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53f132a7d6744ae4a1acfed13ad0e5a2b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S64a6348cd7844fa8b08fd047a446c4b7K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4b6e516a8cd422082943c28a8d51aacj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S158b2f029b5c4ee780030d408671eecdz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S84945959290e4573b9e71c6efa269453U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S64d7480b1f22438e85104ec439146bcdU.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb40ac609483a42c593e687c9c72d3a440.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc09c3f9140344fb2a9975fb58edb6400r.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se926e7aa6c714a1b8b2adb9ba779cdafj.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S80dde9d0ab234c9db16c1ec092c36c9aA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59ef40248caa425c97a288dea0f6a507a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ff9af1464bb4313b90d592d6ed2ff58k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6a9f28f49d44c169f689eb364dee08eC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8ac70504e8e4d8fbdb1a697434d942dI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35f67dda48f04f3087442c4b150b4d82M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se926e7aa6c714a1b8b2adb9ba779cdafj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c5c06fd6c034cc8a0b0d41b24ec9d75C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saaf61b00b26d49d1953d0b59f0a67521d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6d36afd48ce4a379e157dcc100aa0c1v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6777e23264464783af583bdd75d0dab3S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0cd54469dd894a01b5822709ab932836l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S353970adb68c4625988f9c8015e8ce1ce.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1ff9af1464bb4313b90d592d6ed2ff58k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59ef40248caa425c97a288dea0f6a507a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6a9f28f49d44c169f689eb364dee08eC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8ac70504e8e4d8fbdb1a697434d942dI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se926e7aa6c714a1b8b2adb9ba779cdafj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6777e23264464783af583bdd75d0dab3S.jpg"
+        ]
+    }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "feaf934c02739737dab59dc34f6d32d1",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 16:23:50",
+        "第二层SKU数据": "",
+        "货号": "DG-205165572",
+        "进价": 210,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "材质：头层皮，尺寸：25x14cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 16:23:50",
+        "原普货标题": "Fashion Large Capacity Waterproof Oxford Cloth Crossbody Bag New Versatile Casual Dumpling Bag Sports Style Shoulder Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S548ae934a25941e0a7a27b162272d810E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S709c9341974048d695c6fe4b03681fa3X.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S02ffcbbdb08e448fbc9a60713d1da86bb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65cedf228ea245cd9f0c840ccfeb6cc1h.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe070ca3de404afb8d1ab3e0c3d39b4d0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S406f04480a5a4208a20902f65442908dy.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa57fd75054154122b9fef154d35ba8c8q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58aa2282dc2a441d90f08bde37e917d0k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d03b1566ee94e7a80c2dc6a2f35293el.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd710efe51ea4a2c808d20aee7846a37N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a728177967241ec988749da5372ac72Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82af398810f94d3a9c4f6ad048fb5eacD.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb2916220f41a4eee85d47b2e039357294.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9531f83a6c1a4b92b9549fb7b04b8f06V.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd3128fa156a344819999394eed0678192.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S078012d7ada441108b9ca0250fc25097C.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9c8d9c1f4fc645d0ae43412135a02c1cF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f47357612d442089587acfe01a649a7a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb8b957882104298a288ac7975bf4075V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9531209311cf4cd18715ef86953b713e8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a7e9d6d38b14cb9ae671509715ef5497.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7560ff68fcbc4811b25285b0cb25d745p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ca5c52d429c4bf2b169cd2eeec1211ey.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc28953d0d7d54fbf9b9e2e9e70b53846K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S822216722db14cf892f7f4671c38251dd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6410202bf084588848048a149826819c.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7e8ed0ae4fdf4b149d158cb8e4604c6fZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9531209311cf4cd18715ef86953b713e8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a7e9d6d38b14cb9ae671509715ef5497.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c8d9c1f4fc645d0ae43412135a02c1cF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb8b957882104298a288ac7975bf4075V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f47357612d442089587acfe01a649a7a.jpg"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "5d5d75c77e1cd7f416c815a0cfafdfaf",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-12 11:37:13",
+        "第二层SKU数据": "",
+        "货号": "DG-206528581",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "重量：0.65kg，材质：布，尺寸：20x13cm",
+        "性别": 0,
+        "修改的时间": "2025-08-12 11:37:13",
+        "原普货标题": "CHAIKA KILTCO 2025 new crossbody small bag, women's drawstring pleated shoulder bag, textured commuting solid color bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3834b35451b4a7a9773d769fb534a4cR.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdea8d8fdf0eb414988fc2f7902cbc2e3r.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S48f85a20ebd645f39063c28725beb30fr.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S934e9684e59a4f7bbbb3865903c4c56fS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3e486e5577d433aade1d5b010ae0382G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2839cddda1f422f9e6e0c9ff0790752c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7d3fcb2cf9b4e76b17b79b167ca7c4eo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8e96d1b8f114bb6a3511e71c330e4f4h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2fc38ea0849a4aa0a0a339b095ac0facH.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se88868c6acbf453396896387b5da5913q.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4b6f86fc120043e9b26c5a1e0cc3e367i.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8beac0b8d9de406ebb7c6f81cb87951bp.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7fc9bee366e746a7a17475462a6a96a62.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S009f1abd10584e2cbfdb554c0db85bc3l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20f4daee23fb4eae87f1c9c5e9752a937.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S107aff2361264a6ebe279363f4f73558g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35c5b05696044217b9e9b697b9211859U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ca1dc60e6c34ccaa2f2714e1b9f10d8l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9a88596a7f4476bb21365343d2fa032G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S439aaeadbb7a459986ecd189c64587aci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3dd7e4b5be3411cbcfe69570537723bf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc8ee9c721a14a7b99ef2eba268f7e78U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se24caa94f0be41018a926683393946bb6.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7fc9bee366e746a7a17475462a6a96a62.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35c5b05696044217b9e9b697b9211859U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ecc1bc0a9564042bdd5c68a1ed7c6deH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a9f39c579d04606827a95b0254239723.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad499ff251fa42cb92400a503d2a1df1N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c6b7a95ee064453a7d33299228ee8d4e.jpg"
+        ]
+    }
+}

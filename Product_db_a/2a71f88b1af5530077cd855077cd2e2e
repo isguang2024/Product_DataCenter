@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "2a71f88b1af5530077cd855077cd2e2e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 16:00:34",
+        "第二层SKU数据": "",
+        "货号": "DG-205169923",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "重量：0.7kg，材质：麂皮，尺寸：23x25cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 16:00:34",
+        "原普货标题": "New Fashion Luxury Women's Crossbody Bag Large Capacity Multi Functional Women‘s Handbags High Quality Denim Fabric Shoulder Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa969ab9fbb6e45848fcf7fce5253d53dD.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8cf276ffd7034a49a70e93a74719331eU.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5112fbbcc61948179dc771b11a97e82ao.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf28ba6cb0e5c4c9fb288e0cf03e5cc0dF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0c5d5593811419eab94a139920b9b45T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d058a6a15994b0e9c9add2205a6c0df4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda4340e3abc94a319b917cbc5fd280aew.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcf65baba5ff4cdb9887c0a8e54ba3c54.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S817a51e2cf7f44fea448aa29e53e3518x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S780304d88fb341fba5e2fe7cc3babd72p.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd3190522242f4c53bed6dfc8ac33561ei.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S22cfb1c28e3b4f0ab1246472af2400414.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sf58025ade9d84f6fa517572accd10bc2Z.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4127447b97f54b8dbfa84c9e0dc741d5n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0293d8cdb5d84bc0a8b02775343620a7s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d51f90af68a43eb998e1945697417896.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1ea9c38ec1448ec8f5860a652b6a1d5i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda7bde18d6f649e880ae489faaff47514.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb57d1b094b6343dabaa459d671bcbaacG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdee4317e3b7844a38ef800edbe43003e4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c3fea726d6042fe84027ac67e325044L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb05f25fd19b0486491eec10e9d4cb70c5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09ef0a9b3e294a0cbdae0b37ecdda1172.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S098dcfe827e0473b997515d6aa5b01874.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf58025ade9d84f6fa517572accd10bc2Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e89e46cea4f43e0b26efcc2b38e4e44Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S939af6f46e5a4dceb97253ab0b3c2f142.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4fad29145fc34aabb1e3a7d86a1c159av.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60b4dcc6610444e7b4f87a35f30ba3428.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe4c4075819a4bd38155586376a07cfaQ.jpg"
+        ]
+    }
+}

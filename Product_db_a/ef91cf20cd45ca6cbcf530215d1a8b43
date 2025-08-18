@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "ef91cf20cd45ca6cbcf530215d1a8b43",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 11:55:54",
+        "第二层SKU数据": "",
+        "货号": "DG-206716577",
+        "进价": 200,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.55kg，材质： 头层皮，尺寸：18x12cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 11:55:54",
+        "原普货标题": "Waterproof Oxford Cloth Large Capacity Dumpling Messenger Bag | Niche New Style, Leisure & Sports Fashion Shoulder Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5a95fe4a861420a9499435a0730e369u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se816842009024d7ebd6a7f87be453d90Q.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1f4d41aa3c1740679452924bc624aa5bn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5db7c48f99446e58ba6aad584ab46e1F.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9e98a443bed5487a979dafdf38ba0234v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd92c94e530fa4e3fae5227272c7022a9X.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S635ee32fe260486cbb1a3e6e339bcd97i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf92ce547448941b3879a1eb18f8cd44dP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ca9f229e2ba4ce3ac66f4355a881d07h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1f0c1240f534ac7b32cd48a752d7bdcq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7ee80ddfda94ee7832bba325869fb0cq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See95ee685e3b4b1b84ee3b2794dd635bf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b2ad1cfbe154a7b8ecf28d0af4e277bD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5789b4c8a06e42e281f15360fd90d20eY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12588eb99af44cb795c523dd8cd9d403r.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S55d756c45d754004a168b92fccf694e7D.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S05ed6d82d6394365b3162e1050e0d1fbq.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8b26553cd6dd4537984df9ffce80ded0I.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S35bcbbe20ea94bc99a097d75a0fe363ds.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7d83792ac02e4baa862af11e81f9dc18G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13f1eaeb4c5d4956b244ab4199cef24a6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S374beaf14a754a4ebbc8b35e7ff4d424s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad7aa67567c34dee9c09ed82ef27a2f1Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1eaaf52ac93a4697b40e833f004d3000i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8a32ae6b6b44e16bd9eab77f24ded0bf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58c9527f4b604ee3abf95a41231571fcq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5587d123398448558d191ab46fe6ef4du.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef4f93fd03df4744bd6ca6ceea60f693s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S95f88b6dab06410c9b2a378f3a56fde9d.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S97466d6d15c24220a945cf12b12b9fa9N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35bcbbe20ea94bc99a097d75a0fe363ds.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S729b207fd03843cca78e502a66366e21T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9cb65576f02c4334bd4fb02d39bd3751X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6147fd9740c4263a1993fc2569cac0eV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5cd35e4bd1c4edc9c5be7c2adfb4a31q.jpg"
+        ]
+    }
+}

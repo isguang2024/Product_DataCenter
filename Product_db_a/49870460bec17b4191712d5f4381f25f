@@ -1,0 +1,85 @@
+﻿{
+    "info": {
+        "ID": "49870460bec17b4191712d5f4381f25f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 14:58:01",
+        "第二层SKU数据": "",
+        "货号": "DG-206107714",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.72kg，材质： 头层皮，尺寸：28x20cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 14:58:01",
+        "原普货标题": "Fanny Packs Nylon Square Bag Large Capacity Korean Style Sling Crossbody Bag Solid Color Zipper Versatile Waist Pack Sport Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb447ca18f07340ae95ab1a6f695b9a98x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa30f691bed764354aa2783e35eda11e7J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8700909be51d4cce85184a7a7ac0bf13H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5650a1dbd944f4681e75275d59d654dF.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6ac2e3cebcb0489ea2a5e742fe45dd75v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5adb1f9a3f449d88feca41fc5ae7c41J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S45870c4d1e6a4e35803e675fd9999411q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sced61d9ed2874f5daed893e3ec31b6521.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf365fc21f05d4bb0bbe34e3e75bee8f0d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c0e037900e94c4c8e954e2c446c4a994.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a349354b08e4f6a8a76470c79c36c87l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f1b4f9728bd4fa79b1de55cba8d1f82N.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdecf9734a07c4b5098df36ae97e5b6a0D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S572ed9c3ae6340bf8896bd9d15bddcd6O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4ecb6efd64740168c20f00c08a946f4J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2715d31b7c194e7baae221b4b93300ecS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S201e09ca87764ffa82330cd592f824a0L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7164539131764a6baaf795df1ccce1a5c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7194e9f911b04ca2b04b81e376d6b9730.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S627dfa97312e4f8280dc77c0cd791db7n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96b5693c6f8a4a319498611a6fc75685t.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S18edc56dfa2e476a9278cab0135a0b032.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S47742a7cb56642d991a4d555bd875be6D.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6ef6dd0b0fcb4ed88094430958d0979dB.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5d735d86ec724f2ba91198549cf629d7H.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sbe5af65d18f349eea20a8f22da642dbe9.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S0b842a38187b4b289658712a276e721ep.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc073057d6e142fdb411d305fcd7ccd9L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac2bcd90a0a54ab880525a842c6a9395f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6552e7783a64022880167d7ac08b5d59.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa537fb5e95af4351a56a8f87e39c57f7M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sced959e266bc49d984b670f905fee880O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S325adc7739294693b40f0de2b3b8043dL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09b882c739444c93b4e2acd516a1f6aac.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae68121697fe4590a3f17beffd910eb8c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8eb97d25af2744e3b22a80ce835a2206z.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S28bc5edf5de24e418376506d8bdb0031I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S100a929700354c6093c710b2f61694a2v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9a6273457e144088330082bafe402a9h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa537fb5e95af4351a56a8f87e39c57f7M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96da357de5614c6a96bdfcd24b94d885x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scca12540d0e246ea9d9dae45a56be9d9B.jpg"
+        ]
+    }
+}

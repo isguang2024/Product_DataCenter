@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "48aa0564c11ce64501ea081985a9698d",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 14:20:14",
+        "第二层SKU数据": "",
+        "货号": "DG-206714825",
+        "进价": "185",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "重量：0.8kg，材质： 头层皮，尺寸：25x15cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 14:21:42",
+        "原普货标题": "2024 Suede Crossbody Bags For Women Luxury Designer Shoulder Bags Fashion Vintage Square Handbags For Ladies Travel Shopping",
+        "质量星": 2,
+        "重量": "1"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S86d6f18f42cb4546950334ee73e23786p.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4657de51135e457ba7cbf348d0981adew.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se8671ffae40549699543c1fb4e84bbaad.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6f90a3299374cfd830d94e105506f7aP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc8211c9232f4ccabb3d6f028dc930fau.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9aa11e5ea1f34176b5cd776721e68d84V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51f948a00f164e0bbcc82e5e521829a4y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9bebf7f9244a4e7e8d7c0c0101a98e4bS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a7ca891754447a99537974e92726b87I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48363f61f7564e9b916354a3ce5845af8.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9f0cc2f4a3ad4adfbdafb6a7c917eec8A.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf5c4cedbbddd4bcb9fe68300618cd04dO.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S898094e8463a4f22bd632330611110aeb.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S215238b33c334f7e9b7367e70b0c8b2dM.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S6311eb39b5ed439d8208cb59e479d9304.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S468d3dd58aa24b6db1244237467a801eW.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9f28922cd874a6bb1de3ef7a0a33a8cB.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S3df56116a6144693b5cf7f59ba176163e.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S48f49cc2334544558376262e9bf65909f.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S4480b2072f4d460ba14de314e393fd73r.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d876eb38dad45f0b78ed7613da9c55dG.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf930f0eee674c78a3cf517b6e47c1c44.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S378cefdef0ab4da3949e3640bc4c52a9W.jpg?width=750&height=750&hash=1500"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seedb7150930942909dd2c9524399b2d7H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S885774d47b1c45218afcc7997e56d2c1f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S805e6f5dca4442a8b7621a040deea04dZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9684648d71ea4dbf9987341a7cd7e389u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ba79c5a8c8446e6b53883550a9d37ca6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf451bc9de3946b08fe3e7ef7d6c20063.jpg"
+        ]
+    }
+}

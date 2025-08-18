@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "7a99a02939ece9620ac80fd49f18f421",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 15:01:42",
+        "第二层SKU数据": "",
+        "货号": "DG-206105437",
+        "进价": 175,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "重量：0.8kg，材质： 头层 皮，尺寸：26x25cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 15:01:42",
+        "原普货标题": "Women Nylon Crossbody Bag Stylish Large Capacity Shoulder Bag with Adjustable Strap Zip Underarm Bag for Shopping Work Daily Use",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S05afc6a8c0244ab98cad552c522517b2D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01b549c307be434fac838406118c6fedA.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S90483afd07f642c083fee8013b655635F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab9faab1da08467291762b75fd304f2bT.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S25b1bb44e3004206adec9c86b056890ab.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S043c90243d444a49b5768128907621f6U.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfec4776644ae486ab1d229931d1a81e8t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac42ad4eab67493ca2b255f865280fef1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5d026bef2034ebea12db8842eb2e1cbG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa054a7f6478e4f88956cdd8f2d5d6bedl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59bfb703de5048a7bf7294e73a14cf80x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7ca064c8e9d4edb89d9d97e26158114K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S27a942dd272142dfbf8dccea13bc57cbJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15be213a0aed46a6b91b8729797ee527B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7981b586875140ad8c23cb23e55f35dfT.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb978dd7b9562432293739c5c758404a5Z.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S46eec6ce0d81415f9b85bffbade50f1aj.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S306b2d5f44a94ca99f25d3d281a59e886.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Scf56480eac51400f88e94db1b5500eb2h.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb28d1dd280e4afc87f9c252f83a49c24.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se05ae4ed24be4bef9cb098eaa8512e7fH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ef45ad563d045729cafe398676b12d3M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S306b2d5f44a94ca99f25d3d281a59e886.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sabb091c2c853471c98c42dbcef8aacea5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S832e1f36896740dc84fec71971aae7efW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c01f01778db47788c5b8a33bc02e15fq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf533dd6102846ffb6a9afff13c7906eU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S492e03cff7d44b4a820d9f246f3fb3e1f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72aec173708f4cd59f8400683a53a3a56.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbce7750512da419faaf7e75a4d2ce14cm.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9b01916bf5fd4db3b9b2bf9685fbbc97O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde45bd86434c456a8907adb69b530f65M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbbbb45344e96454f9614e506a42ab173t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf62815eb2124c848caf1f5753cd40edD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S790e64a3965a4fe5bfbd1d972c32d7f1J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbce7750512da419faaf7e75a4d2ce14cm.jpg"
+        ]
+    }
+}

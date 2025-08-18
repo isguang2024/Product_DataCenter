@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "212b341c85e769deb9797784fb2eab5f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-07 15:54:11",
+        "第二层SKU数据": "",
+        "货号": "DG-205313259",
+        "进价": 190,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "材质：头层皮，尺寸：27x21cm",
+        "性别": 0,
+        "修改的时间": "2025-08-07 15:54:11",
+        "原普货标题": "New Oxford Women's Crossbody Bags Small Shoulder Handbags for Men Korean Solid Color Students Phone Bags Mini Messenger Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd1e59ad9f7a4ebf974615a6b1fed22bp.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S77831c060e5744159193c161c0f02388P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S581763d7df56480dbdeb26305c6cb74au.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9bedb62150b34742bdaa365679c102acD.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7ecb21532f4a4cb98cf904c48eeda87d7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9423c406ccf4616b45b8a81d643f71dp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S45be7153930549938d907bfa8d4376b1X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78d2fc313ef34776bd5207f571a01e7ao.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb68a9084649348dea7fbfbecec2aca89W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf192334b38e45bcb19aa3337dcba02bm.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S881a857be2c3450780001783550e0222K.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb7ad65d4ce9d4e5492c7279466f657edZ.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sed692c5a060541fd94674328f8f1cdccz.jpg",
+                ""
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa845def900ed446ab4a297f1e2c647c5h.jpg?width=1001&amp;height=1001&amp;hash=2002",
+            "https:\/\/ae01.alicdn.com\/kf\/Seaaaf708922044bbb4397387b5e94908R.jpg?width=1001&amp;height=1001&amp;hash=2002",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f34f301a17640d78cb3b1f461ba96cbD.jpg?width=1001&amp;height=1001&amp;hash=2002",
+            "https:\/\/ae01.alicdn.com\/kf\/S9eee377930ca434b927d1d46f0994856v.jpg?width=1001&amp;height=1001&amp;hash=2002",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4ab4c9c77844f9a9a3e047b9a18c16ck.jpg?width=1001&amp;height=1001&amp;hash=2002",
+            "https:\/\/ae01.alicdn.com\/kf\/Se61163976f654486b2ef8622ec3cb2fd7.jpg?width=1001&amp;height=1001&amp;hash=2002",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d51d6e114614629a4de01a5e5f03660M.jpg?width=1001&amp;height=1001&amp;hash=2002",
+            "https:\/\/ae01.alicdn.com\/kf\/S43157b5b66ae4233a508c4682db15a4fs.jpg?width=1001&amp;height=1001&amp;hash=2002",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c13307925f147f695ab2055a37f9883L.jpg?width=1001&amp;height=1001&amp;hash=2002",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ae4329426cd4944b532d76218d4066dJ.jpg?width=1001&amp;height=1001&amp;hash=2002"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5fe52a064f2740398200779f29b83ce8z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1eef5582f74e4128834dda3159899a18a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf360737969284af1858dce6d75a2bf92j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc05834e160594dc39ff72ec175375477m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1246d51fd72e417faa25188985ec8dd4M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa91976f6897a428e948bcde91eb1ddce8.jpg"
+        ]
+    }
+}

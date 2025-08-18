@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "956319aac83069314cc54084485e522e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-11 12:01:06",
+        "第二层SKU数据": "",
+        "货号": "DG-206449685",
+        "进价": 225,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.67kg，材质：原版头层皮，尺寸：20x16cm",
+        "性别": 0,
+        "修改的时间": "2025-08-11 12:01:06",
+        "原普货标题": "Square Plaid Small Handbags Crossbody Bags For Women, Chain Shoulder Bag For Travel",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1c2e6ac714b49fe953234dd3196a00fH.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4cbd460b45ce421b8d72f977008f7807P.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S153feb27466644fe91efa670f5151c500.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3ad1d1dbcee42b7a783ac12abcf55711.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa46555023834817b4774bd0bad6ef91M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2cd146280a7f4e1591904b2100e73ceaA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f8aefc420474be9a54d746cee4bca23s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf01e8cb6a8544d8ebe9a40780410ad84d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a5fb95403d2466c8d1732d4d6c9944aU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc6a8b42f0314e04915e8273a4ce0435q.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S2d5dbae16c9145c88beb8629a61264d9z.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S219a27270b294d08a0393946b8d140c1b.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S0f555919293d467d9164ad74a428ac4eH.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S313d72ec9fb84561a90a2e1591f0a7d7n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda57ede19e6f43448807d0609366ee5eO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09c1ec83202041aab67ac04853e968abc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43fda542c5fc4bc1b54e2ad9a7077ebbJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6c93df9ec754461ae4cb05285ecf213f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd21965874c984286af1eb198e4e59069N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4e78f1cd26347a1afb6e87d4f9d4c58g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6f247d25e1e45b183b0b011a27a2fe3R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1df312025474cc4a73c3a71ce8af85dQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c8dfe71aeb04c6aae9596a6e71d1a4ez.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S658be43b394b4af7af254659c65313a31.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7b66af50ef84f4fa92e573728dc9051r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sced6c1b88cd143c78cb7aee9c38d9157P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1774adf52c6048dcba93abcd27b125c8L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se2db106c0d1e48b2a8b45f133d6e1cecl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcd2ea9760d6451a94e51985ac25e0b48.jpg"
+        ]
+    }
+}

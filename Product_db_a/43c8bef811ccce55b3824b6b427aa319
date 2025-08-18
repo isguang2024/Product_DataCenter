@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "43c8bef811ccce55b3824b6b427aa319",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-20 14:16:58",
+        "第二层SKU数据": "",
+        "货号": "DG-203592075",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "波斯顿迷你枕头包 高质量，重量：0.72kg，材质：皮，尺寸：19x11cm",
+        "性别": 0,
+        "修改的时间": "2025-07-20 14:16:58",
+        "原普货标题": "Large Capacity Folding Duffle Bag Travel Clothes Storage Bags Zipper Oxford Weekend Bag Thin Portable Moving Luggage Hand Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7c8e5f46457b46ef85e3d4d35d66825d5.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S43360b22bc6e4a8fa4d1aa4d0c202c15m.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se9a7c0aa10d94eb89396d04f8b44c17bg.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S30c499220aaf450885c39358aef485bdO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c30094ba9894aedbe1910d3c1671a2eG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a898d75bfd54fc3a262a2a4c850460aJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fc8c0c529e9447786995f3099c3d5efx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ccb52a73c9e4ba8972a68e7ea7fb31dt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c157f46463a4483a5a648b70520c771z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87fe1d9ece584a6aafb033acb91f1763t.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8f96e1baf74f4a999877e299c21a2b90D.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8f99887f2f07424eb942dafe5093c8ddZ.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6febba6f630c4f86a949f93387c1bd7ah.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scc79a6480cf5450ba6467c4499ad9f7as.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1cf40ea15ef4768b2bd39ba139dd423L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9105869caf54cedbb8f60deb279206dD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb3b4ab1895a49548f68665dfc2ad474r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S527f2a164c1b4951bcd6ce21cd08f32d2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7debd5332c72453da05818c5de77b247r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac0821dc975445388eff185db36caad4i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S612f2a07baf94616a8ec091573abf460w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se05dd19a9ff24e4094c793be48be225bH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20ce80394bc6409d9cc56a9e334aac8ef.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1062ab0aaafc43af9e894cc42633eefdH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S32d1d94cd9214f2184e6e4f4ee6fe66d8.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0d21ee2c1b54362bf5255624ed1d8fc2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S612f2a07baf94616a8ec091573abf460w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20ce80394bc6409d9cc56a9e334aac8ef.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S527f2a164c1b4951bcd6ce21cd08f32d2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9105869caf54cedbb8f60deb279206dD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a46c8d806dd4dfcb7f5b0e208fd295fY.jpg"
+        ]
+    }
+}

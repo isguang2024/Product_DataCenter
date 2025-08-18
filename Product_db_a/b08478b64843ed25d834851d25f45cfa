@@ -1,0 +1,84 @@
+﻿{
+    "info": {
+        "ID": "b08478b64843ed25d834851d25f45cfa",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "DG",
+        "创建的时间": "2025-08-12 11:32:51",
+        "第二层SKU数据": "",
+        "货号": "DG-206527337",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "重量：0.69kg，材质：皮，尺寸：25x16cm",
+        "性别": 0,
+        "修改的时间": "2025-08-12 11:32:51",
+        "原普货标题": "Crossbody Bags Men Solid Color Large Capacity Hobos Unisex Harajuku Japanese Style Nylon Waterproof Travel Shoulder Zipper Purse",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0b45f2c91deb44ec8bb1634f65fa36233.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9440b56105f435e8fbd0689f5b632104.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04a16d306cc14f4d805fffcc463be10cq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbda96c2191d64baea91a319065751c56y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb726d49c5c7427e92e2fcd03fbffac1A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7bc76a85a713461a8ce37664eb01688fT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67d66717d3bb428aa231124257770d6di.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9b540524acd4fa1bb55fa2c3aab80f33.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S86f99cc8c0f54acc9551322af070092ap.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fe49fd0d0c048d6867c49b6483d5aa8n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e3c0bd4dd594dc191d88b2b9fba1630Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6479d67868854b9c8b42c6967954f703y.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S20db48c611c44c26b8a6c7cdb0089e67I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb742f223c67405985a264aa99d6b678b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a8a5ac9d2ab4159803a751a94d476891.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70d3ea452ed34befb61a65d65c69f87eD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fff2b571a764da490bf7f64d61e87a7c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb72e9f3c9b1247ff9bac9c91106614e3y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46da22558e87409b8a66e897a54c337fv.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S84885bbc85344c2abd8aefb63b2fea73K.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S928e22ce31ab4eb385c34a992824d52am.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S28bfb4d7df414cfe9c1a8baab9ce0cbba.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S1ff41cc1123c4656962aaa1f0df2ae66Z.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S28c782a325024813b7128235ec07db86a.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S7910f32a484e4be498fe3899e73533a9z.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S283ccd854f8d4436a69eac04a697962d1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf75325204dcb47808c07d29cfeddf527y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8220c9414a0341e5baa1189ddf5b7090X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17a4e0f7fb7f426388f5eb9597eb80f8Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f6ff8ad19b643519a0d92f238b4e2e9m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S397ee1eab0e34de182d6a86ac3d61177F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb20dea3334da4b0f9e2f8d8311fa1b5bd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8623b83c938f4bf99b9b713540b5bb9fO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1dc1f774b3f14d2e9aa6fc43a3fe25e9C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcbf0ee350e04673946e3694c716b16ao.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0af74355e9f24a4a968e3edcba9f1c9e1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1401b855ff04fc5bb229dba390361ca7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae13e1c65aef45659d6a53760cf51efbP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40a733fd2d854051982184f9678be8f5q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c7972a10ed94477abd73cb59609fd20C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd14f216dc3864ebcb575ca1500cbeba3c.jpg"
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "4d633ce9e393f3515579bf7dbad33bd6",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-12 10:44:08",
+        "第二层SKU数据": "",
+        "货号": "DG-205310162",
+        "进价": 190,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.7kg，材质：头层皮，尺寸：25x18cm",
+        "性别": 0,
+        "修改的时间": "2025-08-12 10:44:08",
+        "原普货标题": "Female Handbag Casual Messenger Bag Women Large Capacity Nylon Sling Shoulder Bag Fashion Design Crossbody Hobo Bags Bolsa Mujer",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S27518e90fca548b0872909046d982c5em.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0ab327ea3b904991b46fb6e2c2390b19v.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb90a8cc07c7748b786556063814f5162W.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3f80f38b011342c1ad958d6bdac1a6a60.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd723d28daa7d4bbcb04216fc4ba729eeH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9d3160d9c7946ce8d966d78e8bbfab9z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3563c33757ae4641a99fc0b9520ae211O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c2ce22198c842ba868b110fe0f1f0efU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99b7ee0db8e441f38eab62679939a1b9L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a53d3374af649dcb0274d9c8d87fd44A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87589aad252c4d07a2e994b0e6f9c315L.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb90a8cc07c7748b786556063814f5162W.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdfb485b9f4c44559aa4fa90fe98391fdJ.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S15e3d947fb9b4f8da81aa77f78b986c7s.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8a149c1ed9d47ea80b53b749c598d37B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H8773e4f88c7e4c4ba3f6a1d9176cc75ec.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15e3d947fb9b4f8da81aa77f78b986c7s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0c13f9a9be94ac0904fb84126020211u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16e92432197544578a3952e57e7bbd6ep.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfedf3e72b9b4d819bc2650e120eebdfj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hea8cb09519ae40e4917af1fb3cbf2d8bi.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5a92b4021a16493fbf4e6c262dfa22aa6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ef4148d709d4bd7b9a2724b27716428I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1bb679765ae749dea1fef2a75427232eA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38b6a81c961b4edba27421adeb33c6d6K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd496c5e902e745b7a453ecd0cbf8da50P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a838c2c22134d3bb7feb0ace0c011c6y.jpg"
+        ]
+    }
+}

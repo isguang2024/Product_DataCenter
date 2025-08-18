@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "ce9f500ac1adf68e0e88a187cf5a89c8",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-06 14:22:15",
+        "第二层SKU数据": "",
+        "货号": "DG-205900626",
+        "进价": 240,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "材质：原版头层皮，尺寸：21x14x22cm",
+        "性别": 0,
+        "修改的时间": "2025-08-06 14:22:15",
+        "原普货标题": "Black Crossbody for Women Girls Handbag Shopper Casual Solid Simple Chain Knotted Straps Messenger Shoulder Totes Bags Handbags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0285427306c141698cabb675e975619bs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6564098e79764874b47cfb6897f2452eh.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S39b30ca128384491868e32625ba886fcv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98f130892ea64617862d05e0e72c8dcdU.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S500de88e94ec42a59ed4f12c5529acbbP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56b79af3e8e94208bcb5fd4228cda42e3.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7c17f77f2b4a4884984b73f751dc71e0G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a55ccc5e19d44249c26c97b07a5575aB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51434ded22f34c308ffdb0ee53ce7e460.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7f8f79beddc41ea9e825d41bca7081fC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b104e0daae04855ab1db73e5f140d36K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9cbdb824935a4de5b2f4d8b7fde9e727U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87a91429202045d4998d17ecc1dda311S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd36aa39f41324c0489f12ef982d37fa5V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5542f8c7f59642968c2ec5b8b55ccf101.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S139de62ea198446095574f850e8ac8e5a.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Se122829e344e4cf4be6f61df0d12a607I.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sdb8bc85f719f4fa4903603462829115ei.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sca3c6cf38b104468b29c96a78d2b8be9b.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7d8b0be06c604a09838c8cf8a92d120aI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5ad3d771b264866bed8f2599d07d3d4p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S948521f5b14a4c2c846c1698bc97aec0C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S124c8b992dd8488498cd298b3b9f0ba8U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5449868786f46eaa5a4d9ca757e73e9e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a65fa553b714941b4b9665c176a9954X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1af438e5a6aa40bbb3555b0052bfb3bdg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d03075c2238419b8da9f50570e6b45a3.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb18d0e88eb6541e09085e83f33f30c126.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S175a5bcb38e94aba8ac603869efc701eO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c528480118344b89e11f7355d45d07dA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9ac45063b9448609b9ebea080fd9246t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se75166585e9c4be78e7d2ed986c34443d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68c1f8df55ea41c8bd6b2a2619fd24feN.jpg"
+        ]
+    }
+}

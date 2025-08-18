@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "c0f021841a083922598b5dfe61cb4386",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 16:21:17",
+        "第二层SKU数据": "",
+        "货号": "DG-205165993",
+        "进价": 225,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.7kg，材质：头层皮，尺寸：27x17x12cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 16:21:17",
+        "原普货标题": "2025 new large capacity travel bag, fashionable casual crossbody bag, women's daily commuting bag, shoulder bag, handbag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S44fabca88f2e4e30a32ddc22f49b675ao.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7517e79e6cd4ba0b36ab1e0500d97ff2.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5ba7b03896dd49ccac3712825941befae.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S79a99a63ab8c4b7ca2ad2003ccf2647e7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74fe3080968e461784e28927da69e58a6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See9a88d57ad648b5a8b3264832f48487I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00d59bab18c646c49dbe20e7e168deb40.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66bf8dcbc5ff4de7b567821eeb5ccc5ag.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4df43253507a413493e1417b29900a25z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31e45ace766244e5b1a02f46d2fa8b0c1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0029e27410544a03b503e35913782de9X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe950f6fa0c7435d8813f08ca499c2fc8.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd08cd277fe0f4d35a37a6379d1e2fc45j.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S632a21d9181a4f99b84607a6bff29ddcy.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7877ccc9fd284436b7c874882383b9c1n.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8c706b1089b1416c9c2e86e0459c569aj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc3125e2ab4c4456a1b42ebb4850c5d1K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7877ccc9fd284436b7c874882383b9c1n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa313cfa0f9df47b2a74999f183ad01edO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9675961053644bdbc0c71300644b5bc1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ffa6a4d7ffc41daa35cce3f78546416N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S06d2f5304c304b43964c72297bec29d2R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58a3355538024c958af0f228f24743b1A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b997fd8931f4c3fb908c04496404d88y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S891b1a42579b4416a28de49825483e81W.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S85b50e7f7ca049b19e5a2e0dce3f1fbda.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S06c5a38d8aae45ad839f2f748184ba5ai.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48468b6586a3405baa90efd15b69db86M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f94dead3de148a8b89bcc4c70114676J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a4b759fbfb7464ebe31f280313d38a9l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S891b1a42579b4416a28de49825483e81W.jpg"
+        ]
+    }
+}

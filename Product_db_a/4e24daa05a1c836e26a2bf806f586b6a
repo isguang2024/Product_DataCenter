@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "4e24daa05a1c836e26a2bf806f586b6a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 16:04:38",
+        "第二层SKU数据": "",
+        "货号": "DG-205169466",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "腋下包 高质量，重量：0.7kg，材质：尼龙布，尺寸：27x26cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 16:04:38",
+        "原普货标题": "Single Shoulder Bag Crossbody Bag Messenger Bag Touch Screen Cell Phone Pocket Bag Mobile Phone Bag Card Holder Female Handbag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scb56b2c14af749f8af52901234baad20Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4b533c80ffc49259c126f29c018215aN.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2cdac9db94ae413380a3cfaf0667f470N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce9862e4f27345b9bec5fbe501d9a135H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71f013c027d849c6bd8b8b627e49a0b6r.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S66e83c326a4b46e69bac81fc474743b2V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94c09709aaa24734931ab639b628803eb.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5a224e67abdf427bbde03e7278bd2425U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7cdd7e495ed4f50bd8e737722304aa1e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46c3ce0df07a4c7587e754cbed287da65.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa3dbc76227a47c9889cb7d6f4f1d66dH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f49001abc524379b2d42d9e910cfc39o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca31cb936e914e14be36ab0a41df2b05z.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7b6dd62f5c9640a8b2a2995193d7313eR.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3481d7f88bab4a7784e025321571f4f9j.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4312e40541bc4a2d970069a4c7c9e00dX.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S22a4ee75663946bfb8b8f07db69b0e3ed.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sb4d3d029081e4676a3d49f8df60d31bfa.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4a38fcf9f47d429191801a248192a622d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf44df33496b244c9974ddf2325642456X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47c486f0a9b149039a51b9449eacb68aW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e937efa2a6e4e43a29474fe227dd6aeD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a1870ffe170491e89783a6fae33a35cL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S979463b616a849f8b8f04071a7d6bb928.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S397c0a1c592c4e5983c4f370e0a9a848R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S54b58efc04fc4ef581b571a39e7b9202w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0165cbab335477a8d2c6d02b68501a8l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef2099e74ad748af988aa4e63168600e2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ae4abe8f8064d36a61acf3143d9a3fdm.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3c4c67dc07f74c989843cb9b1fa3ef92x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a1870ffe170491e89783a6fae33a35cL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47c486f0a9b149039a51b9449eacb68aW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S979463b616a849f8b8f04071a7d6bb928.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e937efa2a6e4e43a29474fe227dd6aeD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf44df33496b244c9974ddf2325642456X.jpg"
+        ]
+    }
+}

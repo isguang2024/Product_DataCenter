@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "5499b5a5ecd72aa008bf4a4ca4c2fa5b",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 16:03:30",
+        "第二层SKU数据": "",
+        "货号": "DG-205169612",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "草编菜篮子包 高质量，重量：0.7kg，材质：拉菲草，尺寸：25x17cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 16:03:30",
+        "原普货标题": "Fashion PU Leather Mini Crossbody Bag Solid Color Small Kids Shoulder Bag Horizontal Coin Purse",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S729af575a22a46638c77b2e71c2fed17W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c800139dfc74cd5ad2b71e151b04f39i.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S65acd597d4a64158b15103f15b93052eP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc12612272c5b480b9735511d292023a8v.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8998db6955a543998a9f7640ce156db5B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S694af2b29caa4d9cad303e19cd4d7ab6l.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfea7c03d6c7442aa9cc0131aec0afec71.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7bbb681e4e37464cab31ed802eb6e9d8S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa15984fc5d1f4dd4ab2eb2496ea374103.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3507176f9a984eacb8b7fde81d18f4e1u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ccb1b26366940cb9a6c29cfa43ec49b1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71182361029649748b2ddde857e461e7M.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sca343859f6b647aa8d8e19c5450706efY.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9d01e9fdcbd04adb9930bce5e64aa44dG.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sb1805f539ee246b5b6845c2658e5491dJ.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sbf5f96106e5c4ae1a6ad1f2ca16aa950u.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8989304dbc44b0891e6b77a8ce6e3517.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S757f3ee3771c4d83bea813d2237d66a5t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9bf7c4dc01a7431e83d58a398b7cff25b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80c504b06b014d3caccdc07dc26575c0C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saef11b5c35a4404dbde4078b4d4164705.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5885615bba24a9c9a311d881bdeeb00Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad2cd1d8a1fe4a3689982a550e978839O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47b122e2814040678086bfe698befe99l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7dd8dabae5ca44e0b3aa6b5220b48e55f.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa99fbd9e410441659595ce6e75483456K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7dd8dabae5ca44e0b3aa6b5220b48e55f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c4db4ec76ec424c8d74227ac2ba34265.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S757f3ee3771c4d83bea813d2237d66a5t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd97ddb8b58b14cc6b55cf80773158b94s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S27f27f232aff415bb25edcfe870613f1D.jpg"
+        ]
+    }
+}

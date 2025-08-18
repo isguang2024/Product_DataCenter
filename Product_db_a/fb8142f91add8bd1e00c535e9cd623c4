@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "fb8142f91add8bd1e00c535e9cd623c4",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-12 17:00:24",
+        "第二层SKU数据": "",
+        "货号": "DG-201737382",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "中古邮差相机包 高质量，重量：0.74kg，材质：皮，尺寸：27x20cm",
+        "性别": 0,
+        "修改的时间": "2025-07-12 17:00:24",
+        "原普货标题": "Vintage 2025 new canvas dumpling bag for women large slung single shoulder bag wide shoulder band for couples dormitory lazy bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S42e4fc17819e47fc84d181ef6029521bR.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd38244de774f443797d6e1ec3b8b6ccb9.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sccf7f5f8fdef44528ca9399511eb7cc7F.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se71fe1c6525448459ca59e311e2ad693Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d92c753ce7f46569957eabbca322888S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa5c1a39e8e64f49bb4475e74fea3915a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf58e6a1ee15f43cb8f57f46865c14325Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf020d3105bd4657b1427e97c49bdef99.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1765788117fc44f1aef623bdc4604265F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb85f8c0b05d144ca8e36f721828819a6P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07678795a9e84b909ba8d8edfaa3462bK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd973d9d142f341f9b58c01d9b7469b4a6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S202fb4bc9adc4ab0b33c21759c7f1eadE.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/See1fddd9552d4676b6058576ae0341daw.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc09c3f9140344fb2a9975fb58edb6400r.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se926e7aa6c714a1b8b2adb9ba779cdafj.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S80dde9d0ab234c9db16c1ec092c36c9aA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59ef40248caa425c97a288dea0f6a507a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ff9af1464bb4313b90d592d6ed2ff58k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6a9f28f49d44c169f689eb364dee08eC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8ac70504e8e4d8fbdb1a697434d942dI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35f67dda48f04f3087442c4b150b4d82M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se926e7aa6c714a1b8b2adb9ba779cdafj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c5c06fd6c034cc8a0b0d41b24ec9d75C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saaf61b00b26d49d1953d0b59f0a67521d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6d36afd48ce4a379e157dcc100aa0c1v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6777e23264464783af583bdd75d0dab3S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0cd54469dd894a01b5822709ab932836l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S353970adb68c4625988f9c8015e8ce1ce.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1ff9af1464bb4313b90d592d6ed2ff58k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59ef40248caa425c97a288dea0f6a507a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6a9f28f49d44c169f689eb364dee08eC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8ac70504e8e4d8fbdb1a697434d942dI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se926e7aa6c714a1b8b2adb9ba779cdafj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6777e23264464783af583bdd75d0dab3S.jpg"
+        ]
+    }
+}

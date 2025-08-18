@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "8fd049c998d2df0cf64600bf5cea8fdc",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-06 14:25:45",
+        "第二层SKU数据": "",
+        "货号": "DG-205900443",
+        "进价": 205,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "材质：原版头层皮，尺寸：18x5x15cm",
+        "性别": 0,
+        "修改的时间": "2025-08-06 14:25:45",
+        "原普货标题": "Casual Nylon Crossbody Bag for Women Shoulder Bag Woman Half Moon Chest Bags Tote Lady Travel Shopper Bag Female Purses",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc721150096145818b0c093f30e39352X.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S80734933708d45ce92812103c7d497ebB.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S43dda274fb3b4e18905e34fd7edec4acv.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0890b171d68947e3930e2d5a3f7e6f3f5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd530536636774a608ec25129b9649474i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac55b9287ab74c3f9c19e627da79e570B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50caddc61e264978a860b0122513fa81o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75b89d38b58649acb8e3460662930eacE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f539f15df9d4889a174f2b1895cdd535.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65961357ec0344c18704a9c3162daf1fT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8c1dc5799b44488be13e41b290026a4M.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se03a44e5e2574da5b836f0fd4a5446bd5.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3140e12349b54387adcc4250ab325d6bx.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sb269edc68cdb4a22937aacbb796bac63v.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S862750e988d94b079b1ecfbcfa7c5033o.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S0073df02da0c438ca63b6209bbc558eaN.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S04d9cf23c80c475f8eb26fb7c70cd144f.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S56f503e6d4bf4fe483be0a7c8e8038caU.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7ce65cb8d3a4af29a6bef5c81b332caG.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b98137897a14c0e9683752e82b3beaf3.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc65a718b0fb442b09b21723a7340e57cn.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S91ab3ceb9f8a4d3f86a7ae849a908439x.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1ff37d8c42a436bb63d068814986f47F.jpg?width=800&amp;height=800&amp;hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa970362b3d8247559066d0bae8b80b21Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfea0de6bdf6f41e0a15e273f95dec6f8l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9082c8d5129438692127f2f246c09250.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S617ba311d9fa40ffaffd49fdd2f1893az.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62d3ade3644f4309a44e360a9e507540P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd971b823c24f4077bc6fb64a40ebe171I.jpg"
+        ]
+    }
+}

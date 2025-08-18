@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "3a05611eaf1ef93aa77649f98e624b09",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 16:14:22",
+        "第二层SKU数据": "",
+        "货号": "DG-205167865",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2025-08-13 16:14:22",
+        "原普货标题": "Trendy Half-round Straw Weave Bag Handmade Hollow Woven Shoulder Bag Tassel Boho Women's Crossbody Bag Travel",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S043af1f20cd54b1abc200bc2b77e968fm.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sff9cc30cc5c34666b1ebd7599b3dff58R.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8ec5fea6c7448b29a8f3b7a53baf51er.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scfe68bf2b3204b10826cf2ac335b7982k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd17479f9ee914b86864c5b836d1665872.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9c9f04101294d84a2ed500d594dfd5d9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf36e4982680b49438478323305619030o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3046a330598f42d0b4730b34306e9b56c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b949ca5aa06439f892835fbc0b5be089.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S36c0502b56634a0fbe57f476637e1c744.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8da77fdd06ac4b6ca65cdd6fc2602df9J.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S84795897ba2d4f16a7818d78e735a886O.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7299723d08ec4b83bf45f38be0f7fe7cy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3a8012baab2400e8969e0c8d6803932q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S84b84fb511f14a19b844bd138670531dR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd94bb6d70c134e93ab5da354d3afefb4d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc061daafb6744673b76bfc31fb46e1f60.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd84861c87d8e4d358ad72237b87fed23R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf170a39133fe455da972717eccfa68c3w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6aaaa7ea490040f69e25ac570dff1adbh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc44597e89c6f4878ac0b73c868aeb8edB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfcccf3d0b5c24f809cf6b4d14e89f833Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9724377a42b4083925aa9706b8fd855x.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8b21986d5e6841c3acc3a355668bbb4fw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S838a2b57dcba433d96ccfd347b92cd10Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc44597e89c6f4878ac0b73c868aeb8edB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89dbb315f3614b2abd29d8828ab8947en.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd84861c87d8e4d358ad72237b87fed23R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S044da40c4cb441f2b154f6d0f99a5a504.jpg"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "5ff6fb19b397edc857e4601e3ce4311b",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 14:13:45",
+        "第二层SKU数据": "",
+        "货号": "DG-206715109",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.55kg，材质： 皮，尺寸：20x11x14cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 14:13:45",
+        "原普货标题": "New Oxford Unisex Chest Bag Adjustable Multifunctional Crossbody Bag Solid Color Portable Mobile Phone Bag Gift",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scf4e2485007c4a5ea8ddcd217684522fl.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd852c700c274753971884d22925e69cL.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sced5a78caee14c13940fe817c47557f99.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa36dda45106f45a69f53502bd70df454y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a0385fa40d84b08a443e9c664ee2176Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sedd654b6df2045fcb0bbae1408d394adk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86523f13597848989110c4ed7afd561ap.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sced5a78caee14c13940fe817c47557f99.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefe9c8a8f708483bb78179668e2aa6d0N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29c1dfb79b09423893ec9021b6f873b0P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58ffc8e10c7f47acb3033b3f587dc40b1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb0e97ce061742d9950a0af2bafa3fb1w.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sddbe25db740547f7b180fc78f1a48e20e.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S31202d1b57664722b24c912befc5445cN.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sab2e64dce8f84f4fa76e013801b43d065.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7b073e9c1ff349f4a9936ada34d82a22w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f8396bafa54414d9874c1fa5c687893J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc666477620904a84b5177e3b48c8ad0bG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf900c03c48cf45d4bb52e09c0a447f1cO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf03166df36540378a7906f267f27f4dI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5838d0436a0c4313b46547d8f4be7de51.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62e1a379eed245e4bda47eaf93fc554fY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff8b0538a0a3425b96d5e781b8927061e.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1934e56d99664c029102bd497ee0a476x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc782f3d04d27418daf42fc00ab0e4e983.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3dc66a57daf446590d554d0fddb58e45.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b073e9c1ff349f4a9936ada34d82a22w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5838d0436a0c4313b46547d8f4be7de51.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1bcedf0c9b8144f29634f04579344931f.jpg"
+        ]
+    }
+}

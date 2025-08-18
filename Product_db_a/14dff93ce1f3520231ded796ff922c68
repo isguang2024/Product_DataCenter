@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "14dff93ce1f3520231ded796ff922c68",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-20 16:54:53",
+        "第二层SKU数据": "",
+        "货号": "DG-189805432",
+        "进价": 215,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "腋下包 单肩包 高质量，重量：0.74kg，材质：原版牛仔，尺寸：26cm",
+        "性别": 0,
+        "修改的时间": "2025-07-20 16:54:53",
+        "原普货标题": "Women Suede Shoulder Bag with Zipper Hobo Bag Large Capacity Handbag Slouchy Bag Commuter Travel Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S504856c61a234f9aa9d2bf7853ac913dr.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0f8f9aa932c248aaad1977a88c719eca5.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S96e8afcefe60494996910023d366df7dU.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0d9befdc89084524adea53e1d466a909H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S721775533ada4b9d8446e2fe51e0d6036.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S342ea01e6bb443f8b8279bfdd337624bc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0742ee12b424f2fbd0d99e8192e6b9eh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S228b1794a2a64bbb9627a2882f289bf4P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29a3c1f7f56d488096d2aa34fafe70e7b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ed2df089ca141e28f21139242c3681fC.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S2454f407a3714676bd8f8dd7c9d6d8c5Q.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4212dee743a24c6ba85ee460ab6a67ceL.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S1756b125bf674025bc5e2f9b70a5a8cdI.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S317f3ae5f3a74e2f94d6124cd7aad0e2N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S642f87ba54434554ae6125f23daba2f3v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9bb6edaa6ca428b9e7e05aa74d351c9w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1056f44a54847b6a34cb8d8e7fc7fe59.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7caa9e7c4d7d49b48efa7d7e56952712X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0bc346292d5e4847b6e8c1dda3287bb8v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ec65103d5d04816866550d68594de28N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab61d82c670347bbac123366f5328dc39.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41561b3c65174dfe819aa73a2e196ab3y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62867ac5fcca4069b66084a85cc00d7c8.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7caa9e7c4d7d49b48efa7d7e56952712X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b1e2b7235f14b028c8e7ed9419c589aL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae166851da0a4484a6f1c98c23f421baf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62867ac5fcca4069b66084a85cc00d7c8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1056f44a54847b6a34cb8d8e7fc7fe59.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0bc346292d5e4847b6e8c1dda3287bb8v.jpg"
+        ]
+    }
+}

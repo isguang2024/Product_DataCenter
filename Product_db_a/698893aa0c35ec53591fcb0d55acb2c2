@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "698893aa0c35ec53591fcb0d55acb2c2",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-18 14:50:24",
+        "第二层SKU数据": "",
+        "货号": "DG-203225738",
+        "进价": 210,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "元宝腋下包 高质量，重量：0.7kg，材质：原版刺绣布，尺寸：25x19cm",
+        "性别": 0,
+        "修改的时间": "2025-07-18 14:50:24",
+        "原普货标题": "Leisure thickened handheld canvas tote bag black three-dimensional men and women large-capacity simple shopping bag handbags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S87e1c66e042147a999dbb7aa8589fd89E.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4e766eab5626428886c38ca43b4619d3J.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4a182039ee4c47f1903f9f355e0b5160U.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S927a47442b094b5087533271bedad2a0Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf74ac4cfc63740a2964eb7bdb3038750c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc4bf11af608477b9af2de25a970fff1t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfce908e1e5d4407baa5450d498be74abO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7021a107fc2240378d8e224bf4f1b158N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S944664b6df9448cb98d0edb2488248f5b.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S497252f6ece14de8b95d4020e7a69a62K.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3e731d948a014d87ad0aeced512c9653b.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa4e606e9c812486f98f0f79b0b065384l.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4e606e9c812486f98f0f79b0b065384l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbee9332f480240bcbcbc67ddd46d67f2B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb57e21ebbdd4c958bdc2cff06525a62u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S057a6f193cfe40ecaff86ef1369e0da66.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d0bda611bec437296334bdbf73e96ecN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70eece63d8e64b73838dcba46935b27e9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3ccd57fb5ea4255b2fa088f2e5c173dC.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S082e02eeb9a54a6989803bec302f964bB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4e606e9c812486f98f0f79b0b065384l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbee9332f480240bcbcbc67ddd46d67f2B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S057a6f193cfe40ecaff86ef1369e0da66.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d0bda611bec437296334bdbf73e96ecN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb57e21ebbdd4c958bdc2cff06525a62u.jpg"
+        ]
+    }
+}

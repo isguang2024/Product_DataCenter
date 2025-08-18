@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "b0b736cf6fff7f17ea74947a7eea6b59",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 15:19:57",
+        "第二层SKU数据": "",
+        "货号": "DG-206329978",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "重量：0.65kg，材质：皮，尺寸：18x6x13cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 15:19:57",
+        "原普货标题": "2024 Summer New Grass Weaving Small Bag Casual Women's Bag Handheld One Shoulder Crossbody Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3e8844e2df0d4112abeeda7bb52f9d3ab.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4edd9bebf32a4d20832a6e96ac21e09dn.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1210838dabef4fa69e66865ece6910a4y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa683c0875f9146aba3652edf1ecc918ah.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7f93362e43324f4b8897b41d4fe9eddct.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc27c0196af684bc0b5ba5904c5e552c5k.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sebfb1886dd5941209a1467ec6d88f5250.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3bc4bde9a6d6477a888403830c7c6dc4X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf61050d78854567b8036e8f9549587f4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7f037cc3e1a49b38db2aab43ef8489fM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S243a5b499d404e96aa5332be4f9de7cbh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75cd957488434b1bb4d863e8edc104afX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5851ea5328c44793a3aaea2e3c16d71ci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2121f06f2d7642759455afcbead16445L.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa5b96081b4b341caa3f5ea35d936f9d6F.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3e337c0f994c4445bf1a07fb990a5d2ea.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S829858cef4074aa7a8d6f2b08c4264a86.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S8b9dd758f6d749658f30ea22fe8711d9F.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S829858cef4074aa7a8d6f2b08c4264a86.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e5344acba5049a8a677b1ac62577f88W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf059b2efc8264f478b55f7e484dd1a75W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5aef7659fb174e2b9106f90c83407017f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a4c3989e8ac4132bc2383976980569bX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d8fcd8bc1a044ffb0c8b6a47305435bK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7985392b309e4a3f89b4e4651df0fbf07.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b9dd758f6d749658f30ea22fe8711d9F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S221a99be647b4fd7b24c3a39b84952421.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S829858cef4074aa7a8d6f2b08c4264a86.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e5344acba5049a8a677b1ac62577f88W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf059b2efc8264f478b55f7e484dd1a75W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a4c3989e8ac4132bc2383976980569bX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b9dd758f6d749658f30ea22fe8711d9F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S221a99be647b4fd7b24c3a39b84952421.jpg"
+        ]
+    }
+}

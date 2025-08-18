@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "6081ffbe0f7f84849f2a962997f738ab",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-12 15:21:06",
+        "第二层SKU数据": "",
+        "货号": "DG-202619591",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "邮差包 高质量，重量：0.7kg，材质：尼龙布，尺寸：27x22cm\r\n",
+        "性别": 0,
+        "修改的时间": "2025-07-12 15:21:06",
+        "原普货标题": "Vintage military Canvas Leather men travel bags Carry on Luggage bags Men Duffel bags travel tote large weekend Bag Overnight",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S22fab60cedb04a81ad8591304136dccay.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5849e6ebb4c74c6288441ac35d37281dT.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S10f449e59bb74727bc036e5193eac0771.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2b7e945293c40a58662a93697ab3de43.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc7a17bf2f954bf39986c1785e0ae92bx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S100e32ab3333477fb060f233518d3b1aA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8b640de3cfe49acab664a27fde76ae5I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6cf56235b5e46ef8aeceeeceb5ea18bP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0ea2ef38aca4f5db7f69048160e409e2.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sfae396951a00490593ad008ab7462f88E.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd083a12a5f0244d68e00e321a4f23533p.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/HTB1viXkKXXXXXafXFXXq6xXFXXXc.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1m8FQFVXXXXaIXXXXq6xXFXXX9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1KONMFVXXXXaTXFXXq6xXFXXXf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1l4lQFVXXXXaHXXXXq6xXFXXX2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1MspOFVXXXXXzXFXXq6xXFXXX7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1eahMFVXXXXXFXVXXq6xXFXXXg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1_8xPFVXXXXbrXXXXq6xXFXXXr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1XDBNFVXXXXXMXFXXq6xXFXXXL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1XWxNFVXXXXbQXFXXq6xXFXXXf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1n9D6JVXXXXaCXpXXq6xXFXXXb.jpg?size=301821&amp;height=2958&amp;width=750&amp;hash=6f6a262e0431b70c99e30552d72ad15d"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S35fc04b7be7a41c9b185db97eca51d95R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1I7NcIXXXXXblXXXXq6xXFXXX0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1CIXdIXXXXXaKXXXXq6xXFXXXV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1ga8fIXXXXXXTXXXXq6xXFXXXg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1V4FdIXXXXXaLXXXXq6xXFXXX9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB12CE.jpg"
+        ]
+    }
+}

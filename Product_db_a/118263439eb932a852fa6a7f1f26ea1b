@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "118263439eb932a852fa6a7f1f26ea1b",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-20 16:57:33",
+        "第二层SKU数据": "",
+        "货号": "DG-189768868",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "单肩包 斜挎包 高质量，重量：0.73kg，材质：牛仔，尺寸：25x27cm",
+        "性别": 0,
+        "修改的时间": "2025-07-20 16:57:33",
+        "原普货标题": "Stylish Dumpling Shaped PU Crossbody Bag for Men, Suitable for Casual Outings and Large Capacity Needs",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3cdd8ad39194b6a9c82bd8ab011363fN.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4d2681483a324ac38b452a34f0cd4fd38.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S34a19dc357994fcc8fd16aed348a614cJ.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2fdd909d4964f408bedb11bbee0809dK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f0c3164fd8148d48381b1ffc8dd9a6ai.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4133bf7760be4754b60011bc640efbb4I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5345df290a234e2d8980f25335606a79q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf95aa2e6b6b4425e8f667570bb3d5d45A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b9ef782ea0245aea7ddfe0917c3d2e8M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb18fc365ba84557a8ab5fd9651d201dF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sabdc9d77583d49d9aaa4e2c8676cd3d9U.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S34a19dc357994fcc8fd16aed348a614cJ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S97baf18e13a048979519a56d10c52640c.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sbb0ce2e19774411ea0db1e745f28edb1C.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2b2fb6c12c649509b53fa5142dda3e10.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S92129dabe172402da91faaafaf216608Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8703234be86b477c92437a70530391c1W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd8458041a524d8492db1c3a8228f5c9Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad53c23acade4b0ca23122fbb5758b2fS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf036177b786a4c4b90a88d8cd08b4ccfI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd1c04a55e604e7fa160b01f470070c1G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb0ce2e19774411ea0db1e745f28edb1C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1049c7f24d524e1f96628b59cfc368d03.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2b2fb6c12c649509b53fa5142dda3e10.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8703234be86b477c92437a70530391c1W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad53c23acade4b0ca23122fbb5758b2fS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf036177b786a4c4b90a88d8cd08b4ccfI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb0ce2e19774411ea0db1e745f28edb1C.jpg"
+        ]
+    }
+}

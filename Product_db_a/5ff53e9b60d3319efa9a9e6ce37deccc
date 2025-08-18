@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "5ff53e9b60d3319efa9a9e6ce37deccc",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 14:38:21",
+        "第二层SKU数据": "",
+        "货号": "DG-206713128",
+        "进价": 175,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "重量：0.8kg，材质： 头层皮，尺寸：27x21cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 14:38:21",
+        "原普货标题": "1 Pc Women’s Minimalist Nylon Crossbody Bag Adjustable Strap Zipper Hobo Bag Lightweight Portable Purse For Daily Use\/Travel",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9e4f21e18d654e7b81cd408b8fc005fdk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5747bd495a14aab9a33bee63a30da886.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e3805e5db334fa2822309e550357f7f5.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9af00e77c9fe4736ab560e921240fc87K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79ba06b4bef74297927da84c1437be5fp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdca9925a4afd4d698cd53dede82f9d00B.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7391aaff8563400d8574643ee0afe850O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S152fb802be744795ba647d59ac57f082R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S45ccf4a2a13241019a80dcb5b936a479d.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S282e550f9e27435ca1e6a17321bf243aq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfada3bc252d04887b0b2e7edda322f519.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8028605362e54ac99fb217b10634fbabC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7c191bd482d43219aeb32146a1e7289L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c91ce3a84c2409e82e3dc5d0a0f1ec7W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S22cd794da4074d67a94543e3d5ecdce5k.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se7342b79ab9f41c4b33499ccb8dd0112c.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7c3521fc9edb4d8d8cb55230775683a86.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S56f80cce17ba4f028b04b746a993fefbR.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S7ea8d36f44b54bcfad5f1c664819fd303.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S3c561583feab4abd98c9dc752704d427y.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Safa0bd7228724de8aa754d036d71967al.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbc5a4f157f649778c78b7a672cfac29X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8bbf84ba005486aa53a327d217f1c5fR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se636cae465fd49aebf53a034e67acd13s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c561583feab4abd98c9dc752704d427y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56f80cce17ba4f028b04b746a993fefbR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ea8d36f44b54bcfad5f1c664819fd303.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e466d305e534ec6b4524964220b3e2b2.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7075a69b67d349d58f5864b7e0aee840h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Safa0bd7228724de8aa754d036d71967al.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbc5a4f157f649778c78b7a672cfac29X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8bbf84ba005486aa53a327d217f1c5fR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se636cae465fd49aebf53a034e67acd13s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c561583feab4abd98c9dc752704d427y.jpg"
+        ]
+    }
+}

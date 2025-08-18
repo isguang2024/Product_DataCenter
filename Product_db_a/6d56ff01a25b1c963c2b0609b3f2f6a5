@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "6d56ff01a25b1c963c2b0609b3f2f6a5",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-20 15:05:52",
+        "第二层SKU数据": "",
+        "货号": "DG-203538127",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "薯条包 高质量，重量：0.7kg，材质：皮，尺寸：10x19x7cm",
+        "性别": 0,
+        "修改的时间": "2025-07-20 15:05:52",
+        "原普货标题": "2025 New Genuine Leather Women's Shoulder Bag luxury Cowhide ladies handbag baguette bag female Commuter Shopping Underarm Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9c3b028563a841e1b6bb054275b6daf6w.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S62fc14034bdb40edab80eb46c6da2b38c.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3c038605b59348f3b7174ff5e44ab8b8S.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5c50b7f4ac1e452ba6aa7abaf05cb998H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ec62dfe58fc42caad85bcb7f1acd2f90.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67b283cb61ea4e8394b5501835ed8355g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9d82c9ebcd2454dbd4f566f5e4ea1f1o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa290c2114fcf4faba95f9792d40c8214J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saad88c9b30f94b3bad39256870c540d2d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S726aec0d4e034d78aac748d2d86657efb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3a1278cd1c04f548dc73aafb74517e33.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S25158406b17c4c8f92aaf9602b8c93123.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Scd9a25d3e5f943c0828619d27132792ek.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sf1ccd281c6be4f2aa960a7b3aa23ca67e.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfcb3e696a3864c8abf15990bb877ab57u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb1bc4943c824d38b65aa8a7350b59d5b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed883b746f774f169bde6a1933e14358h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1dcd277dbda04e12992c33861e16d1a0E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf68f18194a394e3e95cd59512a60c701i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd40c3638c9584caa88d3ace49357624f6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc3d1c03825f448fb9f3a39e7b984658R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5548f72baab04e948e422fb48b142d91o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad2b9924f08145a283d07dcbce776a1d5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3db8db8929b454f9101eabb485f4e3aR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75e75738bf454545aeb3f35e9185c583v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se47506a7a99c4036aca1c788cd8a4071p.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3c9a9dba4a74d2fb199fb8a0c1880282.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b3266738dda4435951b0d91bdcef66cx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2fd47bd370b9447f86ee3af1e0824f5db.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa1338628bc149ad95a4d6d09db180fbU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S438878e19af74079bb8cbb602fd96bedx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78cf5e4ef27e40d79c20058905c313efL.jpg"
+        ]
+    }
+}

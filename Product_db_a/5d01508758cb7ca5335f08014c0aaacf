@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "5d01508758cb7ca5335f08014c0aaacf",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 15:46:45",
+        "第二层SKU数据": "",
+        "货号": "DG-205170768",
+        "进价": 190,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "材质：拉菲草，尺寸：17x18cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 15:46:45",
+        "原普货标题": "2025 New Men's Crossbody Bag Casual ex Single oulder Bag Menger Bag Small Size Nylon Material Soft Handbag for Youth",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0f9068faa3584902a6cc498af585210c0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd283c46b8e8548c2a486a2c1fe4125157.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5139179cc164365a5b75e72aeed4f981.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9cebd08043864754afc2e209b4e9d075V.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf8591344eae4410b0480984417edf71F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb24d36ef30243fc98535bcfddf3e3bbu.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4f8fc46170f4c5989e948ee24f08928a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8cf7ccd9480a4d25a80471dc26f6cc3dQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6cec4a84672845abbf45ddad5042da356.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a1b58c1f3bf4bdea68b75850c2427e6E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scda5d841efbe40ff9e02cf1cd4b8ae29S.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7072da66fa8b44308a33f1e6f90fae40J.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8fd8e3258db341bda5ed1d4718d402d5F.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4ad4056b2840448dbc020c12a74688f71.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S762ab9916a1349d984126080b8fca5cd2.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7655d43a04646b38fa3b807a1a8d7efl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2058f6dc939424fb90e11fd7ae1a882x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb93bfc2a25664e4c89ade0e2a32c7418D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3376f26b4d674d8dba2532f87bafa791A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S216e63151a0747049213ed9f63ef28a2h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02dd0b5288284250b9ad05c33dc1688eC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3fe077f46c084c9baccd7197410d831fw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b94ff45ad554078a9dfcec45cde141a6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1946aa2011704e03a4efe70b57c8c738s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ad8fd29d7eb4878be8bfcbc744c1d477.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S880794bb3078407c850aa363072579e4Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78627d211c2340cb8835b18d5a574b7cU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46da3c96aa164ee882348564734f6c85l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S335101bcd6654e38bfa0fb4ab232d383U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f13ed02a39446c89f485f76f1fe5f6cN.jpg"
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "379416673a13ebcf02ebb47571a149f6",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 14:45:59",
+        "第二层SKU数据": "",
+        "货号": "DG-206712668",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "重量：0.45kg，材质： 头层皮，尺寸：17x11cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 14:45:59",
+        "原普货标题": "Retro Straw Crossbody Bag For Women Bohemian Small Knitting Summer Purse And Handbag Vacational Bucket Beach Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4695479d72c2401ea80830d0304167eew.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c580a03c73d4b0eb0f254b825192f48q.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd5cec952ff44564920c4c5c92205032M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ffa49c640c84ec6a9dea1d3ce8210266.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S90baad94cf854e91bfc4c51d352b41fcq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7debec666a8d4b8ca88f939bbd40ed62K.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0b74ec719dd4113a16ec5599f548592S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S033e7c10a38c441fbd8d2e7aaff011737.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43c53d71a75648b29f636ee09dd7e6b8O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S90baad94cf854e91bfc4c51d352b41fcq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0bf92d5d0e9d4f5282e74c904b9c09dec.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1eb06f8d808446aaacd7a272f0b3350e2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6993e6cd079c43e78c647cb17e9d5fd17.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se5af0925f32e42a8a032463e18a903fdv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3241e1cddbd4ac3bce0323c4e84c9e3g.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Saec7f68570e9449b8862b39ef457a29cE.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc2c12b4c507c458a8187c3ea304c77d7z.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Scfa833f4fa4c45c190999eade579de58c.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S0ae448a86e1246e3b7e4ce0f09b13d8c5.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se1129d0e5c464f5f837df4b6c560a017o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f3502f3714c49e4bd7b776c99385b3d3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0607877414c54ffcba0dafc74b2ec9b3Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8816aba240a6430fb29928c800dc560fB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38ade40cdc414c1fbdaca1cf76e5795ff.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ddca411110e4293b9ed3fac1a0cb58aJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2bf0e7152824289a8436fdcf569b2f6N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb1b6c3135f444aa8254fb2ab6bd20efb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53ca41d243344ba3b67c06b50b84ace94.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3a1f9f17fb145bc95067bf06a121556A.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0ae448a86e1246e3b7e4ce0f09b13d8c5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd52acee9cab45e98f0242b5b7cc9e91m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43600a65a36340728280b3bc8adc5d10s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5966c40e763b4663be9d30b360d293458.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scfa833f4fa4c45c190999eade579de58c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53ca41d243344ba3b67c06b50b84ace94.jpg"
+        ]
+    }
+}

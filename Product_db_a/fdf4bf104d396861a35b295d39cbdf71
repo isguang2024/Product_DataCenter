@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "fdf4bf104d396861a35b295d39cbdf71",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-06 14:15:25",
+        "第二层SKU数据": "",
+        "货号": "DG-205900910",
+        "进价": 270,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "托特包 高质量，重量：0.76kg，材质：原版麂皮，尺寸：28x21cm",
+        "性别": 0,
+        "修改的时间": "2025-08-06 14:15:25",
+        "原普货标题": "Trendy Crossbody Bags with Double-breasted Adjustable Strap Women's Shoulder Bag Zipper Purse",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9721a6e745bc437b92d69e7ed123f01cC.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S904a334068634dd68d800b72475e4287Z.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd8fae98b1684a4d996c0587202834b4E.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S39f2c90641cf4c1ba5fd34f652d1fccbo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1b013dec2504dfa8226095a087db584c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S453f8571d3264e4f9d2e0a2ec46ba0d2H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9df5655e5e647c08ea8bf16783d09d2V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1473bddbacaf49a786bd01ba47ac9172y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5835d8fa9b4643399fa18f4cebfe2ae2g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd13d282e834347949c91b6846d3c181av.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a1de2c42b08434393ee375c5de0a637A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf36b251cffef458e97907c32665c5deav.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sdd8fae98b1684a4d996c0587202834b4E.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdf809c843867465096b1c913a55c27f0z.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc310f9d96f784ec49d8f0fead7b7d398u.jpeg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S95d1e61a0365477ea50abfc52b9468dbl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8e8f62a9b2df43d780b0b4f4d0fe53c94.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S434b5e6570ba4485b66bb2560679939ez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb08c728f701e4f04b3ff37b3869daab1E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5bede14e19d4c97b997a5d6612432ddI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S76ad1046101946929b4895421d26a5663.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f35820dcd6a419580122faf962d2fc0y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58b66b9aca8d4ce4bd792a48fef0fc6au.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd725caf23db14e589de0b8928289689bR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e5e5f5a02604a68959ffdfb8f1c9974Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05d81d9ec3864a6d9908a739deb94a85T.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfab27d5579c4bd480bbcd81225ef665S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f35820dcd6a419580122faf962d2fc0y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd725caf23db14e589de0b8928289689bR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S434b5e6570ba4485b66bb2560679939ez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd241e3372b34e7ba924f96d3d0c5520u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8e8f62a9b2df43d780b0b4f4d0fe53c94.jpg"
+        ]
+    }
+}

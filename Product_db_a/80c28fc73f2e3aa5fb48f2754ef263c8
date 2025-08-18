@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "80c28fc73f2e3aa5fb48f2754ef263c8",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-08-12 16:42:28",
+        "第二层SKU数据": "",
+        "货号": "DG-206339740",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "重量：0.6kg，材质： 布，尺寸：23x16x9cm",
+        "性别": 0,
+        "修改的时间": "2025-08-12 16:42:28",
+        "原普货标题": "Women Mini Bag PU Leather Crossbody Purse Wallet Shoulder Pouch Mobile Phone Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6c818eb8ca45451c8c5850fe4824d2c96.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00424124a81448d49aac2a8327cd11901.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S475adb91b00f45b4aa3a9fad74dbf6a4k.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbabbc17e301846a99a79515f4724063aK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd08acc395e8b4e16847106a1470be89eC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31e3607340254de6bc1cb7cb470222afh.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1474270e3b74a86a77b11bfa22cdf90f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S737489d356ef4d70b63c7cf880f1c903e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S710a7a5a8e6c4c198f0ce7d0756337a6s.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4fc3f170fd1f4a3d93983b65c683eac0h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1947b3bf4aa74e8287f362eef5e810770.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S560606839310442796d1ae230c885a95U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd31c4e41359d43cdbf6d725c948139f0C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7675d60c1ce47ccb76ab4449c9b5d1eT.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S744a37d79c5b43f59a9000b1af624c0au.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S27ac0111c54248989793f80b2b5e2dc6D.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd4fd5f58c5aa4b8fbd80127bf0d69ca1v.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S800a5f4e2f5e48a2bd429974b3d8311ep.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sff8f63517c4e4c6e863ec79995dbc4e0r.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf450e88260d24019a75edc21c259f6445.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fdd480d724444dd87c746af0d4617d3N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3933c666725400381bab056488b4e118.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S14bcbfe1d41b42668fb673733e5c5d0aT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c4af09179f64f3c843b05b89f6c7b3cX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad1c33074a244afe9e09df766e18d881x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15659b2ae0324c0ebfe879e8af4db67bT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0cae2230ff0546bfba440680062e88d6l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7245db70cdd47178734e5d404d7d21dr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2154f78590924458b2c27d3d5bddbf99E.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb86191c687514efda96147ddb7c37f6as.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcb715c0a8a740e58b22b8c16c570dbcB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd332d0c7c7b14380b3575195615d64c3f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78891ddb494640e6b08e68241d7b12fcU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1e9787c645d4fe59fe3a5e5f65c1b1bh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd468e3f38c5d45a6b1b953c4b15853c5V.jpg"
+        ]
+    }
+}

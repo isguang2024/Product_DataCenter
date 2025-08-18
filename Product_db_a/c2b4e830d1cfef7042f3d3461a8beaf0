@@ -1,0 +1,81 @@
+﻿{
+    "info": {
+        "ID": "c2b4e830d1cfef7042f3d3461a8beaf0",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-07-08 12:39:42",
+        "第二层SKU数据": "",
+        "货号": "DG-201933636",
+        "进价": 170,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "枕头包 高质量，重量：0.7kg，材质：头层皮，尺寸：18x13cm",
+        "性别": 0,
+        "修改的时间": "2025-07-08 12:39:42",
+        "原普货标题": "Winter Solid Vintage Canvas Shoulder Bag Fashion Leisure Art Student Handbag Large Capacity Commuter Women Tote Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S82d636183fdc4fd1b8d8812737dd2116P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0141cccc418f49eba9e4265c126e6cefZ.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7d264c554a24de99dde7161a00bc369l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf52594970f2c48bc8f030658a305cdbbq.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7ce7bdbb41145b7a92c70e64865377av.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa50e432b306b4e7999b5bd0b11d771d19.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9ebc03c1edbe4bed80288e04f26e6d70B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1f4c743777a4396be0954da6cb615a3s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c033874f2934af6be959f62d398eef6e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b3e27b01f6f433fb2ad19b04a8805b3f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa76736dceb04b36920fe5d19e2f061bF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S055a27a5f0be49c4ae90ebefb23e875fV.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf093d29d1a504d97a2858716f20fcfc5W.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7bd5aff242ed41a5bd9d3e37808a6d051.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3b097982028042808f40aa6ff682da498.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S4d0261b71d4d4d038025320079459148K.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa46f61bf827b48428ec0abf471da507b5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S306745322d9c4bab9ccc67a6a769ba2eF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc197d133ce5e4c16ace25cda80f434a0s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b70f23b4684462f9fc68f32cf80a3b4K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ee420b7702d4f38a7e708be66127fe1C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2021849473d84236bd1731fd49fc8e0dF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc04940bc186d4eaeb58b749223be6a779.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ba5b4cf7ac44871844b1daee0664bb5W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5b54208a7864ee293bcaaf812beecdbd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4032e12746ed46e6b4169d3eaf5c8b40m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa712d7c16b79491e85dadfd19eccb12fK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S483c6b6ca28f487aa24c360a7d08b9a0H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S606976192fca421b93292c28a9075490Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe3f78aeaa434b16b9cc4af64849943cE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S491ce5b81bda45448ed68166af733b9dm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8e4a4a855344b54afc5b0a41f7fef21Y.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4a22b63ef52e44eaa357b630843682231.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26a1ce3f122347af8ac8ea9212243b8aE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56c15484bdf241d49f274b05729245b4c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c9f2a10e1e94fc8899b6c3d4bdca1acx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70110387dc634c7aa34e747461ad7ea9M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f0e5060f8fc40c4b44ff2cfdde99401Q.jpg"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "7c6ceb6f6d5cdaceb9dd69f1d7386e81",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 14:26:02",
+        "第二层SKU数据": "",
+        "货号": "DG-206714256",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "重量：0.62kg，材质： 皮，尺寸：20x13cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 14:26:02",
+        "原普货标题": "Fashionable, simple, textured, solid color, large-capacity corduroy shoulder bag, new style, versatile, popular messenger bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se3c9c2cc27364f6da291f996a2495677h.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4a74c6ea56394c2287ca47398f91cd3c7.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sabbd9cb9265e45ba9b0bba57c2fba9b37.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sef850a463ebd4d5185f0ec610f79befdN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8253e5fe84d049dc817055cb9ee4acdfG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6869e2d22b1e49bb8a2863279510db3c0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ccee98d560f436dbdeb78d467ebbc90L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3a40a27b817454882ecb6500ea451fdu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S482aee39c944403590924161dccc17fdZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S162f95ce90d5413f888b6aa40d45ec977.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f559793bdde4172b2131bed6cfe9173X.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sabbd9cb9265e45ba9b0bba57c2fba9b37.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S08de6ffaf5f142239519df739cca2e26b.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S1daf483d8d88496ea1d702837260f8488.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S65ba6a50744d485b827f347185684946D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1daf483d8d88496ea1d702837260f8488.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc067eec299bf47a3a5a1b5e355ccd037Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86deb39b6dd044d6a34db50b3d7d30efp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S373e0125128a4093938cad0805ab97c3F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S509e411ceebd4e019b658291cfc70349q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33dac24ae09142749f4b5298015e758cD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a829c70738e410ebc6a6020a06c1c72v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11bd1a2097e5485b99360b7fbbee9cd6j.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S65ba6a50744d485b827f347185684946D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86deb39b6dd044d6a34db50b3d7d30efp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1daf483d8d88496ea1d702837260f8488.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S373e0125128a4093938cad0805ab97c3F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33dac24ae09142749f4b5298015e758cD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a829c70738e410ebc6a6020a06c1c72v.jpg"
+        ]
+    }
+}

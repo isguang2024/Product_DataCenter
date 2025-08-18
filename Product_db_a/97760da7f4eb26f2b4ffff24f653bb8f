@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "97760da7f4eb26f2b4ffff24f653bb8f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 12:00:13",
+        "第二层SKU数据": "",
+        "货号": "DG-206715734",
+        "进价": 180,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.6kg，材质： 头层皮，尺寸：21x12cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 12:00:13",
+        "原普货标题": "1 Piece Ladies Solid Color Nylon Crossbody Bag Chain Decoration Neutral Couple Bag Suitable for Going Out Casual Put Mobile Phone Purse",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2e234229f91e42edaf590512f7ddd66dw.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1576e7c82b4446f9a39e5d81ecf5c1eca.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S945fa06d791b48919f9bbb304560ae401.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0e43b88a18ab4ecba7fc65520d499f49H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68f3a9e06a6d4bdea162d3c4973306f5u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S848108f891cd45b2ba91a8bfff7b5abbL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1535e1bdd4204f4baf1eece09aa0f509l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc82766de71847e8a5f50b5d96a590bbC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4775187519fe453fb8f23b5d3b79a8a2F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2468149f161c4b18990bea57e7a2baa4m.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7cab778aac0b4161bd91a804aa2fb4c0k.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc23f83ec51884a5e8ff39d8680d11a637.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sbc07cc7983954817986b3bee3765cc65H.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S210818419be24a5c899671a26be3ed3aN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S054a4ed960054926bd7acd91aca60f49J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S908d65a8dded437c958b78bb8f4e4f54r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf82bc9f54d254413bfb6de2aadd49149Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7bd2b1c684a84a04a22710e57a65a69b9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f4e7a776ac44c978d360bddf08e3bad7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85f2d6c363804745989f05b912a2b34bu.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S839aa7c4846440cd9f3e0606370bd3c36.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fca7bb60cc54b0aa9866538e61fa11bN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fa182ede9364a2b984e74b7acb2700fD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S427ea795110a4a2ba8a0f0d35f6bea0bx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72b5b896ba7847e09c38488ca74b5950v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15086c718d874b5c9415a8598901dc36N.jpg"
+        ]
+    }
+}

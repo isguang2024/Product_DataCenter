@@ -1,0 +1,83 @@
+﻿{
+    "info": {
+        "ID": "57b5c04edf1d6913b4acc31ac2b112b8",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 11:44:00",
+        "第二层SKU数据": "",
+        "货号": "DG-206717884",
+        "进价": 200,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.68kg，材质： 头层皮，尺寸：23x14cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 11:44:00",
+        "原普货标题": "2025 New Women Bag Middle Shoulder Bag Korean Style Drawstring Bucket Bag Casual Light Youth Crossbody Bag Whole Sale",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S20b932c4205f4287917c2b38e45cfefdr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ae4e68d414b4ed8940988329f8c29229.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8f5af3f59e04b5b8334dbc9159d06a9d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb04fbc2f801b4b6585e036ff9a96c1c4F.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0989cd9cb30d4d5e8d132cbe70150cfdZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe734315b87445b68af1fe4a234e5d3cu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5ad69a8bcc049709697edc483090771F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S374722d6f710413a8dcb8c4de31fe0a7k.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9e368bc15c6454f90070d1fd8c7e2aag.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd05fe703f70a4d0b8be4766e249d8b1bG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec7795ad376d40339f37c76495562e0da.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8a5902a57c245958c4f31885a6feec06.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S986efc57ac274de4be7a6e72abeb63c4r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74a18f7cf93c42e58d6295f0475270f3d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e9858ef45254634a6097c28e7853904H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9e93c2334234d338500d0754a8a2e37f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7adc0f7134df49aaa3463c43d3c7f9e6P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9fb4c97ef294537973f5de2790b171eU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d68e33ae40e45d2a1a8f35e12d9e6558.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5214b70a32964888ac86af66c6451061m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6bd48ae1cbce4c47af4fdbfad1541d820.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0f315639bdd44eb8a25d44172c00546fB.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S358ba681ddae43dabfb58ec813ba8f0cG.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sdc1cbe4c46e9465a8e26d3a71637d0ad0.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5aaf5e4ca808470c99d6fe765eb34062X.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5a799d00cdf9409a92db005155a304e1r.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S9c14992c1bd348b88fa8c7096f9331639.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saa66e1f398ab4439b2da6707489a92bcx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c14992c1bd348b88fa8c7096f9331639.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se27cf881b57b47ec8ab2b80884dd432eb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc1cbe4c46e9465a8e26d3a71637d0ad0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf600a3f29784ff1861faa677aec80aeS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a799d00cdf9409a92db005155a304e1r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5aaf5e4ca808470c99d6fe765eb34062X.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se27cf881b57b47ec8ab2b80884dd432eb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a799d00cdf9409a92db005155a304e1r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf600a3f29784ff1861faa677aec80aeS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc1cbe4c46e9465a8e26d3a71637d0ad0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5aaf5e4ca808470c99d6fe765eb34062X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c14992c1bd348b88fa8c7096f9331639.jpg"
+        ]
+    }
+}

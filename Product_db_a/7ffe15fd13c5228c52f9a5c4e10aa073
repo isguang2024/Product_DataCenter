@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "7ffe15fd13c5228c52f9a5c4e10aa073",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-17 11:12:30",
+        "第二层SKU数据": "",
+        "货号": "DG-203201242",
+        "进价": 175,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "丹宁链条单肩包 高质量，重量：0.7kg，材质：牛仔，尺寸：22x10cm",
+        "性别": 0,
+        "修改的时间": "2025-07-17 11:12:30",
+        "原普货标题": "Canvas Messenger Bag Ladies Big Capacity Handbags Shoulder Bag Youth Girls Student School Bags Fashion Men Crossbody Bags Bolsos",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1371fea1a9894d03819406ec87b8ce3aV.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S61d531e5e9c64266bf2b80622079c23aS.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5d05fbe980124e229db368c3cf3870350.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7d89d5bc85dd4c3e96dacd1b4c12b19em.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4c28ce50b7e407fb739758e71ef8defI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6bd019c9a0c459a93455531fc0001ccd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S422c343d17154d19b095ffdc13ec2146q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf322c16f37f24eb79d079ff851b11e32B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc1d8c9c86ce435fb76123ba7803b89fd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf7f8d604a1445f7a9dab561c53407fdi.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S364dbda03a1d40a1b3d9ea0806735f43R.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3f0785aa30e94f76be4ae9354e5e78350.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3b3493581b584f01ade7bcb2feac621dt.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S96ddb781aa5041559e042cadaea6df8fB.jpg?width=750&height=784&hash=1534",
+            "https:\/\/ae01.alicdn.com\/kf\/S9645fc22647b4f29a65427453a0ad3cfZ.jpg?width=750&height=786&hash=1536",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb1a9df3dd6c47e8b3c09368778206ebl.jpg?width=750&height=777&hash=1527",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdae667fbc595440ca5ad35a36e3cf68fN.jpg?width=750&height=777&hash=1527",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3f1fc7766204df4810eb6f6d548c31ex.jpg?width=750&height=778&hash=1528",
+            "https:\/\/ae01.alicdn.com\/kf\/S9bec96e308f54ac09a7d9986e1e1ba04c.jpg?width=750&height=784&hash=1534",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbfd468aaf64e4bf7b16e8a1644c2db7aw.jpg?width=750&height=786&hash=1536",
+            "https:\/\/ae01.alicdn.com\/kf\/S0596dabba2e741b7b00f3f359aac3757R.jpg?width=750&height=779&hash=1529",
+            "https:\/\/ae01.alicdn.com\/kf\/S0070983e834342dca38fc16194f68caa7.jpg?width=750&height=777&hash=1527",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c7feca6f97d49a38466733d8c513f4cM.jpg?width=750&height=778&hash=1528"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S78959f1ada0d4659b0dd627b51eb13a5l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfdff36fdb9bd4f29b19175409c4cf664j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b315a1758cc4a1f968d7bc07e693f6fm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S494b19cc3d0640df81058f7791ac10f2M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S32370e723e9b4a66a21f64fbf356435e7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secaf8052a56240ef84e9762224e117f16.jpg"
+        ]
+    }
+}

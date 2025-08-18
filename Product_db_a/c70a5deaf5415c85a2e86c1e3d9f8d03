@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "c70a5deaf5415c85a2e86c1e3d9f8d03",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-21 15:20:55",
+        "第二层SKU数据": "",
+        "货号": "DG-203819967",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "饭盒包 便当包 高质量，重量：0.7kg，材质：皮，尺寸：19x12cm",
+        "性别": 0,
+        "修改的时间": "2025-07-21 15:20:55",
+        "原普货标题": "Tote Bag Ladies New Autumn\/winter High-grade Niche Design Large Capacity Retro Commuter Handbag Women Shoulder Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8363d82e1484083bd8cbf0cb9602ed3a.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S376a546ef6dd4cf3bb0084429bfe730fh.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sacc3ddc888704a96944c59db3207f560M.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scabe530de8b54cfcbd30a3480798bbd7l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85c03d1b655a4125956be7326aa0b024t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74d241869b254d5eb76a167f20d7c7d5S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa45b337f20448838e9cf6eaf05ed9cfF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S54a41ecbe8dc49b18976b7f7e57a520f8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1b41b154f294ea9b73dacb7bf0fad38I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef04271e5d38410eb5e1391d9c62dcadU.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sacc3ddc888704a96944c59db3207f560M.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9b9b054264764522afbd708bdcd3df68y.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6f678be4fa534c6885074a659cf4f560j.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S10d3123a52944682a5506982ed9cd3bdR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc2ad5a0fc2f4343ba9c1ec3b7dbf09cK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7225481255b84cd1ab6af2d853e5371bt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa237149a2bbd4cc4b2b97469b3575bf6l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66263f222aeb44c8b0d6e38c09a14ba2E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62ce4f2ba0304d56a067c65217e639e4W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1503be5312b0493e819f0fe4610d1c21C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1b3d5883a98436d80dd0d619314cf31Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4e5fef5245a498ab446bf8df7846b26w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf27c79b761224a85b4f16759a402e8b3f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36c4752dc9e245608685d1e072fff3ff0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09336927eef74a2bbfa6f0161fea7ee02.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9dbcb15bfe774a80b0b86f4029bda939R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9de119b2792246b28c6e1f81b19c1ee6W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18a348352a864cb4807e59dfc637734bk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf861d3a171f415e88a31a6fadb6d0daA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb611130e16ee45ef945d53cb204b7c30b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See496c79b0604b509a1de9f1654a02e8B.jpg"
+        ]
+    }
+}

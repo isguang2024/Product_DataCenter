@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "63650feb69c441829a7a846bad25a895",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-06 14:19:11",
+        "第二层SKU数据": "",
+        "货号": "DG-205900861",
+        "进价": 270,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "材质：原版头层皮+原版麂皮，尺寸：28x16cm",
+        "性别": 0,
+        "修改的时间": "2025-08-06 14:19:11",
+        "原普货标题": "1 Piece of Solid Color Shoulder Bag for Women, Versatile Crossbody Bag, Fashionable Armpit Bag That Can Hold Mobile Phone",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S04e78dc6cee5416589bb79cfcd7c3f80H.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1397d1954f64bd68d35b02ba76da915W.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0cd382a2201b40ca845e1451b9ef9448p.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc67a51dee0de468d8f9b4b3494d996a7m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf287227978fc434bba6747ef34a2c92cY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc11ce47ebe3743608fa72f0381f7fcecP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2cf28d81973d47f7a8da04310799468cl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd105982e0d2047659e1594842e667256i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12936f0daead44e78e89f26123a0c9e4v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S22c4a701908b4614b90bc1679d385b9bS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9fce5afbc4d483e925eabb1f7a14457y.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sc8758173eb2749d38dd1983f9616bcd7J.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb939c8a22fcf4f07b5e62d10c5fb72d9S.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S97fb0ebaba694a66bdeadd84bf027eafL.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sca2eddf41ea442afb7c33a0a15f19a73D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb29dd8f5a3e44963a2aeef2ae0e0135az.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26dcb10e179e4ad79a00983a52b90219V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd13bdf4cd93841e0b3c204401efadd6d8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S991998ba55554fe386cbc76ca0aa6e0bb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16f4aabbc64f4e60b60037f1738745d8n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97fb0ebaba694a66bdeadd84bf027eafL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb294a49948404836842fe1135053fa851.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S519609410f414541a029c94e7387f4d6Z.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sca2eddf41ea442afb7c33a0a15f19a73D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb29dd8f5a3e44963a2aeef2ae0e0135az.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd13bdf4cd93841e0b3c204401efadd6d8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26dcb10e179e4ad79a00983a52b90219V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb294a49948404836842fe1135053fa851.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S519609410f414541a029c94e7387f4d6Z.jpg"
+        ]
+    }
+}

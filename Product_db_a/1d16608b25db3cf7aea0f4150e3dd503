@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "1d16608b25db3cf7aea0f4150e3dd503",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-12 10:34:22",
+        "第二层SKU数据": "",
+        "货号": "DG-205870755",
+        "进价": 270,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.78kg，材质：原版麂皮，尺寸：25x22cm",
+        "性别": 0,
+        "修改的时间": "2025-08-12 10:34:22",
+        "原普货标题": "Cute Korean Style Nylon Shoulder Bag Mobile Phone Storage Purse Small Round Bag Handbags Wallet Bags Mini Crossbody Bag Girls",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S330db2715eb448b79ac345f980bfcc7cf.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc656adc8942040648c24f29900b5fba0t.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S645c6f93493e42188eaf5885ceac0aa6p.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc9bbb82beed418a9d13e3a8808ad30b8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5262bdc22b424223b30ffe6c335953afc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ba2d37b29684ac7978eb38cb2bd829cd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36bb93c2260d4285955307e5865541a4N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf50f412a89a849629f2f365819b21cd1i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd40657c8b1e4f2e9dd3ef3b15e59cc8Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9719c47b7d30408bb6718b36195879e9Q.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S645c6f93493e42188eaf5885ceac0aa6p.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sce77a4e317b848d1b8f65a72f2890fbd8.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa6fcfe929e5e43ada08de48a53eea84da.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa21defcceef24b7395dc908e07011a847.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4aed7959ce0497c92c1dde7db5c0796k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3681a8ad4d5452c8754a6d84d5d89213.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa696a28042d4e639b1689fc98764851K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae7b5b89e9574799a13da61d65ae15bd8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7beffc38ec2453b8d995b073b21131dF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c6ad55d1f9d448182ce6dd01b918ea9H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f6ba2a5834b49a6b6f826805c7b5bc4v.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8507e1c198c49d1a5d598128caf0a07p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdceeda1616b14f26a3ecb2094d9e8aa4I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60d4ae26c72f4fdfa793dcb5a43c2d1f8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b5240501c4c45e88a6e69987c2bfd14S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S259864be78d142d9a8933f28501bfbccN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c47d86ec9f94a0b9c2bc99207dcdb97c.jpg"
+        ]
+    }
+}

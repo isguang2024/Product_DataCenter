@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "2b7da4b9aca740f96ca5f8e5820b255d",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-08-07 16:05:08",
+        "第二层SKU数据": "",
+        "货号": "DG-205313028",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "材质：头层皮，尺寸：23x16cm",
+        "性别": 0,
+        "修改的时间": "2025-08-07 16:05:08",
+        "原普货标题": "Unisex Crossbody Bag - Crossbody bag for city commute, convertible chest\/waist bag, detachable shoulder strap-tan",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd110d7bcb7d425fa8adf14f469fd429C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e15297222564d9b8603a90a173ad29ck.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99d41490360446eaac297731cf37668ax.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S61cf1bdfbfef457ca8992019fdd7caafe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c68240a5d1d4753907f784894fec818K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7bfd0aa1a084eea84f8304ce64e400fz.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S77280f2b43e94f35ad41fb71f5f2b0bdD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c9da3c092344eaa9e3065db1ade1ca6u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7070c76bba94110a23f03faea6f0832S.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7ee26becb0a34087be7e99e7efc98c735.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c1019d043a144fcae9b67dd15d9cc320.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1b548429ff54edcb1c73647e95f54a5r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57abdbac9fbf4d2f9d55d7d69daf2c9e5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d43f72be10b478ab8e49bfd6caff42cx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42c4f8e564ef40b4acd489697c92c114N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ef4e89582a840c2a63397d708d303b9k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9e8dac3b16c4ba2a4feb1d27eba5700O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77280f2b43e94f35ad41fb71f5f2b0bdD.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa059c022c04f4ec09940702785d41a433.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8f5d3feaa18348cbb0004bcaeaed328eR.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S0259680f766d437da7d708f5493ee64aa.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S27bf01aa75f849b1b5256fb78116d08fq.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf2bc65c131324b20bd6274dc85a0a161F.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se26cd368e0e84a3c974d1a1279ca27daG.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefba77ae1c584a808b3e490fc9721e2cR.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf8a8f70bbc84c9b976979b71edc3efa1.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8563f62b61d84de0900d725c29ff782d4.jpeg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se26cd368e0e84a3c974d1a1279ca27daG.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S8563f62b61d84de0900d725c29ff782d4.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea39e04b0c6741d5b14a38cdbb5fa118q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf8a8f70bbc84c9b976979b71edc3efa1.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd278bb16d0814eb59b3b1d1c76254c16v.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefba77ae1c584a808b3e490fc9721e2cR.png"
+        ]
+    }
+}

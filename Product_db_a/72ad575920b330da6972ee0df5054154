@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "72ad575920b330da6972ee0df5054154",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-12 16:48:08",
+        "第二层SKU数据": "",
+        "货号": "DG-206446143",
+        "进价": 190,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.63kg，材质：头层皮，尺寸：19x13cm",
+        "性别": 0,
+        "修改的时间": "2025-08-12 16:48:08",
+        "原普货标题": "New Nylon Fabric Cell Phone Bag Lightweight Solid Color Shoulder Bag Thin Strap Crossbody Bag Women",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb17f5fe1caca4e5d912c83a2ad0a0a0fM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbca389f43284cafb73726bd17857febD.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3f4e9b9626948989105fad6f5b9abf0Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7fa46eec360348a6a76aba811335f7d2b.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc16b4e4e5e2843bf9f2da7b318eab76bW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad2c1eaad2854a949b9798726b4ad9dbD.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc16b4e4e5e2843bf9f2da7b318eab76bW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7a967aeaf6f481f91fd80d3db5d58deM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7af13cf6eba4c6bba25bea8a6637edaq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d6fa4eee12d42f599fe3a9c0732a2e6D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se11e75ba2b134a31803098e48c840d81Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0792e61d37fa4518bbdb593840afa173m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5adbc3bb9da64efca2dc1aa3da501ceb6.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S1e29435aa96e4cbf84e68a965a3953eaq.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S46e4ad22c4bb4481b373c2d3d571b2f4F.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S347dcd11edd0451a865364acea2fdacbf.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5c0f8958b2fb46ab96afe9105380c230p.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9170629216a4542b51805e026184ceeu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d48fb51f7fd408692b0deb40ecb4858J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc08bf5683c624d52973abaeae37982f1y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S338b8f386326449fa36b4f3c0088e953m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S911af55cd67c4b06a3f2eb4e586b3c03T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c02372918eb4032bb6f99bb36759669n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S317a6b9346424e459fb13903dd344f42I.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S347dcd11edd0451a865364acea2fdacbf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scccd616cf4c34d848bfe66747680e5e2u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S911af55cd67c4b06a3f2eb4e586b3c03T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a805244bdc8426cbd35ee8d549ca46ck.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3593f2ec8d13404c934e9f5d2dacf5d0h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9327bb1c7364e0a9bb73007ae083200x.jpg"
+        ]
+    }
+}

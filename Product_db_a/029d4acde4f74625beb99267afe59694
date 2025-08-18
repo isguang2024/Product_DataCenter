@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "029d4acde4f74625beb99267afe59694",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-07-03 16:08:50",
+        "第二层SKU数据": "",
+        "货号": "DG-201194662",
+        "进价": 115,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "手机包 链条包 高质量，重量：0.65kg，材质：皮，尺寸：10.5x17cm",
+        "性别": 0,
+        "修改的时间": "2025-07-03 16:08:50",
+        "原普货标题": "Casual Nylon Hobos Crossbody Bags Solid Zipper Women's Bags 2025 Fashion High Capacity Solid Color Single Shoulder Totes Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2c6f36db93fe4bbe97bb0f061ac3bf6cf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb719d6a896d14721ad6905605083af929.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3e85cc8bdbb44ad39598029512dcb80aG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42373ecc5b9b4feb9708534a1be91966M.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4737b01af7b6496dab658899d751e4b8h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S391203f0c61345a4a7f7be80aee7506dv.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2d35fe6170254b3dbe6adc4d9ae1fa3bk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46a0d4c671dd457e924f198db71683698.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Safa2a02a7fbe4e058da4b048098d4260Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9cd4cf4832d74df2a9c4ab77daf562bcn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e78cb92b33949baafd557a28326fb6f8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4be3cb17d6e4d40be382306368b0723l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S335048f38e5745bd8c8d2d8e01d7dd816.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8121225686e54d5881d1404b67be7499R.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/See19a16252564e48ac8ddfae36bed5d4L.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd53be1dae2e244618acb36628f9ff233F.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S4a744723b3f7405796ee238b84c5fb21f.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9d090dbd109c4474aad58a521050f550m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca97c5ba6fc14b2eaf0cb65925c2e371X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69b5c3b5aded4964bfed0486c7339d5ce.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56a2c9470ae046feab5894dbd499b50dk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See13f3d90c0d4a4a864d9bac9c03a9ee9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf90c0476dd014bf99e60083e667793a4I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0bdb354f24bf4851ba77af22056bb6eft.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se62765637e5e47019a50e8960d084c6dX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e9ccc41ee6243468ba3776b864e3611U.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3760e32d3ca14b5b9f1c250b8a2fb118U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d84ec6234c44ebabde26df0d08e3dedG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc0980ba1aaa41fe8c1b0898a2384569H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2cfb14e8eebc475f9bc538ed4512ba50s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S635056883fa848e19f7cc4159711e7e1q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec68d2be46eb4116b2ba10a9853dde2fA.jpg"
+        ]
+    }
+}

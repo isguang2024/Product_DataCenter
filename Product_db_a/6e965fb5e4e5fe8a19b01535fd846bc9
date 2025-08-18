@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "6e965fb5e4e5fe8a19b01535fd846bc9",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 16:25:13",
+        "第二层SKU数据": "",
+        "货号": "DG-205163948",
+        "进价": 200,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "材质：头层皮，尺寸：18x17cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 16:25:13",
+        "原普货标题": "Large Capacity Nylon Crossbody Bag Multiple Pockets Harajuku Men Shoulder Bag Mobile Phone Pack Sports Computer Bag Outdoor",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sacb08959bb7c40a7a0b0cc9a7bda6e13f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26639c0cc85f4b50a03cc6384fb85f65B.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S00371deb4c454c06b37ab6708a9b5f82v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se98418e2c66c452d8c0bcbf0fc52b3055.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0dd6e7472f8c4b24a0e6563478bf03450.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S964a47c5678a4a1cadf9725bee5f8cda2.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0ff57ffe79f414e9ea36478e7025fe4r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2677392352f34e21a07543fb5bc8d72bU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6743d676610f444c993a150329fe770ft.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57922fcd8688468b96aa464727ab7250r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec7e1bbc99cd423bb901c342de511549U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc474ff19139f4d739c4c35452643bfe45.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7700548f120048db9320703c3732ae1ae.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S17351450dbba488ab920c62296c3e794U.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8f8cd3d676d048c2a90ba1cef5fe4cf9B.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8ab8cf0019f1451795f32ff3de4ac242c.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sdbacd68f7b64460ca1cfcd1b962cd210i.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se3a3fe8d077d4066902709b606b0a958G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf896dc6a7dd143159de3c995bb2d9faaQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sedda5ba28a76482c9c447501d3a1c8598.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sadf1104f2f5444dc8c4c80ace719d0f4M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf519b45b2a2444c972cebe36c5774996.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S896fc73a1e324b328faa7accb3a096bfp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S843b6143ef8449fb9e1927e1420c9531w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S247e6cc3cf454cd1a85f01dcd84b0d89O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0f89bc87051443c91dbd8c83c2620c0z.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8ebdc561d76841239ec17124a4989b2bQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8543687b57b845a5b4e8dc6c85bb3869I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd16a6900085401c98b9f9e10d6f7de2B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9adf1580b9684541a1a48c58877c5ab5U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05af8256c1e142c0aa97dd4e44d45930v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe69dd20cfb14e309185b61b8bd33e002.jpg"
+        ]
+    }
+}

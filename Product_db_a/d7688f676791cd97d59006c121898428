@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "d7688f676791cd97d59006c121898428",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 15:18:39",
+        "第二层SKU数据": "",
+        "货号": "DG-206330129",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "重量：0.68kg，材质：头层皮，尺寸：16x8x21cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 15:18:39",
+        "原普货标题": "Women's Mini Casual Small Satchel Crossbody Bag Korean Simplified Nylon Shoulder Bag Lightweight Solid Color Travel Dumpling Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8ee53ca708e944ae97d769f56d755145l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ee6e5b1283c4c47817a37739e816d40h.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3f87bb29f7f3414896eb941c0eeb86edz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S431b610e37274ac5b669fef0a4eab43eR.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1cc7e0dcac504ef39ee614367995ccc3S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se033178da6794bc281e76bef773354b84.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc23d2d6e191441b0bd6a4c8ec9d55a7dN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde3d7657f08542b0a0a459c1ba4d7a95J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b64e15fbc8e41e8bf06499575805b27f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1bcacac938b47968ed84d7d784c72418.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59fa5e769c854acd8ee59e26023863d9E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se2135afb676c4b59910c71944b4c3713U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S64ad0f2c510d411fa94b0861908357dds.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1cc7e0dcac504ef39ee614367995ccc3S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed3b9b1de2a7466393a8d5a280a1b493J.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S39490369f03b40068d0ef950aef7e52a0.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdf283d71254f4c83b5c6755c3c9cf016W.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3715562823e844feb4e8a359472669b71.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sb9675a1ec7a84068a502dd57c069ac90r.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scb0b6d3d09e948558ea2f52aec20d7daq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd16224787ac3465ab14b1801012fc2e6V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0f477d9c35b469a80309974175b59c9W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9fbd70fabea3493db286f05ccc857d816.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4eed1649773f4becbbac78c6c1f88a317.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefe960a0836a41038282a843dcf9779aS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1410ca8ada8e4cc0ac8e588abf793fc0d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb749d53b18d4dee94f289491588f113h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b9a250fb7ab474492abdac6a23c7903R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca974125cc224d208a4821c9f8b3f30cu.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sed21961d9f554078b0e6fb787a3a9ed6B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72b2ed9db97d49acbe53811326087015Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4abe620eef64ae492c2e3332b37e335R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S957d07b3b3e14213a8bab1f3781917aew.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7941a3c95aa4011ad2d6f6aafdbd4d5k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4102b6c49fa843408fd0de8b52e3fbceY.jpg"
+        ]
+    }
+}

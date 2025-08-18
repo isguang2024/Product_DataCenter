@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "65a01e41e54dfa8af20566c25433089a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-16 15:42:55",
+        "第二层SKU数据": "",
+        "货号": "DG-202941737",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "邮差包 单肩斜挎包 高质量，重量：0.78kg，材质：皮，尺寸：24x27cm",
+        "性别": 0,
+        "修改的时间": "2025-07-16 15:42:55",
+        "原普货标题": "Fashion Canvas Bags students Handbag Shoulder Bag Large Capacity Solid Color Totes Shopper Bag Casual Female Cross Body Bag 2024",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5ffc540e8c74492786f4a0129bdc2d7az.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5fab9ba9327343699ec9e7c1eed907ffd.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6a2456fa15ff49e5b7285ce434026b372.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S474fcde5dfb04726b936edca1838af285.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3940f52d15424729919a92717ba88efdm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b51f6f351c84e0a848c3d0870488cccB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e064660ec1549e3b3bb21820dc47c44p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fe50ba817ec419a8c1652c3cbec4b51B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb84eba4d92834efe81dbd9c0070cc47fK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5781f69cf124a4bac14759625bf04f5W.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sc8576bece9654376aa05cb46d042b011v.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S93c8f16c77254b5d9e6b83fcf32616f6R.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S9e0ee1bb55d846d9a95fd835d0fd4a79k.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5060ac9e2efc4d149446fa4c93b1c7aaN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S54650b6da53c40d5af18d78ce3e1addaA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa89e0582bc2b4daf912e0d1f3c5a68fdr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S54f3edae4a154665be4e21fce72b85f2O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d10f7ff69f2405bb169eeb0396a5f1aD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S161735aa8b47417a8a2fde48f534b061t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1454e0a2e0484e2688e3975ada565e95k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S301ec6d32fe74e02af4ff201ab92a2caH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5158f458bbc4315b9736574564405801.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe8e0f60899a40aca31d72300fb5cfaax.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd91e9245b539466e8bcadc518c25dc4eb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16bd49351f7e432b8667578f08a7ce01k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e151a88ee444e86a5096ccec46ef4e2J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7acdd020950541898393a905be2099f6u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ee2d27123884a21bd980121a1bd1480s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf528d4cf86aa4c2894a11f348b5b0ed9j.jpg"
+        ]
+    }
+}

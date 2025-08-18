@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "a36c1adfbce4935b6519de2b250d24de",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 15:42:34",
+        "第二层SKU数据": "",
+        "货号": "DG-205172636",
+        "进价": 195,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 198398445,
+        "普货模式": false,
+        "商品简介": "重量：0.7kg，材质：刺绣布，尺寸：25x13cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 15:42:34",
+        "原普货标题": "Straw Bags Cute Handbag Summer Beach Crossbody Purse Women Small Straw Crossbody Purse Adjustable Strap with Drawstring",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5e11fb7518f470d93f17318ff9c0f5bz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4c38671783f4be5952ccdb34de65211V.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sea8c43144f074f3c849e5a18bcddcbf3V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66997367b98345fda8e7b4c02bc96d5eD.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc01562813854a40bd1b04c8c38c3632t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S22f8ffef1f024fa7befc6977a3ec58493.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf79cac4dbc02441c9ebb5e7f20f7d21e8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sccab289e20a6427d82b69f9f4cfd55ccZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad6d17004e604dd796e553c8d0391749g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b4d35a19e264794ba9cc8d3cb233760q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S22824cedaa7f4f2eb6b7c3988db59280b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5cc1141e9ea64cd1bb9789d103f4bee62.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b8db51c34ac429880223649992a63ca4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc3da0e44c1246c78cde2f918b105ef57.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S127eb6850478486f89d3e5c84a2cbdb4Z.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sdf4cdf53d6e04a5e80489343a27f47c6X.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S51e391bd866b4f489788bd2bc2ccf2d8u.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sfc2d5826f1284fb1a06145ca17fb4937X.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf58cbe09e80c4de2a001a0d9ccbfa3abr.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S541efda5c49c453fb9e632952abc141b5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21fcf33ac6934dc3974011b8d56c4af98.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0d91c4e9df44c9e81bca0e351236991u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49e63dced1024905b340794fea9ac7d4u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb383c6bf09c47e1ad9ce16faef6865fV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0043a68f0ab947ea99713594f630aab2K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb9ea031130247c38feeba50f4c851edC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a83878fb7594932ade4d35950d1d919v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fe507cdf40f4a599f6c5b2e6d705588W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4cacbff7a1dc48abbd7b48fc8e490f9c1.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb564e2fd6064b5fa2cef947fe43a5343.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S142f2ab868694fa29a90f678ff5a2587i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec37a8820a5c45aaa601f54f3599ccbc6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S081555ba31414762af25bd107bf9406dN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b34c84e98e44ba4a95faee6160ddd3bL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S541efda5c49c453fb9e632952abc141b5.jpg"
+        ]
+    }
+}

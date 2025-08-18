@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "11974ccbc86641dd025a34b4a039b619",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 11:57:10",
+        "第二层SKU数据": "",
+        "货号": "DG-206716391",
+        "进价": 195,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.55kg，材质： 头层皮，尺寸：18x12cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 11:57:10",
+        "原普货标题": "Women's Crossbody Bag - Lightweight Casual Shoulder Bag for Students, Versatile Gym Bag (Large Capacity, Simple and Stylish)-tan",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saadeeebc2afc404fb28832d0af2c9bc4y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S230d0c1a780e4d058e3229938ba0f346Z.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se34a5b59744c4d3bb3b8eb8fc4eafaf7b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb06b43e606d0463d93bb4ae4b9e5d69bE.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S699ae58f97da481e94a7954e272bedddB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S84d84615ea814228811d7e2e1fd79210d.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5027759244114ddd93a20f060192a291y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88140c47dbc243f8a0f3ece9788c1357M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S485bace679b24b3f9547f5d4b0a401aeE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S714ffa92721340329f648f4b78a7b6e7b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40390b186a554e538d838d6e9aa15b74f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9ce1edceadf41379bdb2f398b3d1ef9i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99e70e28ed35403187a2238082dfe996p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se70216aa73794c64a01a90769ffd7f5fL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82489010d4f04a9b8dc02f1a02e639171.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S806cf71b965842a0a1ecd6852601ad22s.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/See544bda362e4a16b47536f64bc130d7j.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7117199c410543d79a56a1ccd9118e0eU.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S1ca3f8da27e44579bcb753d9db1d720fP.jpeg",
+                "https:\/\/ae01.alicdn.com\/kf\/S91db7678715343e78654fa9fd342c376V.png"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbbf0127d8df649779a24a219c9de5fd7u.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S750d7fa1c43345baa31c721265c75c8fu.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4e6dcaa28404fcfa884fbcbebfbf51dX.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7fb0d8fb10e4bd0926ba9f2d3377ac2X.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a974b674dc04158a0d22b8fe6b1a30fk.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89cb6c8ec79648089a6182b32e09d95dJ.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0bd7b808d70f4abcbb927331ab5237e5P.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S066dda5b9c4845479b77798b56ae43eaR.jpeg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbbf0127d8df649779a24a219c9de5fd7u.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a974b674dc04158a0d22b8fe6b1a30fk.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ca3f8da27e44579bcb753d9db1d720fP.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4e6dcaa28404fcfa884fbcbebfbf51dX.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0b8532b15614cb8b8f1aeecd851a517O.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5bbf98cf5f434eb7b76b297d718ed29dd.png"
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "bad526f41e1ae0a6a2d8f7de04b94a84",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-11 12:12:27",
+        "第二层SKU数据": "",
+        "货号": "DG-206446769",
+        "进价": 195,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.64kg，材质：头层皮，尺寸：19x14cm",
+        "性别": 0,
+        "修改的时间": "2025-08-11 12:12:27",
+        "原普货标题": "Waterproof Nylon Women Tote Bag Large Capacity Shopper Handbags Shoulder Bag Fashion Crossbody Bags for Women Hand Bags Bolsa",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S84efba631e7b4f1eb18e3cdb4de5f16ag.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sef3db0c163fb406eb489c02cbc005146N.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8fcb7a8a0bf3438e9337b8d127dbedbcA.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7a22504d949940c4aa13809d634e22e9I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68a16b90a8fa4c1ca22789b13779e2c8V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2529b7e5d2354aed9004f3fc6ff89c9b9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8e374a190d774ce3ba13905858706e328.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S733471d0c93a4574893528baf9c5cd96d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f8eb4fc615c4d8fadd89ec281c27654H.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Saadedd74c4f0456f94fb67b46cca4380t.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S15f5f89567e14511a3ad6fb4829a028fQ.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S2647ceec439f40d2a7d529fca95a0da5O.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scae0c5e277194a088b56d450a640bd0cG.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa276878fcf54c708428ede4284a9926j.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd03f87bd48624c89b92d9781b8e0b289k.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f97f210cef447d0b70ca7a2c8a7ea346.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S2aa7d62335714c93b66bff0f043e2968Z.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c4c6c7bd500469782e7448918ce6148m.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S002818da85734df2901ed805a234a9c32.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S0166b1b173db432a87b104b847f191aeA.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d8414e7f2ac473aa07ad18880dad814d.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb91284787c0c45df9b47693bfd564157u.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S707140e1024145488c7be7134e1450e0w.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Se08fa625094e420988046b531252e195L.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdea1fc8c5e9145eb849314cf482e1791n.jpg?width=750&amp;height=750&amp;hash=1500"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3e3079e66b7f472ba09ca04814583ac46.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63a258de68984d378b133253994a4555D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85fbfc106d8e4c5eaa784a8174698d76K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8466d5568fd4b67aaa6cb70e581247dp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff43fb85abd64addbdc0be68a9ffd6b6B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saea54322b5be4dfda108aca465533fc7a.jpg"
+        ]
+    }
+}

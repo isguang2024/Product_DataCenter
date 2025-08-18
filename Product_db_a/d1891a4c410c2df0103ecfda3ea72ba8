@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "d1891a4c410c2df0103ecfda3ea72ba8",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 16:22:39",
+        "第二层SKU数据": "",
+        "货号": "DG-205165703",
+        "进价": 210,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "材质：头层皮，尺寸：21x13cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 16:22:39",
+        "原普货标题": "Black Crossbody Bags Women Design Pockets Canvas Large Capacity Tote Dark Academia Retro Cross-body Bag Unisex BF Japanese Style",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S91d68ae1cafd4a4b9830ee3f889dc920F.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6f8c62b0a038426490d34591edeafa2bk.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S03bc9c97f5d04ac8bf317449ed67db21i.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3ed35c2139b74fe597c0c00f2271ec2fH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0bc4aa9e8dce4d6eb8cd02c16cf07a354.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa16070c76bc44e0b41dabe56967c04dQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5534f7c661374f3eb257287f344606d1C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4b3d2d16e3c451cb7e74d1ac62d5a53C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa49aaccbec194c29862ea22287bd72f41.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1264f0847ac04b8397496e23aa82f238l.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se4518e038bbc44af9307927680debad8x.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdf8d0a6d6e5b404a9d940fc2d0b60252Q.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7213f0d0721a4ab0bdc02ba1dd87a13fI.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S66a386cb71a7461f8e31ffbac8f1d1edt.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf78d71e92f6499386c3025cc242c8baY.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S66a386cb71a7461f8e31ffbac8f1d1edt.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb86b7a64c2f1409aaf49009100e7bdfaP.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4b7ea933b554ab08f79bfdaadab3ddaB.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e399a82327f419da566fdddb4e23d09z.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S565583346ba2449584cdb56fde6f8e72h.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc366913f74684a32bfce1539505cc4dbr.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S838df287be5b48f8abde4c54cae0fa3ab.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcdefbf42599413aa8e43b71d858a23a2.jpg?width=750&height=750&hash=1500"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4674155f69e14975b8c7458c5f53ec53K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa8615775688475da0ec34f02622453dc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7213f0d0721a4ab0bdc02ba1dd87a13fI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9533760a5c9d4dfd9574b31f39d418a1T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c1c56e26cc948ca83d6841d53a4244ao.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19bde71018534c77b06069d7838e408fy.jpg"
+        ]
+    }
+}

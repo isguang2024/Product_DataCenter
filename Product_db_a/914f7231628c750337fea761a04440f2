@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "914f7231628c750337fea761a04440f2",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-18 15:00:44",
+        "第二层SKU数据": "",
+        "货号": "DG-202962189",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "麻将包+钱包+拉布布 高质量，重量：0.78kg，材质：皮，尺寸：22x4x13cm",
+        "性别": 0,
+        "修改的时间": "2025-07-18 15:00:44",
+        "原普货标题": "Canvas Wrinkle Bag for Women Shoulder Bags Pleated Bubbles Handbags Padded Casual Underarm Quilted Bag Tote Cloud Bag Purse",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S10f672a8a0794bb081268cfc2a2bf974X.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe2da3a8136444769a5a4ed319c2f316z.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2ffae9a1bc46492f85fc9ea8031d1afbx.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S364fd9cc6c7245e9a006fd06bbcdee23B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S448b1364adb44ca181ed7aa2eb42a125W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se837df046e6045aeaa2eead819bd6d8ay.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S379f2fa7a1b4417492798435fa18404ew.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21bd783c123448b586adf2183c5340045.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S157f2e7c08e443548d2af2a85f5b2a4bd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1da590930f1049ff9687645f998bde57p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S373fec072ef845abbdb3608bcecc52daD.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S41f34504209b455f89ee9308602b45737.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdd503a23af3e4c8cbbab84313903fc78W.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa25044326cf740e48ba3a61672ea3edff.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2db5ee99c0154bda898e90e8859ec8c0X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5bc182301064ba4b4cef99343b7ccd10.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19aebe5ae692461e8e8ac174a9d57c0e4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0eb54f7dcf1441609b5e6cd8154afe68k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89a636eaa3084b1baa0a3486415ae6d2D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3cd43afd3044555b8d9e88a5ad67629n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c3936712ac243b2b9ed1467441f050e0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24b3bcd537544ecb91f3488e28c4cd67A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6d740ad6b3045d98b1a6e04d0c07bc6P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0e18f53c0b24f0fb5fc5f8b8e8977b8G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S756e033370414919b8f4aeae42eae45ep.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa353ba206dc54958a923b42089f20e08O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S950a3b4e77304ae29243512fba56fcc3u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S268386db7e2140f79231ef721631d35cb.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sed0d127ac10c4ffcb7778ba7bdcadcced.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3433f0b6aa834a9aba5e876c097b26c0j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f2f15bb975e4828b47e82dd90e059eft.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S995fe07b3ffb4a1e88064203b3eb40a6J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81dad726687b4d8d853bf58bce181b3cc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb68aef12545454bb579c50decacdb3cd.jpg"
+        ]
+    }
+}

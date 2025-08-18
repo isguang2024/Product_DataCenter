@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "4f3add3f55fc4347da36c4abd0e94697",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-11 12:06:02",
+        "第二层SKU数据": "",
+        "货号": "DG-206447408",
+        "进价": 205,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.65kg，材质：原版头层皮，尺寸：21x6x13cm",
+        "性别": 0,
+        "修改的时间": "2025-08-11 12:06:02",
+        "原普货标题": "New Fashion Women's Bag Senior Simple Atmosphere Single Shoulder Crossbody Bag With Retro Small Square Bag Simple Fashion",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa068fc39d408419ba7b120078e53f109R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37ab18ea5e2c4457a79d7786d3e9ca2dl.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5491175eced476595a01eda374e0142M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc08f4ca3b7c48178745d8e05b30b6e1c.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5b99c932197474f8bc5c37e04b94c0cY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1013658a9f4c4e67b04de4ea58aacea0t.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seeaff63bac7f459a96e7d12141a32927i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc277e1275ad24222908a63fc8631dbf4L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See3c6dd1a09d4aa0879f0a7cf34722f72.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb54a82e3d7040c0935e5a2c2465c364r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28b0ffc109cd42e1943dd5eacffc3b2b4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71e8f92dfb5f447586a8770b52bb9720G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sddad359b4e8e455eb2aa5bd18b9c9c6bJ.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se2e27703b2194b73a2e8c0ac4f5bc1cbp.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S06e1c6869bb743ba8d217c712be72d0aj.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S155209cd838d486483a60740ce29afffT.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S8f6f1117f9914e53be730da997ee0c95Q.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa60b3e1968f744e4b545512b373c0509j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1fbc458c6a9e4bfbbf1571cfd4e2778bo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3baec51b358e4d7d829a0bec31c1295cK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20140d8ab99a4374bc4b598c8b1a335fz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1fc3c4bc44724ba89dcb4856a3a8656cf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f9d81d35657487faf69c35d92151810o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97a1e29342d34681a90a2676215d918do.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se5afecf04b3f441797272b3eb77f242bf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2d8100c86f54ff58a160921419743fef.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf19082b709304bce959795de3ec3e768i.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5f5b4249e3c410e82a0623f2ffcf6c3U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S474bfbb634b84016a1a5bde38ce9e0a7M.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S855b57e667934fe2a9f7ed43bcbdfc99v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88b2ea1f71444b41ba9ebe3dd8390f64f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19d0bb64a9b6402b9dae27b280a1e10dL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S012ab9dcbae6439ab0ac24fd3fcfec32r.jpg"
+        ]
+    }
+}

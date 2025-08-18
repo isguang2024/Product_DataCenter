@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "43ad3419b244d85bf295e316793373f5",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 14:56:06",
+        "第二层SKU数据": "",
+        "货号": "DG-206107433",
+        "进价": "140",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.62kg，材质： 牛仔，尺寸：25x13cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 14:56:14",
+        "原普货标题": "Women Crossbody Bags Multi Space Fashion Design Sense Large Capacity PU Material Lightweight Single Shoulder Bags",
+        "质量星": 2,
+        "重量": "1"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S895b862afa394a82b342b661c4cd9869E.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3ea1b53a045d48e5a77b14528e903c72V.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4288f9568b2f40af8114892082b46556U.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/See435ad4ca544b01ac2b3d5f95f798dcB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63f1fc5cfe7d4edab63ad4b288f267166.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a5e6c945635497fac8241deb43c87dbA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62650bdde0c94f76bd9a6b98e43991a5s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S827d0b3fa7f8499fa9b522d302c66fd8q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9d60394601546dcae31c716552b43034.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16ea968286d846288d24c95a752e559f7.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa046f84a752b41b0ae623ced968d1d2bQ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc77017d638fd4ea4ae670cebc353cab3n.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7172753bcf524105b6240e80083a214be.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5e1966598d44116b1f63b7d100e580fD.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S08af917577b740fd89a5a1cf1aa2f320I.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S2dfa9659ba54431e8c06c0d11c1d43b6e.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbede9b9592a94f3aa66f01eb541664dd3.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9a1ce439d77493aa4945b95d8198f6fF.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S16dd6b1e855a44ee98af3cd7e9fb7911h.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S106ef5828b9944b9be6d44dc304e61eay.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b552be857f542bbb12ac07be3779b3aQ.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S2609a315b0ad419aa2d200a0cf494a9d0.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdac9cebdb64b4336b612b3a87b34e291K.jpg?width=750&height=750&hash=1500"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7172753bcf524105b6240e80083a214be.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a41f8a3b62b42aea76534e423b1b34aP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9259483f3ce740fbba997b37a70431a00.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S645833464fb24a95a0b0b4411bed25e3m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf6deba17a9a4e73bd1d36d1b628c032v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf7839d6051d4d75a217e7de31ed2725W.jpg"
+        ]
+    }
+}

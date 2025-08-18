@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "aa9f6fc26be3a6f13552727ef059e8f1",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-20 15:12:11",
+        "第二层SKU数据": "",
+        "货号": "DG-201934855",
+        "进价": 180,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "托特包 高质量，重量：0.72kg，材质：头层皮，尺寸：22x21cm",
+        "性别": 0,
+        "修改的时间": "2025-07-20 15:12:11",
+        "原普货标题": "New Style Long Tassels Women handbag Fashion Shoulder Bags for ladies hand bag Soft PU leather casual hobos armpit bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf67766474fe84bb38901e7fbc9430d88b.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scd727766e61242e5a8a21ec2d0c62177K.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa844d2498b224440b7e6b797d7abd71aB.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2642e2acc9ea4712b813741587c41ad6V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ea4511b66fa40e3bc8d8cce0941a8dfs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8f0b6902d6546ec8ec375ba82cc0275u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5227d1b0bc584b968490940816b1b0a9i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdda2bfc20ed94b978bdb239ffacd70f2T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bd53bd8b87f40edbb952033db7b1dabc.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sdbe628d3fe1f4c5fb1ea2353bdec5558w.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sedfa52d5bbaa4efba2161681441eb893y.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4a192f0e6aa5404490f8f98673e97881s.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9469875ccd3845c691ad20153515a359V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad6cd8d60d334611bc6c4435bf1f4b45Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d7a3383096e4980afc0cf31c5efc989p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3fe4a26880b45a8ba623751b7220a63q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46955452264d4ac182611a09ac4f90709.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb90cb4e205c94de38d2a1de48ff09bcca.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd9bc542a0144d3ab2621687589acaca2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S45dd2b2508b247e9b511a7a533ba6061z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S741513d7532d45ad87f9baf87aea4717L.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4a192f0e6aa5404490f8f98673e97881s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S636470fbcfc044e5a9acff2fbf3381026.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb90cb4e205c94de38d2a1de48ff09bcca.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46955452264d4ac182611a09ac4f90709.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9469875ccd3845c691ad20153515a359V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d7a3383096e4980afc0cf31c5efc989p.jpg"
+        ]
+    }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "98e57b0e1a9f3f373191761425f867d3",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-07 15:14:36",
+        "第二层SKU数据": "",
+        "货号": "DG-205874734",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "材质：皮，尺寸：24x15cm",
+        "性别": 0,
+        "修改的时间": "2025-08-07 15:14:36",
+        "原普货标题": "Lightweight Nylon Women's Bags Park Camping Hiking Small Crossbody Bags for Women Casual Sports Phone Shoulder Bag Unisex",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4cef6b34abba49fe9eda1a020690aa9aR.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9d423859c0e4afd8b22c58744bf9459P.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0c7b3186f10c41329a774bcf1672bef1u.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S427d1f162b7143f7a5797047713f8c14p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3618a82b67c9446781c5610df408f5d9m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S692a41d5e9434249b65cfcbe1cbf8e92b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6678f2e2e23483aa686dd754afb1296Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4ae4ba0a4ee499484d4c27d4c962ce5T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9f292d7587d4709a0c0b807ab5481205.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf321d8cb876440b9df82912b165e1fex.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S971965123f8a46578bffcd20ce1faf5aJ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sa7ccc74d96f445748da9376df566a7095.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc33c951bf2d8430a9bc8b32951c94447Z.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0538f504c1bf44879b35d2dff3055fecv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scad4a4eed5b948edb59b990dcf63b507r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S64eb10d8289942d9bf5e80719809cadd2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5091fc2ce43e4336a52ddadf17688e68z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e7ae1524297480a8b50700d0a165bd5K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S452bf63889bb48a3a48a21c9db3881afw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c99523272e445129a0fe84831942a38Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S057451005a4c4f43888055de8af3f1f55.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79a3e39241e14dc79e80195f95753e71s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S837b7c4a0af74401902665cc8155e201E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc202fc94284e4589a7f62693a325cf2fU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S397d0024687d43b39883df80cfd788adh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2ac0447755e449881bc067a2ebc0203s.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se1b4df77dac14944ad07885be959de4eh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f09b15ae0fd4801890a9c3d444dc863q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2133a36096b04b5d91d5f686764af870l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7311fd276be4350b892872011a3d0bay.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c8a0d3d95324c7882410651a81d1e7eR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0293fdbde524f62a4c9cc5dbaeb75f8H.jpg"
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "6d3bb5da02b0aee8717f7551fcce53b6",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-03 15:45:16",
+        "第二层SKU数据": "",
+        "货号": "DG-201255291",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "拉布布印花涂鸦购物袋 高质量，重量：0.74kg，材质：头层皮，尺寸：32x28cm",
+        "性别": 0,
+        "修改的时间": "2025-07-03 15:45:16",
+        "原普货标题": "Denim Shoulder Hand Bag For Woman Shoulder Bag Crossbody New Casual Jeans Bags Women Handbags Denim Sac A Main Bolsos",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S279b4981699d4058bf49162ba916b06cm.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe22a1814e9247fcbdce2aa96b6047ffV.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0ea34216984448ccb761663aeb432c90R.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4d2c2dd6d62646e183c7b49f83aec558o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98a2318306a54a2ab07827ce58955d7de.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26175b512c394551831e5cc018b775fbj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See453eaffaef4b86a29f6dc27d3052f2X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09df5d6747da41f0a70b834618d04dfcl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a859175cf2b4d019105e5d4f0103d961.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sbe0527c9019b4531bbc078389b667e303.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf2e7f27ca24c4aacb33c2a8cc672e16bi.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8b3da222960649c7bce7bc84b232e400v.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1a7a795671334fbfb03185accfc0ab442.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40ecf9393c2f45cf9c9bc30a9edbf04fo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf51530751a384ac58707dbe8183be8d2Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c8137a442344a43b5269113c8a6de19e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a2869935fc74522be3e3bc8ec12afc3F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1777a1e242934ba391628bdc9cf814b4Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S612cf7f1b8ff4a1cb0570e56e429b0e9G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb08f6de5e2b44aaacfa96c49d9c61f2k.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8ee36731554647dd8d1f85127b5c4bb9D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1244737e314541feb2140de08c40f0f3t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S384ef5f1e37241f1992ca5a735605da16.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc05d0e16373242d4b44f1260821f2ee7N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S580eb540c9ac4cdc88366be824841be9X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23113533eb9c469ca3897c4079321603V.jpg"
+        ]
+    }
+}

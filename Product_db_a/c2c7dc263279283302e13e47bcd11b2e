@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "c2c7dc263279283302e13e47bcd11b2e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-11 12:03:57",
+        "第二层SKU数据": "",
+        "货号": "DG-206448076",
+        "进价": 215,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.68kg，材质：头层皮，尺寸：22cm",
+        "性别": 0,
+        "修改的时间": "2025-08-11 12:03:57",
+        "原普货标题": "Versatile Shoulder Hobos Bag Large Capacity Trend Lady Travel Shopper Bag New Casual Nylon Crossbody Bag for Women Leisure 2025",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8c9a1a015a746458e28cc600ee7fe03I.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1660a446a6614a06b4176fa14a45bb46W.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S876177c903de4813ad8c5191c67df60aT.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd95d0bea7874ea9963bf27e340469bbl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd598308d8adc465e9998695fb7fca879u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb88c98cc0e84005a03ad218034b7819t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c8785429b954aabb3db51d8e6d25f8ac.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34a09a193ed1428c963691982a6f990fn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fc2d309ae7f4fe9809242c34a03b3a5J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe7ea01611534a56a2e0db8012adbc04p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f541d123d574091b0a614cd466961e4h.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S97202e123ada40089c31c1bdb6d65b28I.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S359da5457119480eaf40f8627501b1eaS.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sf4d79201f3b1471faa545c08f6d714fel.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa097bd3a81234839b4d572c76c357078a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f7aa906e3f349939a1aaa2b00df2c35U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ecefeed5a7d4e89942d6229da97bd3eY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S564aa6ce66b34478b665f9b71bc5ecb7d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c0457a22ac14e32844cfc5ceb9fb5d92.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S06b0b71b96fa4d9f96fd6e824c3cfb4cY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49b7464fcd4a49c0a7695e7ba43b4091V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e35032d99b449ea8eba6b6810bfe2d4E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37792e41e8d6418aaaeaf6c937272fdaJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08b247264734403f968be598ea6600bda.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefcbe8e6da5d4de7a617b9a23c253f78r.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8a203d3e74b49499ead6d4aba59a6f2Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8bbfdcdcc384a05bfcd81ca2dd5ce659.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78e599ed7b8d45629a32cd64616f9d48a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb909bf5f111546baaf6a0704f3b1c01ct.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0dbb27db2924f58aa442066b7c46369o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3795d1925a2d4eb8957a254143cb0c2cK.jpg"
+        ]
+    }
+}

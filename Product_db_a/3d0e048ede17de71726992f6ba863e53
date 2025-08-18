@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "3d0e048ede17de71726992f6ba863e53",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 15:06:38",
+        "第二层SKU数据": "",
+        "货号": "DG-206108784",
+        "进价": 115,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "重量：0.6kg，材质： 尼龙布，尺寸：15x26cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 15:06:38",
+        "原普货标题": "Women's Daily Shoulder Bag Weaving Simple New Moon Women's Solid Color Fashion Crossbody Bag Leisure Handbag Commuter Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S947ea73866aa4be6bd27f9a900c8b85c8.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S326d3f2e01b14ed6ad418415dc95e8a2h.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9a150c90d9be44a3a164c1a143eb53e54.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2636468cac254df5aa7451e40373c182P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7045487c99014f74b3fe4fb33a62f4b8T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa683319c5de4481b065102b705bb1962.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65f40f5a4c3a49e5aa173f1453fbb40b2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7f9c3583bf24f228beb75d1539339c4Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S14aa86b17dbb44589de3b7e6f1e4714fj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfcd2b658caf54fadae13d2f5a25d9a6a1.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9a150c90d9be44a3a164c1a143eb53e54.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3cd64af2f5c64a8a865c77bcc32ca1820.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S56914a7824d84cf381112bfd3b058273I.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8d68934572964703a65c215f5ec85320R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c69e6f169be4370b6b59a415c53da5bw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d44981d00054b669aab639aacf3a40cg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3c3dcaddbb1447bb50d79a3ddb8c0cev.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc82ccaacc5074f0597ed431c372f12e0O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3010b81f771542cdb8560575eae3bb22n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac4553d1782f441f8e5d493b14db0e95B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saecd92a84dd5439c89606ffbf1e21d69g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38cf6f052d324a23a43eeda227bef3331.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff640e3ca9fd41d899f85caadf86ed336.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bf6ea8fc7dd47719235193f3368097dH.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S62c2fec445734dea9565d2986bb4aa70w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8340129519bf41e7b649ab8e54dfbb12p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a9f2376d9c74031ab0f7a1949eac509C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6211a9740354deeb7e547ca5a2903e7z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf19b5ba0e5b143fda67d55f7663049f1a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S883a9c951bb747aeb54d5da996195d89D.jpg"
+        ]
+    }
+}

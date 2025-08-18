@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "a64900608f7f4347a508832f54318a66",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-07 15:03:31",
+        "第二层SKU数据": "",
+        "货号": "DG-205894861",
+        "进价": 200,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "材质：原版头层皮，尺寸：23x8x16cm",
+        "性别": 0,
+        "修改的时间": "2025-08-07 15:03:31",
+        "原普货标题": "Ladies' Crossbody Bags Creative Retro Washed Denim Personalized Fashionable Verstaile Handbags High-quality Shoulder Bags Girl",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb53a980fb868478192072cc22e4d0398w.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S65fe6d3a12164f03a64660ed87e5e41dp.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sce782323312b46468ef55c0713723ed9d.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S12bab2b8f92d49169dfb23189f0d1901X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2390467ff9c486883075d27c2822b9eq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ae1df5c12044841b1369f96cc534fb4m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S54b5d6f7ee4f449a92ef3e94d503b66ey.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05f2b9fa9d414f58a47e55117f9bac27z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9042c403c78a47f1bdc9d96945b31dfez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7699cf1cd3684e0681a6ae0cc1371c53q.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sbaa1ac60ae5a45acb8ed195067eb7ddbW.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S5c07044a199a497ca243b219e4fd572e6.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S9ef55f4329a64d7abccba7071068aa30U.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0432e6b0acf4da6a4186a97f22fd49bY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86089bb02794433494945f849692e7a5z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc237f249e3b34adb81f526da2c37fb714.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a7d99f26b8b4bc7b2a32ac1146fdbe4A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sedd71ac747d143ff8bb32f88307eb88dG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2922ccc3822042e79f515749b227a2ddT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2691c64d1ff4cfca5e4a4a99103a8ceV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40359c18e14d4b068a9c9f68ad55153fR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc50ef23650dd409c981998280d082651s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5cde59aa1444aee941fbad3388d71a8W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5a51697d0e44053bc9b566d900e22964.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac79df5c1a134a07b93b90d821f33d5bR.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe028adac11b4a98ad762712e02873a5f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbac182b67154db7ba1296ff990c1b13S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16c4eb2bda2541a19d84d55c34ffc989i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S914c2955752746c0870d368b51d3568aP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3d611143379470b869b7122bd00b424k.jpg"
+        ]
+    }
+}

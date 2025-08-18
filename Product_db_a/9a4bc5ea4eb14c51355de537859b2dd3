@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "9a4bc5ea4eb14c51355de537859b2dd3",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-11 11:59:29",
+        "第二层SKU数据": "",
+        "货号": "DG-206449937",
+        "进价": 230,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.78kg，材质：原版头层皮，尺寸：27cm",
+        "性别": 0,
+        "修改的时间": "2025-08-11 11:59:29",
+        "原普货标题": "Handwoven Straw Rattan Half-Moon Beach Handbag Large Capacity Women Summer Hollow Out Crossbody Shoulder Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saea6d74dacc74e97879c05ef6c3f0bc4s.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf16facfcd7a24a8cb1f6e7cc9bd50575I.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S099b62d6ebc64faf9ce33ad3cc816d961.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S166bf18519f545e2b4d1886ffa376262I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S06543c10249a486182e004520ec98357Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S308aab9e36ca40a7849dbacc7989a7e33.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb87208fead6448e787579bd62df5ad2dA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94204759576e46cfbe52b2509342cd259.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S386c91ecf5474324b0aed3be7d6ae0ado.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0385083667a2492e90ef242cfbe9a651G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b049beb4fb742f3a71374b1ce84611eJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3966518f136040279c39539e8336b2b0E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0168eeca23834d669383c52728b09732r.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S098f40ed2d5b4b049530106df3ce597do.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S65212c347cfa4fbc9d38f744ddc334f6k.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S39be047ae72c4ceda6830c5aeb630626T.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S09804c1eb6f34c2fa680df8bf4f60a1dY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7bf571c32244fcd9b58bfc18a19c9daM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2b07955851d4a569ee5b2dcb616a7b58.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13f3002c3fe04733849409afa808c95bS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d0996c937614ed9a7507a4bbe25a918D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10728ac5807f4905ab6ffc7fe0160d1bk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S846b9e9a9d7c48adacd4b698d0f56596B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94d8b909976b46f78cbdee4c9007e3c80.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40b0697129d44970afff297972d45126K.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5fb1b9dc33ae4b87849655bcf6075717Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S891ed26c02884c5cb8085aa11a08331es.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9df981520bf4dff9461d46c70833989c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d0996c937614ed9a7507a4bbe25a918D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S846b9e9a9d7c48adacd4b698d0f56596B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40b0697129d44970afff297972d45126K.jpg"
+        ]
+    }
+}

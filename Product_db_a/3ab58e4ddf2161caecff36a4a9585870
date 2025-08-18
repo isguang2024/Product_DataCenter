@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "3ab58e4ddf2161caecff36a4a9585870",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-07-03 15:30:30",
+        "第二层SKU数据": "",
+        "货号": "DG-201256366",
+        "进价": 195,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "手提包 链条包 高质量，重量：0.72kg，材质：头层皮，尺寸：23x12cm",
+        "性别": 0,
+        "修改的时间": "2025-07-03 15:30:30",
+        "原普货标题": "Canvas Messenger Bag Ladies Big Capacity Handbags Shoulder Bag Youth Girls Student School Bags Fashion Men Crossbody Bags Bolsos",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1b0094443564bad9ef2ad54676653b3t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42de7d5fa08848c89f850481cd8faf46N.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S436e3228125640bfaa86b910f29edda9m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd9e252a0d564adfbd8de6e2dcac7ac2V.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0d91b2c4b04640679d71dab56bdb03769.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48d88c7db5254b72ba1fc4d4c849af8dG.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S00182ddf70c140ef887278ee0900fffc9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb29a41a906814ecf910eb22f2d01f67ei.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S160a2d0daa29499f9fb7a2cee95e4b9cN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2eb62cbe6c004950b8434eb3f5a3872bh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce0d389c0a474e0e8ae90aba8936041aS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf59c444c55e84d9ea1c90c3d70829e371.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0517c02051134c28bd2d1dc1241582f2t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S416044ba9de64e7e97e412d6cfd67398P.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S2bc757b27de543568da085a8c5915041D.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S66251fe6ffc54484867bee5d3b71036dY.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3b3493581b584f01ade7bcb2feac621dt.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Secaf8052a56240ef84e9762224e117f16.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9645fc22647b4f29a65427453a0ad3cfZ.jpg?width=750&height=786&hash=1536",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb1a9df3dd6c47e8b3c09368778206ebl.jpg?width=750&height=777&hash=1527",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdae667fbc595440ca5ad35a36e3cf68fN.jpg?width=750&height=777&hash=1527",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3f1fc7766204df4810eb6f6d548c31ex.jpg?width=750&height=778&hash=1528",
+            "https:\/\/ae01.alicdn.com\/kf\/S9bec96e308f54ac09a7d9986e1e1ba04c.jpg?width=750&height=784&hash=1534",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbfd468aaf64e4bf7b16e8a1644c2db7aw.jpg?width=750&height=786&hash=1536",
+            "https:\/\/ae01.alicdn.com\/kf\/S0596dabba2e741b7b00f3f359aac3757R.jpg?width=750&height=779&hash=1529",
+            "https:\/\/ae01.alicdn.com\/kf\/S0070983e834342dca38fc16194f68caa7.jpg?width=750&height=777&hash=1527",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c7feca6f97d49a38466733d8c513f4cM.jpg?width=750&height=778&hash=1528"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S78959f1ada0d4659b0dd627b51eb13a5l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfdff36fdb9bd4f29b19175409c4cf664j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b315a1758cc4a1f968d7bc07e693f6fm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S494b19cc3d0640df81058f7791ac10f2M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S32370e723e9b4a66a21f64fbf356435e7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secaf8052a56240ef84e9762224e117f16.jpg"
+        ]
+    }
+}

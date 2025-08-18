@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "3f7156da66f5a41b8e3c793d0fed38bb",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-07-16 15:30:52",
+        "第二层SKU数据": "",
+        "货号": "DG-203017038",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "托特包 高质量，重量：0.74kg，材质： 皮，尺寸：25x20cm",
+        "性别": 0,
+        "修改的时间": "2025-07-16 15:30:52",
+        "原普货标题": "Canvas bag shoulders drawstring bundle pockets shopping student backpack bag cotton Pouch for Gym Traveling storage bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se469fe12bfb446fba2b29735cbaef421q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S696ec4b2ec6748c396e8825c004fa84aZ.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd110dea874a48e285042ce83b71d635A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09315ff8f2154135a04ff871a02c24dfB.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sae712fd7745d451c8cd09642d2140294U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed7456c18aaf4136b78d8a22c57ab694x.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S63a5fbc1df9045b38cee7d1256c84b9cT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7ba4c38d1ce446ba8ec55dd6ab1a2e4D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S92cd7d1ffdec4c43bf4d9f2153e5e9ac8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbb297ae5aa542d6a70859795d0c2992L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbed4c9511efc4dd0802448e565c3f2ce2.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S60983e94c35b4e0e8d0e08b22de8d5edH.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1c3304702ef848109b8f057f550198d8r.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S26e048b9c7024697a5f652e2aea703e61.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S264a923d2a524588948565cf1ddf1d04e.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sed5cb3314d1a427db71bf38bbb65cc80u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1837c5ea718c482eb3fbf1f84ec19500a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S383bb7ef3bcc41da8948da0712d38592a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31c8cd420f6e4657aa3d1821132ea2c6J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05710066ae3b46c28705537aa560cd80U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S799dec993bd746a298c2e1a7a5018915e.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S695f1cec302140c69c58d7283620cb05Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26e048b9c7024697a5f652e2aea703e61.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S264a923d2a524588948565cf1ddf1d04e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0595dbc0037341c98104a9b38dcf3ecah.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9481236942c7434aba835dddf2b67ad0o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79502fb5b4724d5cb852fa047160fc70K.jpg"
+        ]
+    }
+}

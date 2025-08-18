@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "1c97a98de37a3c18c48dbbe6cd7ba883",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-07 15:07:11",
+        "第二层SKU数据": "",
+        "货号": "DG-205876682",
+        "进价": 200,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "材质：原版头层皮，尺寸：28x8x22cm",
+        "性别": 0,
+        "修改的时间": "2025-08-07 15:07:11",
+        "原普货标题": "Neutral Party's New Style Fashion Small Compact Bag Leather Shoulder Bag Street Small Crossbody Bag Phone Bag Crossbody Bag [The",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf83f92a90a4243359cf9ec57a7d0436cM.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2a1a7bd018c946f9b3427659a92ddaf5v.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S03279ceb3b4e4761ac83a04cc929f6d3d.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S804af7960ef34c1698d29a4d54126520l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8d746b7fefe4562a7cd176fce8ae1d4M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa285c87be66f4551aa3ecf7b08e74a6d3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf71b8129fd934957a192e6e94e904bbcO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d3378dfea354eecbe72356ffd25436eD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scea93bf647634c969b747169a58ba71eQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8e7db19ac8440be9511e4306456b905Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15b5151b0e8940ec8cf4c92c169fbfaaZ.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S03279ceb3b4e4761ac83a04cc929f6d3d.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S6a4a1ea9f458464c98659d0100d77598p.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S1afdffed7b354d1bbd583e81bfd84f9fi.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S004602c04bf448ad88200a96463bc5b1V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4e5cdadf6ba4b319880245843ef8844o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41dd2fce576e4145abcac988d07de221Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ef878d345da46c39f5a2647fe3d250cp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21248db3d7d7493ba5c62ec502920fd1v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb44a34b43adb4a8da7d1820cf695dae0u.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S004602c04bf448ad88200a96463bc5b1V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4e5cdadf6ba4b319880245843ef8844o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41dd2fce576e4145abcac988d07de221Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ef878d345da46c39f5a2647fe3d250cp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21248db3d7d7493ba5c62ec502920fd1v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb44a34b43adb4a8da7d1820cf695dae0u.jpg"
+        ]
+    }
+}

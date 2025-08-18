@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "f02ed458daf6e7e018e74ca9dddbf9fe",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 14:15:57",
+        "第二层SKU数据": "",
+        "货号": "DG-206715035",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.45kg，材质： 皮，尺寸：16x8x9cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 14:15:57",
+        "原普货标题": "Innovative Mini Bolsos Purse And Handbags Mixture Versatile Vintage Tote Bag Simple Atumn And Winter New Vertical Box Shaped bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf28537a871a442cab5d5346012daa3fbD.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sef872ac625204a278d2432c021b3c342C.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saf66fe948a4e439996d33c0e0a7649b12.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1086e7aebc4044d3943d5286d2aa90c7A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S846838dd8f004d739d9f77b2b8be1570h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a0fc8f72eb14be18b58a1827962e342B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f526bf2590e4301a27626bf8c3df46ep.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3eb177d588874c8b9cc09a7a9019ac16Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99bf95c92124433e9bf6939b9bfbca53K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa724d98a1ca54c9583878afbd61e3c6bb.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sbf699cee978f4e61921a9fdf8e39631fN.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1914efc98849452fb0defaf8be945abdS.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sde214f6e17774c6fab7fe533e6bb8af61.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb1e345cebe54fb683ce2a5cf6bcda047.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S429389debd1a4e818325c5dbc2091350K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6757b2cd8ff54b1dafe60477794f4f3fA.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S02f53b38f96e406c908e5106c2fde962R.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fd9f7892b1f421994912104040a0016q.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S24acdbf0498441c7a39323eac99f8058W.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S225cf728e9174d05bef66ecaab239b27g.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e512f3ddc97404bbbbb821507bf3c22Z.png"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7d611ee8bdb14b988d20908298eb7aaeb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde214f6e17774c6fab7fe533e6bb8af61.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b9780679e4f443ea32455a20d0a2769u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b5a7b00942343929775e2a8415be265X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb38d9c402f4b4f71b6f490c2c10454cci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ecb7aa610f043bd8f1ff2fb4b5414e4w.jpg"
+        ]
+    }
+}

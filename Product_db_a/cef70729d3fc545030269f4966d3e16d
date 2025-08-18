@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "cef70729d3fc545030269f4966d3e16d",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 15:23:21",
+        "第二层SKU数据": "",
+        "货号": "DG-206329713",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "重量：0.67kg，材质：皮，尺寸：15x7x14cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 15:23:21",
+        "原普货标题": "Mini Lock Buckle Shoulder Bag Leather Crossbody Bags Women Lipstick Coin Purse Storage Pouch Handbag Metal Chain Messenger Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf836c977f3584f28b1f493c1b5774d09z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa165424981874bcb83eb2e35cf89ead4X.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se1dfd2fefc684359beaceb95b7e005fef.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8ec6953883e49e2a830cccfce4ee403E.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9647eca32d2b4caf927a4171e86fd60bf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8da4d6612034e3fa8c98a775f15abef3.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S05aa983fe1884cabb7f41d39287502cal.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb250209dc58c46419ca6c01856d94fb6Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3847ebbbfdc84e9c815898a0d79923a76.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sabcdf43f94da4b60bbccd4a71477cfcao.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31c02944b7274df4bb61d23c3b36b26dc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd93cddbeda0148fb9021d3d65194cb30V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1d60a2e79db46d9b5d3c4767fa5dcf16.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S45fcb585f6cc4b31858515482b6bff61M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb388775760e471fbd969aa12ec27523T.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S2a2dd7225f6e4a2880d00f3d0a25f082I.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2b66bbe7d11d47faa1d2f89fad7bd201I.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S5c5061dcfd0b412592ead9ccf0f92376D.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sa5ec5dd835a94ebda1e2e38ccfee4c57D.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4df6ba19e594eefb1a070e7f8bf72f0m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c1a120d19014590b2af698e15acdcf6G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66fee048a4f84776bf7a36c7382e9117i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7e541a1b1074472a8942c285515b1828.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc93ff6ccdcb74e2d9b655309089cd80bG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S32d92849010844b584040ea1e84f8f68s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac54650582a74961864f3b81a706bb8cF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9c883bbd7d843d2a0c8552e57342bdfH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6214b358c24d4cfdbc6c21b2b7dee8c1y.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S16965b386cf247949f1fb056e2df7f88d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b9884da47364d149eec066feaa35deaF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c5061dcfd0b412592ead9ccf0f92376D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5ec5dd835a94ebda1e2e38ccfee4c57D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S848deb5ccda246bcb68888abad26905c6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0b3661c6dd84051bc98fac123405b59w.jpg"
+        ]
+    }
+}

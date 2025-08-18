@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "ee35487dc80f63ba6f29377fb3159d08",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-20 15:21:33",
+        "第二层SKU数据": "",
+        "货号": "DG-201934788",
+        "进价": 175,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "水桶包 高质量，重量：0.75kg，材质：头层皮，尺寸：25x20cm",
+        "性别": 0,
+        "修改的时间": "2025-07-20 15:21:33",
+        "原普货标题": "Ladies' crossbody bag, double-sided corduroy hand-held large capacity tote bag, shoulder bag for class commuting",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc72710844bac492786d463d71850a8eaG.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3f00d447379e408ab234236321ae750cU.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sced9e2f90653431a89ffe1cba92fec922.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S314a8e349ce94af2840ca253d4e8b231y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f93becfba9848988e04f98e2ad643895.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd33f182b720148bcad5df233a83a658af.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f67a1b667c548b9afbb26541eec6e96w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfebf72997eb549f48794d4274e17d7ff5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S377f74609dd5431a88ea4c8fe2470a72U.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sea3d14252e1740a393276e29383b1945v.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9844c83db11e4959a2e3908e6d14368dd.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S2c402e903f1f4346b0e6047ffce853daH.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4120c8f9beb24ad5bc62052bf1f91318G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a8461fd9e934afc9187e99fb74946d4j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd481118dbffa42378a8fcd252a2a8ec1N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5b187c789da4dfda99737ae7fbca6533.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1659f4c33e94469381c3ad6b5ab107b70.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0406d909758f4466b5641778f0d00a41N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea764a85636e48be9abebe790b79c7d1j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f83922fba3e4b73892f331334393f4cj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbef822bc7aba4b76b96efd7b9893670aO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb654e76da174d21b9658d7f6d164c760.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9d990f1e64604a6c941b8b74bf1b4293R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a8461fd9e934afc9187e99fb74946d4j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5b187c789da4dfda99737ae7fbca6533.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1659f4c33e94469381c3ad6b5ab107b70.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0406d909758f4466b5641778f0d00a41N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4120c8f9beb24ad5bc62052bf1f91318G.jpg"
+        ]
+    }
+}

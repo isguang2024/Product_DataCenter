@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "9c47331830baafa728f0c51056f01d2e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-12 16:43:11",
+        "第二层SKU数据": "",
+        "货号": "DG-202615010",
+        "进价": "210",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "单宁枕头包 高质量，重量：0.8kg，材质：原版头层皮，尺寸：30cm",
+        "性别": 0,
+        "修改的时间": "2025-07-12 16:43:33",
+        "原普货标题": "Fashionable Crossbody Bag with Drawstring Accent - Spacious & Secure Zipper Closure - Includes Stylish Bag Charm",
+        "质量星": 2,
+        "重量": "1"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saf476173789e4205b151579dee3cf198l.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3e0fa5285de74b589991eebd6189fd92Y.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scc11a76002da48d3a7a38c548c352d64l.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S41e9266325114f2bb21b86eef9a9460cN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70e389a0e7944e538b6410af53f151f3E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2bcfceb37f454cae8d110bba07c8741ej.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf1fc998251b456b9f48b6dc5eb0040ei.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0f917067a9448a9b19de844ec5ee167P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5f1992761794875a8d01fe6ae4d8bccB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbb94c2531ad41ee8a1f6b088779e2f9d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b4f997066714f62aac1d688b69d1478l.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Scc11a76002da48d3a7a38c548c352d64l.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S07cb7948005c4a76b877b6a35ff0baf4a.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S26a0de9616234cd4af94936f490b67c2P.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S25ee2c46be35442d8306c203eb73bc9dj.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3da23ebc90242539a986712b4399cecC.jpg?width=1340&height=1340&hash=2680",
+            "https:\/\/ae01.alicdn.com\/kf\/S99634064f32f4e6398bc0d1739358dec8.jpg?width=1340&height=1340&hash=2680",
+            "https:\/\/ae01.alicdn.com\/kf\/S6999eaba9eeb4b9eaea3b187875349bc4.jpg?width=1340&height=1340&hash=2680",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf39e5cc43ff54af3b34ac7636f20b0c70.jpg?width=1340&height=1340&hash=2680",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebf295ab15e640b6ae1dea7a27d86130W.jpg?width=1340&height=1340&hash=2680",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5fb21503ca04499ad11f5e9e8e14144z.jpg?width=1200&height=1200&hash=2400"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0c47318a2d44b3abf7d7c5796f4974cn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ae449f991cf4e719366429fb5277133C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8efe73bd7386489cb0412c6ba331e87bz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0ee77f6ef9e4cea8c497769a58c8c13u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca8562bc03844398ad8ba33e17943bf1o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b2c499e7fca4672ac48a50d96ef3bdeP.jpg"
+        ]
+    }
+}

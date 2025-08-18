@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "0a063022384930ba37242e5e71a0a37c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-07 15:39:14",
+        "第二层SKU数据": "",
+        "货号": "DG-205313818",
+        "进价": 180,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "半月渔网包 高质量，重量：0.67kg，材质：头层皮，尺寸：24cm",
+        "性别": 0,
+        "修改的时间": "2025-08-07 15:39:14",
+        "原普货标题": "2025 New Fashion Summer Large Capacity Casual Nylon Women Shoulder Bag Korean Style Hobos Bag Youth Crossbody Shoulder Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S595b7810636d43beb82b36d46dd2befch.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S462c1bc5afa84d299386e578486f00aeN.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S696e1750cc764e1a9cf46095f0677367s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a1bf2a946db48e1b85efb0c601ad925L.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0bc541c7902c463ab027429ee7c45351Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38c94b7e5ac64852ab03d41f43cd2940A.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9f1329b8420747128c56885104a7bbbbJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5a47b85fe554978bb2130869983d1b2I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e77ad3cbf93419480d35f0d61bba3d25.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a82926728ef452bb235b1cbdc0a6bb11.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38c94b7e5ac64852ab03d41f43cd2940A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef9e74879c874cd0930e90b1f53643b2G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0427b8f267ed4e8f90281aa35fc64bc3u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f85b8204a864cf0a73d4c5f8b0f7307o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc96626eb42c849718bbbdce38d5bfea51.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f2d4dafdddf44c89256cfaabaaed942M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se99ec849309b463b9e8d7c31a916c14a0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5631041a324c4dd6b6c55861e4d21576G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf54a9a90a08648abb05e78a9cd98433dX.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S1023bf6f26ef462a81c668357ac6d8fcx.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdb5b6b810f2d422dbf01a226c39a67bbm.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Saf38cd0412ae48f5b0244268b5ba85bbO.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S94d38f65867a4da8ac58bbad89ff1795s.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S89114033405649ac9e58d965e96147e6G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b17e16fc8984a549fa34c8a9edb04f0H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94d38f65867a4da8ac58bbad89ff1795s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44d5b59499ed411da29f5017549ada72Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6dd7e21acf7b4f8ba3b3759fe12d9628E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Safa2fb7d6fc2442a872328bbac022060K.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S89114033405649ac9e58d965e96147e6G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b17e16fc8984a549fa34c8a9edb04f0H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94d38f65867a4da8ac58bbad89ff1795s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44d5b59499ed411da29f5017549ada72Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6dd7e21acf7b4f8ba3b3759fe12d9628E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Safa2fb7d6fc2442a872328bbac022060K.jpg"
+        ]
+    }
+}

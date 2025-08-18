@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "0ac307999dcec21a229705a6864d3195",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-08 15:32:56",
+        "第二层SKU数据": "",
+        "货号": "DG-201082160",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "樱桃波斯顿枕头包 高质量，重量：0.7kg，材质：头层皮，尺寸：20x15cm",
+        "性别": 0,
+        "修改的时间": "2025-07-08 15:32:56",
+        "原普货标题": "1 Piece Large Capacity Tote Bag fashion Shoulder Canvas Bag Work Commuting Bucket Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seb945e126c5343ddb5aa95ef592e5e0eT.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sad29806480134518a44c8bf7d5c7b8ebC.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S309aa3e9a3a54faf986a8babd45c259et.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se03f66631aa044c195f195d7241a6a57P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5892c6a3f02a4081b0297ab1999b2e845.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S580c7ed2626640f8a2d231667915a362A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0078a090c9164ec2acfde14117bb89419.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9b27511087143d995cdab18c3eb862dB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74e9e8de03434f1798ed67f95041200dJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c529315d52b4cf7963967c4f177b1e0H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2fe70ec2063843e39be3ed113bfd2d294.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa241ced488eb448cb8b2707be9f02a16D.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Scca18128390f481a9184c99cded46f636.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sf4dc07d3d928440ea8afacee7e387358G.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4dc07d3d928440ea8afacee7e387358G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c0efcc225914a0d9566cb130b281915A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc065023d2c2b4b8eb4f4803227d58fb28.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0faac3a9c8243a5bbfc5532eddc8fbbo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb7be07ebc314c499ce24d00eaf318a0v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa67f72a656e45eb994001a21c71aa41u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S589e68d2f1aa4af1bf4bd2a07dcc0a72k.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seb7be07ebc314c499ce24d00eaf318a0v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0faac3a9c8243a5bbfc5532eddc8fbbo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc065023d2c2b4b8eb4f4803227d58fb28.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4bac8ad7e43245d5b16d3886a918f565M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa67f72a656e45eb994001a21c71aa41u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S589e68d2f1aa4af1bf4bd2a07dcc0a72k.jpg"
+        ]
+    }
+}

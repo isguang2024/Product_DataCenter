@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "d914613ad7ada63c132412503dae0d9f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 16:11:51",
+        "第二层SKU数据": "",
+        "货号": "DG-205169316",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "重量：0.7kg，材质：拉菲草，尺寸：20x22cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 16:11:51",
+        "原普货标题": "Fashionable Retro Large Capacity Woven Bag Beach Vacation Beachside Straw Single Shoulder Slant Crossbody Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0bfa5dbc36f420fadcec1e04da8f042q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7cda6c0ecd24e9c884182637609a023r.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6c0503c85d6b4dbc8ff77dc0f84f664ff.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc571a14c87b849e0b6192e122db25ccbh.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7eb8b3efabf047c8bfaa273e10934768S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1439b0ca8e484feca518ebba2add17baR.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8f706f355d7541319f764ca5c41afed9Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c6d46693d5c486a8d663e53ea410dfdo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21e8b3404b0c4bef8bb27d43bb4af8f2v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa24411c28f23444e94b00bb97f26d7d0r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a6c2e656efe4f21a6862f48462c76e0W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7dd59a065f264ffcb5880b1879a11d44K.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9ba4174144d242218ec69e8970fccedez.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4af6feaddf674fe689fd523a6f6356d5F.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc06501db71e14ec58d1b9f4ecba475edn.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S27a6c726e89d4890a4bb846702d72b20F.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S27a6c726e89d4890a4bb846702d72b20F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2883f70ea51412294e2772fb3ffe1280.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8cfe034cf2d44dca725eaab257ad969v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1019584c6b2d45b5ab80f233d42eb5b3c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a0ce68e27a24508ad5dde8c4dda4044Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc06501db71e14ec58d1b9f4ecba475edn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff6a53201fa6432fb707968d09e50a626.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S27a6c726e89d4890a4bb846702d72b20F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc06501db71e14ec58d1b9f4ecba475edn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2883f70ea51412294e2772fb3ffe1280.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8cfe034cf2d44dca725eaab257ad969v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1019584c6b2d45b5ab80f233d42eb5b3c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff6a53201fa6432fb707968d09e50a626.jpg"
+        ]
+    }
+}

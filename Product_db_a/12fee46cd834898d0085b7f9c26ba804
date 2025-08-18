@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "12fee46cd834898d0085b7f9c26ba804",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-07 15:29:07",
+        "第二层SKU数据": "",
+        "货号": "DG-205868915",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "材质：牛仔，尺寸：21x10x10cm",
+        "性别": 0,
+        "修改的时间": "2025-08-07 15:29:07",
+        "原普货标题": "Stylish Men's Bag, Business Travel Shoulder Bag, Large Capacity Handbag Messenger Bag. Perfect for Shopping, Work, Daily Travel",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S61e0671932814c19ac09dc87d7ae76fdM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30d65dc0b7c442c8a54408e81dfd4a61i.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S600ae8e90c534cda8df753613e4030bbe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa997f17304eb4f8eaab8963f48ee266fm.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4844152b9791461a9fede4cdc70637a83.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8dc11e64c20848968d23fa966346aba01.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd19a8cbf3fd74566a1571dc205136264L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc08e36fa3b6644e3a074fe19cb43f4749.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0e69a7701f34a2185143f9978b98f7da.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98ce824b30d7445eb8694d08e2762192n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4cdb7f7c0e564fc8a0fa65dbc0acb0c0V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S101328a4aa7444a780db3d093655242a2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb20c7b1465884d90abab6e25594d2f34X.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S853047accba24df2894735c878b55eebm.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sabfede15b3e24f5ab9b58e6321e283a6q.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sda49b5b0334546d78d9a8e972b68b9f7U.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S3af8b5cf1af04aec88a014cc903414821.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa161c1ff0e034a8f975d438fae2f8bb6O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61cd48d4c7d34023a91b0000a3268f8dA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfd5f1e3d376499b91745ab517fb4e62q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3cbb75ec4da74f05a82f9b5efda19b57X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3470ee59c584fecbb25dd375f97a6db2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S145145dc0bf14081be41d4f8db928e20l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se40633806a6c4d4090d06028fe852483w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S579a608e364c48fca286cf52a5369947w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6bd6e1f3a46744dab8785c556c4729d72.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb76e2ce057234d1bb36c4a6bac786d374.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11ddf9657aca4f60adeacd0472a0f4eeU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28d080ba4fe24bd0a7d3afa5cb3b3701j.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3fb895850c144650922e8798a0a60b1bb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfd5f1e3d376499b91745ab517fb4e62q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3cbb75ec4da74f05a82f9b5efda19b57X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3470ee59c584fecbb25dd375f97a6db2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11ddf9657aca4f60adeacd0472a0f4eeU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28d080ba4fe24bd0a7d3afa5cb3b3701j.jpg"
+        ]
+    }
+}

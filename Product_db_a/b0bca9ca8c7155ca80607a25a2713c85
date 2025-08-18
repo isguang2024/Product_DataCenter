@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "b0bca9ca8c7155ca80607a25a2713c85",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-18 15:06:29",
+        "第二层SKU数据": "",
+        "货号": "DG-202955425",
+        "进价": 205,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "手提贝壳包+卡包钱包+拉布布 高质量，重量：0.76kg，材质：原版头层皮，尺寸：17x18cm",
+        "性别": 0,
+        "修改的时间": "2025-07-18 15:06:29",
+        "原普货标题": "Women Corduroy Tote Bag Casual Multi Pocket Handbag Adjustable Strap Crossbody Sling Bag Zipper Shoulder Bag Fall Winter Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1dce22523748416c8eff288f6e22c0d7t.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S22d1b48885bf4e2591de97d46d9b99e8G.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7de16931e4149e5b9ef5fc62fdca125E.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se37d0ed429b34c7d97f5c86febf10901b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5931649c4eca48628b1f7a9ca19fe144M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd8e009870eb4dcdba3cf976b499ac5ap.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secd05862fa65416ca38fa4ec21a0a1f6B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scdaf18f3e614437e9d0ce6bb4e09de6fo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00816da7a69444c883fba551608c7bb2M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf64bba09dd0c4dddab89c59c02b932ecG.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf7de16931e4149e5b9ef5fc62fdca125E.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd42b7b0943d74d54907753b339f6fbb4R.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S77b75e1cb37b405ba5c797cc9ca59891q.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S522d5aa9a50645c5928af9214267df0e7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05488341502440099d6a21372a3744a2O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec728bc357234ca89146840ca03db129W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4814bde49eb341edb79d5b7fd201f388J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se98d13946a3d4cd99cd7a2a460f47975Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hbf86e21b58834cec84e7f53a5b098277K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saccad6a3aa394915b4824328a28ef4e43.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50d0710c57d845798eabff7d24683f704.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99115c63a5ec4dc4aa5f0523185396b9Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf463c36706ad4b41b43358f9c551e5cfs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S828cec96d8cf471798b68340410d9460r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9413916789094862914067ba8b2e4a73k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3dd006a514694cebb3ad1e6e0a6b28b1X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S041a9a27341b46b1b72a7538fd78c85cM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf024399e5a8b44e6a4c8827516239186M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e9e124a97a34b0abe01f4c3732d9cb93.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S50d0710c57d845798eabff7d24683f704.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9413916789094862914067ba8b2e4a73k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saccad6a3aa394915b4824328a28ef4e43.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67cdc9ab1c4542cda1396dffcf68bac9c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ce44c1c355a4aee8fdf37d5435c8936k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf463c36706ad4b41b43358f9c551e5cfs.jpg"
+        ]
+    }
+}

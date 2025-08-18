@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "32ee96b910905e3aadb1223a90f2d7d5",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 15:40:53",
+        "第二层SKU数据": "",
+        "货号": "DG-205173516",
+        "进价": 175,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "材质：头层皮+麂皮，尺寸：17x19cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 15:40:53",
+        "原普货标题": "New Women Handbags Pu Leather Phone Purse Fashion Female Messenger Bag Large Capacity Crossbody Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6f1a354836b14751b2d8be0f76d1e0eaj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sffea3f40a10f48ae8679610437b0fd20k.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa44688f1a1d442f8afd8d3af39185dbf5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa91b3b1fa36b4cc98c556d24f016a060E.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2c4e151de2141e0b6e91aa2dedd7b10j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S27a292840baf485e9d4f530d83bb5213M.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf606ddbd53c34b4bb025987c3fb1d24fN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe363b9c56ec4619b66b961ac400354cq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0370d40bf6d2407ba626dc6309aa4c60i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S27a292840baf485e9d4f530d83bb5213M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d9fbe6f6b1042a1b16458019c143e92V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ff0586496ad4e3cabb64ca82fcd8476E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se57a6c99618a41b597fdb0f7e7bf83adk.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S698373e0cd5a4250b0cb8a625d47ffc8a.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd07730a57f62400bbf7d8fdf12e34949B.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S0cb3f10c7ff04ad4adda6a67c2d0f30bL.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S03d360e690c24962b827a2772e229798O.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S61dbaafff838470c92d17221e1964696S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9aa352e289664478af05c3a55e748657q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8ab7a8b2e104e278431cc11fc43b6eaC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87232267d873465e9268a236d9d36b71D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99964b99a4c942c9b02d446a1410e779o.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9aa352e289664478af05c3a55e748657q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S532ba5eaa560445db1d3bb641f352ec76.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8ab7a8b2e104e278431cc11fc43b6eaC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdba747c3834c4be09ba1aaec8e4f895aw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9f5da8d4ef848a9a805e55bd437bf0a0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61dbaafff838470c92d17221e1964696S.jpg"
+        ]
+    }
+}

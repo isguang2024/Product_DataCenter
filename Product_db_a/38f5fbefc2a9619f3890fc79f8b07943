@@ -1,0 +1,82 @@
+﻿{
+    "info": {
+        "ID": "38f5fbefc2a9619f3890fc79f8b07943",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-07-12 14:40:17",
+        "第二层SKU数据": "",
+        "货号": "DG-202619690",
+        "进价": 115,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "腰包胸包 高质量，重量：0.67kg，材质：皮，尺寸：25x15cm",
+        "性别": 0,
+        "修改的时间": "2025-07-12 14:40:17",
+        "原普货标题": "HOCODO New Bags for Women 2022 Canvas Shoulder Bag Fashion Large Capacity Handbags Female Casual Travel Bags Soft Crossbody Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S736402a97541492a95cdd44533d8728as.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sedbbce6a0dee47babf962c75d0ce6fc7n.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sddcd140e5bfe42518b2301f281e35b9fQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e77e1b1f98c40c6808dcf52b02d3c97w.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S43ca9e54f3e84253a25c1e8f8aa61ee1G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69c9aac5ebc94cbf9c970984011f08cdG.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S23097e1abed54064bba5dabfc561c4f9z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c7e76f0bbd342c5a2b59ecd2292a55e6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5bf3633c814d474e9bd9ece5212c2708C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3463629fa09841d39a55c65186367762H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c68b45715f742dfa13c6d16546c611e1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ba773f233984b67a76da4354926d796n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7167f3fd0dcb4f50a142c27d30ee6d7f7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e03427aa6aa477e89a40c5bcad9ff03N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2286807d78aa47878f1341bb4a700ba84.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S89b6a9f5e12d4ae09959c50208c99ac9Q.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sff2d1b62b9944aa1be1f373e59d3bae9V.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sf2ae6542180d4e809b275ddc9174a570Y.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sa77e80ad284b4a4db9ca96a52a4aecb3J.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/H72df3f9b032c4f3b982bcdaa19dd987ap.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/H7519215e6dee4481b6056ea2e19f1bc0l.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/H6af70592d1664d298867de99245cf53dl.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/H91ab9bb94c424904b704dd3e080fcc423.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Hac1fb73266c94b5194ae9dd22e646149A.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Hc4cf049d048b43729afb012be7a648468.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Hca0d20aafc314cbf80515e0dba9ea9b5q.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/H91580b8101d54c30b1c42f9b71caf9d7I.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/H9ca7933fcc8743d1be874ea942e5d62ah.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/H4bbeefb624ee4c59b81c1f39de59cee7b.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Ha6bb7307eee04a918e850d7bdf26e4daz.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/H67993f92acec4eabad0418a35f6d48e9R.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/He27684164f484299afb739c88af7fbd11.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/H3135b3951ea34a0a9539049ea158d506Q.jpg?width=750&amp;height=1040&amp;hash=1790"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S546cd71600fc487fb8132eab01190cd59.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S071e8defa21246af993e238ac584985aN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b8a3163f49c4c4b8e44d416cc2b278fa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd496605d5bc0454aaf20b45108556d462.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3725de0e65764453ac0a35578ab595b7G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3cc9a67cff14a4abdcfd65aae6040485.jpg"
+        ]
+    }
+}

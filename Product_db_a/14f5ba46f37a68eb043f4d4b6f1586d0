@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "14f5ba46f37a68eb043f4d4b6f1586d0",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-11 12:09:11",
+        "第二层SKU数据": "",
+        "货号": "DG-206446941",
+        "进价": 195,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.85kg，材质：头层皮，尺寸：30cm",
+        "性别": 0,
+        "修改的时间": "2025-08-11 12:09:11",
+        "原普货标题": "Women Nylon Drawstring Crossbody Bag Cool Black Sport Shoulder Messenger Bags Female Casual Soft Handbags Girls Travel Purses",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S796fd0b1e0694b4abba969943172202fY.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2a57713669524125a6adb44867e529be9.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3d80a91bb834df49b58203471bac538n.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S56b03b3ad6b84acdb969e6311c65319aI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1019d79ef3bc446db0bea9b8cb288804g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S524ef4c3b857480bb1479ce3ac3b7706q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0cad07a45b364fdbb850e6a9bf4d70d5X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d29231fe9974010be25be8ae51f72afu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96b1246ddd2440b9a3eb4e9490033ce8m.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sadaa3a370e1f455d81906596343c8cbeb.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sab96009130724baca8e742dd7b23b82cF.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S941f47cc15d44b7a97a578bbb86faa09J.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa74a7b25189046b3953ca08efdb8224bX.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf111983e57f74fbc98a9d365b1ce8c3cu.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fe2dc0bee7f486e87cf63502bb0f89f0.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc1338c22b094e21adce2acb27dcd47dE.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S6965805921374b1489482e5128d6bf72J.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa52b4e777d35429a875246980813b88eZ.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa1aeae32ee5498e9217de433cbd2109Y.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S21beca7b3ec64c9698818f3164c73421O.jpg?width=800&height=800&hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se00ad6e0844b47e18815ed52e04983bcn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfeadc402eaf840cda6ccc4c7717cd6e31.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5664418352e42e4826cac76b0ea8463D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6abeafaf3a4f433584c22680b8813eb7D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bdb830f329f48ecb6adb317ebd8cbcdU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0311864ce58d4bb1910c86d5ef2a21e8y.jpg"
+        ]
+    }
+}

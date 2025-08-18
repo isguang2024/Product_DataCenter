@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "70f9160a64d7c479dea89b536de28fb9",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-11 11:57:00",
+        "第二层SKU数据": "",
+        "货号": "DG-206450040",
+        "进价": 230,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.76kg，材质：原版头层皮，尺寸：23x16cm",
+        "性别": 0,
+        "修改的时间": "2025-08-11 11:57:00",
+        "原普货标题": "Ladies With High-end And Exquisite Bags New Women's Summer Handbag 2024 Versatile Foreign Trade Crossbody Small Square Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S988a8cc5744c479eb4f014763fc3b7d5P.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S471496919dfd477f9ec7895687af8c4cr.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2f4cd98265154596a3522cb4f700231be.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9b42c3fe3cf47d68d063367ae22a19dh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c514d3a57384c23aaca9bc0f89213d8i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16d90571f5de47d2b6b55e1121ea2ee3j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb515ff1a761e40659a0482c9d6ff3fa5v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1b82f16e13645499714e778e1f278b9B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f66fc0568494fd78e433aa9fc51d1ab8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc18110e875f04beab27c92721c46812fV.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf94986db74e944038eadc417abfbd3f8j.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Se13e4037e0c444608318ad9f8a3de0bek.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3719b69d7c40456cb70ded5fcfb836a98.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6bd12f75c1174f08a36b9c2d1674a069M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1466194737a54d45b8ec6ead61208677x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b6ecdf8edb543698d25f656de2ac4a5Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S719e38537443465893ef59d1a8e987c05.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6a5ea23ffaf4b1a8f03b1eec1d5491aP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a224204a8a2457e8c3767a91d321107J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S22e01d8135de46a4ac2149fd689d7f8bw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3cc981a1c2f43a08eec54526d05a893k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7c1bcc9401840a385e67a45d5321658T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed86c4efa4934f20bd8c1d327852c22cG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ef045d520174193a54d72cc8a7ad7ecJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ee990c285cd46c1bc2cdec78952d0f4F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S322041ac087b4b7397bda5dc30f181a2i.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6343e073b4174033b8d9fd6e0b1e21cd9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc7532e91b3d49eda11a01302a2cb0f3s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8deb6ce9d0eb4f7caab44c94a111014af.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7fe98ead9ac045a29ef5a385239a904d8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc78d9c9c048b412e83fe83f1c1c486e4r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S331a69e1bd8347088c3ee352e8ee2688D.jpg"
+        ]
+    }
+}

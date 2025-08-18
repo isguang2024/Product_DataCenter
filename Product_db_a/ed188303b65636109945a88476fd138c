@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "ed188303b65636109945a88476fd138c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-08-12 11:46:16",
+        "第二层SKU数据": "",
+        "货号": "DG-206396075",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.65kg，材质：皮，尺寸：20x20cm",
+        "性别": 0,
+        "修改的时间": "2025-08-12 11:46:16",
+        "原普货标题": "New Women Handbags Pu Leather Phone Purse Fashion Female Messenger Bag Large Capacity Crossbody Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2aa450861a2342d0b56745e29b55b7fcs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60f331b53d464952b4c28f51bf0e1b0cc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S555ee599baca41c884f69fc19e7b6d86s.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S905765ae70b3498db05bbf4f4db5880cx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5cc0a064a2744a1f8cb1587b5a0d6144H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se950dee47bc44d3d9a7fe3579ea108e2F.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sccc1879e7647454fa87b583cde2fc467N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63ef26fe7d15405586bbf028f3fac7c3k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb51d3c522aa443739559c7d5453b3028g.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scc882801d35e4fc4b9fa7b022eed6b801.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36b8d74cf23443979f2d001e30050929z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b5c37a7ba374c3eaead4224e7089c40Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4086653c5044142a21f144fc5435760m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe422534709449c1b7e77eb7335dd4b4R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b428edfbaef4b698f2b35a3c31e69fao.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S2e202b62054d4134869ccace3609c6631.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb05259fb226b492bad488b6c4986d9a8Y.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sfa00d184f2994bf3bce22eeecf71eb58y.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S02b79985d0aa46dd81f2d3be411ac80bP.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S82b3cf57390e44cab9b6aacf01af1a429.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S672478c5d2b14704b3ef957947a2057dx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e06e2f41e984d768a1cfb84c8336a28K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e228f92f3124aa197b35faa1d40ca17F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S019ac4aca39d47aaa97f1dafa1827ad9b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00e108ae327249138f1475482ae57083s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S437f864651954bd9a17b14966b32782dN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48dabad3215b4312a1ffbadb0accbff2h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55357ea4f3e140b3b1f49e27b1c52db3f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scceaf7d029644a57865c7fad16d316c8J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c120d92907f4cb7b052661aa911bb36x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6efccc962bbf4338aed56a7adec975eci.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S15f15f74d5a94ae59396aebea54a7dacM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd8ce5d4d42b4de092d38bc68140b057D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S672478c5d2b14704b3ef957947a2057dx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02b79985d0aa46dd81f2d3be411ac80bP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdaae18e09ef446d3819e4f0af0f36532f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba97b505d7654e929cdb71163a9c336cW.jpg"
+        ]
+    }
+}

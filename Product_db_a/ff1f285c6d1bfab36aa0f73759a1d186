@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "ff1f285c6d1bfab36aa0f73759a1d186",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-06 14:27:33",
+        "第二层SKU数据": "",
+        "货号": "DG-205898949",
+        "进价": 205,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "材质：原版头层皮+原版麂皮，尺寸：19x3x11cm",
+        "性别": 0,
+        "修改的时间": "2025-08-06 14:27:33",
+        "原普货标题": "Luxury PU Leather Crescent Crossbody Bag for Women Casual Shoulder Satchel Hobo Bag Dumpling Red Bags Y2k Girls Messenger Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S42d8e69c77b24a629ca1444d2f253449f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb131970bc0c846cfa2cb0a74f970a3ebq.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8e3c9ca1f084d6fbc3d316a85587467o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b61fa53774d474bbed475e783099e9bT.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0d69cd866c42427789ece9a7b07f816bS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6aa1658657248c59e547e8323cc6e40I.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S38729cd35cd640dcba534d711e150731r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6aa1658657248c59e547e8323cc6e40I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52256ef084c4418eaee79bd9a3dded99j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a66e19fe0a645acaa351b6646a3e4eaB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88bdc546ab6c4307b681b74897b81213f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5710e37fbeb74e08b726609ee6d49405T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e2634615df34596a26f4a8cc37dfa52C.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S456e5c1fea564cb89f6d1ec9ab621fe82.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sfce4d4c644a544b59d3698d60dd8e8e2w.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S52f18cae48b740f893485968bb73d492w.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sb400252eaefb47fba4291d1569e4f634H.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9d9cb4c131cf4b478610c916dd1d54f5a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7fdf94bb862c414f9cf17b29c3e61fe3f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40cf50e70a5e4fc880cbcaf498be3154Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3a5f24727b049c9af18e4fadf9efc20K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb40370193963494c96156ab198cb4cbeF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad3168c2fdbc425587216f13bf6aad50Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5cc6097f83604f8baa6f08dff8c7c0acY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scdd48776925b4b32a9795e622530f79eu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9ed7968c5504f1882758c43dd2093cci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67a5cf82f3504c59a8397bc34a089e0cK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bcc18d58cfa4f12832386072a552e23M.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf95a39085c041ae8e7e857d3cd388f2B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1d374a34fe54cf49d257cd1074d4314m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde96c14e2d334d69b4705747c7f57d53F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88e156742a6e4794ac124ca87687bde5G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2bdaa297fb1457abdb43ec36a4053f6w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8136fd60b34b497cb12e47c3d8f3ac4bD.jpg"
+        ]
+    }
+}

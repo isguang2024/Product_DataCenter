@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "193aa7194aecaed2ba187f2f87815472",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-18 11:30:31",
+        "第二层SKU数据": "",
+        "货号": "DG-207251235",
+        "进价": 210,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "牛角包 高品质，重量：0.76kg，材质： 牛仔，尺寸：27x20cm",
+        "性别": 0,
+        "修改的时间": "2025-08-18 11:30:31",
+        "原普货标题": "Japanese Simple Cotton Linen Bag Fashion Retro Large Capacity Underarm Bag Casual Bandage Reusable Sundries Foldable Handbags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S785e74ab8e514b0d82f39201d3c5e5be9.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S61819691c6af4af89776b11747719a226.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S36b73ff8f493460c966330b3b7bc4b783.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfaebb3750060484fbc12a01df3db0968Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23c1af656a7f4d6092dd5efd2add4ef6z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1679a3f502934d44b7e917763994d1084.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ba13117b4fd45559636f9987c5bf645u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa624c1939e014dd3af71e911ac033e02j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46d9293bb8c5406d9fc11d424e6355cas.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21d7ba2e8b6f4ce5ab0425017c8c8d09S.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Saecb5778892346a695cb1938453bc71dD.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S220e28f9364f44edad5febf235a6bed7L.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd3c521c0ae014cf68d1698ccaf3a9c15t.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S208e12196cd847d19ecb6790b2cd4549R.jpg?width=750&amp;height=856&amp;hash=1606",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b3a221e0074491ea52de89d78189b37G.jpg?width=750&amp;height=925&amp;hash=1675",
+            "https:\/\/ae01.alicdn.com\/kf\/S67a017fdf68e40739012772310d13126n.jpg?width=750&amp;height=961&amp;hash=1711",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0bf95fce47c42598ddcb11fe47c8cd4q.jpg?width=750&amp;height=786&amp;hash=1536",
+            "https:\/\/ae01.alicdn.com\/kf\/S547a36c204ef421faad645f7c56ec198u.jpg?width=750&amp;height=876&amp;hash=1626",
+            "https:\/\/ae01.alicdn.com\/kf\/S56d5bf81937c4b92867819fc0f1bd5afC.jpg?width=750&amp;height=1042&amp;hash=1792",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b08eadc93fb4ab6bd9c4327c384730cO.jpg?width=750&amp;height=895&amp;hash=1645",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9e33d9efd1346b3b46d40672440424f7.jpg?width=750&amp;height=1002&amp;hash=1752",
+            "https:\/\/ae01.alicdn.com\/kf\/S01406ac4ff83442c974dd6f5e2536c52Y.jpg?width=750&amp;height=1365&amp;hash=2115"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6e08ec6da38548fea7baf29f2bb78a642.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf08f60ffb29d487098a36add0c621857N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f089336378c484897528e5275500d8cw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56f5a0ea4a2c4cf5971775f3f934238cL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfec114f527a845b38dbbe3e29c50116aS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0211940b430d4e84970a4184b796e93eA.jpg"
+        ]
+    }
+}

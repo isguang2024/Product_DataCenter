@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "04509debe5a45d6d7e129e8bb2d91acf",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 14:09:17",
+        "第二层SKU数据": "",
+        "货号": "DG-206715356",
+        "进价": 170,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.65kg，材质： 头层皮，尺寸：21x13cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 14:09:17",
+        "原普货标题": "Casual Collage Student Messenger Bag Women Small Bag Canvas Shoulder Bag For Women Celestial Print Crossbody Bag Bolsas Sac",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0672646e30d542c0b30c79474871b74bw.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4feb1f035de4b119e03c7c7d778299ck.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9772c0ee53a44c848b07e8183d9306d6I.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4ddd7aecbb75493b845decce7989488be.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb064cf9f0e14d92a5d64c93a9423d0b4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf099fee6c0454bde9688bde1db24b023T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4170f5ea18e4baf9e461cffef9e9c0ex.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7945e2387e4540c3952bdca01807b80aT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55b05c69c082468bb28c1f547107e810k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se66da986920745b6b7722f5e72c24706m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20b1a2b512ec46268eeeacd93f41824c2.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S80a438cc0bf6486a95525ce6432a114et.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf4e2ad193b904ef280a2870726d187165.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S11acd8a99f114237b204f13fb1d1d97fh.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se32c05aaed4e444880d16177cc64568fs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfaa1285f98be47358947e3545ddb3131T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48dcfa1090634e2695bb8928b3c9d28bL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab6a171dc3984e5fa20d2e35924137a29.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb27429315f604ed197b8265b4762efc0G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefbf2f0e24954e8ba734b243c690d725u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8ef3c21b08e46f285e700e31c241219s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96174a84717841ffb9906d75fae22e438.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S551f632a524442b58eec5401b9d0c16er.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4f9e3271338436cb8bb0924ea85b2fal.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5c1ba2215d7f41279877684a7f62c0fcO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88354ff37c9848c39b2affc2cc82147aB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d4c2bdecc4c4247bf2e847e32e9eb2bw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35802e7c3dcb4f82b7af960ae9b4ea885.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S752a56ec608f4493ba3de34dc5e04cac7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2aca1f39debe498f94e8ffc8efd49010K.jpg"
+        ]
+    }
+}

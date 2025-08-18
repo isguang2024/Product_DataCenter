@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "c10ebb79bada94a267bf06716449d55d",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-06 14:38:07",
+        "第二层SKU数据": "",
+        "货号": "DG-205898541",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "渔网包 高质量，重量：0.62kg，材质：皮，尺寸：23x10cm",
+        "性别": 0,
+        "修改的时间": "2025-08-06 14:38:07",
+        "原普货标题": "Japanese Xiaoqing New Lightweight Commuter Women's Crossbody Bag Large Capacity Nylon Cloth Adjustable Strap Shoulder Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S198f87aa64a84123b710574a767ba6b4D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S32feac283cb1429ea4c422624c511326x.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6e6056217fbf432e8952db4750216df05.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd15b3ff2a8ba45e9826f98b661dd29ebe.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9e3f2a4aa4464d8b89df4f1e87b2d966y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S365c7fed7de146b58dcfedd10194aefe9.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S212d1a30455641e0bddb7856793b7445f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ab22c0a26f04f4491cf0095544c5dc2b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17b79d0c947744d2871fca0df9bca9cdE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3140aafaba14bd288003d61f45b29722.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ce4f4e176d34a028a7db1d5de954a704.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb002459ab54e4985908782cd09fab365g.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S64352dc9671d433bb66995350e3171e9V.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S6ab3f2b8d7e34157872f05817b15788ak.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S29b100f37b1d402f92428f3e2baad43f5.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd6e702619990430ebd1825d767e5b197A.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sedda1c1a106b4ef28001bcc37d100649q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S405fa1cdaef74bb4b8d1338f184c6240Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ce982f811db405588c8e22325feb622R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29b100f37b1d402f92428f3e2baad43f5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa934a62de42a41398904fa2fddf3470fl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b0d9c3652e14ff0aff2b5b5dbc329f9V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se78ef8f3c1cd4cd99e5305bc8879aabd6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8265b2e2eda146258d26aece28ea4413k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f2cb2c785c74e47aff7de4bf098c0adX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82f55566f6584345ab572066a0268f3dW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S566f951e50de4cc49e20c4958376f7f9b.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S566f951e50de4cc49e20c4958376f7f9b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa934a62de42a41398904fa2fddf3470fl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ce982f811db405588c8e22325feb622R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b0d9c3652e14ff0aff2b5b5dbc329f9V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82f55566f6584345ab572066a0268f3dW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sedda1c1a106b4ef28001bcc37d100649q.jpg"
+        ]
+    }
+}

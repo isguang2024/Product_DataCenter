@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "4f5fee588454495263cae95a67300bce",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 16:18:42",
+        "第二层SKU数据": "",
+        "货号": "DG-205166297",
+        "进价": 230,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.7kg，材质：头层皮，尺寸：28x17cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 16:18:42",
+        "原普货标题": "PU Leather Fashion Design Crossbody Bags For Women Summer Travel Shoulder Bags Large Capacity Handbags and Purse Armpit Hobo Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5c8d22c2935d4c94aae1f8afe6cdc172V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S649fcad888814731be9afbc0bed20cb7L.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2c8a635e064412abf564c30c98a5a5bi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f4003bd327f4e29be7b2ea6f5bcc3176.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3bc665e29e3f48769cb1168630a67099q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1fbc24ba657540b2ad5e5bdfc8390843U.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6086889c46bb41a99a5ad9ea70efde0ff.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7e651faf9964301a19c9f5c604adb22a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1d8a7e0f9c94bf4b2588dcf4a9d8035e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb903063772a14267aeeb6d9489b64f01D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf12f727db8764817a76356ea90bcfaf2m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See5d23a385ab4a5a917bfdd75ca94963T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6baf235d3d94403ba883f5ba6138feb4E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3e8a36a4eee40abb92d028299e027a1P.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8f1777f21e7747c2932b08889ce00483Z.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0677f859bf4f426087f8e87137f4fa92r.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S20829460057b4a6d8ced3506e8d3349dF.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Scf63b59d28c549d788bb4708ff214dccv.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S67f010689cfe4bdd9d2f2d4422be16eeS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0aaa65b6334d49319c586f4d42937c29f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1091d9cbaf0c4d5b96e77112661048b6K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfafee5bf37274f1fb01e2e10aeb7bc78G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4315b13800ea4a648a4a59267bf47c352.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b0fcda9cfef459598b3c44e6b81a725G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sedd6be138dce4efc987e855f5446308fl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c19f267c51c4e4696b33c277f6332d8j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42fed723e6e641d7a0d62699c46a1826R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26b3e2a81d4b4672acdc0edf2d347ccfH.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6eb876b8e1440579cd7d527939683862.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1f3ff8116524fbfa9e8739f0b61f87aa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93753dd3818d4fa58f62784c4843eedcT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24becff1d228420db73e183d907a7542y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e56724f4cea4541b33e39d9f1ba1cfdR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ebe44d063654595b5d1fe9751bed7f5p.jpg"
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "548428bc95b0a796c3a9ed1ff5a5243e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-18 15:02:50",
+        "第二层SKU数据": "",
+        "货号": "DG-202961592",
+        "进价": 175,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "枕头包+卡包钱包+拉布布 高质量，重量：0.75kg，材质：皮-牛仔，尺寸：16x10cm",
+        "性别": 0,
+        "修改的时间": "2025-07-18 15:02:50",
+        "原普货标题": "Frosted Vintage Women's Bag Large Capacity Shoulder Bag Solid Color Simple Casual Commuter Bags Autumn Retro Shopper Totes",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S05df92d99f6c478f910723ed06182239p.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S073ed6bb320e425a93ddec267a74b8af6.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sebd1d12a6f974ae59c5502d96d037d9fJ.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2e0a2a0c2ec84a74b408ff53db87b71dW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S177b6d40b2c142529187334c2b2ef6cbr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7563488f8af4f8983aa0bac0eb282d8d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd50414594c894607ae288f2352aa3e06J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbaa093b6520e416788f329ac11e71fb8A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4a2b2812fb54a4586ad56a71a127a668.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3fc11562c25416d9dedd85c35973419P.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb043a15c4781490d860ecca987c743153.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8b8043ec29a74866930a41009b072496M.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S56f2229ff23e461a9affbcbfee5eef38w.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S350f5812e4374c648c35c6de8e96d6bcZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sedd3d3ae50b44932a37f1c51857bdd02P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc48f721cdcda48faba75d17f479f1a4em.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d52f973576647488ade234cf45b3800o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1f7568edcd6489c9ddb58543a96e19bq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6d5115cd5d34d15a8366cde51a17d23i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2694b44f163a4a65acd25ff48a7637701.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S664e03d1db2342b2b7531fdc2bef4304T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S487f201617a544d8a0e464fca838fec5V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc63af34034694cd68a49d9b5c136b46as.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6125566817364d19897314cf71350f09v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S394f2343c3d94c829a31d7058a2734baU.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd839b4b50e834bdea9c402fc911c1486l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02485ea16b124153b646f33a970631eaT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d626c142ee84abba0a5d1734322141fj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc57c581597e4defa5b12d19aae40645f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2b7e7f86c364b6c9b315fe55f5acb3e7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S668326b1a493411f9a32c5407b9968db9.jpg"
+        ]
+    }
+}

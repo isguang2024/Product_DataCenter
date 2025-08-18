@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "0b3696654b234bd09b1f5ac78514dd90",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 15:24:51",
+        "第二层SKU数据": "",
+        "货号": "DG-206329612",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "重量：0.66kg，材质： 皮，尺寸：24x6x12cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 15:24:51",
+        "原普货标题": "Maillard Boston Handbag Women 2025 New Retro Motorcycle Bag Handbag Versatile Mini Hand-held Shoulder Crossbody Bag Paquete",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S140e420c99be48f480643fcebe091c17o.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3545c402ba074dab89aba68348c0433cc.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7964312c28e446169cdf3944e48aae0cS.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7345db2ce13841299aa624a0928ab6f0C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S111e0c2c9bef4627ac08215642b4bbd0P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa80753ae5d10464c94216a177d23f98aU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae128028cadd414fb1059f2fdf636c26T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S652a5924c429478c8636e84f8273c3a0M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b05268b545a46048562d207c1cb4a302.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7df23f681aaa4132a08bcf54058734cbf.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se731d91d491a47759ebd7198043291cai.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2cd3f3e228bc4ad3b6eb6b4233f89c82Z.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3abe2915006e46af9a128fb073c44dd5h.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa853989373e24d70b4c258534fd009987.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S28c934b0e61f452484e7cd76036cb94bP.jpg?width=800&amp;height=914&amp;hash=1714",
+            "https:\/\/ae01.alicdn.com\/kf\/S298a902a453e4f4c960bcdd0c7534b51z.jpg?width=800&amp;height=914&amp;hash=1714",
+            "https:\/\/ae01.alicdn.com\/kf\/S264c2cb1792343928cc7dbfe44b4475aq.jpg?width=800&amp;height=914&amp;hash=1714",
+            "https:\/\/ae01.alicdn.com\/kf\/S751df2915d414253a607f284c8291392N.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3407e6c6d67412f8584ad00b1e396a9Z.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S4519944f5a98444fb2f831ffce4e2b9cV.jpg?width=750&amp;height=750&amp;hash=1500"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6a4e7c367834f19820fb8af109ba22bb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefdba0c8688641a28a204aed5e2d5657G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c8c28dc7cba4269a62df4038efdea1bu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b1a6bffe0c54901a1377e3190d914fdJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc85ca10b885a4ac7990a7234db72b1d1g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f16d4698f354558a905772808013d0a7.jpg"
+        ]
+    }
+}

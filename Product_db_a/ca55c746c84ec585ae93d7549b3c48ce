@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "ca55c746c84ec585ae93d7549b3c48ce",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 15:12:58",
+        "第二层SKU数据": "",
+        "货号": "DG-206108507",
+        "进价": 100,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "重量：0.4kg，材质： 尼龙布，尺寸：22x10cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 15:12:58",
+        "原普货标题": "Cute Luxury Designer Brand Straw Woven Shoulder Crossbody Bucket Bag 2023 New Fashion Casual Summer Travel Beach Women Trendy",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe23c8b38d1a4e7abbe8119b25af85d1q.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6d6e17652ad4e4395f490532965fa3e5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S27a6be50f39c4c0fb0cddf852dce3545q.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7e6c866803d94918922dd4712edd6dd3g.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S004e834f2a834bb586133bca4e0ac112G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd32da90959ac4e7b917eff077e5a4abaM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ffb50b96b1344c68d8c769c0a761f956.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd447cb4ea41a494ca6bbf63ba835adcbT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S719fadf2883c41fb8355970935a8a80fG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d9fbf683ddd413c89a8644a8be6773dp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ac2ecc3021d44f5be8ab1e92a99fc64s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd120221fa2b745f2bbd97b7a9dbc487f7.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S35fb12d5ffaf4c9bb0cab88b67d64e07x.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4fd6810e49af4360b3baa6af3ce3a546K.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8cf627c411a14498a441484ac93d4240g.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf197d8ba687c44f8b006dddb7d4789aah.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2986fbe432224f42b72f88808a718c71z.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f62b3d8d22a4a40b96b8ff46d4a0c64G.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0b5b0dcd98c416a87d50b82a19144f5J.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S1aabcb5d8fa8439f91f64a30a2c2c53av.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S805a5340b8b24e4fa44f767429422205a.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2543991bc474b34b9cbcf35524e2c9eu.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8acb94857b942e6bd01dd70b1d4f591f.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S729f4efb222a408a9fa3177b71b3044au.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S9afb5ae6092e49e39010e5033685c99f4.jpg?width=750&height=750&hash=1500"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2e673fbd94354d4c8fa118c034c87fd8n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41dc82a8321d457584d067c43a1ee81fN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1ddbd0e969b429e9f3d027eebcdad76a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8425facf685d4addba5536f898e174c8z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08ec2873e9554c36ba54e4a8f8e6bb27p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4eee0c88d99e482d8d29292852ca46ecN.jpg"
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "36d533b5015afa6cfbf9415ff87133e0",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 15:11:23",
+        "第二层SKU数据": "",
+        "货号": "DG-206108593",
+        "进价": 110,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "重量：0.65kg，材质： 尼龙布，尺寸：26x1cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 15:11:23",
+        "原普货标题": "1pcs Solid Color Women's Crossbody Bags For Daily Used Adjusted Strap PU Leather Casual Shoulder Bag Ladies Handbags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0540c60575974c8d9886f96189aaa4a0n.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S70439882e69146e2a975d0c25d72d85ep.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbaf386ae20f4cc985b09df15890e584d.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7235ad02fd94562a7b783b9494f6bc9Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa036049d18143f090eca4e2dbc954cdR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd18ed37b8391454bbd0bfbf1beb5432ay.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce839dfd2f15469b9150086f9e0deec8y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8826df22aab7460ea81258d9a08f205eo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59a5edf40f1f42ee909f9f3eb7ee823d3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1b0492f80cf47478a381eb7c89ab801B.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd402dc55e9fb4469bb22301d2a5123d9l.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8081063feada4c26a20ac5f6ec9574dcN.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S5f14018ee6494f54b85e68e311e9fa03T.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S26b8bd1f5b3f4746914ba5d1fd12dfacn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e3f6502a7454c6a829b788438e36171M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6ace838cc3745b9acee64fe1b22b029B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d0e57fbc29b4afd93f459210b7a36cbZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78c7ea9d97224621abe3e914f2da17acg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc23230fc6014a71baf4239f33cbfc25L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S653148cadd3a4c29bdf141fcfdc8876cK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f14018ee6494f54b85e68e311e9fa03T.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S77feeb1b31c54e49b79b738b62034ffaH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a10a90d9dc844179274c021482ce9c0S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26b8bd1f5b3f4746914ba5d1fd12dfacn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e3f6502a7454c6a829b788438e36171M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6ace838cc3745b9acee64fe1b22b029B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d0e57fbc29b4afd93f459210b7a36cbZ.jpg"
+        ]
+    }
+}

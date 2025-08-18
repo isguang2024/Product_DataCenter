@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "b94d82870ab83ccf45385b8a66a04442",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-18 15:12:04",
+        "第二层SKU数据": "",
+        "货号": "DG-202958748",
+        "进价": 200,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "水桶包+卡包钱包+拉布布 高质量，重量：0.78kg，材质：原版头层皮，尺寸：17x12x18cm",
+        "性别": 0,
+        "修改的时间": "2025-07-18 15:12:04",
+        "原普货标题": "Women Shoulder Bag Luxury Designer Denim Handbag Fashionalbe Clutch Bag Vintage Simple Female Commuter Handbag for Office Travel",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7af28068f4d4c65ac726b7f0085b982M.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfcbeb367d76c4a4893c1545b29160c6ew.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa10c7c4494b3414ba1036a2dad967628m.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc07f9ad2aaf2408f99a385d13b97ad9d5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff171cc4510d4c318a707652980204579.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e75061a51954a15aa5da0ff2dd89c04G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07db2167d23b4e73a605313954fd098bR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d79252beee64845b9d0bd1f91c6e863V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7370d1f9dca14f4899b698977be0ec8e1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53d173ae31f24fa6a6ed675b6aac5c22W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0059f2ed287e41acb4b61d9d9b7e1c5dO.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa10c7c4494b3414ba1036a2dad967628m.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S00aa993470d244d39471e7d4ed7831a9F.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S2769fa7d4e0f4b8e8121b8ded58959665.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8bee9cfce1d9489b9032835611c11b82t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ad9e9d263bc4ccfa6fbce26db266e6fF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S90b5af3a764742f88dd28d13ec61e618L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8680186a575406283ee1806cc16f070m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41a67de5383f47bd963a9e958c2d1a91Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d3a74734f8e42219aaf53375d227b6d0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S493d87e23bfc4525bf2c5ab4af6d697a3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbdfba85f629045e38588977c758ddd96k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d54b75e471e4388bc9ff064b8438e43D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1IE6zVHvpK1RjSZFqq6AXUVXab.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB19Ei_oDZmx1VjSZFGq6yx2XXaI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1qX_yVRLoK1RjSZFuq6xn0XXaF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1acZyiK3tHKVjSZSgq6x4QFXam.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se347e1e9f2e4483a9e772341ceac5fdeF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9b32da78e034c648cf244a08e8d32fef.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7a64cf273d040028812631fef6a3ae1a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6509e694f1846d489969b5ec11c394am.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7aeb5676f6a343e09af593faaf315a46i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f15f9b108064e7a8976239cc7a0c9669.jpg"
+        ]
+    }
+}

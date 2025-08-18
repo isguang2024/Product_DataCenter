@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "d4a82c4e10e22541247d6bf3f3f64ef1",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 16:13:08",
+        "第二层SKU数据": "",
+        "货号": "DG-205169104",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "重量：0.6kg，材质：拉菲草，尺寸：16x14cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 16:13:08",
+        "原普货标题": "Women Elegant Quilted Shoulder Bags Cloud Pleated Bubbles Messenger Bag Fashion Simple Solid Color Commute Bags Shopping Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se4c33bd556984de298b2641445d24c6fU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfcf2b94aa59e4ffdafc3b8da8a8bd1eda.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7fc330333794681abd635fa27e6273e2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd691053955e347f0b46933356ebd12c68.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S75b6a77184cb4e5ea4cb76d46c836b98B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1a994cd624a4e68ba42de4734027d57r.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9f6a9c59c7344e092e4adede23870deg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6fba296300c44b428f45769c14e308b0R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03a3ceffd13c42d5bc2355e23029f2b1K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a1b04e44ed74fe58885feae42cb12f2Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93ecd8a0b15c4331a6fac83cc616a238O.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0f245cbeade54795b061e4b353f547f3l.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf5d8bb572d9b46a0b510570b5661a981L.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sb17129014fd649758aaa04bd72a265f8L.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S24050e17b4fa40a38c9704182a3422bbq.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0aa48e86aeb4402b8067a0b3a39bcea4n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50ba5bc312aa4755b26008fa6ad8eef7B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79b0aab1b6464a0b9dee8218bef892c1Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S808a73f9be1949d49b877af8f31b6831I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S622e94421b9049fa8f563f19d30485e0u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f35b7a25dc14de8854da19b94a3b3d8j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S864ac462713445b39cbc4f6345c5e674g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e5aa8eefb0a443badc81f1aa237af2fW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d5b3865a29f4f899c28eb84652e777ba.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S223c732a2f2e46fcb21d51111a7bd88e4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb46b945a5d64c10be47dc6a3001ce87P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50ba5bc312aa4755b26008fa6ad8eef7B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S808a73f9be1949d49b877af8f31b6831I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a065bb806474b6a8699b7e1907b7ab83.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa753c10e318d418089f3253e1f348f37c.jpg"
+        ]
+    }
+}

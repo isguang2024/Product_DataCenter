@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "c805db66f1d00e07dc3d6f030f02b7d3",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-07-08 12:55:48",
+        "第二层SKU数据": "",
+        "货号": "DG-201082387",
+        "进价": 175,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "樱桃软盒子包 高质量，重量：0.72kg，材质：头层皮，尺寸：24x15cm",
+        "性别": 0,
+        "修改的时间": "2025-07-08 12:55:48",
+        "原普货标题": "Simple Canvas Tote Bag Women Large Capacity Handle Bag Solid Color Shoulder Bag Designer Shopping Handbag Reusable Girls Totes",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sceb70cd71d3c419dbde301127c11a02d9.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4e0da71c1fb4d4c955fa18278d02f94g.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc51dcf18bd5643d4921b96932754dfceX.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc447dd7363ea44269664a0a1216f8eees.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b5091a1db834bc28af06c1f88e127e88.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68405741e1b0442fb8cd95252bcb2ba4l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82aff0da1d3f4bfcae6ed58d9a3b8387d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa33095de878f46fc9684f2a0f9d2df28M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4ace988ce4248a5989d716989a6fcb6P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ae77d19943b41c5b6bb6b283d8757053.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S019849891b614b87ae3798076d50ae71N.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sfa437c20636a4e92b7a4b5de852692360.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/H7ff69bdbe7194420be06059cae59fe55i.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Hb6ff6ccb83bd468eb96c1e81332eeb06p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H8ae82391536f42bd8b292ed1057b7bf4z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hc198dd2811a647588c8069ecde49b319S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H14f1e510e1b04eb7b4884972006cdad5h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H5a00bab7e52c401e95018b8502fd338bD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H1c7f9cfc9f8643e9bb2dfcf3c74bbbdc7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Ha5d805eb8c6e4bfdb57b761c4e928bc3r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H2b954822127b498789601f1a99ca3ccd4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H264b1d90ca884f6386a626f16ca49099E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hdc62e19f5c8e421cbb2dbcca4983bb4eQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H9589e471f2554ee8a1344a6ad7e4ead8x.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Hf66d961839264c0f8ca51e1708aa49343.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hada5288b3feb490385efa08d22adf9d7p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H5fe676216e4542289f0c200312a4188eI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hd83e5ff39a594c8b88c9f614b2a9d8caf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H660ba45988c447a8af253123ada453962.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hc6aa534f6be248f992b048dfc9b1a16dN.jpg"
+        ]
+    }
+}

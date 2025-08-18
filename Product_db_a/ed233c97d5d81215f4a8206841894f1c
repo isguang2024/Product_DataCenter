@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "ed233c97d5d81215f4a8206841894f1c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-07-20 14:58:46",
+        "第二层SKU数据": "",
+        "货号": "DG-203563624",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "樱桃水波纹链条包 高质量，重量：0.72kg，材质：头层皮，尺寸：23x16cm",
+        "性别": 0,
+        "修改的时间": "2025-07-20 14:58:46",
+        "原普货标题": "Fashion Simple PU Leather Shoulder Bags Lightweight Solid Color Totes Large Capacity Underarm Bags Women Girls Handbags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7cfa3e2be6e74b7da5e57f43303f17cbV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ea139d439df42c4a1272ed66ff4cb313.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S02652cb8d9d049908b7cbcee665f5fe2l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56b96b55302c4fd39a4be687783dd257E.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sef20f8027d61464992bc068943b891cck.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f00d877ba3c4d79bad8613c831de441a.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1a4ec75acd9442819762bfcb624585863.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9bbe587de02641f8bb1554f43e11adae7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab040228f398492fb657c5d86e579fb7h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77ac5332a6b94227bb250f7926bc69ccq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S299f4a17ed564f45a39a90864c35c682l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f270d20b9ef4c0ebb5dda5d41931755U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ef3083c8c264cb188161b787e6969a8y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfff44c03d3d2491fbbffd58ff3a017aae.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42761307e96949cc8ee5cee7f556744el.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S187554e1fd99478e8c0f01601755fedbE.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S226b5aa30baa453a8ff97f79d8646560V.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4baf06e18c69481b81bcfbbedd75ce1di.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S0d58a51dfd684b90bf989bf733f8e1f4z.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc47b8f5bd14748aa834ec3e24572a9c6y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fccc9a0edae45d6b4ca816d9e3efc5d1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f0c7eff91ed45f69b62b7de87014983V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57e6ae89313244c9b03fcefb9cc07df1T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S320dcfc1d47d4dfe89b2e10ff72014a8N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b2f562d068844ecb2c3dcec6b4eccf6y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e4c1fe5fd8c443db797dd73a5d62190d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d190cbee7ef40e49aa017a4ce15ee1bg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sedeab5a1424142bca15812bcb28a4984M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S577b6f3139954431917f199b64b06c453.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S56b27b12b9ab4a74abbcafb500f0f0d7U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a511ad69b814c15bc13f6e68091925fZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57e6ae89313244c9b03fcefb9cc07df1T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fccc9a0edae45d6b4ca816d9e3efc5d1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa26fb3ccf5c145039217b6ba1945deacC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc47b8f5bd14748aa834ec3e24572a9c6y.jpg"
+        ]
+    }
+}

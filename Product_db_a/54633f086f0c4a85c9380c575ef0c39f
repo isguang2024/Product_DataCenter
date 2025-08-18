@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "54633f086f0c4a85c9380c575ef0c39f",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 14:21:35",
+        "第二层SKU数据": "",
+        "货号": "DG-206714718",
+        "进价": 185,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "重量：0.85kg，材质： 头层皮，尺寸：26x18cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 14:21:35",
+        "原普货标题": "Wide Straps Shoulder Bag Flap Small Crossbody Bags for Women Simple Classic Handbags for Women Sac A Main Femme сумка женская",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0bc30232b62f498eb69967bb5bc261f4o.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2e4721a621984d678c6d63075b8f56f3m.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sacbd15929c0c4bfba0586befcaf14b27T.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se41ff1862e344cd3b6949148145632c48.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2db2199cb4ea4cb39a6b37f0b9923bcco.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34bc0ff2c9d8444aa0b5a133702b9612k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2198fa36dfac48c284c291aa6e08adbes.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc12fe8ba74074947a83d3a1bfb8b2120e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea70dc34cda5406292a5b6ca9abc1d29a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9bbec9f41804b5cab0a12b455ecf745X.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sacbd15929c0c4bfba0586befcaf14b27T.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0d0a3012469d4699985f7ded14ae2b61Z.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa281b1697f9246588b2c9b0405ab3330g.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S09719eb144e34e6999e7ddd183a7cb127.jpg?width=750&amp;height=802&amp;hash=1552",
+            "https:\/\/ae01.alicdn.com\/kf\/S20439bc8b49644d3b6889bb018133eebZ.jpg?width=750&amp;height=802&amp;hash=1552",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb43de213aedb484ba330629cc36c77105.jpg?width=750&amp;height=802&amp;hash=1552",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff6a62698d8043a6bd1c1d9f4edc963ef.jpg?width=750&amp;height=802&amp;hash=1552",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b3d9b962fbd400a8e5cdae4f6500810T.jpg?width=750&amp;height=802&amp;hash=1552",
+            "https:\/\/ae01.alicdn.com\/kf\/S5225685b94664ff4b473d5bc8d59c0da7.jpg?width=750&amp;height=802&amp;hash=1552",
+            "https:\/\/ae01.alicdn.com\/kf\/S6eb60d8873354e588e0054ee0bd91089I.jpg?width=750&amp;height=802&amp;hash=1552",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf7c1b0cfbe9489593fbf702fe228590a.jpg?width=750&amp;height=802&amp;hash=1552",
+            "https:\/\/ae01.alicdn.com\/kf\/S0bd9f9972f874a7c9dbe97eda9dd5b50f.jpg?width=750&amp;height=802&amp;hash=1552",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b87682bd8934338b60e1dc41ad43716e.jpg?width=882&amp;height=1723&amp;hash=2605"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S197863b908fd42fb816befb399eaa5e4w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa281b1697f9246588b2c9b0405ab3330g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Safe0e9ea6b1f4f83a3c7a2322675925cG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S835113fe0adc42a9be117894377395c7f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52a6ee661de54bbcb701473b8482a10bF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7da15b10e002407bb941732264b287ceV.jpg"
+        ]
+    }
+}

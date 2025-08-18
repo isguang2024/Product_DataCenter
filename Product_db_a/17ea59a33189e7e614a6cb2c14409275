@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "17ea59a33189e7e614a6cb2c14409275",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-08-13 11:58:58",
+        "第二层SKU数据": "",
+        "货号": "DG-206716049",
+        "进价": 190,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.65kg，材质：牛仔+皮，尺寸：22x12cm",
+        "性别": 0,
+        "修改的时间": "2025-08-13 11:58:58",
+        "原普货标题": "Outdoor Casual Canvas Crossbody Bag Unisex Mini Phone Sling Bag for Men And Women",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1a5198ae380440389cf7df71fa3b56e5W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7053b6e83adb4068b6f66128122e5827c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1bd2fbd780cc44fb8a2951315997ecf6I.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4d629d9188c343d1a87a833aab6a947bW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18f122d29b5e44419f69aaebcc83e4bdP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S368b3886e6a747a0bc636f1fb3cc88772.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7ed175bb57ac42a7a7a8dd05a8d90acdl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4de787827065474aa901bde43c69e082j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6dd22b9559a04dc0b149e04fbb77bc8dZ.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6bda25d2912447f1bf90b47c2b4cc81bQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6ca58aac57144dd88f90844e1ac9f55d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56a0f0e6ac3d488ba6f6437b7cff3b7bK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd94fa0f80bd49c89583b086f3d2e14bd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1fbdee8df4104f96981911d72f71007fL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S849f76a1fbeb4073824aa0b51b2d1050H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9369e86783cd4a61b2357700e439ba57A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ed175bb57ac42a7a7a8dd05a8d90acdl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9583663b8f8d45e493b2eba3d65485508.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sdc58af96df044912aec65dfbafce5404z.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb3909652c9a34d34981d0b6f40033038a.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sea09502cbe5943628f4c524c1fd74d09q.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S3020deaeb7924fcb94ce2fac6f422f8fv.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S236932b6092e4c658c0375270d260dfbi.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2ccefc662c264e2e95dca7db6806ec847.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S052a0b4552a64fac8ae9378d752554a4K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S798a83a3f05a4338a3a0cf020a40c780y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3b858aa3b674e178c49a88bd18c587bq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb1fe21eac734bfcb8209084ca628882E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea09502cbe5943628f4c524c1fd74d09q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S973e54534bec46319e35d922ef6ad74aN.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sea09502cbe5943628f4c524c1fd74d09q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S472a47926e374d359e460dc4e02c6713l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S973e54534bec46319e35d922ef6ad74aN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03d46e8bed8b4b369ee905e1933d93166.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f445ddd4c2a486bbb03b3762f7b964dF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f47eaf0055a4a099589c3e950665008x.jpg"
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "1064c712c5c382f68b3207e05b2546da",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-07 15:05:31",
+        "第二层SKU数据": "",
+        "货号": "DG-205876802",
+        "进价": 200,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "材质：原版头层皮，尺寸：23x8x16cm",
+        "性别": 0,
+        "修改的时间": "2025-08-07 15:05:31",
+        "原普货标题": "Women Vintage Solid Color Flap Small Saddle Shoulder Underarm Bag Fashion PU Leather Wide Strap Crossbody Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7afa45405024361a41d17a205c3cdb24.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc205174bf22a47d19af5dff2fc22edabj.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3ee7f1f3b8348879ed12fbe37b4ebc8S.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6ec5cb4cd0bf41cd9a00c406fe9017fbi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc52873db930842cd9bb2691b7324cdabb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d7bd73fd01b4c86b6533a701486eaccU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8331be5f5704ec298515464894bd4a3k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8067f4758864d5d9fa65192f018e517W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf85629685f1f4d008ed75b517a727ee0E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfdf7bc49fc634b5e89f674b85953914b2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1903d021618a4ce6b25d25a96abb0417w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S603212b15e3a489f991a759a7ab90bebn.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Scc5c97359cf7465d8b76e241601528f4l.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S105d345134644886a5e5c4d6376a35efl.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S30897f4bfa614c8381ec15051f308cdfp.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1e68539173349a8a190e59ed266597eC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc7c6a20decd4d86bfc676badc85bca2V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S817a10c93c764adba31e851c97bc2762A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6715af2bb686405da8e3416b0645be2av.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75e3d33f950f492d8775e985ed5fc817v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scec0d549af4f4eab821c8e4ba56163460.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6d4433f93f24f7c96f124e4ee150f4dz.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S34718402103e4662bf339aa1f016ce5eM.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb95cec061824618b92084aa89b7b1a3o.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8f0af1f8b1041c5937b87ec33cd7dc2P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48371fc775a64fc6a83b10d8168df01br.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa98e0eac3f142689937ad6b3635f630M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S553600bcf99f45d8973f285bb1c3a10bp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5480ff64879248058fedad387289a8537.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9d5cbdb4a4749d7911e73e1d42faf4dM.jpg"
+        ]
+    }
+}

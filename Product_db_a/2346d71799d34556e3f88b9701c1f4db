@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "2346d71799d34556e3f88b9701c1f4db",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-11 11:53:24",
+        "第二层SKU数据": "",
+        "货号": "DG-206450378",
+        "进价": 235,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.76kg，材质：原版头层皮，尺寸：25cm",
+        "性别": 0,
+        "修改的时间": "2025-08-11 11:53:24",
+        "原普货标题": "Crossbody Bags for Women Solid Korean Style Canvas Bag Large Capacity Drawstring All-match Sweet Students Office Streetwear Ins",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8afb1634add44ac6be2911498ccdabfbD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6abf50a620541c6b4035b140a37e38af.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3cbec8852e9e49f0a8e0522123ca55aeD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1dd95b978894c95a78c92b13e2ed5baA.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1efd747b6ae40318473ea76ba9c4aa07.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd65951c2aaa9431aacb7a5b2258729ddS.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6df71456cb43481283cc59e9869cd0eb1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9abfcfe979a94a7e9b21d7981f9a80c7u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e12f5ac5d5040cab84b2984911dec3c2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8860ff8611545fe8c6295a16d128de8h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c4aa9d5cc6049bcb4bda68b8a0547c0n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd521c1b44db94807a03a81234cae531ae.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35893dc5052f4e46b76d7d1aa8e240cea.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67657a4a344f48038ac4e0f7413472c1k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f60a122706b4b91aa882ebfe16bb44eR.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4764fbd0c5ed4585bb617c94911a1c00x.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2a8bc7c63cce4cf2814ec260864322bbR.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd6369a11eb38450d897e3cee43804dfcA.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sfe30105f19e543d49f5461c0bf5f5b84s.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S915c6a5aee384c899db72636114745caT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43b35e84b7124b41bd975c91f0f3a400q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56fe6208acb44aabb32bbd73ccb37d2b0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30bfb5008017403c95e4635d566f0fe6R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se201dc8ff5704d7999add1e9ae037a11g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd55c8a81fd604a9881c4add98f58e709M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4cd3bea403e2471c807557f59d6bcd21J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S983252ebac7149fa800a0a639f99f73bt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24b9a7bd9f3d4e90b0c3987532a16277P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a78f202115d4a1981a6827d8156d62ae.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03d1f59b47484e99b083fadd64e71b860.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdccf19fd41c04e898788647b24b3f3902.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe30105f19e543d49f5461c0bf5f5b84s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6369a11eb38450d897e3cee43804dfcA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d29aeb46e2d415993aae2effbee3cefe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S508bba2f90af4d9f9eacb6fbfeaaadd8c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4b0afe1bbdb44ef803c3cb4ee2911225.jpg"
+        ]
+    }
+}
