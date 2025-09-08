@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "f86a49938b2a21c61844d637968b76e4",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-09-08 14:28:57",
+        "第二层SKU数据": "",
+        "货号": "DG-209189854",
+        "进价": 205,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.7kg，材质：原版头层皮，尺寸：21x21cm",
+        "性别": 0,
+        "修改的时间": "2025-09-08 14:28:57",
+        "原普货标题": "2024 summer new women's bag fashion popular animal leopard print single shoulder casual crossbody bag carrying",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd8c10fee49944e585a0af20e030b9ecZ.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1f183c54da784b6baa59ed5f81164cc4f.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S420b7148d9ea4201ade79f38d9f4bfa0G.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5ec18b88fb8a4626885f20e900e06ebcA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60ecb144f7c840d9b4d0a7c741e3ffb82.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe9b8f1617ed44e4a3ba509df6201ff83.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se85a399b07db4d799737c08d3ac1ebb0H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S714e9bfbb3674437a7bbadbc9a7d4682T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S669988b7952348759d4364e83865c66aK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28d93892dee345a9898602b94b1f10e9u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1818807a9afb4ffea2a69656d4f63693O.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S420b7148d9ea4201ade79f38d9f4bfa0G.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S145249478d124ac196f917462066638ce.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S753ae001259644e3825f49da078e5a58a.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1736ff72720549be82257363bdea846ah.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08b68330bb9044f6a226bb462207ff38O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fe40549c2ab470c951fe2a72e1c4d7fF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8580affdac7b46d6be8439b97f7c88cdf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3330ccf2e894269bc3c9e40b73b2647o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3b3ba4df88e4b2184e96b22abe1ca0ci.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1736ff72720549be82257363bdea846ah.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08b68330bb9044f6a226bb462207ff38O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fe40549c2ab470c951fe2a72e1c4d7fF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8580affdac7b46d6be8439b97f7c88cdf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3330ccf2e894269bc3c9e40b73b2647o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3b3ba4df88e4b2184e96b22abe1ca0ci.jpg"
+        ]
+    }
+}

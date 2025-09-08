@@ -1,0 +1,67 @@
+﻿{
+    "info": {
+        "ID": "12197020dbabb164aac76bd92265af74",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-30 15:02:17",
+        "第二层SKU数据": "",
+        "货号": "DG-204669932",
+        "进价": "185",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.75kg，材质：头层皮，尺寸：25cm",
+        "性别": 0,
+        "修改的时间": "2025-08-30 15:02:33",
+        "原普货标题": "Summer New Shoulder Bags for Women High Quality Zebra Underarm Handbags PU Leather Leopard Armpit Purse Bag",
+        "质量星": 2,
+        "重量": "1"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf5471cf24fe41718007ddd525da3767q.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S47039f0dc479472d891e7529e6d75732Q.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S566fe95bd4034ce98c6bb7ced67d7f55d.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S159b178ff96f4bf792dbbc19bc4aa19d1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9fab7c4043fe4d83b1f5c5f010eae90fp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9fc24be8c69465a834fbd4f3feb50e9T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S598ee6a1827244be839e5b655f6ef1ddL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b6a435c848848608a34877bf6b54eaf5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97dc17f1ebbf48f88858a0480842595cH.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4b6bd2e978fa4abfa395c86adc204e82K.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sba2d7d0156a44f429a695d48269fe6eaA.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd9092ebe940e4d49a937377a99c7dbb0C.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa865de55c41c4cc589807ad9800c5072O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39e27b903603427a9db06940b6cd3157k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9092ebe940e4d49a937377a99c7dbb0C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9358f201d1be4aa5a3a695cf9227acd3U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82d97e08e6eb4530a14bbf1d7366701bX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbab1db9a566d46309538fc96413228f5O.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbab1db9a566d46309538fc96413228f5O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39e27b903603427a9db06940b6cd3157k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa865de55c41c4cc589807ad9800c5072O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9092ebe940e4d49a937377a99c7dbb0C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9358f201d1be4aa5a3a695cf9227acd3U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82d97e08e6eb4530a14bbf1d7366701bX.jpg"
+        ]
+    }
+}

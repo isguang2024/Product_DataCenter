@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "9ccede7594fbb7077c8c69489330eb95",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-08-22 16:47:54",
+        "第二层SKU数据": "",
+        "货号": "DG-205311054",
+        "进价": 190,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1898907760,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.95kg，材质：头层皮，尺寸：25x17cm",
+        "性别": 0,
+        "修改的时间": "2025-08-22 16:47:54",
+        "原普货标题": "Fashion Checkered Floral Makeup Bag Large Capacity Portable Cosmetic Storage Bag Cotton Quilted Wash Bag Skincare Pouch",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa824c906c6044da7ab5fdec41829f3ffR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2788e833952d4d42b165537f56e880fbs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13f5ce4bff104c75b437dab4acc695d7r.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd71ef82a83cf48a2aa031831683c7326K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3b742af3a474b46ac33ad7888d544e0l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S873b03a5afad40db986313c386a5e085A.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1cdfc8404c1340b98b40fcf9c664d6cb0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac765e5a8ab44dc0867e12ec9b2fe47at.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S884b8c0b778541438d764ae6fea8a4fft.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4c5af2777eb4403b8a896795792c285w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc89e066506fc401dbe08d8ea93b9e9f28.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6cffcf5c03c4415885fc1f2826ac1178v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d6be284e7da4ce58ab41c96f356f4fcO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c1d7127c03d41d6ae816790ea084e14p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S327f20141ee443ea9277787cd83af0c8O.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sc7133e99ce5247c4839a3e13e6b928c9e.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S063b2e5619ea415a9344075933b47edbT.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Seaf69b4299b24b8e91079ab99bc6a66ez.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc97554c65f88498cb15949a6121fa716C.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S36af83fa81334a38ad349e97f3eefb40I.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scb1013ec2c754450ac832fcd98e44719A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ae473b3249446ac90987bb435cd976b5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50e04be3858746f6a01e9d376ff7be526.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b9a6c1f7e474d6d85e452df0472deacU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7592629b0424164bc06a08d18699ebaE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5bc6a6704c404f41b22a47d7caafce29C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S551b76354ac24c56a9944a5e1a766f99J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S713714e3f419449a89aa23ce51793c4fh.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8b7c10c4991f4f0db7d7dc7fa1065643u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S730c8823cb824db4a1c0b81ddfe9acf2A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa04cea7393842ba9279b68accf557c6c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa322a99e468c4825895fcd55daa7b23cX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ec1194046774f8988fcdc7653f581c2m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd87dace3cc4b4c79800fa52d92af9bc2x.jpg"
+        ]
+    }
+}

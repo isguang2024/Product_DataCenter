@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "ab4c37f77e7d8e3bf53d74f71ca5b2d2",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-27 14:54:07",
+        "第二层SKU数据": "",
+        "货号": "DG-205161598",
+        "进价": 170,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.74kg，材质：头层皮，尺寸：27x18cm",
+        "性别": 0,
+        "修改的时间": "2025-08-27 14:54:07",
+        "原普货标题": "Fashion Rattan Women Shoulder Bags Woven Female Handbags Large Capacity Summer Beach Straw Bags Casual Tote Purses",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S103c4e6cb68346d491747be0e2b70de5m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb9b1636e798409c910e4382656b43e8n.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcf87ec58c8c496aa51f11cc13670b3eP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc559f4e166f14d84821b8674adc37bf1N.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2ef47f44b044815803f57928822e20b9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6aeec94937b64639a81c0b8ddf19beb9h.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S948cf755d6f942cf9b4beb1cd1c67ea2O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b12e0279a9d4825b5e8dfdc54ec6474y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0370610ab23f4785a1c86900c07bf730R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4f0d7a309f44e3e93fc95a5a6ad24f4T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9785ee6ee7a04366aab79a5ed0bf06aaK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a395a326c464c83acb66a0e656abe82d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S06ef3548195d4ff9a2a2479fb400c584R.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Scca8d95f589d4885bfb0aaccbfc729eaj.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdf14ef4276d149b695d0537b585f37bcY.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sfb95b9d909b2483b8788b90b75e6150ae.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc8cbd34dd3214ea8a45c16ed2bfaa94aS.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S640d0e23a52443209f11efd37f879326k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S706ae6f4d7fe4d24973dcdbf81617c70d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1290c6dea9514a21bcf12431cdc79912d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ce7794542464f32a5d25b83218979f81.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S892d80e51b6f49a197467314f96d02556.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5da103718a34f4b9525538f0e7c85e6O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc225e64761a4741ae747f9367617f0di.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf21d74cf95f4ea5a142525f00ed8a32Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See282f52994d432ab7e929135b6d8c66G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5376e28859ac413699a29a931e61b46eo.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb6ea59b893047ff917b4f43f7d619763.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10911fdc24294604be98a7f7dc73bb40X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a49018f1ec04bf087054af1f7d7256ao.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6157a1acad2348c3a99b9f45c11bf90d4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f35e8aa8a1c4587b2a00370415fda958.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7bdbfdad3da4fa59cef144e4b5dbd96o.jpg"
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "ff3ea68965b93aa6facfe08d7b22dec8",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-25 11:04:43",
+        "第二层SKU数据": "",
+        "货号": "DG-206768184",
+        "进价": 85,
+        "利润比": 100,
+        "品类": 1002,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "金蜂系列双折钱包卡包 高质量，重量：0.25kg，材质： 皮，尺寸：11x9cm",
+        "性别": 0,
+        "修改的时间": "2025-08-25 11:04:43",
+        "原普货标题": "2023 New Women Short Wallets PU Leather Female Plaid Purses Card Holder Wallet Fashion Woman Small Zipper Wallet with Coin Purse",
+        "质量星": 2,
+        "重量": 0.6000000238418579
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S53016dcebfed4233b701e4e3a22004aan.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se5c6984efec74286af279942cb1b391aB.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seb64482a859b48a9b48b36b34a213774f.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf49d0df977c44ef6822ecc17ae11d8b9g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0880cb1ab4ce4905a7558c99d8786f46f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3de0ae0e4fb9453695012794a3c4c2ecH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se893bd2f27d94c42b2465dc4439942f0T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4335d26856840eaa45312d5383469dfd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5e3315243074945895c36ee5c67c1e29.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41b01d5b917746be9cb4ce82197c496aV.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4fb44b3d8a844a84be5e55160adca062Q.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S6d1b410595794fe590a7d7f4bfc6f0a6m.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S09e5e6b84294422e849782cd6344f230K.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1adf8fbe26a41e9aabeea170032e064E.jpg?width=750&height=1197&hash=1947",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb167c995cf0402e83e451cb755fe1b29.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S9be023ac3e8e42c6b24e1946cec02353g.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb175dc88b258405787a499a65ffeddfbX.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0a54b1b611f4c2bb6e6e71ec47ada77y.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S9386975bec264e7daed919f870b05cd6M.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S512cff8d29b5411ebc0bbd377f8b10584.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S512cff8d29b5411ebc0bbd377f8b10584.jpg?width=800&height=800&hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/See100f09e4e14b339d543fc9e7b623bb5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S624a7c33bddc41ceb16c6bec12230e16y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ca4376bb13145e2a88b119366884b8aD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b4a7e01b15b49f0989440c722bf51037.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7be6963d00749af9735a7d6045d25d3U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seab9fe55656c4ff7bf0c478d3491e8bd3.jpg"
+        ]
+    }
+}

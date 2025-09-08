@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "a77a19172d24d5aee8e1ce41ce000616",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "DG",
+        "创建的时间": "2025-08-18 15:08:11",
+        "第二层SKU数据": "",
+        "货号": "DG-206835267",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "牛仔饭盒包 高品质，重量：0.5kg，材质：牛仔，尺寸：19x11cm",
+        "性别": 0,
+        "修改的时间": "2025-08-18 15:08:11",
+        "原普货标题": "Korean Style Solid Color Nylon Shoulder Bag Fashionable Drawstring Canvas Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S662eb804cf67452097481d8aebe4060bZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1856fe503d6483684592318aac049fcg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11dcadf7d4f443db97a68d66be994a0f0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30f95a46cb8647b6b3e96241360c85c8i.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3f1e16c1513c44f480127361817f5ed8k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7817d759bcfe4d999c0dbb0a3dd7aebev.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4d4bc468ce642a0be8bd86114a48812J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb39150edfae4201a9ba87511061cf24U.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S746044f247714b829b55a82e3c0ec4cfZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8c9b77ad50e46f4a72abe180252cc44E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf4b2d6c807b42afb01b7e1c3d2a0a3dR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01407e4a5d654a18873a0ebf5aa41a8a4.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scacfdae7ad254b5e9a57ee8c81110630m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf4b2d6c807b42afb01b7e1c3d2a0a3dR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c1edcd8453b45dbad5b1e01949a6fa4A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5485ba3a023e4a5695127bca59eaac87I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9df9008623ee4abab84f8999a24f541ds.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S956729a9460c42e89c0dde0f04e7680c4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4dd885f4e98f44e486e244a9756a9a28a.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0212a895808144319ccfa28573b13d2fe.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1e7f2407e7a94c928b7681ee1000508fF.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sdb893116e03a4284a5fe1a163a0f10f3j.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S1fe3a1ca17f8455ca45a3fa793f82896A.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sbb90a1361ab049ce82a071849b42a3a2g.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc8824a1f5da440caa65a9e71886f1c6be.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd924ac057bc64d2bb9cbf1f6aaf28820m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0562ff5c8f5a4d61b633ebf3d689c58c8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9a9de09c0bc4e8290c1a84c2bd7e6222.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9aa02d7d48945a49a253413fe60f2d3A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6dc6f9e7b37e49fa8cfd288d69ac84a4i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed60cee54da0444d91f534a90a281de4T.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc1332a6d03d42f39a4750f8619c8907F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42e23318eb1a417ba745786a4fdf6dab3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb035da44110642ddb913179691720182w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae1e195e8c6e4d778b2756e530051148g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e32f1c957ef444db8e6d3065ba6cc15j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S481af877714e4e16b49afcc421bb8a90a.jpg"
+        ]
+    }
+}

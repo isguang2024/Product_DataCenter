@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "e39d0e148d544750896e04385c810a08",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 11:47:07",
+        "第二层SKU数据": "",
+        "货号": "DG1-203538238",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.72kg，材质：皮，尺寸：21cm",
+        "性别": 0,
+        "修改的时间": "2025-09-05 11:47:07",
+        "原普货标题": "Messenger Bag Canvas Crossbody Bags For Men Women College Hip-pop Satchel Shoulder Bags Large Travel Camping Man Rucksack Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7bbe16cd9b14aab877252d393d152f8E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ebb58d69f2041d3bc28763644f38024F.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7f1729c1fc6f4573bad40ff687f9271ar.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8fd2be7157e44ea944b61c7e1520dcb1.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa217d86a28074c9eb9435db6b83ebfa4i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9865aaaac4846d48ab2e4a4b3570059I.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S20d15995ced943c1a46f0b58c800adb1g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4f1a69c185c47218fc8576a0f3cf641C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5631ec5fe734669a5eb45bfab9101619.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3de828bca9f442e28f8a73b5759faa29v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8da0dccf04bb4121881338df96d37b05k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2255615235cc48eb989339b6795a883eO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4cdbf953e94d45bf80b4465b301e1fd2F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1851042fa0cc4ea4be4731a383d9977fm.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sc74e1058bcb644cf9ba5cb6ca5597630e.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdd15ae0df5464a278615965380a8d2d06.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S29407c70178e462d908e9b1d6fbc8e29F.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S041d3ec32b08484b94a2e3b3e89df20bg.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0f4012fe64345a89756ec5736fc7f2bL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se06b07820306477d9b62de2edb2becd9E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4898e55c81ff42d68388ac061977f06az.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S195036f287104cd69c0731cdd6af399b2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc928d48f65c441ab37c104f0caade870.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1vrjTPVXXXXbMaXXXq6xXFXXXy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1a7L6PVXXXXX7aXXXq6xXFXXXW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1q4r7PVXXXXc1XVXXq6xXFXXXw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1tAPPQXXXXXXNXFXXq6xXFXXXs.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4a2aaf35ddd6481ba745ec520e2a08b0X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a0e9140291d4a7997a357274e19eaf5G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S838f66b5b94c4fcf9675d0b1018e83cbq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda229fcaffbe42bcb118f4c2586e67d2v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S712717f1579a4e90848e429f968961f4c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf05851d4eec14c95a09a68727e588623b.jpg"
+        ]
+    }
+}

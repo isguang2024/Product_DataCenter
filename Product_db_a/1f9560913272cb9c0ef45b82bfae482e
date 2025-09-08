@@ -1,0 +1,84 @@
+﻿{
+    "info": {
+        "ID": "1f9560913272cb9c0ef45b82bfae482e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "DG",
+        "创建的时间": "2025-08-22 15:43:39",
+        "第二层SKU数据": "",
+        "货号": "DG-205312397",
+        "进价": 175,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1711912160,
+        "普货模式": false,
+        "商品简介": "双肩包 高质量，重量：0.75kg，材质：头层皮，尺寸：20x23cm",
+        "性别": 0,
+        "修改的时间": "2025-08-22 15:43:39",
+        "原普货标题": "Fashion Simple Mesh Women Cosmetic Handbag Pouch Large Capacity Travel Organizer Makeup Bag Mini Lipsticks Make Up Storage Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S24d2e61e3f854c269acea016ecf3263d4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf659531b79d140b89ae8f7f0f40be3ebc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4148e4440fe748aab9f3e13f93b14684Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1b8bdaa13ce431781c2bb3af8c2ec1fY.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S987abfe7bf44466ba9f857cfcffc70f8T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S100263520443467daef906ef79e0f5dcN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8e7d96616d6e4d0e91e9c27b282a9dfay.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08bb0a47be67453d9d7f47e2ca9605cci.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S493132ab67904361bb00fefbed4ff0det.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4b6b33d0c7f4e6e950d99b199ac9e7fk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0907a853fd1473b8bcf1f4a8ea3489fk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10dbdea0f1a44106adf7acd42c8869f2v.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sae3f7baf1e284e28b152e1757caee4fdw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb866eff01f06467ba3c1ffb0000a97b7R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62cfad097af54d6787cfbb4f38e938c5J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbf1e87e9e8c422288b13ad636c8ccb35.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S890a7826dbbc45b3bc10304408d1df569.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d4348cb24064c2d81ebe3c0f3ced524Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34ea95c8f0294b64b28ad0c776462689b.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S1f76ebabdab442c195af5cd06a683bbf4.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4a56da2804f54d3b9671d72c3dd1fd21H.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6286154f5bc749c293d21a1e14157c34j.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sb3c2dd449342496aac461fcd66696e64L.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S7763ee7ea4c945e0a3af2cb3944fa934H.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2ad5de49d28b4f2dae1bc4d3370318020.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7a5bc7a4df5c4b59a55f682dbfb2ba97n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S398bb57a38b94642a96f6a4d6514ca6aK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b20e09faa5c47ddb9562cef51bd68c9N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8962f1f1a1e54a7493f681190bffaef0x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S109b8ec28538481f809888c7a5893891d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0594627163c44e86ae09d8ba4880bc9eU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S913a4c94cd5443008fbeb7e4dbca9498k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0befa7a0f59c403f910b5d9f7415f217c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b246e389da94fe2841ab35d9719ffa6B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S83cd9f071afa45bf967cc447c38a721cH.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S432487585e5340c08900fd00d69170895.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S109b8ec28538481f809888c7a5893891d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc31996ba6758484e9410386cbb41913dw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S398bb57a38b94642a96f6a4d6514ca6aK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f41255cf5fd4879baea14d706c289d1A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7466ebfdb5d4019be991ef72c9b5150b.jpg"
+        ]
+    }
+}

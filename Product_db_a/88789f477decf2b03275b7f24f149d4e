@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "88789f477decf2b03275b7f24f149d4e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-28 14:42:44",
+        "第二层SKU数据": "",
+        "货号": "DG-208326815",
+        "进价": 180,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.67kg，材质：尼龙布，尺寸：18.5x14cm",
+        "性别": 0,
+        "修改的时间": "2025-08-28 14:42:44",
+        "原普货标题": "Urban Minimalist Female Student Large Capacity Commuting Horizontal Canvas Single Shoulder Diagonal Cross Portable Eco Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbe8c416ca804e69a2629f4e1a23e1e6F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f993261935642528811a02fddaf9d22c.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scf524d4bed124399a4357161dfbf68aaG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See6f78a354324f06ae5e1615839cb4a6V.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8c452f03aed741e5ba32ab905d23ae88R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e32013bc6f6407e903cb923c8699401h.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3c3c4ed05104a07a57748a61fc71300y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3aa851da9c75419a853540893a147524X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4479cc564134b0ea08ebf9e6c098493K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5721f53bd07c4e919242d835771eb372l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se380d3c8ac8f43dab5b54f7a6522fd532.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb76b076f2532447db2deea336695df58M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S90a85942df8e4e33a3d3b6b7c409a759N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6423bb4809584516ae2d975e9ee0cda6L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c452f03aed741e5ba32ab905d23ae88R.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4b9b08cb3f9f4b7e9e6ff5ae5d43e237S.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S694cea6426864d60a16fe28eb17175ceK.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8dc26c3810324fd48fd743f7d7189a88g.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S50eb611bc6714c8ab1bda03207f99cb70.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S94c6e955448847069ee6ef0a5cc5bd25R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saced78298a454373bea2710fbcfc310cK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86fd7f2f909743e4a3419e9c496bb66b4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S350e746ca0e540b7984db0e39658e1cap.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c54d0d339fc429cb03ca39f571b0588X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0f6ac22b21f440295b1f7437140ca3dg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c14528c6af243389915a0cd6b787a34f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2cfc9700971e4a83a2e28ded25c83d7ag.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60d0f9f69cbf47a3a5781690022cfb91B.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S45a7522d1b474f9d91aa4975cd372e18P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb8bb3933e74467fbba1145bb612b6c0P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11fa3c112c0a4710a945aa0161a4dc337.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S25c9327935634a9d8542f5f4f7ea44dcG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4cbf65e2a80c4a78a340c107513b9246p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S100091d920cd4fab97dd876b1a83a0188.jpg"
+        ]
+    }
+}

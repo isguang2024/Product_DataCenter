@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "02f1c8fa39f8b86b1a39a18752afd626",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-29 15:18:25",
+        "第二层SKU数据": "",
+        "货号": "DG-204310612",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.7kg，材质：皮+刺绣布，尺寸：21x11cm",
+        "性别": 0,
+        "修改的时间": "2025-08-29 15:18:25",
+        "原普货标题": "Women's Large Capacity Beach Tote Bag - Durable Polyester Woven Shoulder Bag with Open Top for Travel, Shopping",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2b655eea061f46ce8b40df8261690a5bb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1cb87189333a40efbe7076c495ff06e6M.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc33abe4e0c994c66b589765774e3c563f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d73b48f6dad4e668d795788b5e28909u.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S25f90bd8afbb42379fa4fb30ffce7cdd4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c795248e2c9449199ca38984c2b5badG.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1c795248e2c9449199ca38984c2b5badG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S923a8d9ada93469d8e2150fbb7596dafa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87290cabbfa5418d8968722c4c26f7073.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seaef5cd928bc4af281bb95521a8f21a6r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1dfcf458bb7a44e6ab436d463abf5f60s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81e9b2fe299d481a88ff3c7db30184462.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se03996b45a2a4ab79419a931efec4bd5g.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S215721fc1f1f4923aedab6f7c5fcbce0I.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S66e3333847124f4f85a7916542da6a76t.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se3b3da2908fc4ceabf2a1a188325892aK.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sba896a44780d4bbb96bb963cee2ee93aY.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2944d1ea74a74b87aad004b52737511er.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf50d406ea4694476aa21b13f0d0025f4y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94fb06f7d15e46f59d965b1035996c229.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb331bd17511a42cd9aa17b3b3283fd9cN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82ecdb3c6f1a4e1aa74754f1d51995f2f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19a29abb88bf4b798ba528812dcedadfo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48c0276f76544c9fac083a416579cccat.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a5cb61c6a8c4c1a865b22d63daffd57m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94c6c708f97d4e218499a404ebd6d64cP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38999e963bd741c7956971ce61104cc0r.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf50d406ea4694476aa21b13f0d0025f4y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2944d1ea74a74b87aad004b52737511er.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb331bd17511a42cd9aa17b3b3283fd9cN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48c0276f76544c9fac083a416579cccat.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a5cb61c6a8c4c1a865b22d63daffd57m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94fb06f7d15e46f59d965b1035996c229.jpg"
+        ]
+    }
+}

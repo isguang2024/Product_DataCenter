@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "b06542d18b5f5befe61081d82fc11637",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 11:43:04",
+        "第二层SKU数据": "",
+        "货号": "DG1-134346783",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高级质量，重量：0.69kg，材质：皮，尺寸：26cm",
+        "性别": 0,
+        "修改的时间": "2025-09-05 11:43:04",
+        "原普货标题": "Women's Casual Canvas Messenger Bag Minimalist Crossbody Shoulder Sling Handbag for Students",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S77e14af1da2644dca1a72ed1b4f8e7del.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0aad912a030444fa2f3dff1bd2b2dd7P.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S906591db0bbd4452af6261e685715521i.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8ad6cc9605f74123bb6fb6f6573baae12.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c7b7a6cd15b4cbeb94f92a9efe7ab54c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se118c514384d47fbb146260339cdc5e4L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd5f286c256141e0ad99eb2f77013050W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa5219dc85b54293baf28689c9243811k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f3c174ce2f444fd898b1fc00ff39ebcL.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S3a54186c037846c597b3b0a64c738a0aQ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S361b7090a3634236804a36feeced65bbw.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4afcc56557e44c5ca0fbaa167c060512Y.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8c99452bff2d4f34a8c3bafed8b39ef2W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2ae6a6a43a34f66b99fbad1942652f2E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S512d1bfec70a49e1a1ab2814e53a77e2Y.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbbaf22123bca43789b9de10e1755956fd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb42237df5a0c4cbbbe54ae24c43ca652J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S152582e57d3742799676aca4dc1d4c33g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0003a5f4a2844fd9b8205a9a38f552d9M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc855515e2f9648dc9d038fb1f5b8de68N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9fd4f25c5c224a88adbe0710a9bb52f57.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8c99452bff2d4f34a8c3bafed8b39ef2W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2ae6a6a43a34f66b99fbad1942652f2E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S512d1bfec70a49e1a1ab2814e53a77e2Y.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbbaf22123bca43789b9de10e1755956fd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S152582e57d3742799676aca4dc1d4c33g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9fd4f25c5c224a88adbe0710a9bb52f57.jpg"
+        ]
+    }
+}

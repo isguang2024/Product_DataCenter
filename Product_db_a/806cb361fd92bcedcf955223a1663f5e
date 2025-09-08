@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "806cb361fd92bcedcf955223a1663f5e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-18 15:23:40",
+        "第二层SKU数据": "",
+        "货号": "DG-206829665",
+        "进价": 220,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "丹宁牛仔水桶包 高品质，重量：0.7kg，材质：丹宁牛仔，尺寸：17x18.5cm",
+        "性别": 0,
+        "修改的时间": "2025-08-18 15:23:40",
+        "原普货标题": "Tote Bag for Women Canvas Sewing Thread Large Capacity Advanced Sense Handbag Convenient Practical Commuter Bag Dropshipping",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se3954a966eb84944b9adfd4c3f84abeaR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbfb8850a670f4e23b546e6dc80a86fccT.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S70d9d7f70cc443c4a6dcee771b1ec61cB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96d847d310c34201b3a975830d530541m.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sabd18ebbb98d43b3a2fea640ea6b41004.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7660e859c36c4c5ca23167c7d0c237dbq.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1a772dc4d5d14fbe91bb7565943f998bs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf2588cc7edb45aa9fde39bae4cf219ce.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6053398dc5fe46339d52df87c7e7837el.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6252fd3b5b1d485db5c377956f26710a0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05969f6d01ac43ec83931fa859c81fdeq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ad1892f972b4ba3a4f6844d7d0894425.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd97d45a617bf4e099a548402a929844dd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a67fd98370343c9b11295a3455101bcG.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S661d767876ea48098290c9ddc24f0a4cE.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sfc5f3e7c3b614eb6b2a9fa4a3526fc86t.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S3db10a5bb16c4c29838a3c2004782e99B.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S7469220a0d6942038279d60354b184015.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S583286b81f5a4042ac1296772ccce106Q.jpg?width=750&amp;height=809&amp;hash=1559",
+            "https:\/\/ae01.alicdn.com\/kf\/S08c15eb2f56c4aa292fd1d51a2ea36f5C.jpg?width=750&amp;height=798&amp;hash=1548",
+            "https:\/\/ae01.alicdn.com\/kf\/S23e504e3b2f845bab1e0bbe2d144899dR.jpg?width=750&amp;height=805&amp;hash=1555",
+            "https:\/\/ae01.alicdn.com\/kf\/S1236173726234f35934915bb8e3d3ab19.jpg?width=750&amp;height=805&amp;hash=1555",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d437f5ff1f745b1bb8d8e6ab3ffe4f4L.jpg?width=834&amp;height=828&amp;hash=1662",
+            "https:\/\/ae01.alicdn.com\/kf\/Sadace4e2568c4f2b8bdb3a7ac622a408j.jpg?width=835&amp;height=837&amp;hash=1672",
+            "https:\/\/ae01.alicdn.com\/kf\/Scfb16588bdba44728f417ffd34fe811fE.jpg?width=838&amp;height=825&amp;hash=1663"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S451f695b67f2423bafbe22965d394ad5t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5c024db8bb544979fc3f1c8c55ec28d4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a5532e937414663b3e749ae3a248eafO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c10b4bb3bb549fb8f39bd58e357e6bfL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50ab0df2b0ac43f9a273d06ff6d47107Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c09483a6af84e1d8adabfbafe4aa4beW.jpg"
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "9ba59fe49c5282da51ebd70e9f18eb49",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-25 11:00:53",
+        "第二层SKU数据": "",
+        "货号": "DG-206768407",
+        "进价": 85,
+        "利润比": 100,
+        "品类": 1002,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "金虎系列 双折钱包 卡包 高质量，重量：0.25kg，材质： 皮，尺寸：11x9cm",
+        "性别": 0,
+        "修改的时间": "2025-08-25 11:00:53",
+        "原普货标题": "New fashion everything sports running walking mobile phone key change pocket bag chest bag",
+        "质量星": 2,
+        "重量": 0.6000000238418579
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sefb7b0f7759d4f408d6281a368938249x.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa70b107d96b4d56aee3f02aa24eddfaS.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8fec7fb6ee5244079091be7aa9a35307z.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S37e586ef00d842d4acf24c92226e7c56W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1bc5583216a948d0ae1061e65f548be0V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd303d72d918048b594b300538509e8a4z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08e15830b6c44f6fab6750f2c2e1b1a8h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ada28d59da64b0391d2d2a963739af3d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebcc57226b5a481892d1a3c882c5fce3e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2582cec515624e3ea5bcda370c4121b74.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S42911d8c7239429e9fbfb1be101939f94.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9a65dcee6f4e459596fb52cca3ea9b1ft.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S9e6df7f1d6324599a9cfe4d41a9e04977.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa92f26c739af45cdad0d936cbe3f4839E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S277418d5890e4402a618cfd6dd50fbc9t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49e3182378084c24814dbe77efe1baf6M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00fa14eb7d664347b05377190c50712d4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scea080baa15a4eaf9aaf065b32aa48d9Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36e3c067b3db4f8481350a8625151b39i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e6df7f1d6324599a9cfe4d41a9e04977.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa92f26c739af45cdad0d936cbe3f4839E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S277418d5890e4402a618cfd6dd50fbc9t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49e3182378084c24814dbe77efe1baf6M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00fa14eb7d664347b05377190c50712d4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scea080baa15a4eaf9aaf065b32aa48d9Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36e3c067b3db4f8481350a8625151b39i.jpg"
+        ]
+    }
+}

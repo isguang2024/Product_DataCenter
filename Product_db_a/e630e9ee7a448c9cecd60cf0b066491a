@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "e630e9ee7a448c9cecd60cf0b066491a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-22 15:31:57",
+        "第二层SKU数据": "",
+        "货号": "DG-205895746",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1190321189,
+        "普货模式": false,
+        "商品简介": "材质：头层皮，尺寸：20.5x4x12cm",
+        "性别": 0,
+        "修改的时间": "2025-08-22 15:31:57",
+        "原普货标题": "Vintage Women's Bag Large Capacity Leather Tote Handbag Korean Shoulder Bags For Female Daily Commuting",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5440c5d33ba4578853fb5d71649c97aU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a490e7d25f84d8b9147dab9c5a5134cw.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S118687d97cc6468394100545741b2f8fU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d23aec04cdd41459095a16c39d99509Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2377c7b6a6234247966f96877d30af1aX.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4fb857a867da4eab81844868c7717379n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b92a2248f264acb8af2204e074aeb3d0.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0391d3c066bf4b20991f4a22cf02ecd8e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S755457b0f5d1484daaf04ba568c9a9cbg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3305e3154234a95912b593aa3e85d5aZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9a3fc2a9f664f498386670683966d472.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S512090c4892647199877ab27987ff496n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4fb857a867da4eab81844868c7717379n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca8121fa2d464fb9a79c9635631b9a16r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4b8a5664ffd421580992b67f5802056z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc51c1fb3b00f4cab8667140506475e4cc.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S19c31134b79349bf90d0f99d3b3e5bb6V.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sae4dc99a78fc467c80231348beebfe6b1.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sb39f486c1b0c4979a0684547d6c17c14i.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S89c24e42a2934da79223bdb35e607fcd9.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S1a94cf5b3eb04ce7bae676caa9ec4ce4P.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb96ce709717043728caf2923e747c1d2h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18f380bc095f4bd38197b54a1136b5adz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf878aedd2ef04ca2a51cea39d7abdb50Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ab43d7e2b8746a6ab1efbc22de8f2b5b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seac79405d3b3483cb8e0bce13ab385fdn.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4549f85505b744aea34fc99afa64b730K.png"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S18f380bc095f4bd38197b54a1136b5adz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ab43d7e2b8746a6ab1efbc22de8f2b5b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4549f85505b744aea34fc99afa64b730K.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S97d6256a1ce44a8cb87e38d1f289ade8x.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf878aedd2ef04ca2a51cea39d7abdb50Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6c09c1dcb21446090ab1a76e8f6fc595.jpg"
+        ]
+    }
+}

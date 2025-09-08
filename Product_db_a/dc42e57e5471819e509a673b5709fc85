@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "dc42e57e5471819e509a673b5709fc85",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-09-08 14:38:48",
+        "第二层SKU数据": "",
+        "货号": "DG-209191424",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": " 高质量，重量：0.6kg，材质：麂皮，尺寸：21x12cm",
+        "性别": 0,
+        "修改的时间": "2025-09-08 14:38:48",
+        "原普货标题": "Fanny Packs Chest Bag Waist Pack Messenger Bag Backpack for Women Waist Bag Adjustable Strap for Travel Sports Running Belt Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd532f483e9774301ad1b49d33aec89f7M.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0d59d924d0884bd2811746168880900c0.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4268e3be37604e89a004e77d49549711K.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1b66b9507e6844bc810c0058a5e6eb972.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0633d199a64d4275af6bba59cbbaf19bZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29428c14d60e46bab383c26c1398a8aay.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ed7beb5ad344991b07b7ba1a5840795v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S276f48a50d7a44c39020c5f0863b5d2bV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d5060f3f9d84535bef1efafc3839047A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S943397fab482476db36a9ac4d9bccd28l.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S6391bb85f9bc490888314b934367ab75p.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sa59164387145448290e443c65d056b4eY.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa178a0e728ec4b4c91faed1fd8df63ecJ.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa178a0e728ec4b4c91faed1fd8df63ecJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46ece4f59a6f4a32a352073aeb23ef4bM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24c0e264500040c881ab7e4291be4d28K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S289bb46bf54a4250b3499a58e64c0ecfw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b3d0f4f642a47dd87b0223b580cd22ei.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S165272df7cc747bd817340b8490d7466y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f9ac918021b4209abf2abcfa7371720D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc8bb7fde95b4e208825425de7d1fdf62.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa178a0e728ec4b4c91faed1fd8df63ecJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7d2930835f24a22a68aba4b2d6d9ca53.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24c0e264500040c881ab7e4291be4d28K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b3d0f4f642a47dd87b0223b580cd22ei.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20bda2b54d594cf5be65286f96fbe600g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f9ac918021b4209abf2abcfa7371720D.jpg"
+        ]
+    }
+}

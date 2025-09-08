@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "d91ea3f3b19deaa70b0c4ec50eae3d6c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-28 15:05:56",
+        "第二层SKU数据": "",
+        "货号": "DG-208324783",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2025-08-28 15:05:56",
+        "原普货标题": "Women Waist Bag Corduroy Student Shoulder Handbag Crossbody Chest Breast Bag Fanny Pack Fashion Phone Female Bum Belt Purse",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S32547859cd0a47b19e4f041cae8ff7946.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea753d6694af40bebd930c76cf9bc0955.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb61697aeb7404bf8aa02031fdbb82768H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a17467a6071465593915df94984ec77f.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3688988aa9674422a491f50ced70a3c4k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6bf2f74e241f4cc8b76f57c4baf06c60R.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sec1ebbd652f74388a5c9560fc6c6c6a2U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c8aab249dd44674a75066d62503198a3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6905fc9f14548cbab35c9a69fe2d31fD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S937d33ffd0594311b1714053c747bbccV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef5bb8fcfb9b4becb41f984e8420d31aI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a2c5a1846ae4c24ac7cbad95dc8f7c5d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seaa882f50fa543938c99d7a96063bf250.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf2221e44d85d40629cdd1c194c71f3aeH.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3ff16ddefceb42c3bebfc601c54dc4b2m.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Scf8e5b3b995543678e69b020ed11055bP.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Se10486af616144dc952b304111a8671d3.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S46acde33624d4c4eb6d795356cb12e649.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S164241e051fe4cfbbd72dae117e998b7G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf8e5b3b995543678e69b020ed11055bP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbeacde2f2d604ebb913abb6756247efdG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f1fef0acb194f6fac5402be8cdb45e3F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00b8cc88d2b54fea8e30b6c2f4742b2f6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S638ea052d7ef4cd9bee834108659e24cn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ca07e0237824da8b100a3f4193684a5W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbb41bdac3064c8cb9a678f391fa45371.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7adb3f7edf774a4d8c8b43a547586b29w.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbeacde2f2d604ebb913abb6756247efdG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbc02412a1164f74b0d6fa2d659470b6d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00b8cc88d2b54fea8e30b6c2f4742b2f6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f1fef0acb194f6fac5402be8cdb45e3F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46acde33624d4c4eb6d795356cb12e649.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scf8e5b3b995543678e69b020ed11055bP.jpg"
+        ]
+    }
+}

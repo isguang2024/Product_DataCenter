@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "212aa64f5babeed9c91e720447918db1",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-28 15:00:04",
+        "第二层SKU数据": "",
+        "货号": "DG-208325270",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": " 高质量，重量：0.82kg，材质：皮，尺寸：25x23cm",
+        "性别": 0,
+        "修改的时间": "2025-08-28 15:00:04",
+        "原普货标题": "3 Main Pockets High Capacity Shoulder Crossbody Bag for Women Multi-pocket Purse Canvas Handbag Suitable for Mothers Shopping",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S31b0e3cc7e3e4135aa7f0ceb6092ec96t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See9b652f0cb248dab1cb488b5f6cb47cx.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1f8372b775a54f7788ec8d9e2a109ccbC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc84d4562200e40da952cbad4fe5f4eecm.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf0a7fa19c3e4f6eab74d8a96eff2296W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c8903d7a34d4d94ad1d27bf3a5916b4d.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1725b85f0f644790b3b0c10b33733a2dK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38234d01359945ffa8bad6d0a9642852G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc91e8bd7ea7f4610a65463fae6bc796aD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S785c8f73737e4025bc8e2830764663fcr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S14a5ccace166401a856b770e6694e2b9n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S360b76e3875b4228a43424612a9e2a2ff.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c21f43f15fb42199ce3822fb8d6a5faj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65ac95c6f50141c990e57ec4a79e0d1bv.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9394a5e999144c9484050cd6ce26bd2dD.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4b15f0322dd6405a92dc0d5e609b9718W.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6fd7fcda7d27404290ccc25aaa02d068C.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sccbdc2572b7b4342a6879ce9a78b96a4c.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S85bf4eb3660448d08145221157a3c907v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa77b361be12945ebbc8149543cf34956P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a87bcd4f6cb4c84a724c3ab7e66efeea.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ed419b1ae9142cfb2a5327915059d1du.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9665b92772444a52b358ccdceb054237F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b6e8d42419f4ec6bbb8154f89208958h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74fcbe640da34f3184c370a449b02902q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ec83849d0ab475c8b809593fc4b742dZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a3e355fb4914d0ba8cafed7d8fbbc76H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb98e13ff7d344ffb3fb7593c86a4682z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fdd646e60ee4abd94b05d58f244bbcdX.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scd1fa393f5b94a87b8f5ac365dd6d82b0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S084bec1a46f846548e2a4c0662421806h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e2bc1379a524826b2826f8d1e47c909g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9623e076822749428d0d58d7e58b6e082.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99170799edbb45ea96a14be2ccc3bf13R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S954cd72787ab4fbc8531bc1c40c6c756v.jpg"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "1d7d789d71f72b49a55a42f14ea1aa63",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-30 14:51:59",
+        "第二层SKU数据": "",
+        "货号": "DG-204678033",
+        "进价": 250,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": " 高质量，重量：0.74kg，材质：原版头层皮，尺寸：25x18cm",
+        "性别": 0,
+        "修改的时间": "2025-08-30 14:51:59",
+        "原普货标题": "Shoulder Bags Women Solid Harajuku All-match Simple Multifunction Handbags Large Capacity Crossbody Bags for Women Teens Purse",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S18e50dce4004416ca688b14da40cc055k.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1271c40544bf47f2b41c33a8c7c591e8t.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2bcb20bd8d3d4863bac54a711ed30590N.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6000173408244222b2b9465d453c07ec9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S875dae93cab145a78109bde79fbc9c17F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6fe3ac5ecd0a453f99845a9677009b59O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7defd76f8a45465ead485e08ebce0ffdm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5552905688b14a7c9e7065898c0dc09dq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ba0af414a2b44de83f3b621e1d9f99c0.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7477ab41f1414a2f9542fbcc0e66f64bc.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9cef58c603c142febcf861c8956463f3B.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc5bf7a1e06124aef929d8667e0dc463bh.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3298619963664316b2d694fcc0e8bae99.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f66aa96872c4c23b70a6725be37aee6a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f66aa96872c4c23b70a6725be37aee6a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S685f0a0fb56c4b91a963647bc36266fcW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09920169234c46749f1d3c96c1d7e807K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf95f59410834e71a9c2f1634efbaefd5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f079aaf195a46639f04efa9070e014dr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S92c1e1a3d0b241de97c857a83bda98909.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3fb245e355944883829c997a62a0155cM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8501ddb0a0954377aec39edcd3894c93x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61ec3dde53e0441abeae6bd7103f9179N.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5f9f6064275a4cd9aa70f1d5b52aa868w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5bf7a1e06124aef929d8667e0dc463bh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ff3a6633da842fa965d5d901607f7efq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e0ac2c292e7430080b66461d4396661b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Safe3978dfb9048f4b2f40c7b4fc07f6c2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea260b72ad374bca89c9b47b1afd4e41X.jpg"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "149f4b652eafa93598e89c615d8a53bf",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-09-08 15:12:16",
+        "第二层SKU数据": "",
+        "货号": "DG-209182846",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "迷你手袋 高质量，重量：0.6kg，材质：皮，尺寸：12x7x19cm",
+        "性别": 0,
+        "修改的时间": "2025-09-08 15:12:16",
+        "原普货标题": "Fashion Corduroy Tote Bag, Solid Color Shoulder Bag, Women's Casual Handbag For Commute Work",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd529b324efc3421fbb2739e3aaf7f482G.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf751c9a9284c48718683e8c79d49aa99t.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc261adbe008943bd871c98153029b532O.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3564393ff2014b12b72001ccc76733b01.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c6189c43c5b42da93f3fbb2cd92c94eP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S648131399fa140a392362c8f1e5738d5q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4deff22a5577417d99191aa94e933eabn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ece22333f184f5ab8180929482b52a75.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7c321f9f86f43dc800877c1de81f362Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f202f3b4647442d8e0d62f39d0a8c0dw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2e6fd60b08f4a7f9de2fba9d558f652O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb696df8eca34af089980e5dc7274c06a.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sc261adbe008943bd871c98153029b532O.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4a4597fe789f43bfa48f752f617df8b42.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd79a351e9dc94c18aa1ac9ced787e994J.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sef50f8fe7caa4686a75ba0fb5b29220bq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S342aa384864649e3bdbb78f0f3467315f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8579b80913345e5a2dfcdc2cbcf0006T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb59caa224252453984ce3ec8e053c0f1w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8f4bbe171a4414e8ddbf291c89e6f28E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c2c73aeb2c8452f99a759863998497an.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf75a9fd94cb54d258b41f0547d5fa7b8a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e5af3a9a01246bda98bbc9088f549b4J.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S81adc272dca94d809dca82688872a8bdd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5941ffa5164548ed82f537e873065c68V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf2da4a891ea4f98ad4634ad62031797w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc04b45a0f675424c8291ee668059349dv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sead2bc6739814aa59b31a57c439b9125n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d1ade8c85f14d56a45754e6da2e58e3d.jpg"
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "d95420d493e33cf0016dc7df2701d82c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 11:54:05",
+        "第二层SKU数据": "",
+        "货号": "DG1-128942008",
+        "进价": "205",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "原版质量，重量：0.61kg，材质：头层牛皮，尺寸：21x11cm",
+        "性别": 0,
+        "修改的时间": "2025-09-05 11:58:16",
+        "原普货标题": "New Arrivals Genuine Leather Shoulder Bag High Quality Crossbody Bag Men Male Sling Bag Messenger Bag boys school bag male bag",
+        "质量星": 3,
+        "重量": "1"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1cd9531b3064d07b9da6b9010dc2648u.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb920295db77443bbfccded28f688beaq.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S191dd5f93fbe4589a4be7a2313c0b59fj.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S16021a8ae2a54ad2874097b0af4b2162u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd70c31c4cb1475ab2c2c0058107dec2C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S46daf98f48cb4ea9aa623c098e343f07c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa48e4905fe854b918c8def575702ecfem.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb558ba4554645e98897b77e63bb5450u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se134a8b2bede433ea8b7a30087998208p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49698b6c49794744b7f8d45076956a8bj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f3f8cf77bf449f698d971b53b2b5d8aq.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S13cf64ff426943fbbbad79a44802ef83H.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8f47b71041594fccae13bd41b73b4054a.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S72dcf53ccece4a648e98c9166f50132aH.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/H63e2c3bb030742f890c502ddf4420ef2G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hf6233ba6e53a4c48aca3c0193ae93f567.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H9c4d758722ad40a0a62b5fbba4834987v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H07d87726cbdc429e8907edac9ccf05e73.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6379d45ce5a4fd6bb4f137f4c4e88d4h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72dcf53ccece4a648e98c9166f50132aH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1fc4f656c8244a38dd06194cb9da9a5H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S64593fba053a4e10abffec907d5b29b0t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ba1127c932d4fdea5ff7994c7bc870eD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1ec8b4aa8fb4c9ea6bc45ac153a1934b.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S64593fba053a4e10abffec907d5b29b0t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72dcf53ccece4a648e98c9166f50132aH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6379d45ce5a4fd6bb4f137f4c4e88d4h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1fc4f656c8244a38dd06194cb9da9a5H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1ec8b4aa8fb4c9ea6bc45ac153a1934b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ba1127c932d4fdea5ff7994c7bc870eD.jpg"
+        ]
+    }
+}

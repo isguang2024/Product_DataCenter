@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "1deaeffa641380b39a6a2525b36d4a7e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-09-08 14:31:31",
+        "第二层SKU数据": "",
+        "货号": "DG-209191002",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.6kg，材质：头层皮，尺寸：20cm",
+        "性别": 0,
+        "修改的时间": "2025-09-08 14:31:31",
+        "原普货标题": "New Shoulder Bag Trendy Cross Body Shoulder Bags Men's Messenger Bag Casual Simple Mobile Phone Bag Hnadbags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9bc2be8da8b4eeb868c5b9cc37e5a51v.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1d47e59a52ba4779a5e5ba3cd9200ee5F.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se7a297b163e4400aad39d2686a64d922N.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S23465cfb5f1d4ae28e4feb32f7e6f8bbn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39734a4790164c2f9b2b382ab29c7fb2Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b27c085bdc4481cbd589890393bdfe6o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53cfda3a0faf465fafd40cb22489cc4aU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c4cf8909f13424598c0abc27e1a3504L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se20e55c82d7545c9a0bad75ec040f628b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S294ccf26d48a4f8e92d46b7728251fc3Z.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se7a297b163e4400aad39d2686a64d922N.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S19458fefa4374dce8bb0d98812232574U.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6eaddb41747a4740b8e3df47eac1f3fex.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1f0f576f8cc4bec8d9b36216f7b2531h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02c5ac4a9685438481c42753197a9a83r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79db731be5f149c597f8d3a16985fe9fQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68a6378eac8a4a43a27a044343bee0a4G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se679828ccca443eb850ace2c4aa335d0M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29c0a12ca2ec473399c988b27b9a5fe9o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se48ae50511c74425bbb4aa7f8d36a629I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f43799345824a6c8fc91f920d093308L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S830028c7b0144a51bbd376c80259b3efp.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S780898ce7d314c188a13bd0ffc86f3f9W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6eaddb41747a4740b8e3df47eac1f3fex.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8b1301108654e488d8f6df332ff2eceA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9fe65a7b03b243629ae209ea00edd10cZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8e82dd2fc66e4b3385e48e246a2159f16.jpg"
+        ]
+    }
+}

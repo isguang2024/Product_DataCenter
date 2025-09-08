@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "b052745117974728243870f6e19efc5b",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-08-26 15:21:11",
+        "第二层SKU数据": "",
+        "货号": "DG-206339839",
+        "进价": 110,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1003781064,
+        "普货模式": false,
+        "商品简介": "腰包包 高质量，重量：0.6kg，材质： 皮，尺寸：30x14x8cm",
+        "性别": 0,
+        "修改的时间": "2025-08-26 15:21:11",
+        "原普货标题": "New Lightweight Backpack, Minimalist Backpack, High Aesthetic Travel Backpack, Lightweight Hiking Backpack",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S841a7402b6ec43dbb70d0912c3f68e79n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8cf68a7ea6548f3bdb59f5ea548d493c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3acc6d85d22c48cb8eeaf6a59e3ae443z.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2ec16d13ad3943d685e6e391118078738.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1333993f79464011b077ed5077d35c77O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd679509fa7894c9db7c447045bb2719ej.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S88e26069906b4d2c8caa73a94f43bd980.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62c755996c134fe88658c4c068b35ccdh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e9566cee3884973a94c5afbe8585c86i.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S58e7f86ca29d435baa6586a1239397a6E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc121c3fc4ec349bcadea8628d9ec56eck.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S081c0ff8903e4feb9cd3ac9407d18658m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf14eecee47994365842c1c6be6eadc33D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7e9398fbe284ea6b4db0961ad43f04dU.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8b608db6c5a345ada072b6755a95f961B.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3783ee0675494b0ab4458ed7de4fa3acj.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S76753a1f2a114c5790dacdde2a1c3f722.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S276c5d0bbe79427c9448ea4a18d395273.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2833641e99684bfc9d8a6be854a18628y.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sffb4e8db8cf840d0a42498979a97dc6bc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4d97a75813d48fe9d55bd6bbde57720y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1121d0f98ea24a4cb6ba195d03c4a12fV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb6b75f00d9a4e01b4c3cef1ab803510x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f041a72ee624b89b3a01790cef98baf5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6eab5f8117f4aad8aa19d0c1ef2ca45R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2ea513981fd4c0fb2285dc5e601f345J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78a07b58cf474c32b0929883c949c076r.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3029fbd14694240a1545d9ae221b247L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e1c159d5c414bd2a0ba79efea07484cY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe582a4b43ae4d93be47b4faf2d2ab00e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2cb2c9fc90e345f49065448aedd12ea8h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S979ba7e09ed949f184de37566cb930bc6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sffb4e8db8cf840d0a42498979a97dc6bc.jpg"
+        ]
+    }
+}

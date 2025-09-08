@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "a9a74087f97f7e712794ef3975f0c6e5",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 15:04:10",
+        "第二层SKU数据": "",
+        "货号": "DG1-206834055",
+        "进价": 215,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高品质，重量：0.9kg，材质：原版头层皮，尺寸：30cm",
+        "性别": 0,
+        "修改的时间": "2025-09-06 10:29:42",
+        "原普货标题": "Women Canvas Tote Bag Solid Color Designer Ladies Casual Handbag Shoulder Bag Large Capacity Cotton Reusable Shopping Beach Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S63b84f49eb214ad398d12a770e07324f7.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3fc8aa50bfe1481ab6958dc7d4a0c028M.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S099cdde7dc2f4da384267229cc784f87L.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S97d21a0853154c4a836541ad7d66716bH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S723b537482ee41f0a4d044c4baf367e8X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b92f1a611b749e1ab3d9a920416ce2bG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4fb5e5ea733d478fa9d9bfaadb3a764bl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c96de6b0c534b7fbe7984cf7740f4e6x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b7a1c12d1444e71bcdaded8c3e0fc8bU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2bc7a5fae1594b1487955795ed7d7f3eL.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S07a7df8a17c44866a91710e04ba8b3b8m.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7e8466ffa28d4a468738e82428a88e7al.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sf2e08ccc75f64ae39b2790b25e0b69f2j.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb28b8fadb48c491a9de54a1f9a2e0201L.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S275c7fd449004d7fb1c3d5663c5b17730.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc48d5e1b71e4019959bbac5bd039a0cK.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S4fcfd324eaec44a78b22708cfe0ec141A.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S75bcda4d78554403ba6bd0d26c3651c6i.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b8df66d71914cc2b2a54102b0db2371c.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Se50971293a4c436987176cba759a7cb2k.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf37de591931d4594b9892c6204c4a780m.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa88c1db6da5b4222b7396d4c5a215aceV.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1cfea961e8b4b9eb9f65e1b4007641dS.jpg?width=800&amp;height=800&amp;hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb370cd4e8c4744fda63717267fd7f2b0w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S481677524e8b483082caaa468797220bq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc517dbf5001b4a45933c2760b7deac1bN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbdf325f2042b49b4a2abc69e8556d8e2G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbaf9a21bbbe48849921849ea65a16f7b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1774634e2b6144498b7a442fe42e57c7w.jpg"
+        ]
+    }
+}

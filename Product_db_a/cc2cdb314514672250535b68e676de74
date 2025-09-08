@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "cc2cdb314514672250535b68e676de74",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-18 11:45:45",
+        "第二层SKU数据": "",
+        "货号": "DG-207252006",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1898907760,
+        "普货模式": false,
+        "商品简介": "手提腋下包 高品质，重量：0.6kg，材质：皮，尺寸：18x9x14cm",
+        "性别": 0,
+        "修改的时间": "2025-08-18 11:45:45",
+        "原普货标题": "Canvas bag shoulders drawstring bundle pockets shopping student backpack bag cotton Pouch for Gym Traveling storage bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S59c6fb37cdeb4f99889c495fd66e304fM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdad846bdf15b413b95b2a0ad747806faL.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa89a3a31a79f480587cfa32694d81141G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba7fe727700b4fe1b007f07c5906d4dcU.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S48c8e7973aba43508466c0e72aa491dcB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc5136d12547450e9753f2c3bb1383b32.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S62cd97b94b624ae4a60bcdcdf576cfe8q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41a3cd9f8d9d41d981b4a8124250ff7aa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72fe829280ba439f88123bfd574948d18.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se07892bf319e414e993b24eff8c1b3f9C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb01ece87f1294cd981b720d9cd18d89e8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7a4850234624aaaa6449e9b5343b6ebx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4bd934caa5448929b52b5b6cfbdb1550.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9016ebad7a374aeb9f3417b5f18f702cF.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sfd8c35330f88401487a813ca748f49f3J.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Scba83bb52d664948b52220552442ab7bp.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S26e048b9c7024697a5f652e2aea703e61.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S264a923d2a524588948565cf1ddf1d04e.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sed5cb3314d1a427db71bf38bbb65cc80u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1837c5ea718c482eb3fbf1f84ec19500a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S383bb7ef3bcc41da8948da0712d38592a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31c8cd420f6e4657aa3d1821132ea2c6J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05710066ae3b46c28705537aa560cd80U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S799dec993bd746a298c2e1a7a5018915e.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S695f1cec302140c69c58d7283620cb05Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26e048b9c7024697a5f652e2aea703e61.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S264a923d2a524588948565cf1ddf1d04e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0595dbc0037341c98104a9b38dcf3ecah.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9481236942c7434aba835dddf2b67ad0o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79502fb5b4724d5cb852fa047160fc70K.jpg"
+        ]
+    }
+}

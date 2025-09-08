@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "eb90288827bac1e7433ba3145dd58ce0",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 15:10:53",
+        "第二层SKU数据": "",
+        "货号": "DG1-206831664",
+        "进价": 185,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "枕头包 高品质，重量：0.9kg，材质：头层皮，尺寸： 30x19cm",
+        "性别": 0,
+        "修改的时间": "2025-09-06 10:28:53",
+        "原普货标题": "Large Size Leopard Prints Chest Bags For Women Canvas Large Capacity Shoulder Crossbody Bag 2025 Summer Latest Waist Fanny Pack",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S59f41dad02f240ebbce05d94b1994390I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ee554abd7414845983ee5cf677f639ce.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S93bd9b7f0cfe44409debaf693a65bc11t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e0f1ad12da24a8385f95a0a86935601r.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sed43daf5b94c407aa238d27b9f3a9a49R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d0013cd1b0d44bc8bb38e39cb71315aM.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0bb22313a1c481b80015557eab42c8ee.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5923d737ac6c4031bc1e11df40d5038aH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ca172bd5fa24637a00a9e533e076d68z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93603769f00845f4b794f5abe61ebb0dW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S179f3b61a26c49e4b9694c90625283eec.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38c1bc6025664b3ebc1f2af50f3d93fbt.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb90601a99afb49a1bd2bbfac4831df0dh.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdac2f14902d44480b464960993413cd3i.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sb5480d0e87514a36a56a039044fc15144.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sdf22cf92e3c744609de9aef97c2abf9cK.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0cd1d4120aab48418ee898ee871c0848r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6d3c97e782c40119776d0e2fd8efc00z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4cde8ec464574ccd96cc27dd4f52f3e00.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfaf8344a60aa489aac1729d2cedcbe2dD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a82f13229944ba086d8e37168a87814L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f9b67f4b0b8429daf83ba87f3d2f66aF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se541dde441e34a73a9339c6c97dbeca12.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8315273570d148818371021de4d710afo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad1e0fd9e5b84aaba28337567e132a0bB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc640261e1e54c309669fe844e4a2e1bn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80b904dd62ad4f33bdc0d3f99661c9f2h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S568aff060060449b9fe12acc82b48fbbE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seda9f2f478aa44b8969c9595ae139ed3p.jpg"
+        ]
+    }
+}

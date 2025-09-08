@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "0ada23b72829d84787b1e48e1b99709c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-09-08 14:27:38",
+        "第二层SKU数据": "",
+        "货号": "DG-209189931",
+        "进价": 210,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.85kg，材质：帆布+皮，尺寸：25x30cm",
+        "性别": 0,
+        "修改的时间": "2025-09-08 14:27:38",
+        "原普货标题": "Student JK Handbag Waterproof PU Leather Single Shoulder Uniform Bag for Men And Women Official Document Commuter Backpack",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S241172c6a48a452bbe0dfc7b20201e94h.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S93b4e4127e0c4ab6aca60d5f65888f55w.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se44c985463b447a2949af1200f4150dbR.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S25e7ae808ef945cfbb02970b581552fdA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a07778b28a84211a190b6ace75f89dct.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2834323edd0c458eab1a2918778ce203W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6474ae9542254b3f8368276085fbd15cy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9efaeff5a24f49e5939b5cc2eb99363a5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a056f1eb92d4b8898137fd103454ea8P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc33de0e27dc249f3ad961c6613bed82e2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7231be56d55348139412d64f770de9a8w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3699017aa88400fa1bbef1bf5295b35j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8880ebb4e4dd46729fcef31a74113d038.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1bd56af8b9ad41f88cf048ff040d1dfeA.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se44c985463b447a2949af1200f4150dbR.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S626efa18c5cb48649adbd04d594ab0b4Y.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S90f83be4031c4800a246893966de960c9.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scac6d41c756646518ad841f84acd6e9bJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a68e1ded87f4252b0cbf55b9c4b40cfV.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3fb9575d889482fabe151b8639f344aR.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb18a20be7d64bf9aca95c2d95e9539d7.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6641c8446c6f46c5b41a76052d4ce3b7Y.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f296a1344774b7ca95fc53e994b5ffaC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb2442a6cf5148a3be30f663111a87efg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa371eeba9058453aa40986046f5d3e89Q.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scac6d41c756646518ad841f84acd6e9bJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a68e1ded87f4252b0cbf55b9c4b40cfV.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3fb9575d889482fabe151b8639f344aR.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb18a20be7d64bf9aca95c2d95e9539d7.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f296a1344774b7ca95fc53e994b5ffaC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb2442a6cf5148a3be30f663111a87efg.jpg"
+        ]
+    }
+}

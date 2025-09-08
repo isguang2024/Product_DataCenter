@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "d1844803215fe60227848b0e44d15036",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-08-19 14:58:56",
+        "第二层SKU数据": "",
+        "货号": "DG-201928084",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "重量：0.68kg，材质：头层皮，尺寸：25x13cm",
+        "性别": 0,
+        "修改的时间": "2025-08-19 14:58:56",
+        "原普货标题": "Women’s Corduroy Shoulder Bag, Casual Striped Large Capacity Tote with Zipper Closure, Cute Hat Patch, Perfect for Everyday Use",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0a657f19e86b487e83ec8c7d32639ff4D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb51a963dfbee46cba7d4e2b24a9e247du.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e14a3e9aa794384be27fd7bd1a72b53f.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8f2cb7e194f04cf8825fcb72600c3805B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62a55d7f0acf44f791e3bba098d91d44h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S045d906516c646149ede0b320659264dz.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8feda648e08c475ebde98614cca31be0N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8e3bcce7a924cf2bda2140607f219f5Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d5794c7608a40fa8e2fa4a24673ac27r.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S43cac1d3c0c64be7a4e7c94afa269d24X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ad98f8d92e847958b4e8e0dfddfbad3Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdabd288e130a4aea891ff898b637438dd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a69728f32a84e80ad680724377fd605m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbd04784a52b4774b10a0d14ea12241fe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a57632b1705416e92f95375ec8c1b35a.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S1a39f96ad62644ee8e1fd43b78c1e2d4J.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sbff3239252ef451bba348b259941d19bo.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8db9cb13deec4e088c114a1f34daff74a.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S3bba8b251b264d6d9ee51899b468940f7.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sb6931336ebe04551b8aa94d9e05402a6C.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S096e92cb14d641018cc4cf353a727fbdI.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4968e2c2ac14635a41b5b20de89663bm.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S438789ce3aba41d1b3cc4783b3a0d0b06.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b1f2aa40b2546c09bac2b331ea0e77cv.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa175d351f33447b5971430c5dd39541ci.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S47574a9215604c6ebdacf2c0f4a3a102U.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb6e5e037f5c461787684a9ed37e760fR.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S68cca45dcacd4dd487d1d690b8d54813T.jpg?width=800&height=800&hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1537c539307c48dcac355b5b28ced95cu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10549344d8bc437e908040c775e7858bt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa23403652fc7440f87a9e4a3c9642f345.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7d48bdea41b420f87ae4fe46bb026f7W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a2853d222184a0dae3802a1dd9f6ae33.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbe238ad5cd74bb5bad11f75e924b3c3J.jpg"
+        ]
+    }
+}

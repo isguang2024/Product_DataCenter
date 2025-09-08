@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "e2f00b8f35a649046ddde42b1b1ea733",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-09-08 14:59:01",
+        "第二层SKU数据": "",
+        "货号": "DG-209190109",
+        "进价": 225,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.82kg，材质：原版头层皮，尺寸：30x19cm",
+        "性别": 0,
+        "修改的时间": "2025-09-08 14:59:01",
+        "原普货标题": "French Style Canvas Bag 2025 New Women's Large Capacity Single Shoulder Backpack Versatile Bookbag Handbag Trendy Student Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S26209707f69940af84c769f95bc838904.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S149b94592c0c4981872df3f29874a98dM.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9bee6d0ac21c49d8ba1f4492080d9cbbo.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S82e05922482147378283be8afdf84241C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4dfdc656cba4d199c239eb57db34e926.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S223a042ecb8f447798a87cdf7c00127bn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sccd7b508d7074398bbe556241be760261.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5de4105251848c7a2917dfaa390c559Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70b44e213c8f423b8081da81e7cfef07b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b5060e12efb415da89fe4a68748d251C.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9bee6d0ac21c49d8ba1f4492080d9cbbo.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sbeea522051844ddf8e2eab26c3352608h.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa7c5ffeb2a754585affc197d6f2b8eadw.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2363966ff6c9444bb1ec87bd3bcaa9b2S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1f8b957f7e748b68409c9d6dceac038p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbef464789b7841ff95e734dd6ca6f7fav.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03a41894be8d49afbf488538b445ea02V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d2780ded41d4a2b97d80491eced82f5J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf24ab09abe448529893c364b40d74a5o.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/See4b320b0a604b538b21b013bbbc59eab.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3c920593a13465e8e00e7a2e3c89d0cX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se112b17a374349fab3d4f61bf90627dfJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbef464789b7841ff95e734dd6ca6f7fav.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d2780ded41d4a2b97d80491eced82f5J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03a41894be8d49afbf488538b445ea02V.jpg"
+        ]
+    }
+}

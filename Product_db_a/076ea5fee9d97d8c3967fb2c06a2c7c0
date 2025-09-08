@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "076ea5fee9d97d8c3967fb2c06a2c7c0",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-30 16:59:16",
+        "第二层SKU数据": "",
+        "货号": "DG-204664042",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.6kg，材质：头层皮，尺寸：19x12cm",
+        "性别": 0,
+        "修改的时间": "2025-08-30 16:59:16",
+        "原普货标题": "Chest Bag Banana Bag for Women Sling Crossbody Waist Pack Canvas Running Waist Bag Casual Fanny Packs Sport Half Moon Belt Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S32273f9ad27146658f7d0995f5db203cj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4097f24199bc4ca1bcb3387d8b8343f3B.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2006b94abb1e4f27977ae8a6e6e4556dy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7edd6bfdd0624f7cbe9ad5098ed6f2f2x.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5660c69e946a4dd49c976fee6e9fc8edp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfc1e5025c3e48db9393c1439a178042M.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4858893d4bf42d184283874466052d14.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S316d6e0a3f544e5ea867decd0fcc6d6eX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5660c69e946a4dd49c976fee6e9fc8edp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d712f1e61324262ba476bbe076ddbb3E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb931650b7ecd4feca7ff8505b8e816e6e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fd9458ffb7143eb9b0c9b73a1fc3f12O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S130b19b0673e49f7bd6f28d222877e06e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b30cc58560d4c98aed3821147243fa1V.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S21d5d248dfb64f558ea780d22b7056ad8.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Saf44254db6c04b4bae53c875c7bb6d962.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S381f0294f6cc452d8782bde8f4d4abeeE.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S228f1b56d8d943eba806da8793557409d.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S95db12780c074ac7870ca17ca560335dB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4235965b50874e508440f326cbebdc163.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71034442520d4d9c99e756c60d4726e0n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d4d28862c0e44b793def69fe73582e3S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4562743df254f8488d8df1f56a03cb9O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a2f5b2656c8412ab591733e5a5959489.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf31741cfff504b4e8fe87030d88f35cfl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6971bcf6ac44d90bea48631dccda7e2w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S151bc679fdce4359a7df4ccbbe819945g.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S40e9c5e00c1b48f289fe9bfb09a6ba07O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a2f5b2656c8412ab591733e5a5959489.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d4d28862c0e44b793def69fe73582e3S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbc36d3946354665985f68b83130b210p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71034442520d4d9c99e756c60d4726e0n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb7bd028c96049e0992afb08a93a9691N.jpg"
+        ]
+    }
+}

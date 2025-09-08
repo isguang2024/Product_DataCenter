@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "753256fa0959c959d12a2f158b5550e9",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "DG",
+        "创建的时间": "2025-09-01 14:51:24",
+        "第二层SKU数据": "",
+        "货号": "DG-208728187",
+        "进价": 65,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高品质，重量：0.47kg，材质：皮，尺寸23x12cm",
+        "性别": 0,
+        "修改的时间": "2025-09-01 14:51:24",
+        "原普货标题": "Large Capacity Lightweight Canvas Bag New Waterproof Solid Color Tote Bags Canvas Handbag Shoulder Bag for Work School Travel",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3ad59fb377448128b6ac6a1944e63006.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05e1ded23788436b8726f4e62f4e09f14.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S520fab3d804743758d0ce9ad7053bb71x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S574a8be731ea4c8183410a60ae7a17daG.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8196594c7d04c3c9561b41487d9fe8bk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24cef99d21b74b35abd1079584394638k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seabe7361723c406cac2756aad6f83a111.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97d44dc071ec4dcd88a1db75ff1947fa1.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3cc0626f14a64b7187f58407ea6d89d2R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b9304880900467c83debde41c84eb09Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2fa92b290d5492593b21db51e5758c0L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15ef10ac69fd41118add85aafedfb6acY.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4d0f158f9018452c80f2df99df2be3937.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5dc4a13b4054b03aeffe2718ecbd8ebS.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb3f9933ca95d404e918447bc134a1441T.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S365831c20f4148bcb306a428d084cee4r.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc19a767089044ca4972ca96e62302dadY.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S72fb08c30c0a4d559234fcca85b32a8eQ.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S88ad792d7d9549ec88850e4b04c34524v.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc08268c2e64c47dbaf579354430dd17aq.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc7ce0a27a654dcaa6b3e49a365c228eo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd46c3d186f474a9dacbcb766953c629d9.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd59bed6e366948b78b49612c3a19e01eY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42a249de81af4b34b9a2fdc4509f2e323.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc61a8037eb314254b71649f07f6190218.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9cc5543974e4a4590ba73a423a93072U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc7ce0a27a654dcaa6b3e49a365c228eo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S307f2bfe576340e8934ba38156c306ea6.jpg"
+        ]
+    }
+}

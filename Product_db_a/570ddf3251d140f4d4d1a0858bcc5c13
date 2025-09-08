@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "570ddf3251d140f4d4d1a0858bcc5c13",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-22 16:16:00",
+        "第二层SKU数据": "",
+        "货号": "DG-198868585",
+        "进价": 225,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "材质：头层皮，尺寸：25x15cm",
+        "性别": 0,
+        "修改的时间": "2025-08-22 16:16:00",
+        "原普货标题": "Stylish Minimalist Retro Shoulder Bag for Women Large Capacity Tote Handbag Casual Commuting Trendy Fashion Accessory Tote Bag",
+        "质量星": 2,
+        "重量": 1.100000023841858
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S653556f220714bee989cd1da08fa8d96Y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7bc40ff806974f6f8169ef21866a8bfeZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a9a10e54fe1463ca546d4adbbf3ee98q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2687cd282dc44fe9b237988fda87ae197.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8c24824363b64067b57d79de184463312.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc0472dc93384aafb9635ca5214378df9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S785ef7b53b7348b280f3f5b72329ce5b7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c24824363b64067b57d79de184463312.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9dbfa6ae6f554aca8858cefd4484cf466.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74024651e0844297af4c3c2434772cf6X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf665a9163b294316993fe9ffb8a91705x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S017d503ca7df47f5ae99ea802e86fd43J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff89831aa429485696a91db458279d757.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51c47ca7edd444e38bc853a894a56dbbT.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S851a6728311b4fefb2aa7b519e4ca3a11.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd5104d81d5e44f20a160e5dd7d025ae9e.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7b0a95167e424e9c963b6ba678ee95e7U.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S7a3625475c5f479390136e1541dfd32dl.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sde3879416de348f99e3887d8ec58125av.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6fbe87bb16b46fcb258286530b3a66cg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e0a489edbf64289a20b0c5ea13c7a112.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S940f5b2094544411bd1c18d30e0f747cZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6c9632d88ac4a7182a4e654f96ed4227.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S143c5e13c09141d5aec6f253f1884faci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc156569be97a469b8ee3f9e5df64229c1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S109935a6974e4023aef32aaba3b17303y.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbbc4f953303e4beb8392cb1f772d25a55.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0fecf5b653d4f7989ffe2496a9d0496r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20c9e19fe49b454b80802e9cb5d23f43B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S692397cee08f4c33890e1dadb49bcfc14.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18b83c655fc14cb9b6189c8db6f9c22e9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fdc5db8fb4d43259774a240e34b4d4c5.jpg"
+        ]
+    }
+}

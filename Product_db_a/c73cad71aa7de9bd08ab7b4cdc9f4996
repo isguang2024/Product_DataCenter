@@ -1,0 +1,63 @@
+﻿{
+    "info": {
+        "ID": "c73cad71aa7de9bd08ab7b4cdc9f4996",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-09-02 16:26:58",
+        "第二层SKU数据": "",
+        "货号": "DG-208728017",
+        "进价": 65,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.4kg，材质：羊羔毛+皮，尺寸：18x8cm",
+        "性别": 0,
+        "修改的时间": "2025-09-02 16:26:58",
+        "原普货标题": "3 Main Pockets High Capacity Shoulder Crossbody Bag for Women Multi-pocket Purse Canvas Handbag Suitable for Mothers Shopping",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8f0b16ee7d7942f4837493931f46c4baG.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2bdda2892dc245b09b7fe4ded1025d25K.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S141f0d09c9174b77bc403e913aed5b55x.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S119a415331e743f7983d6fc94ad97bf8e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00123851e9e745b5bb4d9ef953c344e52.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa13a05fdb4464b6997209ec200b1a218z.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sade6b080d66f4360a7a2579a5f99d6950.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sccbdc2572b7b4342a6879ce9a78b96a4c.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5b6e8d42419f4ec6bbb8154f89208958h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74fcbe640da34f3184c370a449b02902q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ec83849d0ab475c8b809593fc4b742dZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a3e355fb4914d0ba8cafed7d8fbbc76H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb98e13ff7d344ffb3fb7593c86a4682z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fdd646e60ee4abd94b05d58f244bbcdX.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scd1fa393f5b94a87b8f5ac365dd6d82b0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S084bec1a46f846548e2a4c0662421806h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e2bc1379a524826b2826f8d1e47c909g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9623e076822749428d0d58d7e58b6e082.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99170799edbb45ea96a14be2ccc3bf13R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S954cd72787ab4fbc8531bc1c40c6c756v.jpg"
+        ]
+    }
+}

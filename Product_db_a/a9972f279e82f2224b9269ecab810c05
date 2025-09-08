@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "a9972f279e82f2224b9269ecab810c05",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-29 15:13:33",
+        "第二层SKU数据": "",
+        "货号": "DG-204312683",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.72kg，材质：刺绣布，尺寸：23x9cm",
+        "性别": 0,
+        "修改的时间": "2025-08-29 15:13:33",
+        "原普货标题": "2023 Nylon Shoulder Crossbody Bag New Fashion Trend Sports Crossbody Bags for Men and Women",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0ebb58d41824b409319c183258a9caav.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S15b136c0019b43a082d20103dc5541f2s.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S80921afa437c405795c2b762241ff691b.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S96b0ed285e634757b601ec17bae13d44m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saeffff9ba6f64626a66fb156ce00379d1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20779407428a43b6b658251e17e5c1a7z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ef37c991e9d460a9c972d5f5db7f3bfa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7916f77ee1914821b029376d6db37f07m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0bdee9417456445bb29d19f637849a0f4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5eb7ec6c5d95428489de3cc2c4fa7828A.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Safa95bdec02d442b99295f6917557915G.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Se6f2d4e054624ce39ee8b02a00aba6632.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S66edfc0b05304e918b42401a1d94012ba.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc768c20ba0bc41e1b7d4609e55f17df7D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7b3d7bc6e1247d9a0076b7cc170aa9eM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1a65046c35e425abacb6d3c8c8e3c82W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7fea48cb87ee4f7ba2b44ceb898d60d6L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S147bb8a730a3496096a152ecc16ec69az.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd45e11d4d08d46e1b235f7a1fd0e4ca0p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82ec96f044464821867d789b83c11d527.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6804d92846704622bd51c465b6f4df0cE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7c0c6c8dd77f4c55bb7086651bb75aefD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seeca2a125b48479683234e1e4ed62acd5.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6eae2c1f18ba447295ec2fa315e27ca9Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c64d389dd064a07b87eba97c985dff0y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce2c6b8ffa03417fb82625600f35e577r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67732631a47b4f83af53b00d4f897a6eP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce578fd5361e48a3a442f4e22ce83095W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7ad70e405cd43a391225866f7977b78l.jpg"
+        ]
+    }
+}

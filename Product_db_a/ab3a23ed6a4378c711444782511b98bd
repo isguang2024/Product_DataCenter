@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "ab3a23ed6a4378c711444782511b98bd",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-30 16:56:28",
+        "第二层SKU数据": "",
+        "货号": "DG-204665340",
+        "进价": 170,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": " 高质量，重量：0.65kg，材质：头层皮，尺寸：23x16cm",
+        "性别": 0,
+        "修改的时间": "2025-08-30 16:56:28",
+        "原普货标题": "1PC black minimalist large capacity soft leather tote bag casual versatile shoulder bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S35f314ce25274778abb5886c80ad4568H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b885dad0fd54ddcba623ee9b06c7dd6I.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe18ad8682c64648aea7eef33fb51dd9R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf03ec22990a49c78e1eaceea977932a5.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7111cc3325704259b60d9b1b75bb4349D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda4f64f149294c6daaae30ffbe63bd98m.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S083ad4809adb4ab6b9e34756d61749b6W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f26a7c936c648c49457d1fc77e237caY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S798775ed32ff434e8815d65c5fb64d41H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Safea5eb07fd142c0b88227c657bce3cf8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb1baa56abc243a58c001bd0e33e3186l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6bcb6547fa7e4a75bd640cc06175f41cD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea937ed9fa0a45f08739e0b43998020fM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f5e1e3801a748e9a6483ecc8159a409U.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Scc7755ad6dcf40929642f871fd0492f2Y.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S902c95b5180743ca89eecac2338363503.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Scece01fb65ad4aa280c852f5372e69d8O.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd0deb789934447fa8fd50cee199793cam.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3bab05f8ba1945bbbddeb629beb3b8184.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f4d3e4986194c6681dbd8e5206bba88Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbaec1a85be11424490c695d90fa58a22h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4245c95a7ce45d9820c1932809478fbI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33d5594253de487793cda3cbc4e41a93V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0b709df4b794c6f8427640b7c644f5aL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5f4071f70bf417a890325bdec64310cu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78d3579bf4b34fd1b2832d47e53a14e3B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16e1b8a1090746e3a029f3765da263d6Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c925dc5727944869e7417dd88c24d44M.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0deb789934447fa8fd50cee199793cam.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c7dedb3be54405dbb3ba362e8346ea2z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S555bbd0c75244c43899c7bf1ef718ba0u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ed324f229dc411eb477d51842f6a1487.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5576ff04460841dbbd3dcdefd35f960f4.jpg"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "aca8e3f89664ce5a12be75d93e98685d",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-25 10:56:30",
+        "第二层SKU数据": "",
+        "货号": "DG-206768826",
+        "进价": "100",
+        "利润比": "100",
+        "品类": 1002,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "卡包 高质量，重量：0.3kg，材质： 皮，尺寸：19x10x2.5cm",
+        "性别": 0,
+        "修改的时间": "2025-08-25 11:00:56",
+        "原普货标题": "Men's Mini Casual Small Satchel Crossbody Bag men and women Versatile Student Trend  Phone Bag Shoulder Sports Boy Trendy Bags",
+        "质量星": 2,
+        "重量": "0.7"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6903af12b8574da39565cfa1fcc22f63l.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S025395dfd402453693a00e3dd2f398e3T.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saeca9e9cd5d64eaba4277d2e085b43987.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S51ed19e301cb4285bc1d64b21224f8bb3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4d1960b9437476782eda8d047b8f765x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S193c75a6223a490cad0795978b82e784A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf547cc9179e422aa18fd75a6a6db21cO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb06fd7ea0d39469ea561a37812930b2dX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a1ee122ffc34bebb70ac7d8429ae308m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S084a44522c7c4fa7998d631440ff7e44j.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S92d94e881b424c4a93b0c8c3af4e9510r.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S02d40f4dabdb449b89f5ea891ce1223c6.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S9fe3dadfc7b14780885fe665d947e6a7B.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7e926916e96944a18a4b9b31a1254f0aF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30fa8e22cd4746afb5ce69f7da24447aQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8edb577c9b3347109221bc4e7cd31dba3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S008d0588daa546eb964c217555e6f605e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S831aa88ddd8b4c368cfe3036ec2169ffD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se451772cc62a4118a8e892d5b46b9c67T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6afc4b5533a496789111ec54c17704f1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saad5f84756ea44658d0a233b9114701dV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd037be11667f4071ace8272db76eeca34.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa39f7d54b7fa4583af02d6ca4a2576ac0.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S38482de273334426b40fdc86ad581f91e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8049c2f900144c69a7521fce4dad996fM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1ed05cd95d84bc392d83047ce224a43b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda46d4df72844b828a6256324541701dH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9fe3dadfc7b14780885fe665d947e6a7B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5559b17b5e4149cda349daef90bd8219A.jpg"
+        ]
+    }
+}

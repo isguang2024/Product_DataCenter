@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "15a87f616f3d5d45902bbc0b33c2c289",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-08-22 15:12:31",
+        "第二层SKU数据": "",
+        "货号": "DG-206769350",
+        "进价": 95,
+        "利润比": 100,
+        "品类": 1002,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "熊猫链头拉链零钱袋 高质量，重量：0.25kg，材质： 皮，尺寸：8x0.8x12cm",
+        "性别": 0,
+        "修改的时间": "2025-08-22 15:12:31",
+        "原普货标题": "PU Leather Shoulder Bag for Women Girls Korean Styles Armpit Bag Handbag Large Capacity Underarm Bag Shopping Dating Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1a8743ad704a45199471ce1ff7559cf74.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc0f163e0583413ea318b8516247a713E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39fcb688e63745ab8fa9599cf39ac63cB.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd63767612da248eab1e3e9e36c7f0d99p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2233450e41df4982b9d7a66885a9ba0fP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1498eb11b6174b28a4b6bc94c05348c2V.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S936a7f25d60648bea71c5b0c6e5e8fabS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa078fd4c2d104146a8dc299689b844c94.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc4324dec9d145d69e7c56071dbb9474n.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S28544dcc89da4e97b57060e9cee8fca6H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd727afce0fd8467e9a78cd27fba60dbev.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed53a798ebe645a09bab5cf90721821dg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81ce9d09aa9a4364be296ea66d351cc0G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sadced2f9d6b84be28272b7855069283an.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89c8d1627f0a4fff957687fd6e1fcabbE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfad770b9de184fc1af4dbb1c4584552fV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2cf75b21e69f4faa8690ba5996df1827C.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S6b6c7aff7eff452a9505a74c8b3ae1a8N.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S713014dd209e4205a0dd90cc20544e7ba.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S0304398f802e44cfba997e23dd03efa9w.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Se7faa8c99dfd43b39c48a72bbe00a121o.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sb715f079350842539e6ee157d3d4ece4U.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3a4340bdd7b34ae4b8fa30af22e404776.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d0810cc231f458897dbc53adf38bf52c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6410cbb2488242f78c8c5655c1077216A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd31e1e547f3d4cd388fd03578e4bf768C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75c2f9d87cad498693d54f01e710f4f22.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf539acdc9cf64d93a1bc20eb0613e84er.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c155b74e63e4ffb838edd324c84e373n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbd715638c3042aea3e186d07b8fbe75E.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7a424c37beef40bba3f5b661586c3e434.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S557afc5a25ab4916b32634cfadcb38e56.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a4340bdd7b34ae4b8fa30af22e404776.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d0810cc231f458897dbc53adf38bf52c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6410cbb2488242f78c8c5655c1077216A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd31e1e547f3d4cd388fd03578e4bf768C.jpg"
+        ]
+    }
+}

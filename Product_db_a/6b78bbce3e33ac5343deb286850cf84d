@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "6b78bbce3e33ac5343deb286850cf84d",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 14:22:07",
+        "第二层SKU数据": "",
+        "货号": "DG1-143097227",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.75kg，材质：头层皮，尺寸：20cm",
+        "性别": 0,
+        "修改的时间": "2025-09-05 14:22:07",
+        "原普货标题": "Canvas Shoulder Women's Tote Bag Corduroy Simple Casual Large Capacity Designer Handbags For Women Travel Solid Shopper Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7a9a1c8c4ae54f1384a5ebb0d32b52ecw.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbfa6e26f0d344387a7321b4917cb6d26m.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S66d3c1ae2aa44bbc9b241a9db3da82de2.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1b1f0d1a1634b8c9086009740ef50bcJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59bf2c4ea09e4372a63f9d1c5add01ceo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S601c307314734b10b792c8e01fcec83cm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10cea22026ea44ca9f7b6a8767f5c2ccM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S824a16ebf4924cb0986430edd2777f402.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5838d8f1052243e284e6c13689091e1ds.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1a15f19c6bd435c9787c45d5acc7615z.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S1ae80f4e3e694e1d91b707f087c130727.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0f91e1d8fb284987b5632088b9ed13679.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S5d303dfe48a946b7a3644c1a8635a8c9W.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S409f948e4fd5403dace327bf4ebcde1cy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S789e240380af436ba8003a6a1003d23bq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b463cbb500447f8ab1dd5ab0e6491c1M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1528109eb964ddcbbbb83f748ad0378g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdeac5d1bfac04ce796beec99cffe95aeX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c5576fa6b9c47a9857d6f63057661b4u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1192505209c349569c3ec35acb678e17l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b24c62c19a5457098e8a9d3d5c0b96aC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S76eb93f458d7416dab8a4427c2b308b4B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3acc6fb904bf4dac9f97583ea10aefc4k.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5d303dfe48a946b7a3644c1a8635a8c9W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e6a88e0080c4a45ac21574a5c247020W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S407e479cba8a4bf189b3fe63afe097648.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b2d89b5cc0a40bfbde3da758b418796S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1dc7dd33ec66412a932d8ca8728193b7B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85e4bbb45a9a4ff6b1232863f2cac31cK.jpg"
+        ]
+    }
+}

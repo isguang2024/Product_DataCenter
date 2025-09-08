@@ -1,0 +1,61 @@
+﻿{
+    "info": {
+        "ID": "092c2e1de74ce40e3238c5d8663a1cca",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 16:48:57",
+        "第二层SKU数据": "",
+        "货号": "DG1-208727729",
+        "进价": 105,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "涂鸦购物袋 高质量，重量：0.85kg，材质：皮，尺寸：33x29cm",
+        "性别": 0,
+        "修改的时间": "2025-09-06 10:27:13",
+        "原普货标题": "Trendy Casual Soft Textile Women's Shoulder Bag Large Capacity Leopard Print Female Retro Crossbody Bag For Commute Outings",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc794e84de80441079dfe400f16b5095dR.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4aa23388bc9a400eb88c962a43e48a83o.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4363f05464434cae969434e608290b27Y.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S32a831b281214025a44907f75bbca2f7K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93e2d5d0770a4a3d9b0789c8a1441caeJ.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S4363f05464434cae969434e608290b27Y.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7cb0ddfaf8b4404c87dd129e6edfb2e9l.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6ded40d7e007491a9514384ae6de014eX.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8ebca17b1b5e4c3d9748e129082daf76j.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b85d492c443437aab70b8933e5378e7J.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f09c87aa026491589e89a216119b4d1c.jpg?width=800&height=800&hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8ff0fc4ddff4cd2ab26e4b761b0250e4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b487a4dd0f844958fda2b49dd3882f3C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa88d3b1a9a6645e49f25cae8949fef53X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10eebf62908c44209e6ca25ab8e52a20F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ded40d7e007491a9514384ae6de014eX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2fa9155c7d14df8a6fae7927502fee3F.jpg"
+        ]
+    }
+}

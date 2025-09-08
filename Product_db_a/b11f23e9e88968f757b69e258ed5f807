@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "b11f23e9e88968f757b69e258ed5f807",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-09-08 15:14:19",
+        "第二层SKU数据": "",
+        "货号": "DG-209167455",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.72kg，材质：头层皮，尺寸：16x33x5.7cm",
+        "性别": 0,
+        "修改的时间": "2025-09-08 15:14:19",
+        "原普货标题": "Solid Color Natural White Large-Capacity Underarm Shoulder Tote Bag, Simple and Elegant Knitted Pattern, Breathable, Soft and Foldable Fabric, a Good Choice for Carrying Books and Tablets for Office Workers and Students, Fashionable and Versatile for All Seasons, Casual",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S62954b8506354212aeb8be65cac33e91L.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9c580dfd35ee47529e32922d032505d5G.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S106b164ce95e4bd68bbaccfa80c0c2c1G.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcfb93a9f67f4f83b663d341ece9498fu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d567dff03fd48dca7e4ff2f698bdd95Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe004e3c6b6f4d849764489d71cc4bd5r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb807c8ed3e34ec38506374de1f299f2n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S45b966f1f70e4556b10fef043ea2bdbeY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39191b6b7d0e49619f4350c5030c7da3R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3261d7fe83948b48362d92f829677112.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S152839536363420b94bb244667cfc7d9B.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S106b164ce95e4bd68bbaccfa80c0c2c1G.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sa01110bb1df84e16b6009d08736c7df7l.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S5b1d2d779fc54344b0ce27cd5636391ap.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sda8c4f29b0f745fd9832d66819612fc6P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d5372325b124386813490092a766f43F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde4fd13230a44784a70f25d85125b8ecz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23119c5717e841c6ad92d9597691e94aq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2820c21a4e1345f28643c2b58f8da8e2t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b9654fe7a964757bce85710ebdd909dW.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sda8c4f29b0f745fd9832d66819612fc6P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d5372325b124386813490092a766f43F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde4fd13230a44784a70f25d85125b8ecz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23119c5717e841c6ad92d9597691e94aq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2820c21a4e1345f28643c2b58f8da8e2t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b9654fe7a964757bce85710ebdd909dW.jpg"
+        ]
+    }
+}

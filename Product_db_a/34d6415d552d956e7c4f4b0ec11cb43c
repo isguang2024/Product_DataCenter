@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "34d6415d552d956e7c4f4b0ec11cb43c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-26 10:49:03",
+        "第二层SKU数据": "",
+        "货号": "DG-205310782",
+        "进价": 255,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.7kg，材质：原版头层皮，尺寸：36x20cm",
+        "性别": 0,
+        "修改的时间": "2025-08-26 10:49:03",
+        "原普货标题": "Women Tote Bag Aesthetic Solid Color Students Casual Handbag Shoulder Bag Large Capacity Oxford Reusable Shopping Beach Bag 2024",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4e611c9b9a34d5d96015eb99e2891cfn.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc5162c5ee60c408799c2e0aaa26bf5bat.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9e062fd754e490f922eb2ab36970453Q.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3d44bfa938f44a309ecc7fba54631896X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6701de9589a342bda47096f81af2c375R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1edca125930342b3a28d26602e833d24V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c9706ba49664bb68dc1e02df5b07f57u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60c5963b0c274e3394972cbfd889a8d5e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1ae5405cddb4cbe9a58d8a0339722f72.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9140da787794e8fa7222480f2c7ec0eM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51ce5931e2f94b2bac9c8879d7f19d39M.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S6effe8b85b524ddd8839e259f35e85051.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1c30eea72102411593f8cebbdc0122c3Y.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S5cc7fbb2c804442b83ce8e1126fd0241e.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S541ae76d1c7247b6854231c38bdf2bcbH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S572b5511c8014369a44d91267f571606R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc686e0ac6e064549bbed82c9f46d598cy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f98537400a4489e8285c6ffe2618c31C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S572b5511c8014369a44d91267f571606R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f29cd1c773c4ab7b73ac23b24daf82fo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf13d034cdc5f45568d8b14b991b43b12z.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4cb8919df5342d18773ce76fc1c095eq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56bd28d91daf474084ffc3437132bbdbE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S859201cae95349f9b84a9b31937a1976r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc59197b424064a0192d617d8ee06f865v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3196befb1d044f7c8000278ddd3f4723A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a1cf9a76d6e49dea8793c6b37c3b312l.jpg"
+        ]
+    }
+}

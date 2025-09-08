@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "782098da7c71118bef80fc29de18550c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-09-01 14:53:36",
+        "第二层SKU数据": "",
+        "货号": "DG-208728171",
+        "进价": 65,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.47kg，材质：皮，尺寸：21x3x13cm",
+        "性别": 0,
+        "修改的时间": "2025-09-01 14:53:36",
+        "原普货标题": "Large Capacity Canvas Tote Bags for Work Commuting Carrying Bag College Style Student Outfit Book Shoulder Bag Shopping Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S72aff88df7c149bb8382e122d3c754f6q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc706c1e90f1742f1a0776c56f6fa85ccv.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7353453691474f6c8f52daa4bb5ccf1a8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9620423c3cb49c29b44be9100e777d0M.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S802628d5454c40719f0cd14ed1aea8d5z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2901558087074d2a8c24b49dc11d4d49H.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S538c702c40f845c791de5df7e77f58c95.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b647955d6384a708b3b552f2eaf9aa1K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb31c0b03ccc342b6bafdd05d6ff9d8f9D.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sce2ecab9af53401f9b44d4819f0f995b4.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9339a62ce1b745d89e8137f27c8784e9p.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S26189f38399c482a990fa00aba7d49adL.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S0139ba3c443f4dffb4481066ff339118M.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S297f12b97a8c4c6ca0a862e3f06797ecn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf153d1d9f1943b6be3f6b305ea209d34.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9218f19ba8747459a25e103fb65b27fQ.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c5e19181fe7468cae04ae230abbc4e2L.jpeg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S954f7aa6984d40a68fc2a67efea6fe0bO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3f2cdd094324d31afc86a629255a3eaS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S297f12b97a8c4c6ca0a862e3f06797ecn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87532831f9634112965b37381405a80fJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S483f348e55e94882a0b264dd69ef203b3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1d29249b42e401c9610cf0d7ec30bdd7.jpg"
+        ]
+    }
+}

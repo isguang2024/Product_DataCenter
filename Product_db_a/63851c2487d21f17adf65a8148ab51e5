@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "63851c2487d21f17adf65a8148ab51e5",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-19 15:25:43",
+        "第二层SKU数据": "",
+        "货号": "DG-204326197",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "重量：0.72kg，材质：头层皮，尺寸：24x11cm",
+        "性别": 0,
+        "修改的时间": "2025-08-19 15:25:43",
+        "原普货标题": "Large Capacity Tote Leisure Waterproof Simple Nylon Cloth Bag Unisex Crossbody Bag Lightweight Sports Bag Dumpling Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd311791fc0cb4a3eb3eaa4dafb7d0bcbb.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfad3645e14e84cada246d42a1d4730135.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf817c5d4a7df4327ab377cd29d639a9fv.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4180d8d8e43e490ca2011a85d4dc86cbH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67cc4276fe234c94ad3dd7ddf3c13c5dK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sddb37d5781014c3090ae725656b4a427O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbce97692ba00481aa2f54657c6e7d3ceg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8708365f0f541808955bf25a2f1b64cf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa383e3c3a6f2491c88f2c0ba86dabc930.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S67ff2a885d2048079e689fb70d8204dcf.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc4fdb329f229438ba7538cffd09eb2969.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S2880731e92664d2ab92eb47a329dadeal.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S10a6660dbf734ca0951b1f1128b04a3a5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b0fc6d29dea4406ae2602d3412c5323h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc515ea5b76df4837916d757f0e991b5a2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S199addb6702c4b699fadbf9e4d0a940e7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc515ea5b76df4837916d757f0e991b5a2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c2f45df54c04c348073ed7ffd6d81d1i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S558494437d3945f08099ec755900f27ei.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b0fc6d29dea4406ae2602d3412c5323h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10a6660dbf734ca0951b1f1128b04a3a5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82c34ecb93544ccea96f52e7e9253153L.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S28154d2de7bb4c3383937f65c30717c9h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7574d0080475451bbc37e18639fc474fv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8220fde003774b66a6560b17c5890ee65.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a12ee418f8e4b2d9a270459e2480482F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ffcaafdeb92435b97ec6ad99dda8be9f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5322c585954e43f0a050ffbba3bf9afe7.jpg"
+        ]
+    }
+}

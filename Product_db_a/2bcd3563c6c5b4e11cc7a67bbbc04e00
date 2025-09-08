@@ -1,0 +1,85 @@
+﻿{
+    "info": {
+        "ID": "2bcd3563c6c5b4e11cc7a67bbbc04e00",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "DG",
+        "创建的时间": "2025-08-22 17:02:20",
+        "第二层SKU数据": "",
+        "货号": "DG-205173384",
+        "进价": 170,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "金球盒子包，高质量，重量：0.65kg，材质：头层皮，尺寸：18x10cm",
+        "性别": 0,
+        "修改的时间": "2025-08-22 17:02:20",
+        "原普货标题": "With Wrist Zip Coin Purse Ladies Casual Travel Bag Waterproof Nylon Small Wallet Multifunctional Card Holder",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S925ccc4f4b8b4c188f4ff50190ce82efE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1fad2bd42ab4e119910ee2bf9416cdbi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See062dc8b9d0479bb619d4bfe61875b8a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S681b8997cce6483fb2ea209b62b0510dq.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S230de4a770794ab6a0cb6eb3ca03b19az.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e42a2e9c6b84c249530ebf6a55077b6s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S577b25fe9315463f9fbeb553b74e5176e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8af62578baad48119512e518dd85fc5fn.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S67c3413a87dd4990b95d9392056f4dbfG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5de9f073dcc942ef80d3b78893f856a46.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S268d7c5ece844b60b7483e950764af9dQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc28f08013edf4cf4a77b396fab835779r.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc49e59db0d3040479f01201478de467eD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa913532ee7f7495fbf07c51f1b21cbfeO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47d5fefc44e243c9a9c1d97362b8b95ex.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8a29400f1ee49318cce16e382fbf931a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7ed98b1e58e4f96b79d3b20a1cf5980y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f61e80f5e88492a915b9a756c600dd1Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa72817fc88424251899cfb3315e46959O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S190130fe72954b389549b33dba9e4025b.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Saa2d5e6e240340a6be6e78f1c8dc1e8bo.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S5ea61c2b45f7448fbf81fad5d18694f1c.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sced746b8dab045cb8b54de6b87485e1c6.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S0fadeb61efa145fb9cf1ebd47389f802z.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S224d4ad67d5548629e1034f5864b28a6a.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S52289b1dd5c04f7e8d079083c05ee437Q.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5852f31dfacc4607bdaa00b7331b7609D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d0f33d3c0e145c5aeec8a00654a3e7ep.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcd8459037c740cebffe7ae6c065fa816.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7721c587110445b79163a3b73c724862R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3f45963ba3c420ca85b2c14471959b7L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d88160018d743558ece0f17bb2f3eefx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1bed6ec863654351b0598e4f812cfd71t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb53c8077e03d48c58553fbf86d16e0100.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S51cd191e13ab4a24869be5f966b97d7dn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7304d90c4816480bbcbfd99f77633f19D.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcae20a7ee154971a2a4368410e2acdbm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c2e48fd60724ff098cacbbd89a1f450S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c96a3de903e488eb22cb186a5d30817r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6e363be569b4584b28147c18ebfdaaaP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53986ccf14fa4302bd32b03cccb28051T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S481897f22e1a4a9390a7758e9d77e8826.jpg"
+        ]
+    }
+}

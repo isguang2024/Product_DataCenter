@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "086e2e4692e6bec2a17a7fc9bd9602e1",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 16:20:34",
+        "第二层SKU数据": "",
+        "货号": "DG1-208929473",
+        "进价": 240,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.75kg，材质：原版头层皮，尺寸：23x16cm",
+        "性别": 0,
+        "修改的时间": "2025-09-06 10:28:23",
+        "原普货标题": "Solid Color Canvas Shoulder Bag Large Capacity Crossbody Bag Casual Shopping Bag with Adjustable Strap Handbag Daily Travel Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se9fd7a18442d42778b055cd648410136l.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd871929b26924d96a5dec10bb68d7782G.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb96ed1ebbc3c4cb08b189fd54ba04a75c.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2cca9a2c4ff643d58933a3efe3501418c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b80da6e53b144eeb4c551e2d2973318z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c8b8a3d63cb4bf7bf74b2156ca1e5447.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3539ce9d95f54d4a80fb81e4effa8185A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80adbe6520d04b1faf534258a9c5db8fN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c4bea188b804d10a68a8e3613adc50fS.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd3123b03bd5a449d9014a99b3765b10eo.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S214ed2564b894063b58193dd057b2b66J.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S94e4855c4359464ea7ff35ee7b4ec60cW.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbc1ba966956481aaddbdfa49fdbb6b7D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4137171c0e95494faa3f8fb6950dac8dx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfeccd2aadc6490698b9c346c4806746l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8a3452926d44364ab4bce56e3d44245M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2ee7c8189e04ec9adc5199fa6444baeP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde3a477afa434179829cd80ac8dcc785l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3df243ceebc45baa67ffde8ff449c85I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47b114779e1640adb9e3b4e94e8d8c962.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S731a0f50bed5421294710edb2e70b581z.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S198ee096f86146fc9b21d173f35a182dU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79fc86c747a4428abc2f746954d203e6F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a7dd10e056b4d30a5f666024c2cfcf07.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5afeeb6bf19e4b3ea275774370e1e657J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf767219e5654942b9001429b9fc5b66n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5b282530d4845229c6179586eeb57d4y.jpg"
+        ]
+    }
+}

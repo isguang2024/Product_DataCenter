@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "57edb7f95586548aac89bee07b4fbf2e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-09-08 15:17:27",
+        "第二层SKU数据": "",
+        "货号": "DG-209167385",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.6kg，材质：头层皮，尺寸：12x6x29cm",
+        "性别": 0,
+        "修改的时间": "2025-09-08 15:17:27",
+        "原普货标题": "Stylish Nylon Tote Student shoudler Bags for Women Ladies Business Hand-held Briefcase Commuter Tote A4 Laptop High-end Designer",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf56a4393ce154b029193f20a0b6b72707.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3600a1ac969e49fda55871f00fba313di.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfca086d603f34d979b420e1fa6a79d87n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbae89d6c799e41c18ab8c673f163034bX.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd076d1a003684b04bf8a37d9a680d27au.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87cc4aa85fff4528974a7dadc13706b99.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd655f76f52de413ebfdcfc274b8d94e2P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18a58da495624070a5b1a548106259dce.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S504722fe432c44d89014673cf4fae7ber.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S016ef5cf75bb48ccb188d3e7662c70aaO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb934c7ae5254b36a6425a975fe706b5W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2cae62de330f43f3b333bdc130158296J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ae7ce85d4e04f9aa21b01edf4bbeaa2L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S521be55cea444f7e975d519b93b134f2V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48a5c974b0a5450e94580d9508767773D.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd57cccf995f0495e93b5010dc7af6182m.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sa7a7abb8219f4b628a39321cbe4858e28.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4ccf2b97b33e42e1b5e209b8c86d7955m.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5994666b9190404b94b8d6007f5b46bfm.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S31c63da3aded47a99394d1aa0154da37O.jpg?width=960&amp;height=960&amp;hash=1920",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9feb307bdb2474ca79c4913318d26bdG.jpg?width=960&amp;height=960&amp;hash=1920",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa980d585ab743359ff1a88e92baf2f79.jpg?width=960&amp;height=960&amp;hash=1920",
+            "https:\/\/ae01.alicdn.com\/kf\/S384918aac87d461096d02cf8efcffc67v.jpg?width=960&amp;height=960&amp;hash=1920",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc084307c96a49c09c4adbf0bea02a6cu.jpg?width=960&amp;height=960&amp;hash=1920",
+            "https:\/\/ae01.alicdn.com\/kf\/S09533030687b4ee29e76ac9722377cd7z.jpg?width=960&amp;height=960&amp;hash=1920",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4a82f4c1d844c6cb7e316471eaf314e4.jpg?width=960&amp;height=960&amp;hash=1920",
+            "https:\/\/ae01.alicdn.com\/kf\/Sae82632689ce46dc8fc46d483eec398dp.jpg?width=960&amp;height=960&amp;hash=1920"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa366a99fb06240dcbf242f6566aedc9dR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b7fc6d258ba44b2bcc0cdccc273f12a0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd10c275b0aa041f29a7ff1b4d8e1c1992.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c9d72c6e1fe4ce78d973e956a556754f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7123d6e7f69a448bb9e6d9c81194e178H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbb6fbda7d2b495d9bc849f6f766b5a3M.jpg"
+        ]
+    }
+}

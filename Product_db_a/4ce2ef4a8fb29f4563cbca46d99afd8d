@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "4ce2ef4a8fb29f4563cbca46d99afd8d",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-28 15:01:59",
+        "第二层SKU数据": "",
+        "货号": "DG-208325172",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.69kg，材质：皮，尺寸：21x19cm",
+        "性别": 0,
+        "修改的时间": "2025-08-28 15:01:59",
+        "原普货标题": "Women Shoulder Crossbody Bag Japanese Canvas Tote Messenger Bag for Student 2024 Ladies Hand Bags Female Handbag Bolsa Feminina",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S56b91d22ae414e74a5a395dd53754296G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc23bccd0fc942fcb9f1322f1af909bb4.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S12fc7316c93b43669faa0b46aa915c0aG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4192fa9b893c4c55aced4838db216f3fb.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8c88bba44b454a8e948e1dc46a31991bA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c90a4fabe2c47d38f3710d485b857edh.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6d0cd4538ee14081904661fcc32e955f1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seeaccb8c856e4e68bf090e111fe95320Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e413f92995549f2bba1a892a00191e8F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c88bba44b454a8e948e1dc46a31991bA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f84ed44e34445a2a8ef2920274fb674P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6265b28999c544c2b8abd74787b4eb18f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61bad016f7a04f9791e9d1086efcacb6O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea0f5539099c4913a067459a54ea0803J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S382deced54824c52be6bcf89f7a315b8E.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S217bf37cf577406bbc460273f2344046g.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd486482fdee44dfb9f7dcb7cb06127b3Z.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S685f023548944597a2a2cc326e18f2f19.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S8f7c752dd3d942a28c633576d1b8a3c1C.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc1df354bd0d4112ae2af237cce3951cc.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b59024edf4043b4b2883498fec1031bL.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S62643e8d87d548ad90499dffe549f4c4g.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S1596988238c04a1d9d70ea62b91d54b7i.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ce50411c32d4fa088f00293a1d4a449z.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S5922acf4ba0d421786bb829b405daceaC.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f07c14403194282b83a675bf5428bacO.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd889570c357d4f7f8912f1d6a73ae496J.jpg?width=750&amp;height=750&amp;hash=1500"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S109f61f02ec3440f816f80d9961d222dU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se51fc7a7628f4db681cf9f7fa5868679T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se656949ab2f048688045a3d1b0ed2520T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f75b0f3927546afb8b7ef475339a423U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc47ad05a60b483da5ff7d7dafa0d71fe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52b0d4d49dc74cc69e43e0278261973eS.jpg"
+        ]
+    }
+}

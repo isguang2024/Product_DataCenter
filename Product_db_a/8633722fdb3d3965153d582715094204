@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "8633722fdb3d3965153d582715094204",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-28 14:15:07",
+        "第二层SKU数据": "",
+        "货号": "DG-208325070",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.7kg，材质：皮，尺寸：20x17cm",
+        "性别": 0,
+        "修改的时间": "2025-08-28 14:15:07",
+        "原普货标题": "Women Retro Underarm Bag Armpit Small Shoulder Bag Soft Hobos Y2k Female Black Purse Fashion Girls Crescent Handbag 2025 New",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa68a51295e142ae9d5e289b793c613aK.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc042a1e1fa624eeebc2ded09b8544bafQ.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6a994b806662452d960f2ba1ac463b2eM.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scb343ac80ff74eb59bf5ba7fa059ba93x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0b2a72624304f1f982902c19648722d9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d15a5d1355547ff88a7fa8441a1228eO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6f5f40398d14d70b50f8387f2cf71afA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1a458397b0e4e90bf29288e98ba128aN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S513873090c064ee18391a43315d769edm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S93d51287133c48978fbe33720b0ebc17E.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S6a994b806662452d960f2ba1ac463b2eM.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sa3941f66afdd44918465d46b4ccfb21ei.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S409ac9cda0474e29a96c2835f012f3c1z.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0f4d4f4172594cbcba53a2121650b2deS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S422379b1874448d1950bc3b496edd8afT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88ad18b4f42d4f5a9363040e482133afL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1593055072df489cb0a144c160b743c44.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99edf94715e7484f8c249771faed7ea2P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5f9d63326d542b89708929dd1c3fa39G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4322e6e6b78b4415ae4d394ec528de797.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0c391aa0184407f81b3ded16d5674dci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf384f339584641489e3bfb37a8d32edeP.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S409ac9cda0474e29a96c2835f012f3c1z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35ff1f55e8de420d98572a4207d28799u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08aa21dbfb914682a1e749d6c3e593b3c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd99c9c319e44409ba5bdf4139bd8d0fG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S437ddcdcb55b48a8b68b4cd1a96d61864.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a7ca98190e14deabb1cc9c19df7b1c9u.jpg"
+        ]
+    }
+}

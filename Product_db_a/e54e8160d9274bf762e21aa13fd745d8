@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "e54e8160d9274bf762e21aa13fd745d8",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-20 14:37:31",
+        "第二层SKU数据": "",
+        "货号": "DG-207480662",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "腋下包 高质量，重量：0.76kg，质量：头层皮，尺寸：25x17cm",
+        "性别": 0,
+        "修改的时间": "2025-08-20 14:37:31",
+        "原普货标题": "New Women Plaid Makeup Bag Large Capacity Cotton Zipper Pouch Purse Travel Clutch Makeup Bag Cosmetic Zipper Necessarie Feminina",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe52636e01f94261bddab923e824ffd4G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc45d384cdc943eb93f3d1f21d05159bG.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S227905406b8745f3ae5fadb85ba645f7t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S25d53fb8449c41698ab585a29db4ef79R.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S49d2ecdd9b74423bab5556f7bc9fe9b4P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc35ae79475c642a5ace1935c50e7f1fej.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7142c8e340e143f9a41856183b8803ccH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S252cd3c01a2240dcb1ccb58d3f213120s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f190f22211249a2906234aafc123206U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89d52f44a9f44dca8c4476b64e23f704Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S276bf0d8c6fa4ed2ae47d4341a6d4fa7B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4199933a7244b538132833f82323362h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S392acdbc77e44175b76c084cefe31a59j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S913d1768e9754f509a0c2cbef8b6105aB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61d45e7578064ea6a6d3c01f902ae04fA.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se2a2869ab63f4d849e242a1cdbd4b49eQ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4b9c7de48af34003bcf080765580b1e6m.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sb5cd057e42af432290f74de20f7ca30a0.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sfa6454d838b84a0f8bc3428d845cfc98V.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S18ca9e4ece364d1ea1d9c7e980520a77k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad5ac5e5fc084adc886dfcf9011de9a4J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9c3069021eb4115989d156c78b9bebet.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S55dba3eeb9b24210abeb964dab29963bA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S06b9380958f64fb4af32c826d1c0aef18.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S951b242e91b84f58a84ca5f68b7d47abn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29b86c92f51f4be5b94da8e7d7a699a2X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9f88e0003c947a9b9f7598ce4969918K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5cea34f4b9434e87b207596e19a21e6eK.png"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9e3504c185dd4b699946009d317937cam.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S655462ce859b478d88547634ce0e0f0bl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ede73eee72a461faf407fb96479868fr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7c93ab730e84b57a9312b94ee50684eL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0652a288bb6d42b1bb976e5d5955f913Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18ca9e4ece364d1ea1d9c7e980520a77k.jpg"
+        ]
+    }
+}

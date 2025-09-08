@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "bbea40aa5c9c0b8c82dbe6789d4e9686",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 16:37:13",
+        "第二层SKU数据": "",
+        "货号": "DG1-208928737",
+        "进价": 170,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.72kg，材质：头层皮，尺寸：18x12x16cm",
+        "性别": 0,
+        "修改的时间": "2025-09-06 10:27:55",
+        "原普货标题": "Large-capacity Shoulder Bag 2023 New Women's Fashion Simple Commuter Messenger Tote Bag Black Purses and Handbags",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3f1bab30027b442e89b3e5e637ff784c9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S359e3381edf14bd29a8a9e3cd66a0c86I.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7c565f61c0c748e8a88be77eaa907dbch.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98bb23cc2e2049f8a063104db466d629L.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6c8ddd01586420988de3b0181492f225.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d17e5d61669426e8fcf682b2c4d5b3dA.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S93c26914322c4cad9fdf143d0ebbb4944.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa662aa28c63d4ea7bd9800e095aec37b6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S820d3f9075714ca9bb703ec94f2cd3dcG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74f8a227cad54ce7a0810271d4ade636k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52e39b945703417c8fa10a3a971875fdf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf77584c78a64421ba03ebebf6c759b50x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S632d1ad24db4405b91c97bdd2e8d8936a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S90f96ab3de6249adb2dfe43992b2a2c00.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6ab7cf8af4d49d3b235d4425ef9c968i.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd9ec993c2cdc4c50838f8d261db02e0bO.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1a331addffd247269b4844618a391272S.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S1f62e0ad5be2468485189e0019d2ff237.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S26c3b7526ac345ca8093e94f59c84be9Y.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9d12008deaa42789b301fd4eb0ea4d5s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seffa8ad194714965ba868e982bb1ff71y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a4a0f4d1029406985f81224fb784151x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5af10ec4d8384c638fb228470532ba17t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29db14b68e604eb9865f6ae3bf563d09p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1373da9b25d548b8baad19e467b24a0eU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb83c75802ded45b8984190e95bda09455.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seec937394f474bb28577470925c576f1W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbadc27c69f9046d39c0aeb9d2d431040S.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Secf7416c71f14f7eb942f62eb2af37bbK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se5ede10d83444e0c95f1003493105bb5o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77be7cf73fe14e38b8703247198bf325F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9a51c15625445ec9ae7d880c687addac.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49476feb62a7420c81fb445617088109r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd450e45e3bc441e99815abda723eef07G.jpg"
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "5640fc929348de6822f048050577f25e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-18 14:35:03",
+        "第二层SKU数据": "",
+        "货号": "DG-206931577",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "相机包 高质量，重量：0.7kg，材质： 皮，尺寸：25x18cm",
+        "性别": 0,
+        "修改的时间": "2025-08-18 14:35:03",
+        "原普货标题": "Trendy Crossbody Bags with Double-breasted Adjustable Strap Women's Shoulder Bag Zipper Purse",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd70d900940f44a91ac092c35f3a639041.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S59c6f2510a3040acbbdc6a799f3d7fa6Y.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S279e0308d9374359b67661d4c6345638b.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0d3b651f9c354347b806e698efc720d4S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8b91e33b6a04584bc5bfd8b4f5a63f01.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf412e6077634d33a41a3038b5d0bd79s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se456b416f40d4626af3aff7c9400786as.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c17297b1316418e9b785fe9765458a42.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4003f2d06a94a648495c3a9850e8c6a6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a7a80de8850472896e9464dbe9ebfe82.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S17376eb1db314c338b536b1f1f09a90fv.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4997873133554d5f93b81da24e8d0df2b.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc310f9d96f784ec49d8f0fead7b7d398u.jpeg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S434b5e6570ba4485b66bb2560679939ez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb08c728f701e4f04b3ff37b3869daab1E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5bede14e19d4c97b997a5d6612432ddI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S76ad1046101946929b4895421d26a5663.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f35820dcd6a419580122faf962d2fc0y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58b66b9aca8d4ce4bd792a48fef0fc6au.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd725caf23db14e589de0b8928289689bR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e5e5f5a02604a68959ffdfb8f1c9974Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05d81d9ec3864a6d9908a739deb94a85T.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfab27d5579c4bd480bbcd81225ef665S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f35820dcd6a419580122faf962d2fc0y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd725caf23db14e589de0b8928289689bR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S434b5e6570ba4485b66bb2560679939ez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd241e3372b34e7ba924f96d3d0c5520u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8e8f62a9b2df43d780b0b4f4d0fe53c94.jpg"
+        ]
+    }
+}

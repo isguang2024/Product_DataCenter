@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "c0579530fce1672726d248d61fa638b1",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-08-27 14:57:55",
+        "第二层SKU数据": "",
+        "货号": "DG-205003132",
+        "进价": 65,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1898907760,
+        "普货模式": false,
+        "商品简介": "腋下包 高质量，重量：0.48kg，材质：皮，尺寸：18x13cm",
+        "性别": 0,
+        "修改的时间": "2025-08-27 14:57:55",
+        "原普货标题": "Nylon Crossbody Bag Soft Mini Phone Wallet Multifunctional Square Shoulder Bag Crossbody Purse Canvas Purse Messenger Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9fa0d6e9eabf4e5690067d92a681c8b48.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S84954c62ae3748cb816ca8f4717f7b8aO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S585797e5f24a407c9c0af55a049f81eb6.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb48ee07391b4b53b1c5ed701cdddb2fJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf254fa9e439a45f0aeeba29b9e840611f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8e77105fbb142c7bcaac129b02906a3N.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc076baf34588474eb933eb0e10823494E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9bcf8476ee947fda6952af10bd06dc06.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1dbb03ac5c674d8285dca307bfab1578t.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S90a19e3869604c5dbd89086c831b4db0P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8494c3198ef4824a67e342107accbb3p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4936c1e260d54fb3b3ae03cca2b30b2a8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b343d31190c4382bca92757c1413f31Q.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S1a7fbd3d8ce24f7081b9521d607adc32T.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Safc016bbfccf4eb68bdd83ff6d6f5e04Y.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S0e914505f8434382ae61292018049a02L.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S7a793bbade99465d8fb699553994e0aaZ.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sab25947b0be74552832e372024f08d5aO.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc44be506f72548eabb2ea056a2137155l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8329774e66349d59f5acdf6ca70d070Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcb7937fe5fa4537a39173f97d4f084cV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2f2adbb679948cab44f305e4a72e2b61.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e914505f8434382ae61292018049a02L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ad50270cd6e42bc9ac2d6d8a5671d68f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab25947b0be74552832e372024f08d5aO.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S078d87c736344edabaf1e0a0466595327.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S898066a783da4fc79d6c7b2cd9bc68eac.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e6129f19ef148f2be779fec438aa687L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ed5edeb252c4a0195d74fc0eac9c58ev.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcb7937fe5fa4537a39173f97d4f084cV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5dffdc0672914e039dac3ed5e686f576v.jpg"
+        ]
+    }
+}

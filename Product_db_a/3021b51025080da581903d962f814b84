@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "3021b51025080da581903d962f814b84",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 11:51:07",
+        "第二层SKU数据": "",
+        "货号": "DG1-206449937",
+        "进价": 230,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "材质：原版头层皮，尺寸：27cm",
+        "性别": 0,
+        "修改的时间": "2025-09-05 11:51:07",
+        "原普货标题": "Women Padding Shoulder Bag Ladies Padded Hobo Handbag Travel Shoulder Bag Large Capacity Down Satchel Bag Shopping Tote Bag",
+        "质量星": 3,
+        "重量": 1.299999952316284
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf41956588094a03bfbed5ead172e107d.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S879d74f587bb4a04adf7c7900bb3958cs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S433440354a7a4404a2c9ec5d24dfb213w.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S124788159c994e6eb6db046fcde62683h.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S86bfb9e564dd4c458e43ec6f8b83a580z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S401e80699ee44f2aa3f256c8d0833987J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a45c91a09754c8fbf693ad516d479b3N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68b4321062a24607b20d9c4406266f31v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S124788159c994e6eb6db046fcde62683h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe13e1e7834e4ee0a78e0f5e3fb70b306.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb345fd685dc407b89a9d672e7dd25c0d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a817ad186134c9dab8f0bc520fdbcb8w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf10932f4acd8485f87578daa95a525a0K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1647958d662d4e5eaa7a7bd46b3e7ad2I.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S146584d522dd4cbc8c3a2bfae6adbfb65.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S99c51e9c0e644c64a0cd9a49791667e4g.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S81f267f55b974f8ebc35c527485f9045z.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Scf25654c772047d8b80d841d48ceba44C.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sec5d70ac0e3c49a6acc3e10f06fb00a0O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01bef359f7924749b3c51d7bb678a0c9N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b8ff436a41443719e63e09586ec7c36b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S83ac9b01f8514c7e89bdbc3cdafc3073s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6960bdb5b78455e92e6b3166438d306j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e2210d0fd544d81aa8e32bc7007b0beV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62edee67af4a44248de8f5de6e8e463e5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb16e5eb0b61249e3a5dad0cb668cbd38z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62aa260fa46e443ba6301ca1576b4ee85.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd86e61b22b924746ae58f835381045eci.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0abefdf46f14cb28ac95ec155ecf1c30.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b8ff436a41443719e63e09586ec7c36b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2ac9815b46f41cb9f5e884381cbd295X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saba7b1588e844ae7b390c0dd951eb9aas.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd18e847b11ba430f81d3024ae4e8c586z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd86e61b22b924746ae58f835381045eci.jpg"
+        ]
+    }
+}

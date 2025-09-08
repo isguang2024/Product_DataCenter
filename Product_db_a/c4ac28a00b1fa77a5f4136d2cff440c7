@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "c4ac28a00b1fa77a5f4136d2cff440c7",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-09-08 14:33:07",
+        "第二层SKU数据": "",
+        "货号": "DG-209191046",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.7kg，材质：头层皮，尺寸：26x17.5x8cm",
+        "性别": 0,
+        "修改的时间": "2025-09-08 14:33:07",
+        "原普货标题": "Large Crossbody Duffle Fashion Women's Travel Bag - Casual Sport Shoulder Handbag for Men Quality Luggage Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb32a1296127c4a17b69576e05fc4c48fY.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se5077bc169ad451c988b1755d81da88f1.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6e04086682a4cc08d9bd3fde4f5c0f7R.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3e4f62aff6d24545a852fffdddaeb546p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9e532655e444ae183b5aa1e732213272.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e79d345b62b4ce3ab91205307b8a82ez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1029fa34c69540c6a722c3c69e14b1642.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc33416f0e844766be2edefba33e01a1V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfac2733bd72e4fc8a69f33878cc9bd3a1.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf8a9b15ed2294b3ba868325930c1914dZ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3504f546c34a420ca2fef5efb50381a8f.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S103f8df9b6a04ad5b0012ec3323226628.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7e61a9bd34ce48e0ae0fc086cdd25880O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6d33b0189a04a0ba5b3b35e35e73296c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7a3d2f458ea43a8a0f46674425160afy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c7a9fa6b0a4404184b106d290951718e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfc94d0bed88494cb364f829c74682daz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S011907b37b304c069b7e976926ea7078r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3ba864301f640eaa388adfebbb14c48y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa21df9986a94446581eb5c187cbe708bZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9734d067f4db4b1eb270495d365227ec1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf46f7aa3f2de4da5b4b9f29136f9cd077.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S960db7d3765a4af48bf9bed2ba7b9f24Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7494f626c284d819d2d05cec9313d07P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13c98b21fcb640a8bb3eb74a7c0c80a0m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbdf0fd46fd664b958fa9213a5e277af04.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S103f8df9b6a04ad5b0012ec3323226628.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9734d067f4db4b1eb270495d365227ec1.jpg"
+        ]
+    }
+}

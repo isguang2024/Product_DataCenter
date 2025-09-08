@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "3643eb2d57fb5e937130a4eb318b0eb7",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "DG",
+        "创建的时间": "2025-08-29 15:03:15",
+        "第二层SKU数据": "",
+        "货号": "DG-204316934",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": " 高质量，重量：0.72kg，材质：头层皮，尺寸：22x11.5cm",
+        "性别": 0,
+        "修改的时间": "2025-08-29 15:03:15",
+        "原普货标题": "Popular Retro Gentle Temperament Small Square Bag 2024 Autumn Shoulder Handheld Fashion Casual Yankee Underarm Small Square Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0e6ba47427f04cefac8976f76a1fa2b6S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43d7247354764edf845bad062c995616X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04dc38b3d3034e488e2cd059ff6e465dx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc76a9a0069344c858a7a17c9cd0fd4a0d.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S41050c2ff3b74a9580018b2123ab90aac.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80630c6768564bc7896606fda93eaf84x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se772cf00da7e4c6da013c2028fdfac8cj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S27eac7fb5b774cb0ad03b3780ceef6e5a.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3b310d2b70d841afb32a530b27fe6d91S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31fd63a6c7af4c52a2d888516325b1fdc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ca6668544e14167a638c6d481224ba3i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68efa0e978f44f9abf8562df61720650P.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9bdb48d99b324c6bb5f41b71773c9b0bi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S167e1efdae664cb09154a4b380c103659.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8708c1c9ca714e7da5ad371833124c7dn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d675ac4438947089f67bb745af461b79.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf14369b675d041d192639b36fcdc80214.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sffa7c9802f55443693206fe7c4ff5c73O.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sbf3ae849309c4ac0ae9dd8a2ff5a0aa7F.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S6a65783d341049f1b9e7824631009c3bX.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2be57802a5f0420da70caec33525e693d.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S208bca7cd8db4dc78850dcc1a08c1b07x.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd035809f58844916b70d8412a79e2781U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S494afb2db48647b7aae28451daa40e273.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fabbc0b42104d9c8fbce1e0029afae77.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbcf514cb79546b08c697e303bff2a41G.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4d0e90dbe424e6f897feb5ec72efb38W.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e9eb23bd1344a70bf2897d5ae92437ez.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S69c7fc175b504d038c0b2bef3137c95f8.png"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sba515db728564789a90c9fba8f18511at.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S5832135b2dab4924b98b84b8ba3f112ew.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc377de2173c04562b92ef7053d3c8a2em.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba4a8f6aef56464989bccefcd99833559.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf34e8f57f6f9423da9df01a7a1bfb7e62.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S845639a8030447078472695645901049e.jpg"
+        ]
+    }
+}

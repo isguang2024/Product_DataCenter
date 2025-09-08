@@ -1,0 +1,81 @@
+﻿{
+    "info": {
+        "ID": "6a567c35cefe7554de2e1c43b66dd440",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "DG",
+        "创建的时间": "2025-08-26 15:17:21",
+        "第二层SKU数据": "",
+        "货号": "DG-206339763",
+        "进价": 120,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.6kg，材质： 布，尺寸：23x16x9cm",
+        "性别": 0,
+        "修改的时间": "2025-08-26 15:17:21",
+        "原普货标题": "Fashion Cosmetic Bag Stationery Case Square Mesh Storage Pouch Mini Zipper Coin Purse Large Capacity Key Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se346d10ce395477bb35a94666da151c3N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4745d9dcb9648968f60710bcc5558e2i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ea4395daacf44e48530d391d2f0acfax.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c292824e9d6440a8d02668a93eb5834v.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6eabeae557f445c194f2ac99f9dc523dO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S646ffcd45af743b39e9ae13a16748ac0i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e0d6bceefef40d893df2ebc369c6c23d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1fef513b4e1d4b7ca6970d6fc0856927z.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se0767c1f69b3469790ce296d57eb7afdN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9a50f97124441bbab7e9083f568e2efy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S234926de4e244354a034048739adc529y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e86eac96b9046aaa6edc4cac5581d6bu.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S92b731333a1a4ea19171f5ef0aa36cd0R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77205c24cdc8447ca78e02ef25125aebH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b1294054fc1448b879aba83403527db2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9542fbc4b57f4793aafcfaa888dc422dZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbef70b122dcf42f295dda5ce647cdd47w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bdeac3b6f8844b2b56823bd65bb176fT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63ac4368090f4d32846fcb99b892b21fT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2132a61fc5e44ac795eae1944c90b6daU.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S04b10572e57341729ab73124ed54f8feT.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9e3856a83fa04945a36b46e573482bfb3.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7c2113b4800f462e8d7e0770261d4ad61.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Scbabca30ed7a456ab2c4ffa95da97d7eC.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Scae9d42a69b34a1792a55ebd93819f27X.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sdb20fe18e8264857b52da16deebfde6en.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb81a3f477b884d6d9e8583c9c67eedbb9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b5fa7cb2e634cf59b550eaf87d210814.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se617d8b780d849e08d222093a301590ak.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41da8626d49845b9b3f516370efee4a0V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2fd49eecb4744699a1e1e5fcae89cbf5M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S307d6205b3484c708adb8b03dbd85612r.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scc147c8b9f044cf891caa5011d63a8ff0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S307d6205b3484c708adb8b03dbd85612r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se617d8b780d849e08d222093a301590ak.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2fd49eecb4744699a1e1e5fcae89cbf5M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb81a3f477b884d6d9e8583c9c67eedbb9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b5fa7cb2e634cf59b550eaf87d210814.jpg"
+        ]
+    }
+}

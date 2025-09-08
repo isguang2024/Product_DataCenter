@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "06b7ab1d41bed127737402a5867863e9",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-08-20 14:30:17",
+        "第二层SKU数据": "",
+        "货号": "DG-207482051",
+        "进价": 205,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "丹宁牛仔双肩包 高质量，重量：0.8kg，质量：丹宁牛仔，尺寸：20x20cm",
+        "性别": 0,
+        "修改的时间": "2025-08-20 14:30:17",
+        "原普货标题": "New Style Nylon Casual Large Bag Commuter Handheld & Single-Shoulder Cloth Bag for Women, Retro-Style Large-Capacity Tote Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S97c26c2b6ca841238b151e1d516a1f37s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S110304e5e94f47c8b45a25ab639eef0fc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See1ec42ae7f640269373cf29d578967aP.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3bf5bd0968d41d993d4731f5b7c57076.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e4d6d1b0c9b447ca26cc44d7afb697fM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b6ce96d4d6140a5993efcafccf00f06C.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3775e9354aed43b4be1be9be2bc05625E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfcb21b1782884cc9a1baba59e364c836G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b6f8e3bb2684c1a800ed441c17b8b65i.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S41266e59ecab476c914822eb158a8f65U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S107de2bd6f094a3db911e4735d748ca99.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd72bd0b12aa340cea373a22367f0980eQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbdb3b119422b43f588ec8c6ab2592d7ee.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc67e2e5dd95e4b0fa304a16b26c3fdd4n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc5ad6c3844a455ebd2d0a0ecf8e305ck.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdaefb08c502b405384f5c1d9d7910ba5R.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9a1ed402c9fb4926acebc8ab90508f3bq.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S5cd99d6bdda542a79d3770edc5d386c1F.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S5d9500657eb04b1e8ede4c509117baadS.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf7e3fce3fa474db382202cb5ca355d5fq.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sb3ebe2d244c5469281a914434755412dh.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7d191244fe5449bb51ed4315d597076f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75387984ed7540b0b8006f195d7fef50d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31c34bddd4a1418cb731f9bc85cf03faw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb358fea62be4fe78846d313f49dae1c0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd404b38cb4684a3380c056daca3eba3cm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8145da9498c4ddfbf4023b2791a4ab3F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S576b05d5598243c4bb994fec55e8ad3ap.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S76d0f386f14c4deab4d909a7819917b5Z.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S78d70ed1d910488ca6aa17baa4fe7112S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9bc3ccb712294bd89beae7a6f90893d8h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3c278e2976349d89fe6060aead179125.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc8cdbc8eafe4961aa23cf1ebae1b57du.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S385f9437db5744e284d52815b9a3ec78u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf67dd80d40cf42b68369d3cb66c65121B.jpg"
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "12fb8d3ea36f4fc9cb9427c9e0c77022",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-18 15:07:01",
+        "第二层SKU数据": "",
+        "货号": "DG-206835594",
+        "进价": 175,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "斜挎包 高品质，重量：0.65kg，材质：丹宁牛仔+皮，尺寸：19x12cm",
+        "性别": 0,
+        "修改的时间": "2025-08-18 15:07:01",
+        "原普货标题": "Simple large capacity women's handbag  canvas insulated hand-held lunch bag  drawstring student insulated lunch bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S563278a7fc754c209ffb1ab298213936h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S456b3d8563ea43379daf5711dd3cdcaeO.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2595b3d83b941f89e442d3ace0f4b4di.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5994d6fa63064577af0fc5ec282c7f350.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S621042058c994264aecfcb8a0a787ab4z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S61c65f6b09de44db9f8810a5273655bct.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S63cf1e17a31d446b971be53a48a5d2e3k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9cab375fa4264410a2b8fc929da54c57l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65ef794aaac1445fb96394a1ad8e93faD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S621042058c994264aecfcb8a0a787ab4z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19740e016c524f7ea09f5c57030e98f6g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a03ef70082a4972873f4ae667d24d44h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72434e877ca5460ebef04487b8c1df68Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82c91cc6935e4a67b776293f950df581w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S946b15d993014fcab400429b13bafd6aF.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S12964403aca44549bd00d712b5261b33Z.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S85748df8dda94e83b8764c653ad1ad9dn.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S2ea1bb15e0004ce1addc90fe6e809ea03.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S013281a68edb4d7096211967f9e06c06b.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sae567526fd7a401badb322af4159c468H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S352d483a9d394df19280b09a493babf1o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef81d629ab6d4760835c2f47a79355ed1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf26d94ee25b048829a9622a2ce360efdx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S404cf8a7b717471d80052be9628560c98.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99d6617d28b54ce0889bee9d6b6da20cw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3d17761ccbe4179883242f3846322cdG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S013281a68edb4d7096211967f9e06c06b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ea1bb15e0004ce1addc90fe6e809ea03.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3d17761ccbe4179883242f3846322cdG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19b56cc0c98741ca94931f102f89af1eV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef81d629ab6d4760835c2f47a79355ed1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf26d94ee25b048829a9622a2ce360efdx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S404cf8a7b717471d80052be9628560c98.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S352d483a9d394df19280b09a493babf1o.jpg"
+        ]
+    }
+}

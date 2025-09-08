@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "bb52e3d2ca98c7f4b377169cbc1daade",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 11:51:47",
+        "第二层SKU数据": "",
+        "货号": "DG1-201082539",
+        "进价": 190,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": " 高质量，重量：0.7kg，材质：头层皮，尺寸：20x4x12cm",
+        "性别": 0,
+        "修改的时间": "2025-09-05 11:51:47",
+        "原普货标题": "2025 Genuine Leather Male's Crossbody Bag Casual Business Real Leather Men's Messenger Bag Vintage Men Zipper Shoulder Handbags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa163a16d24104ddeabb11574d2b40d7fs.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se246f3283635472ba46d11e2e47f1293H.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3676402d16f64f83bf1797b83f38c874V.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2f95da67bc4348bd95031caef532750e8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S436de0f91fa24703bf453c47b9f2480am.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a3b4ea263d3430fbd50d3662fa9d3ccs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69216796867c48a991f1d7ef30fdf79fz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e23916298274a02b91393a77926ae975.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a44dde0a8474589adac07c4d701d407h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfca4432858e042c6927e1ec589a2c43bs.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S3fd97d2e0c0c487e964232fd83b7b99eW.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0faccef60c364f8185932815307965149.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S94879baed6654ebf814f2b76b7b48c0aa.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S95d7adf918834fa594f4ce47992c366aF.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd736126ab846454eae560dd0cea3c7a6U.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f87a331b66143488e3395971e7d97888.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad59c14741dc483894efbc2ed3f2681dJ.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S805f706b480f4cd8b582cbbe20424a88o.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b3f517c890c4fdb8cd87a4c9786bf4dh.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S47a039486c1d46948341f21d825107cbz.jpg?width=800&amp;height=800&amp;hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcaebf422bb947d49aabd0e4ea31066a1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se2bbe110e12845559ad31b30a75242a8v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94879baed6654ebf814f2b76b7b48c0aa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7ac6539a45c446f9aa7b5662d66081fN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58ee2c12ef994f39ace8645169f1c04fV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47a7b6269ad44f4aac6f2d1abec979faX.jpg"
+        ]
+    }
+}

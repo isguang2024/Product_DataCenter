@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "5f648e5a0ba18faa62c38cc216952267",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 14:19:32",
+        "第二层SKU数据": "",
+        "货号": "DG1-145698975",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "水桶包，重量：0.65kg， 材质：皮，尺寸：13x16cm",
+        "性别": 0,
+        "修改的时间": "2025-09-05 14:19:32",
+        "原普货标题": "Women's Messenger Bag Vintage Handbag Canvas Teenager Shoulder Tote Bags Casual Handbag Crossbody Handbags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2390fefc0c0a4cd5bcac7025304afd11f.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S267e77b16efa4078b330a20144cb590er.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2f4b4b9aab9e412690d7b1b2b9f898ccT.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf613620c291e4e0f875a24ff2593a700R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0107e5ffe194014a7f56ca30bd5170dF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3007295a391540a794057b37219daa30y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saffd6f5a746648c1ac86d5d5ed894990p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se235135113c845c3923e6f39e6016c409.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8077c0a60aac4513b22b638e1f9fe3efT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0343904c40449938f8608e0eb2170c3v.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8faf7c007ee34e62a12b8af0512e41a0N.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Scead6ef28dca43acb22be60771507300n.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sfaf215d9abc04e43b97a41c0438775ffG.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa23dee257981496fae47b1e2655e961f0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6890a71fd4bc4ccca2c95ca125373c86D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6d42cbab7624357b10d4f3a034da892e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seaa9a1ad002248c4a402c64ca166b9522.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfaf215d9abc04e43b97a41c0438775ffG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S420536cb366d4658acc5f93b7ffc5edaU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8733781ec97427885eaa680297ac78cm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97e4f877b55d4cb7af1ef403c42ac6d44.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9372dd0ad59d4be99f2c579abad622d9e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02467c705e0c4dce82246e5b60add41ef.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b6bb3c076bc40dfa6e8c24039caf8652.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb18e47053873444aa6660084e918798f4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6705669eaa3245d0b7cd93608cb3b2efl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd08901adceec4ad4be5a0a4d71103eed7.jpg"
+        ]
+    }
+}

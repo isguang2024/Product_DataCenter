@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "088834a45533da4fb8397f610faa8a45",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-08-22 17:06:21",
+        "第二层SKU数据": "",
+        "货号": "DG-205172966",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "重量：0.45kg，材质：帆布+头层皮，尺寸：27x16cm",
+        "性别": 0,
+        "修改的时间": "2025-08-22 17:06:21",
+        "原普货标题": "Lightweight High Strength Nylon Hiking Bapa for Men And Women Outdoor Resistant to Scratches And Wear 5L Dual oulder Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scb660becee0b42768cb3defdc33d4f33F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02bead9e33994314bcd001399f7240b5C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf064a089b6f041429573bf9cfa7eae3dj.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf97bf0a2c57d44b2a2c5ddd95e90e62dt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8622aa812aa045c7b16d23086bd834d8q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05662036460f4bd2a19b47ddf14fe45av.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1da233cb89424420b8fe120cb4b5d575c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfef8547d4ce249beb870d5558987372ff.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S81f805080d504db48f17840b8901669es.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scc7636a1ab934c12af9db8ae3493f482e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8babf32b215e4242ab8a196128284e79K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S539441aab2704b62acdd3ed16ecbc490p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87231cc62dfa448eb075260e8a6da5d4c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S561ce7c821864e3ab6176f0df7ebd72dH.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S01c8ea9bb9b346f3aa70e00a8e3af215p.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Se475db7952984a11bfc1477e404e8746c.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S37bdde3ccfda4a5da7c1b6d04501b680G.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5a760eb249f249dc91c7f8c543191dddm.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2ad5d79e63494f1baf2a3570ed95b331l.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se75296701ca447e6b5e5b780c1906db6P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2706d20d032c44a7ad11dbadca6996c2L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd0c797794f546469e01c79846571f80D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5f65fde359ab476b9aef08d233f941a8a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6773418316a4cab8e495c2292d4f0cbp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf193c275d0a492a8dd542f63321cdf8d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf601e04e5c40427182fc4ed80bba7ef84.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18dc1e668e934c17abf52cb06bd35334J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b93c8d62af946c98fd2abd6aa1e5bf0z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9fda5e4303e1473cb3bf4dbaf486e3170.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S600300ec1a8a45f7a05d6bb89890e8e6n.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2a17ef59685545a28f9bb27305d58268o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc8f98482e5d48c9b53911ea65b0c5c6r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37bdde3ccfda4a5da7c1b6d04501b680G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S767020377399408fa8263bc28b9d0d5dw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8e62c7e5f4246f99acfc36e23ca0ea80.jpg"
+        ]
+    }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "1fe3b4092d275746cfc2492206ef47db",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 16:34:58",
+        "第二层SKU数据": "",
+        "货号": "DG1-208928927",
+        "进价": 180,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.72kg，材质：丹宁牛仔，尺寸：26x16.5x11cm",
+        "性别": 0,
+        "修改的时间": "2025-09-06 10:27:59",
+        "原普货标题": "Stylish Nylon Handbag Multiple Pocket Large Capacity Women's Tote Bag Lightweight Casual Shoulder Bag Daily Commuter Shopping",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S61e81a83e85c432f9c7af1d072ad62a2J.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5259ad99a5d646faae01aca90536fdc5O.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S803e9d30763a4425b40befb362f0e42d9.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S85a724d9fd7043e4a84d6e937036c50eU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ce07d9a4a254d029a8633b47e349792E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2a804c30b1a44c68f15cd80c16d2705i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7086f008965945b2a6c9799fa9c4de7d8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0f9d7c25c464276be17831bd93d5ee2y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1ac92fd0a10c41b8bcd012fe68d942efu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se496312a22124c0ebaf41247e9a3ba52h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc474ba0b935948d58c206024fb63ea9bo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e22fd1681b7446a804a885bf155e166G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf345bac51744bac9fd7e22393e40d03T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f010150a359443bbd3951b230625cdcs.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0ff5ee6e00104f15bd2016d1e4ec2c5em.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8264411fe699418195c735aa8ccf1fb1R.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S9756620a9851491d8ce11ddfc093579ab.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf014587d1ec40f6921828b92b9c5cf5t.jpg?width=750&height=776&hash=1526",
+            "https:\/\/ae01.alicdn.com\/kf\/Sead8bcb7e15848eaba9199fc0ded1a6dD.jpg?width=750&height=776&hash=1526",
+            "https:\/\/ae01.alicdn.com\/kf\/S30b4350ea96746d587df73e84b94dd19G.jpg?width=750&height=776&hash=1526",
+            "https:\/\/ae01.alicdn.com\/kf\/S2027c1a6a72f491f8ef9e88b2e7739024.jpg?width=750&height=776&hash=1526",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc8ac6345fc942128fa71c10657750554.jpg?width=750&height=776&hash=1526",
+            "https:\/\/ae01.alicdn.com\/kf\/S24293f5ff9fe411388b8f117413a79ea4.jpg?width=750&height=776&hash=1526",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ba73c935c69442ba4d0ee175d47712bn.jpg?width=750&height=776&hash=1526",
+            "https:\/\/ae01.alicdn.com\/kf\/S73beb4f223c74bed8caf623acd6edb124.jpg?width=750&height=776&hash=1526"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2f0855507a448cf8047c1d802a55a2cB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9756620a9851491d8ce11ddfc093579ab.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbfaba623bb9f419689c4ef0b2b626b8bC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7e7688f68f2040eab9adb23a27746847F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb53630954ba54d98b77d571f2fc1a6783.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4cdf31ec1ba54a2abea46ef1b706f5e22.jpg"
+        ]
+    }
+}

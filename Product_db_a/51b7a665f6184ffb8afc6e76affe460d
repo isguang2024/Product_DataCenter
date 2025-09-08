@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "51b7a665f6184ffb8afc6e76affe460d",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-08-26 15:19:33",
+        "第二层SKU数据": "",
+        "货号": "DG-206339784",
+        "进价": 115,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "腰包胸包 高质量，重量：0.5kg，材质： 布，尺寸：30x14x8cm",
+        "性别": 0,
+        "修改的时间": "2025-08-26 15:19:33",
+        "原普货标题": "Gym Bag Waterproof Sports Fitness Bag Large Capacity Handbag Tote Duffle Bag Nylon Multifunctional Storage Bag Women Gym Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S57f755dd23154a1eb127ce1259b568f2Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63adab91975b48b39cda979027c9779e4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd28d1d3f2d264985b6dd824fb7c844baJ.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se549bb5e17314f98b41e650b0b67a9c4s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e557e5b3e3e48e4a0b1764dd62ceff1T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73bef7d661274df896b185daa6f506a4o.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S044c053e61b8487f9abada876d69b02eu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S97a8738798bb496aa0c056d81051d587o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S845559b84b5f48918ffbc1064db55e04D.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saf421072c4e7425b9ee09a6003c403f6o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa80e94ef49d41b39505dadbcd5bdf68q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb43a505a1d4943958f9874aea9f17fado.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S06e3672d709b4ffba2d5ab2128de7fe2Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4539c63a3d5e4383b02528d9719070f8s.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S42f8e3d865e848d3b07b596a59c1f366i.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S05eb740135e945c6869c6f9fc498312ad.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S8983e8bbaf4848d1bc4aac5a71c759bb6.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S713588c9627b4bb2ae646e7d1402f0bfp.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S35855290baf34d6e9230cd6a29fe5afdi.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4b98395754fe4d2fa78e4198a7ff9201I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7eb4744015a42f581bb9eea81defca5C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S497df7a2b5fe4132a8ace1dafff7e241w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d415f81883c4ae6b8ceb3bff82ba2cfz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fde1abb86d44411a685171dd24072e0I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a87638a294042f6ab6cb14299849f51A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8983e8bbaf4848d1bc4aac5a71c759bb6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S713588c9627b4bb2ae646e7d1402f0bfp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b106d4a887d440bafa5646879389a5bU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5e8f03c279143cd8c92ee4aba3ff8d4Z.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S713588c9627b4bb2ae646e7d1402f0bfp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7eb4744015a42f581bb9eea81defca5C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d415f81883c4ae6b8ceb3bff82ba2cfz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fde1abb86d44411a685171dd24072e0I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a87638a294042f6ab6cb14299849f51A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b98395754fe4d2fa78e4198a7ff9201I.jpg"
+        ]
+    }
+}

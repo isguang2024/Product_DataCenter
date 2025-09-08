@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "51a998586ba84227d2e1c73c75d7cce6",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 11:53:14",
+        "第二层SKU数据": "",
+        "货号": "DG1-208914102",
+        "进价": 215,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "材质：原版头层皮，尺寸：29x16cm",
+        "性别": 0,
+        "修改的时间": "2025-09-05 11:53:14",
+        "原普货标题": "Padded Tote Bag Puffy Large Capacity Handbag Suitable for Travel Beach Gym Portable handbag Shopping Multiple Pockets Mummy Bags",
+        "质量星": 3,
+        "重量": 1.200000047683716
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc186c48e49204b3da69cfa244c133947Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5bae4a8a9c7a4eb9b714f5efcd083147K.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6ccb1b995244be4a4b305ee3ba880f92.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S691627256a6b4fa6a19d8c870c42f720G.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saa6311bbb30c4b589d4c23b0ff21d921V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9dcd168356384fdda9b4e509c22a1fc6H.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saa6311bbb30c4b589d4c23b0ff21d921V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3a32eee2fde473e82541f0de1a712d9Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e6cc61f25ce49939aecba6c3728fca1N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f13a494683042c39a59bc1d15c39cfbz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9dcd168356384fdda9b4e509c22a1fc6H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa6311bbb30c4b589d4c23b0ff21d921V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9831dad836c7485a86871af20bee8c78Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80fd649a5a5940bcb944a2241bbee47d5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbee13fa3283140adb8c1cc201a67f049K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa104d06a560348c48d304a2f09e8d7192.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75448776aae04ab090b101f964223963u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scad8ee01289f402f87dd3245b2f5eec94.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9831dad836c7485a86871af20bee8c78Q.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7d3dacee14f14da6800bd2af182bed9d3.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc68114f493104f3398e3c7b34b407975B.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S12a03721d55c4870be75c2248c9bc235Z.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa513e81725a14cda9c654811cdad21e25.jpg?width=1536&amp;height=1920&amp;hash=3456",
+            "https:\/\/ae01.alicdn.com\/kf\/S59f67fa4dfbf424ca48530d6d88799b1L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S865343cafd234ea782c54d2d61a1244ba.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc68114f493104f3398e3c7b34b407975B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a5fd3eb8b024be9a3f6243e6a612af0K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4778ef1e7ffb47c98772e0fcefa2cca1K.jpg?width=1154&amp;height=1154&amp;hash=2308",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6839dbb15fd48c4a759481c196bd05fo.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S194ad3587a28471baad1607983f52679x.jpg?width=800&amp;height=800&amp;hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0ae7b3b80f2e4c3a90c68646ec138a86l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ece4f328e7f4118a6910d4b2b807f94N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59f67fa4dfbf424ca48530d6d88799b1L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S865343cafd234ea782c54d2d61a1244ba.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa14f70fb9f942b3ab3643d664a8aee16.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b60dbfd1cf642b69bc645c1d240ed8eA.jpg"
+        ]
+    }
+}

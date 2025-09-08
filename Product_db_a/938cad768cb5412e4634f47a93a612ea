@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "938cad768cb5412e4634f47a93a612ea",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-30 14:56:35",
+        "第二层SKU数据": "",
+        "货号": "DG-204677811",
+        "进价": 235,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.72kg，材质：原版头层皮，尺寸：24x17cm",
+        "性别": 0,
+        "修改的时间": "2025-08-30 14:56:35",
+        "原普货标题": "Luxury PU Leather Shoulder Bag for Women Casual Solid Color Design Handbags Brand Purse 2024 Fashion Shopper Clutch Women's Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se315b16264414d1bb11a9e063211dc5fl.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf505b34d3e9c455baa56430715f8aa95n.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4f0d1984b3143619643b8ab77605459p.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/See408cd63e73484e81922255ca852e0fQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd86814fc08eb40e9acf32ee703fd5e4aK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scea434b258fd4fe4a5995d8d79eb3500d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc27b909358b14129b97f1634c2045d56n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S408c560f9f71413886d3384f8dd9cc6di.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ab477fa26514b2bad3810074b9c0b79v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a8659fb7fe2469eb007b1a538e583e4N.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sb4f0d1984b3143619643b8ab77605459p.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S543529a4ee95488a82477543fc085aed8.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa5c16d834b6341f0bcf85e649439bb54B.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S72ad722f8ef6469393db30a871f35cb3t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbce6bf138e1b4cd1bd3d065afd9540bcS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4292b19a1bc943eabe79f96272a7a6e0u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c4d2b48327a441a9ab330ccdb29c0a90.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe10554d634342a1a6808d54f6ff7abel.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S764331ad9af84fe383e40aa0775ca7fcg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f8961f988424d18a1f2ac09ca556eddm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26cbf8c2b2c64180ac65d8e93684934bt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S921e125fac0541f8845a77cf51f63fb7V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S660693f7c3634b25a46f36de9016510ec.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S60633560872a4c8da5da1b004c6483d81.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4306bbd287744a37bd1c0b90233dff82u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94b7ad8a5c1e458b8f0e985a30bafc383.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f4ebac4283444a78c2dac4bb0d5b04al.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd835b40ccb314816b112d407a786e2f7B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa040033ee2684bf1b90a1e23ced40924g.jpg"
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "05d669202840f8932c98f5c91f4e4805",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-19 15:27:15",
+        "第二层SKU数据": "",
+        "货号": "DG-204326036",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "枕头包 高质量，重量：0.75kg，材质：头层皮，尺寸：25x11x14cm",
+        "性别": 0,
+        "修改的时间": "2025-08-19 15:27:15",
+        "原普货标题": "Winter Solid Vintage Canvas Shoulder Bag Fashion Leisure Art Student Handbag Large Capacity Commuter Women Tote Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7378b5ff14594791bf5bf5a093a79cc8S.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S35b4a3f2fef647c19c6b3e1adeb4341dm.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S77c089c41e154890a5976726df174a4eo.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5e95b0a46ec2476098a065a23c5e21e8N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a39887268a246b283f53ae36e04eb10D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se2c2117ca3144ba0b33218d9aa8135dcZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5be7cb97f433432c95b76f2978da08ceV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc26aab72ca34d5e9a923bead5241a68x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8247c0bd99fc4cf89ef2ad9f76f57187K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9be4b77cdf94d8aaa06d4b3c6f5c2008.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sed25d5281bc148fe80a2739dceb534b03.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8c901fb0e2f44f1faa3174fce16aacadP.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S056b853781e24503aaa365d24c00c1e9L.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5e24db41880c4dd6b9676b3dcb1bd7dbB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6bec2d21423416cad77a309b43ae2adn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd54ab73111f45e2bc24c15b685b083dG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb25f75acb9a4ca1b04e3a45243654eds.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S087c3d2023304672b030effcb9fb06b4I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se60651192fa7442cb985ce3bf2cff122c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18dba413f0cc4471b719499930436e7dF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63cdea786fd945d08397496842e92febe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S053a6ba31d614dffaaf306acf55a804bJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28af2c2719ab4ba188184f5b139697115.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saba6bd6a0de144be945407c5a0595aedw.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8f0191a9a434f3998d32a886e15a8db7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S91677955387943e2b5c0ca8c9a5c7bb5G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S487b57ed1d804ccbb7b56fd60a0468f2g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f9927a8b4ff40beba44d0a81c5d9d05Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c8fe2e3941b4ec1bb5462b3b80d164aT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94c8b56f437c4eb390d857f83108faf32.jpg"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "d8e8e5240b59b3b75bd5010caee62b63",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-18 15:04:11",
+        "第二层SKU数据": "",
+        "货号": "DG-206836766",
+        "进价": 220,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 198398445,
+        "普货模式": false,
+        "商品简介": "中古法棍包 高品质，重量：0.78kg，材质：原版布，尺寸：26x15cm",
+        "性别": 0,
+        "修改的时间": "2025-08-18 15:04:11",
+        "原普货标题": "PU Leather Commuter Fashion Vintage Casual Tote Bag Maillard Stylish Crossbody Bags for Women Texture Large Capacity Temperament",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa55ca9de6a0640df92cf384fe0028330k.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saf59726260de47ccb74c2efc06a80985A.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc017fe16bfbb4703a3010052c1cc8356E.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5f43dfa6766143eab0e6fa1f42358669t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2b1240ac09a41fe97beca17702f7e2fB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b178636fa20446e80672d26a4a3ba8dV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1198e30235574bc587dac85f2d6d6b84T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2099c48c29ed400b9d3e4cf972dba659o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f573ee602384257908949b77c20e3052.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd25363027e0840aaa2eda33dde43e61eM.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sca211f5a901b483eb8440e7160c47c2cJ.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se14d43291fa047b9b8e129a7688a7d34Q.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa50c00160d57445c92df34f68604c4edV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78d7f35ec3854ea48b5d38ce742fc491t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c45ec83aef0466d969efb4a2ef71cbdp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e85508c80c041d7b34e5d9ea667ccbaG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S552034e3ff8c4212aa2318c7a337cc5el.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8da60c800a4f4e5bad332548d7b8cb12O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ea1fc7d07e34dbb9d59743208cc231bD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f081e9a27eb47f8b999d551599f472ac.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ac54520f3f74b498c1e62709542484fa.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a42513a44be4de5b1e07169196d0f05p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2aa1cfbf72b843b9835c37aa29ee7769b.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S05e2a6bb241f4a45a7b09c4984865d6am.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ba194b493f941288ab3dce836bafbc1Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6016abac4e274ba6b4d5bc76c2c837502.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2adfac0e5e14a1cb18e08663bfb9c67H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S27bb6cb2a75b44cc910ff26dd3feaffc2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S026b87ff21034dc294f7c56ffdec6cf9e.jpg"
+        ]
+    }
+}

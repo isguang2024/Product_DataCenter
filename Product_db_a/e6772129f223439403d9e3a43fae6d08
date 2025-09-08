@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "e6772129f223439403d9e3a43fae6d08",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-20 14:39:03",
+        "第二层SKU数据": "",
+        "货号": "DG-207480570",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.7kg，质量： 头层皮，尺寸：25x15cm",
+        "性别": 0,
+        "修改的时间": "2025-08-20 14:39:03",
+        "原普货标题": "Vintage Korean Casual Cute White Star Shoulder Underarm Tote Bag Ladies Sling Bags Leather Zip Purses  Handbags Women",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S79409cd796f840778f2828f2487a33938.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbb1086082af547dfa2209dbf29d18e948.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf60077d76f648ebb7c682cd6f0149ceu.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5a78495c2674edfb83241e61df16d15V.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4e0ad5a891a744a380a43f42c6edc46eU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6bed75ffa7fe4943bfaef33f4813b676T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb766a1fed8f40a4bbe79401801e0c87F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07208a5579b1433fa3d044f3dd1512193.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc8a92f248964156ad5be227ef34256bM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33fb98a4bf1e402792452fdc53bc7e24l.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sfb02d3ce67c844e4baa675997b4e46ac4.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb9b7f616600d4d7ea93cc75657aa6964Y.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Scf2b3f314fa04fdf8d272747b27321bdT.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S50cc7aa7f0ac4c53848f67bf522525b1H.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb11b9a8109ee41749c5748220611fb35g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ef76ec8c0d742dba189ae4ab5f90892D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se5348a7c1da14a5eac87fde5d3465f7cM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04314a0387814e87852bec7a4447070fy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf284002c639f48f6b932446f24b937d7m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb91a9be7ca124ecdb181aed674776a0ep.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4758acd9797a4aab9c1b9040bf59bf6eF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S92c9bf6bab9e4c49814377402f873bc26.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S20b25684a906403dbfd9e8964c969c80c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56d72da3e49d4e909b165b067ae5ebcf3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S083d5e84fe694cdeabdbd438c1f9536dO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b9f5a35d50941c18cbf11926ff3d4feg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se3f4c052a8fa485a91592153af614dcfd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa669d460b2b7496caa53b1ee98082b73s.jpg"
+        ]
+    }
+}

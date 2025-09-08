@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "b6fa5bd99a9709107b69b7068b83c48d",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 11:39:52",
+        "第二层SKU数据": "",
+        "货号": "DG1-148051531",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.6kg，材质：皮，尺寸：18x13cm",
+        "性别": 0,
+        "修改的时间": "2025-09-05 11:39:52",
+        "原普货标题": "Vintage women Messenger bag Large capacity oil wax leather female shoulder bag ladies crossbody bag Casual big handbag yellow",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S56cecb1aedcb42d8b90b5a8a78247466O.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sea80aacb62c44944b7d75539a4fb74d0E.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf6ff376053a4fb0bf869ebf5d961c62G.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S56ad3f7ba93f438098c93dc4a2e98b68t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56165ad4351140d8a755dc5f6d1bd49eo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S223168ecfd9a42d28069bc87cd4180260.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71b5cef4d8d94942987fc67203baa6bac.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S879133d92f4148b6b65cf582ab0543e3f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S544ed28d498e45e7b1ab030e2c33f64aJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Safa6717314d143469d271141f989dfe7k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f587ebd3fc34babb4b20415d8ca5b8fa.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S93b2b6475fe74e10a0ae5f2297aa992eu.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd0e1394a1dea4729bbb15b5198ffbd96O.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/H430cad5d311640d9837ff2ad0fd5fb7fB.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Hc4221712a49046f088430bdabfea7448x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hb039b8bbbfa44d888e84a020c9c547a12.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/He62113657da049a4a99230198470d62cI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H15517cbec9de42699165ae87264ff30fC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H1675d86af48c4490b381c52e8dd3b733N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H4b956d0c6d4e465a9d7c42a6f17b5079p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H3690e4d0dc19434baf38aa467c7ab1dcn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H6f877a7d6e9e4bb884ad4af2bde7131aV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H49683d02eb6645febbd31fc4b2665a38k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H0b6c67ab50c4494981d19ceb096f6642L.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/He177f5a62b5448059c1c67673fda8fb5B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/He0756664aa9f4d20a67ef13d6e50eca9U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H010314ef880e4e2593ec42e45e6e60a0y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H3b4768c0bc38473fad224b11a4e32b92f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H70072e5e89a84fbaa3184089c50256f93.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Ha89a9489ca2946f598647072a5f519180.jpg"
+        ]
+    }
+}

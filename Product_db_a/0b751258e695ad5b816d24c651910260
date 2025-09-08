@@ -1,0 +1,66 @@
+﻿{
+    "info": {
+        "ID": "0b751258e695ad5b816d24c651910260",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-25 11:07:23",
+        "第二层SKU数据": "",
+        "货号": "DG-206767689",
+        "进价": 85,
+        "利润比": 100,
+        "品类": 1002,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "黑双G短款皮夹 高质量，重量：0.25kg，材质： 皮，尺寸：10.5x9.5cm",
+        "性别": 0,
+        "修改的时间": "2025-08-25 11:07:23",
+        "原普货标题": "Fashion Large-capacity Stationery Storage Bag Multi-function Portable Pen Bag Pencil Case",
+        "质量星": 2,
+        "重量": 0.6000000238418579
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3580e189eef43c8889aac9d56ad3ea2j.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9f329e9fbc3e480fb38fb2b17bf054f35.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S514746d7ed51442b856a9b77a309e69cb.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1a1e12b13a1d44599c745c1f00894761D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se82d4406432948109023d145fa7e49a8m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbdb866fd2ef4d09ac102806d149059aD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd1103c923ba4676a4feff17edd28acab.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4e98454ccfb43b3bf6ced0be25a7424r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S64579307b77040c1997e460f5fcc2377M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0bf27f86ebfd4235a029147be9dee38e4.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sc94972650ff8456380dec328e0d5ea4aM.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S63c11c78f8c9434aaf760ff2ab78be85d.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S1cbd6433072543d5b74a082b5aadcc44T.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S364dbc329bcf44d3976b821de380ef98q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec30ecec7e404f2dad8ca01a9966c14aH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S348448bc26034733bb3b0c710f99b342E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ef825cc773b483e8c5f9179a5eb7e36M.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2dc125ddc3a84add991ae138e77dc4f8L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5410507648e4771bd71f61c7f6fddabx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa78351e83e034af28c9a386d9ab41596T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec30ecec7e404f2dad8ca01a9966c14aH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S348448bc26034733bb3b0c710f99b342E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S364dbc329bcf44d3976b821de380ef98q.jpg"
+        ]
+    }
+}

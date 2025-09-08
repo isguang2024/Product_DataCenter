@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "acc4bd1f7ae2cf90a457088d3d542ac2",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-29 15:30:12",
+        "第二层SKU数据": "",
+        "货号": "DG-203820214",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.7kg，材质：皮，尺寸：22x18cm",
+        "性别": 0,
+        "修改的时间": "2025-08-29 15:30:12",
+        "原普货标题": "Casual Fashion Large Capacity Tote Bag Simple Travel Bag Women Large Shoulder Bag Aesthetic Handbags Drawstring Tote Handbag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7e828a915c6342989df6b1e556311510C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb6e9913868446dc9c195b88012028c0z.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S45451274f5d74eeeb0fc79b989656ece7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43ec45c356b549ab86960d179ea0cc35B.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S01114abde7be4376b77fcdef3ea6cfa15.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa467ec1c282d4c748f001846e64ff17ft.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se831b7602d094ea892290aec8c748f61R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5d6517603ef408d88518871dfdf395fJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6776f85a483b434a8a86be13642641f5y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08cbfa4ea1cb4ec684d87d488395bcd5Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S791fd991f302417baaaad6f63694db9fb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc656b2a708854818be880f6fcdd27bbdl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94e1c165567e485fbdb24c9e54686c3dO.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sece5ec7350144b068f50342d6d8b0935M.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sa67580c856a74fe6b7bdced0f913b598v.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S30135c1f1e504140af3fe1f8012aaa04O.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S739d6116c7a84e86912b39910a0e3062X.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S494ea793a5154a7693bd46c5d01606c6F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb064d2773a6489aa8e3ffd056ddb865b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbd624dce26744fcb26948692d8b8e986.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb78d5c8765604ab4a5a4c4a58926f506Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8080eaf362854d6c938c5b49a763fb1bL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2fec972c67fd4fc885bc2bff54245faeK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seaa1113889bf4afcafff9a9278b9a31cX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8076e4a55e8c4c88a7b66ed1f984737b4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7bfc5ea7014c42dea90a6a28f7835bf6O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb54cf9adc6ee4d84a889141f45b5fba27.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf585d738818d48458aaa5e898b290caaQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80aa70d7b7534eefad3eb566cbce45e4v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71ead5b80fbd411c92a5cf4b7eaa2c44h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b1b296103e34e53b02ab41ba65e781di.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S358ee4249263467db097201da7fe7356x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8aaddb76e9614439b4ad041b36375fe0c.jpg"
+        ]
+    }
+}

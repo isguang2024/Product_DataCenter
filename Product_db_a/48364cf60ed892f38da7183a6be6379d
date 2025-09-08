@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "48364cf60ed892f38da7183a6be6379d",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-19 15:20:07",
+        "第二层SKU数据": "",
+        "货号": "DG-204327435",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1003781064,
+        "普货模式": false,
+        "商品简介": "斜挎包 高质量，重量：0.74kg，材质：头层皮，尺寸：25x18cm",
+        "性别": 0,
+        "修改的时间": "2025-08-19 15:20:07",
+        "原普货标题": "Fashion Women Large Capacity Crossbody Shoulder Bag Down Cotton Casual Simple And Versatile",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4ce2fbb0bb7a41a29888a410618927f7o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S496dc368f767409da7028e2b813573467.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9872618e8ff4120991fc7c77dcd8563J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17e5e1d801c345a0943e9008a8ebe9ebd.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S25f3059d29d84422a87706054f010a47B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S91ca5f0e43ca4fe2b00eb49c96c06a50s.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4c1954b9337a4250a702ea055a22f9365.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6aa511b06fc4fe5b3b27f9470cc4a8cm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S25f3059d29d84422a87706054f010a47B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7cb2c06ad7f42a189dafef1f258e9a0w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S022cf6bc08524805b6247f0ac9b9a300A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c6404cb6c7542ab96c52c0b615127d3p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd73bb4957d7e4c1d9e3a7f4a9f5945b4y.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S1ecae53179374b9abec3441d15815591M.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4d7e3b460d784f7393b7216639872890e.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S5556b5641c31481f847de26fde72137af.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sb7ed60b861ed4cb49af28fc98f7a085fS.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8c5d3f254874816a4c50c6f53ed372aB.jpg?width=750&amp;height=1000&amp;hash=1750",
+            "https:\/\/ae01.alicdn.com\/kf\/S969592c909fc420ca222567ed210b08aT.jpg?width=750&amp;height=1000&amp;hash=1750",
+            "https:\/\/ae01.alicdn.com\/kf\/S50c81c0daa544b058cf0591c8ac07f80F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1cacc8ff34f24821ac2eb241e038c660Z.jpg?width=750&amp;height=1000&amp;hash=1750",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd62bd572f8614f27a1bd1ba39d630d7bU.jpg?width=750&amp;height=1000&amp;hash=1750",
+            "https:\/\/ae01.alicdn.com\/kf\/S79239a8590b74c70ad3c3f74bd2216c5Z.jpg?width=750&amp;height=1000&amp;hash=1750",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e28abd5eda54fdb95a27fc306b7bd17l.jpg?width=1439&amp;height=1920&amp;hash=3359",
+            "https:\/\/ae01.alicdn.com\/kf\/S396e63e43f8d47f391944c8f9209c2486.jpg?width=1389&amp;height=1852&amp;hash=3241",
+            "https:\/\/ae01.alicdn.com\/kf\/S719a76c1cc90452eb903900eab996852e.jpg?width=1440&amp;height=1920&amp;hash=3360",
+            "https:\/\/ae01.alicdn.com\/kf\/S32075deb47ab40088d0cc1046d0b09f4k.jpg?width=1440&amp;height=1920&amp;hash=3360"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6a161c87f78947d8a1469f7c301b3216w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7318b08c75ef4ba2b54e10a90ca912b03.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58a7302d335948c0badc0c2d1023c0efQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50c81c0daa544b058cf0591c8ac07f80F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S07285771fada4509905009f748cac3fd2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd484cf564ee749f5a4a014b0252056f3M.jpg"
+        ]
+    }
+}

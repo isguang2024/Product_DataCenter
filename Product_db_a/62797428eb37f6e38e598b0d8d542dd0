@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "62797428eb37f6e38e598b0d8d542dd0",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 15:19:19",
+        "第二层SKU数据": "",
+        "货号": "DG1-206716281",
+        "进价": 190,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": " 斜挎包 高质量，重量：0.73kg，材质： 牛仔+皮，尺寸：22x12cm",
+        "性别": 0,
+        "修改的时间": "2025-09-06 10:28:32",
+        "原普货标题": "Women's Plaid Crossbody Messenger Bag Nylon Women Shoulder Bags Large Capacity Travel Half Moon Belt Bag Ladies Hobos Bag",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6c96524f9eda4cb69632b213400eada1h.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb2d4b143d474d68adefb56e3d3d7f74M.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc6e8ca4138d43de9042099794e528e9h.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3a63a4caf4d47268e7690edecc89548a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S796c52b4870848a98fc123d8c6949ed0z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd1e1ce654c94ed98a73cf020d6753a5h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbb30f313d0e41c6b28bedce89b4aeb4T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01105c57df4a4d0b8d5997250eb387d0K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa551116ba02c4b57bbe7691b52d8f383u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb00055a42f0416e994585ab8e614012U.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sdc6e8ca4138d43de9042099794e528e9h.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S6340745e75e24945be4ea052a047667f8.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sbfbbe5be9a81472889beb51f1afea8a5c.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S75b037760479424dbb237a114d4fe87a3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f5581bbd6e044c5854ea2655cfa04aeU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b3efb759aa44b489f5bad8094bc4949w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3a1d0117bfc41ddba39643e733f089c2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf8aa24369d246a39c6f4e62b2f6403da.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf490654bb7264765a29be96468bd1422x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd77a37270bf0468e9556938c276dd315o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb70c4a60e854677ab340390eda7a7f1I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S861db5ddd7b64343a0d8347d7b2ba8b5E.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S477247f0566047fbb5cf3e2304dddea8a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S06a0ab68173441fe86780d4f981efefdn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8a7c492f9c94cf2b28f7348eded4f13j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S972bcb85d3af492cb99ef8e2b8491996O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b0d9e272a8b4d278725ff03f53902c1M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e2f9a6f8062425db315686655a97ee7l.jpg"
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "fd08ddce87667ed7efee1578b24a5776",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-08-22 16:57:43",
+        "第二层SKU数据": "",
+        "货号": "DG-205308695",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "拉布布饭盒包 高质量，重量：0.7kg，材质：头层皮，尺寸：28x20cm",
+        "性别": 0,
+        "修改的时间": "2025-08-22 16:57:43",
+        "原普货标题": "Multi Pocket Women Canvas Tote Bag Solid Color Designer Ladies Casual Commuting Handbag Large Capacity Coffee Camping Picnic Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S632e87df929848c283ba462ddd9bf74f7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce5124d02aa644a591159e22c5168a7dq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S19631b8b417f494c99a3dfb03e7da95fp.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9d4f50f9d7e5422bab411397b8a3ce13d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S134e55e6ec464ca0a048124c422255edX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c3d8887d0ce4c848b59f092b9c25cacl.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S040ad755a3c44d08b4258b1b7f503a97q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6256ec786e44db5b4df7ed6400d8063m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S22e409078c1d49dbaf95f2195339fcecX.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf03f175352754aceb27358f4ed296c8at.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0209fec336794e6c876aa93bd24ac294W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03c8d8bb372f4762b8b73bbffdebfd04x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5b67778d115456ea965684e635c7502Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca1ae854c586409e915dc4e728e52d3ax.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S118ecad12ace42cfaf3cc7b0bb7525fbr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce32e5c1b49f48d2a373f9b247a9e0faQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S638d1b5d67fb40a2af749ae9b2e85103l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf85c8ec51c0647a586ef2b347b28dea5b.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S25fb7e9be2fa4c1d9eda0ff2a6e34cabB.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S6305fd7cdb654981ba58559299a6fafdt.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S39adf870055b4923ac29b48a2f9a6493Q.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5d4d78c76aa847e782d52cfb2b7e78a4w.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sb65e289ed18c401f94948266cc837f48A.jpeg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8860a6b45b3c49a48b4c1f5d82154058D.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc65c7e9cd1b240f2a5db212c2dfe356fA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb65e289ed18c401f94948266cc837f48A.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39adf870055b4923ac29b48a2f9a6493Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d4d78c76aa847e782d52cfb2b7e78a4w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7015094f2629444f9f28837ad0d78ed1X.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8860a6b45b3c49a48b4c1f5d82154058D.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc65c7e9cd1b240f2a5db212c2dfe356fA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb65e289ed18c401f94948266cc837f48A.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39adf870055b4923ac29b48a2f9a6493Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d4d78c76aa847e782d52cfb2b7e78a4w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7015094f2629444f9f28837ad0d78ed1X.jpg"
+        ]
+    }
+}

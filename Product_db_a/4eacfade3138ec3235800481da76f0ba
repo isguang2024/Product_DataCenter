@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "4eacfade3138ec3235800481da76f0ba",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-18 15:02:48",
+        "第二层SKU数据": "",
+        "货号": "DG-206836909",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "发财桶 单肩斜挎手拎包 高品质，重量：0.82kg，材质：皮，尺寸：21x13x21cm",
+        "性别": 0,
+        "修改的时间": "2025-08-18 15:02:48",
+        "原普货标题": "Versatile vertical striped hobo shoulder bag, large capacity multi-pocket canvas shoulder commuter handbag, lightweight casual t",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5972347963644b46944090d1630bf8f3i.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd096031a8d9d414c8e47b84bf428feefl.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3edffdd2ed4b407aa9a757e6d66697d73.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S76e92ebd23ad46fe98831fbdadce50acb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a8e65f10a91415e8ca5a562550fefa4c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d490682923d4237b65557f573e221edL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb24e20db80549c499e20e7eb0b89c69A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6b7b163bd6a4b65a2e40a3e1db8a509B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se73ba311175346008bfd40b51b78205fK.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S1b919fe4c47d4f93801b8e6f295916609.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S03e43f83f1c44f0a9cd15673d7be63f4a.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S563d5202fb1f4f56a1cba717f655f462X.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S563d5202fb1f4f56a1cba717f655f462X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8585852af99b4d0090d6fe21fcaf1c42w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda354cf9703642b8a04e902ca7e84e5d8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf00c49b137cb461194a48278c4840412l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03509415ab704726a5cd052585b3fbe36.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sffa1eb727dec4328af897457a25bc64c5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec80a1faccea45009b1edff75cf7b5d8Q.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S563d5202fb1f4f56a1cba717f655f462X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda354cf9703642b8a04e902ca7e84e5d8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a9c877f58b14988807a68bc772caf3e3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86af762a8e994a57904af8abf04aa6da5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf00c49b137cb461194a48278c4840412l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03509415ab704726a5cd052585b3fbe36.jpg"
+        ]
+    }
+}

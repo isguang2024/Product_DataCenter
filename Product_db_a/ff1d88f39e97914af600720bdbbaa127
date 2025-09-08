@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "ff1d88f39e97914af600720bdbbaa127",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-20 14:47:43",
+        "第二层SKU数据": "",
+        "货号": "DG-207479093",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "丹宁牛仔迷你枕头包 高质量，重量：0.6kg，质量： 丹宁牛仔，尺寸：16cm",
+        "性别": 0,
+        "修改的时间": "2025-08-20 14:47:43",
+        "原普货标题": "Beige Black Tote Bag Creative Solid Color Canvas Handhold Bag DIY Large Capacity Canvas Handbag Shopping",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S271fcabaf36d40849cfc45b28e125008j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfef338fad08746278654628f47e668bbc.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb330da8bb1944a679e5f44088d402377E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18845c30c7b140eb85e220e7b2ada1e8F.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S55c6ef3576af4a959fabbdc2085900c2h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf22f4d2e6d584e5c8a9de4c4bc530d7d6.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9e7b976f8cef4b5383b9151f117a2121Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea2e1c4e7a7148cfa2d4417e43315a035.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S394ba665a4eb412da88093b993c8d4acv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb95334186ed04e7ea946b8849078515ao.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7fff86dc04e64bdd9315c5490858e4deA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30e0ecc557164dbd97e702145e5f011ca.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43b26d789e0d4b3ea52104d0e94d8427N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa74110a8d0e744e1a1480acd3317452fv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b5b24bd4c3843b0b0299887d74ac108L.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S661de7c7dcb64c86b07cf4821cea21303.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S5e17fb328c4d48a390a42c520b319cffk.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6eefc7d60c974248976cf66556fc31a2S.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2e059feb18d849a784c400a24c16de53o.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4df5623f292849b3aedd8e962d6361feV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf07b45cf6fbe4644a044fabe4108f591E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d2130000f5b4846b6a7e57cb2d9dbd9b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ea5d4ee52d645d9a3ad1da67eb05ecaG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d7ae30d7d8a4b159fd361c62feb13d60.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09922bc212344a45a7486d6be2fb7527T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb13f07461f594473978415b74496902ck.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbba8f12842f948dcb093cf9443a0cb62E.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd8bdcd485a1423dafeb0017e1915db4x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e83a88e17934a9bb0a9d3da1d6cf8e5D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb13f07461f594473978415b74496902ck.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d7ae30d7d8a4b159fd361c62feb13d60.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9d2130000f5b4846b6a7e57cb2d9dbd9b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf07b45cf6fbe4644a044fabe4108f591E.jpg"
+        ]
+    }
+}

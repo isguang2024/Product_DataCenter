@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "c0a17421a8b92671897b327940b907a1",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-29 15:20:07",
+        "第二层SKU数据": "",
+        "货号": "DG-204310417",
+        "进价": 115,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.68kg，材质：刺绣布，尺寸：28x17cm",
+        "性别": 0,
+        "修改的时间": "2025-08-29 15:20:07",
+        "原普货标题": "New Fashionable High-end Moon-shaped Baseball Bag Showing Luxury Women's Single Shoulder Bag Elegant lady Handbags bolso mujer",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc3ea5c65fc2422386ffa37081c395a79.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S220e5cab350a4c34b8698485cc94231eW.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5290d14011494228b55be447685bd8a8X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se39827da0d4b48a4b75e9ef684f3dfb8I.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd63f86d2cfb542abaefdf7a3b1c6081dF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9011cd19b57540e29fa2ff6966829e399.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6eabfd470f514ae39b7dac67b8a319501.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f592382d9024c378d24c4cf4b2eb676T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a4bd87f3dcd482f83e65f24018bf19f8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S00564e8d54e7409494bcf23ecded1858N.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S969ff2b09f294959839edeb9b4ce9901H.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc779f8053006404985c5cc779ded6019p.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S2e0900d8600549659b04872df193168f0.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S59013668f7eb4d8b997d3b5131bc3a2dC.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scf44c9d038374a918a4e5fff4fa58e3dg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29180a427ef345828787395e281ff484g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed54bf516fdc477baff83a03b4d630af9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sefd867ba07ff49419d2835e58212d727e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d8b94b5fdb6454f88b0c1e1c2b4982eH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdcd276845d77495cb6d4dcbb19ded98aU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ed5c96f901546caa0fc0d1ad891e189f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3af0e825e047430b80802084aaab3fe3j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1c722dd384c4b5495454bd1b7a53dd9c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sacfb21a5b5c04c218c4cd36364607ab2W.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S361822c7dd094ade9e16b3425067d1743.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3383b2ed323344b99035bf8a150facf19.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd914d8ac32e24f02be917f2b7696f8ee8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d10d3cf049b4c5c852d45e76f107519M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd23a569a64cb43bda1ac4ad59576c3844.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf804f63e8ae4057946df6aab03166e3w.jpg"
+        ]
+    }
+}

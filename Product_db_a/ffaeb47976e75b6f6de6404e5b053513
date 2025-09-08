@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "ffaeb47976e75b6f6de6404e5b053513",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 11:54:16",
+        "第二层SKU数据": "",
+        "货号": "DG1-208913173",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "材质：头层皮，尺寸：16x18cm",
+        "性别": 0,
+        "修改的时间": "2025-09-05 11:54:16",
+        "原普货标题": "OPHIDIANTAC GP Accessory Bag (high) outdoor Molle webbed belt waist seal portable accessory bag",
+        "质量星": 2,
+        "重量": 1.100000023841858
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sca546e2874d74867ae8aadc039489079h.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scbf56e8f37f34b929ab113d1e9bfbe8ao.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scec50ad98f7c449183cb2118c28c7cb6i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1e498f556624b77a69dded3cf74a762M.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1ea0f032ae1947f7af163ee6e9a9ea2fC.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6cb5009df94843ba98ddcdb061652c48w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca7c28e2a93d40b98e9df605cac766fe2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0caaf2912ace4439bf65be4880d5a35bL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S22fbf9172bdb4f4e8f7c5279b5c8206cb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2246300bee0547ffa723115b314e0ddbe.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96b05ca944e343ae9b431d926eb0deb9f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S122f3a5371cb439b930fe03cb70adaa8M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac76433948eb421ea7ec28550da3c6ba3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebf519a968194bb1a50370ca2ef2d302G.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S2246300bee0547ffa723115b314e0ddbe.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S48fc138623aa4ef89b22c11cb1475a4fk.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S07b2d59d4e93470f9d8289692945c685F.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S560cbaa1680a4a9986607d8eeb4d97f5o.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S40469ad1c35648c3af6929a05afd5404M.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S40469ad1c35648c3af6929a05afd5404M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6e8a14b06674c4bbfc64657b94f989eN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sccde802f76ec488cb9c7f1eca7eca951w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfda84c31c6e24e28abb90a09b5faf9f7y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se12e0e2b1d6b4d7fb83adb2fafc15537j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6dec1e80ae21427e96bbfc4b0d6f3752Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24b7e70f8d6b436eb10dea986b5c9d58l.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S43ad5bbce4fb4cd8aae7eeedb24df3f4k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24b7e70f8d6b436eb10dea986b5c9d58l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sccde802f76ec488cb9c7f1eca7eca951w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfda84c31c6e24e28abb90a09b5faf9f7y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se12e0e2b1d6b4d7fb83adb2fafc15537j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6dec1e80ae21427e96bbfc4b0d6f3752Z.jpg"
+        ]
+    }
+}

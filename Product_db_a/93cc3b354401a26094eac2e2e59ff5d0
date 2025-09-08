@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "93cc3b354401a26094eac2e2e59ff5d0",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-18 11:38:28",
+        "第二层SKU数据": "",
+        "货号": "DG-207264336",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "重量：0.62kg，材质： 帆布，尺寸：20x11cm",
+        "性别": 0,
+        "修改的时间": "2025-08-18 11:38:28",
+        "原普货标题": "Fashion Bussiness Style Women Vintage Briefcases Female OL High Capacity Shoulder Bags HandBags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S72d3ac4f52364d9385d3efe9e01d6d51y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S189948b8ff744fedae3bd8581ea0b87fl.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seed79730ab9443788139b4b9e6ba3b04K.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1783e5d3d5064d92b3fa8e1e95ee3308K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S45620f0cd1784da094400b5516661162w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31f215c1409f4baf834a748f7d664396i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20f9d4ae2a664cdf861080eeb41744fcE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce01cc236ee64a0f99c215265153ac24d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc61ccd76be3462dbdd2d79c71a3a68ev.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f5ca1a2c863432cbe3a61c1b603cf866.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8d1de362ae9b449197ef8e9730a92a57Q.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0b9ad91bf2bd42759750c909c2465604D.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S5f1804bf0864468b837cc371eaadcafeP.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc45fab71b47641d1bff929935f22a8eai.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S077fbbc5b8ec444ca7b081903299c3dfg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S858d4197ed784d5da1a52a50e6714989a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S961438d161a44defaf613551037183b0E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S45817de6392446d4b3f2e3a66bc40d26Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sedff814a3db24916949f13c137f7301fC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a4e43386cb949eea340e5ef35e1246bl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H057d95ac4b284bb081517323460ed859D.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S25bf072cb88a41508b78997a394a7941A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se7c135bf89f8490888cedcfb82993608i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S48c78de589c646b4ad7df4b3210d0b86X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a81f35027b74aeea982d8636eac1ad0F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S83ced1de0f5f47d5a1f40a8b025fb494Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b3fe56f04a446a0bf7ad54263dfd1d97.jpg"
+        ]
+    }
+}

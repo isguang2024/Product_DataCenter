@@ -1,0 +1,81 @@
+﻿{
+    "info": {
+        "ID": "eaf4cc5e107f847ad087a02acad56fcd",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-08-22 16:50:26",
+        "第二层SKU数据": "",
+        "货号": "DG-205310245",
+        "进价": 195,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "水桶包 高质量，重量：0.7kg，材质：头层皮，尺寸：17x19x13cm",
+        "性别": 0,
+        "修改的时间": "2025-08-22 16:50:26",
+        "原普货标题": "Faionable Large Capaci 20L Waterproof Casual Commuter Single oulder Handheld Tote Bag for Women Yoga Fitn Fans",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S98ca01abb5bd4e909ae1bb8700072087G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se829b7bd018545faa7f974904a850f51U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S675ee8acca9542f79a9c815169bc52e3C.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2e2718ef44a4df6b08f42129196abd39.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52b6f4a2740f4532b0f7823b8d827f2fZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S717e059820514100ba619ec2b0c2a1bbJ.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8b810e2aeb7485e8c9382e7c9ce5bc6h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04ddcda425ec4a5f8c14ee8c3d8057440.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S308e752067924221921f26873e10947dJ.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0a720bfec6ff441e8ac17fa2027bac4de.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4b99b4f18fd43a9b68aa645cb0e561aR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb49bc36458e84aa989ee6da740ef061ea.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb34da2cc78e84b79ba41d776f5f820d6c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0616881905ff4875b5e5c91b21761baef.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77a018e7714b4b9db9a0ce1e786aa5e7j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd001d94f4f374c599ef18311445a206f5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8b810e2aeb7485e8c9382e7c9ce5bc6h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6e970ea26684279b0cf3c1ecab61f27h.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S7b86bf8b186b408e877842fa93c969e0d.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S5f31a7bf0c7242edb5be7795dae68f725.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa48d56885a344413a17d2281993be246o.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf649cd0c15b14435a79a762c237f74324.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd0a03ddb4a2e495c82f5ee39e4d977778.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc5a80c7e388414bab701696febbd0bfo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda1690f5e646464d9fa983882481b671B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d97598dacd345978984a3998bac4cddT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S681ea3646bdb4c109854958b1caad733o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c3f13d6b76f4ef0938183472d737c19l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se58bd13f0efa41b081c8548ba6925baf7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c0028fe0014436682560a10240260bbh.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S748193ac8f534dac9f97d79d0e123bf8t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a17d1869e7d432f9ca65272431aa97d0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c6ce6c9d10b40f59662e9cb798c07b1x.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S69d46ebda7054ed29243eb44778dada0h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7cb1118a464c42a790283fa8dba0f1b35.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S701db9e844434abdb9ec65477f02191cr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82ce5871eebc4759a3b1f834557ff179R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfea07c4234b24d23810250d14c35c695K.jpg"
+        ]
+    }
+}

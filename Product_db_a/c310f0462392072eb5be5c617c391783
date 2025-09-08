@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "c310f0462392072eb5be5c617c391783",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-22 16:46:38",
+        "第二层SKU数据": "",
+        "货号": "DG-205311094",
+        "进价": 200,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1898907760,
+        "普货模式": false,
+        "商品简介": "托特包 高质量，重量：0.75kg，材质：原版头层皮，尺寸：22x17cm",
+        "性别": 0,
+        "修改的时间": "2025-08-22 16:46:38",
+        "原普货标题": "Retro Underarm Bag Women's Half Moon Shoulder Bag Fashion Solid Color Small Handbags For Women New Zipper Corduroy Clutch",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se5f5cc25b41e418aa67212c30a913873q.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S89910a482d614ff5a4028453b6b22018a.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S39813c144d6242dcb64f6248ce50ba9fp.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9ab2d91dd81440d88f2abab61f671569v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a4c3b162a85455bb0076222c476cb9cp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6045255314f14396b4b0486761eefd93p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb184021308374bc0b86bab506638c928E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10f3873438f04bc9b3888aef95632a03f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde216d9146fe43c78a7bb88f4aedf8daW.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S8d1f5dcf6b934fb8ae4ea44c8c560fcfu.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8ecaf540acce4cf289aa9ea475381cf5m.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S481b4ec475da4708b4b52caddda7dca0i.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3dec2a1517344337aa41eee4214f2a94J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5386f9130524230af9133cd99a6ee78h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfaadf02d81ce43e691948f4f5a11393ei.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66233de6c7fc486294fdf0adcb2e4f86e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se65895e7f29c45ecbdc680f5aed5b3d74.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbbec14318e74a0fb16475d086b316b8j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1776e0e9960e4e78a25888366d0da6a1d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea97b4279e34425db981fb70d43e0dc3v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6e854b84f3649bf8f3e17951d973b6aE.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5386f9130524230af9133cd99a6ee78h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfaadf02d81ce43e691948f4f5a11393ei.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66233de6c7fc486294fdf0adcb2e4f86e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1776e0e9960e4e78a25888366d0da6a1d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6e854b84f3649bf8f3e17951d973b6aE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S13911fbb1cb644968e1e4c73221b931fV.jpg"
+        ]
+    }
+}

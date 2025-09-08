@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "cecfdfb66e08738512b416900ba0c27e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-18 15:11:36",
+        "第二层SKU数据": "",
+        "货号": "DG-206833916",
+        "进价": 215,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.68kg，材质：丹宁牛仔，尺寸： 25x16cm",
+        "性别": 0,
+        "修改的时间": "2025-08-18 15:11:36",
+        "原普货标题": "Niche Design Trend Shoulder Bag Fashionable Versatile Minimalist Women's Tote Bag Unisex Large Capacity Portable Canvas Handbag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbbd1018a2a2a4ab29e698e2fd7a12e5b9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7625a04ebc94406a877551495c852fa18.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S05aa83c304eb4db29ef53442607e2efdS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0823ef895de54ce8879c39305876f2087.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S154aac0678ae44df8e1622eda636aba4W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2fda218af3a043b8a8ee90d9302dd295U.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scd9b56dfec394204b6e2f06be4bf5f64N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98eedb78e2ac4f82a0b7ae93b8668e6d4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa90711413ac446febdae36adfe508dfaH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S441ed32c8e3b4816850f5170c88c66539.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0be4e9dc0b3c4b5183f42e47da2e555e6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d2f5d9664934e5aa0a59f3a3ecd985e8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S277ac2af204c4f82ab993f33ada3f34bt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S75e90f13d63b4120bab7e70a0bb49246b.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S732374f21e514e06b0c69846ec3e3306j.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1826d258e26f4e22a4a2ecd3202178c6B.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S34008a528dae4077ae3d92d528e10e36V.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S9c0873e0552649f59c43b0361e1718dal.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd942146243d45c6a78a7605bdb5786a0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74f29332c4f2498fbb1957c9221a4562u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfdf3596820e46bcb7206d7902b4a57bu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5f21fdadaf54af993c80259e93289cci.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S010fc255a98d49e7add3b81de074ce06D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc89d5c05471743fabd90f02f61bba912H.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1f585ade9534bf684ecb6d3cb02e464R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc060dc0de1cc4d9bb41ffc5d0df7d65bN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3183ffd67f3489495ddea682536f6a8G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd526837cb7e240288ad2051f51dc858cZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17a038f973ef434187092b51c1de8997n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa66d2f1f762d4731aca4e249460ffb579.jpg"
+        ]
+    }
+}

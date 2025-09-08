@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "9d465ec61c9db8ef804715723c7d5b10",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-22 15:04:41",
+        "第二层SKU数据": "",
+        "货号": "DG-206837044",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "托特包 高品质，重量：0.75kg，材质：头层皮，尺寸： 22x18cm",
+        "性别": 0,
+        "修改的时间": "2025-08-22 15:04:41",
+        "原普货标题": "Solid Stationery Storage Pencil Bag Original Dreamship Series Corduroy for Junior High School Students Stationery  Pencil Cases",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0507e2d2f6ad4b19a7c6f3b22cd680f5U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf93e593d6a5d4f07841f45f659e60cf63.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc67c5b054e3a47d8904314fc969fd669g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44ef8ab323e647948de5ca0f560c5454W.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4e2e0818e5cc4e4db0e8db7444cf5594I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6a5e3e9000141faa32cd48407cb70c8T.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd744d2318374ff0afbe11b64d1ca17dV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ee5ae67e3704b5398b83a1e6158fc2aw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08fe5210fb5f4ed688c160f52f87c453L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se2bde04162df4e248268d1a64017bc2cF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7f34d3890677448eb1b1daadca8c72b6h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S012533f94b0b4e2f8f374e6c7a9201c4W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49fc8c41ec1d427aa2bd9ce3b88464cdK.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sc60bf954483f4aeca07c8f423b5f8a06f.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8c40bae84b2d4f18afa16bee5713b8baI.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S396dc5ebf2a7429d8011d8929357196e8.png",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc062c32662bc42058931222609f47f58C.png"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3c10e303ad694fb999d40ef4db218801X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f55db2c79c242868c1bb14bd02bd0e74.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d40b186534b4b5b804c6e337e529da97.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88228d6acb3844dd93321d0895f533dfU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d40b186534b4b5b804c6e337e529da97.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86bfccb6e23f4ecfbbb86f90ac418d51I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c10e303ad694fb999d40ef4db218801X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb682b7994d224441839df97abbc36346b.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S396dc5ebf2a7429d8011d8929357196e8.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S8350e9abb9fb4bf89fbf050b9aa9fce8x.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Safa6252f4d204db78fce08b15345470ek.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc062c32662bc42058931222609f47f58C.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f86adc1fd2140afb561936318848661h.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S642338a89b344e2fa485d5cc3fef714by.png"
+        ]
+    }
+}

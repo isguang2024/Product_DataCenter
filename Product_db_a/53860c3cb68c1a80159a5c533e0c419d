@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "53860c3cb68c1a80159a5c533e0c419d",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-29 15:21:24",
+        "第二层SKU数据": "",
+        "货号": "DG-204309930",
+        "进价": 95,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": " 高质量，重量：0.7kg，材质：刺绣布，尺寸：28x17cm",
+        "性别": 0,
+        "修改的时间": "2025-08-29 15:21:24",
+        "原普货标题": "Women Waist Pack Large Capacity Corduroy Fanny Pack Street Style Chest Bag Fashion Shoulder Crossbody Bags Casual Waist Belt Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf31a9c6301b547aca6f40f9ff112af20Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a4655a41b344d14b14cc2408e1a3b84w.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf5dd8c31f0f4f10b618a871bd74d1d80.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3bfd318530704eda8be9c0a94de45ee6P.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S020905979e0c43ba9eedf8b92a34a849K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4b7bf038858f457da83ae6a03a1234f1A.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2dc2f7bd61cb425f8492effc4b9ef6cca.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb83592b35a7540fe83620844dae42aa6L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S013438b683424b8ea57ff84209c34440y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa565f7f89a0843709a4dba2b015df5b68.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S77b5ead3593746a09139fefcfcebad21M.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1bc52a0cff4e48d5b23d8c8607cbe96cV.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sa2142fdc6f664f6caf43b84c978afe25D.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sacb8543c1f1b4a48a5ca6660574d3497m.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe8edbbfba734505a0f221b410c91e44p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa012967b7fd3443c99d86dfef04d4623N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S383153701ef54a7cb7de1917fbf30637Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3dc97be53347449d93cda34bf032af48w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08a2dc0a324a4bab8f0cbe6a779a1ef8h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S566b72713f6749bdbcd4576d4495e034b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S142f2ba996b141a9b381bcbfb1e6b212N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b0545a8d6db4b5c98b84ef6f549d111x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ce64c2d4d7b40f095688a3ec39319d5t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c01a9819776437fa922254c62c56ba4l.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd72f4419575446f0a943c2160d7cd6db0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbeec997c1c7b40a68d5a158a2b9dd04eV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S316f97f1ff534abd987870b87ebe490bK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S505ffa7ea5a644f3b559da96940b437fm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a3fcfaf828745d9b17d8b907c77b939L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S694cc238d4ae49a180f505b84c4e3d9dy.jpg"
+        ]
+    }
+}

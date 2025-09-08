@@ -1,0 +1,61 @@
+﻿{
+    "info": {
+        "ID": "5a4d9be47700a1109029e6d04b95bd32",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-09-01 14:48:08",
+        "第二层SKU数据": "",
+        "货号": "DG-208728241",
+        "进价": 65,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.6kg，材质：皮，尺寸：21x10x14cm",
+        "性别": 0,
+        "修改的时间": "2025-09-01 14:48:08",
+        "原普货标题": "Women Canvas Tote Bag Solid Color Designer Ladies Casual Handbag Shoulder Bag Large Capacity Cotton Reusable Shopping Beach Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scbce20e6cc2e49af8982b9c9f3213a69D.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2d51cc93e5db4d14a3f271f69a8828aaG.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S30ee4fc354fd47f794129ee00f33dcd7H.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sef89f46a2b604ae09f471fce47fab15aK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S631d3947e3d74c7482b8a157cc666308y.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sea4581d6cb664133b82fdff3bb5f3b0cn.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf0e81ce3610c40f8b1544ee00d9ce329i.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4408ec774de44b5c9c6d714e2e78ffc7z.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4df4cbc39b444db8b2b4c6ed2239f49t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd96f9b1ca877449dbcf87390653b4720f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc7bf1ecbbe7e4333b44593eb4f32b856P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea5c16ac27794d878742121aca6a669fW.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3466735c57e84b1a9717a735ec9d7411z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S59db1a20bc314e39be292dff468a4c46D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc44ce6ff58c4846989c550d7bbbaaf7S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c63739d96cb4efea9c397ee32ac0bfas.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2edc1ae61ff6464a9125849eb8be6b03g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3550dd2c97b54285ace1ea69533ddf8eH.jpg"
+        ]
+    }
+}

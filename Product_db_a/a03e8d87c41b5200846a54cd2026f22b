@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "a03e8d87c41b5200846a54cd2026f22b",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 16:40:56",
+        "第二层SKU数据": "",
+        "货号": "DG1-208928452",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "腋下包 高质量，重量：0.6kg，材质：皮，尺寸：23x12cm",
+        "性别": 0,
+        "修改的时间": "2025-09-06 10:27:19",
+        "原普货标题": "Japanese Style Canvas Tote Bag for Women Commuting Large Capacity Handbag Shoulder Bag for College Students Books School Bags",
+        "质量星": 2,
+        "重量": 1,
+        "状态": -1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9503ecfc695c4ccabfe6b63503dec966Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a9fe847a62b462eb31fff926ff6e1f6f.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1daa15d3e3364008a7a162fd11937dfc5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S85b925874af940b1bf481ad279a3860eS.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2009acae324347c5af42789f009932fbL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f7b6fa871cc4dea80d249faf8c85a267.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd21d00e3fed64c7b9efc65ba596d8790E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S76f20c20bd22437d8b2f4a5ef2696ab8c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa72e406955954c5282ff8f2778e308d7K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se62f1335aae54709bde430a45b06d5cfP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S851e1958fc7845c1aac136e1954d0b9aB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2ce4dc91560439a8cc1e4900d5d8808C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87fdfb2a5d0e43e595e7c51c035a36b4G.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sfd310955b01640e7949ab4eea34d66a5m.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd09ab3d5a983470bb1d50aeb2e0a29bed.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S28134f367e674b6d9dce7fd744f2880cS.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S62134b8f6bbe464da636698ac69e5744F.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scbc0d609463f4f95a93551a1ca067051s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S043dfc52e1294477ac352f280edcac5aQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0133d1a04b24727bcd76acfc0a20c17m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63bb21571b86431c8132afaa90b77af4l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa46321201810400a9a484afbdb13aa7fU.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S10f754d7a86a46f98922ce0c7f0c62402.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a2782afb7e5418290ef64f4c8b263c0r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac87cd2b2b984629b11b93285e0cd888M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33098dc9098b4adab5e4717f7b2a616ba.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8d3341cfc454d2c80035e6a4742ba15b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0bbb7b9cdf43486db0feac169a0610bae.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7251d4d97a64de8af6dbd05e7a9dab4p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed4bb572bd414c8e9a7735fd5b26a42dO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c76a09fc2674d30a3e2dbefe371c0383.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2036b42bd63f462d81edafcfe2fb04f9p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0bbb7b9cdf43486db0feac169a0610bae.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28134f367e674b6d9dce7fd744f2880cS.jpg"
+        ]
+    }
+}

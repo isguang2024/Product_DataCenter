@@ -1,0 +1,82 @@
+﻿{
+    "info": {
+        "ID": "4bdcb978cdf8ebc91b0d932fffcc790b",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "DG",
+        "创建的时间": "2025-08-26 15:11:14",
+        "第二层SKU数据": "",
+        "货号": "DG-206861747",
+        "进价": 180,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "重量：0.7kg，材质：头层皮，尺寸：19x17x16cm",
+        "性别": 0,
+        "修改的时间": "2025-08-26 15:11:14",
+        "原普货标题": "New Lightweight Backpack, Minimalist Backpack, High Aesthetic Travel Backpack, Lightweight Hiking Backpack",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S53dda330b5dd4a6eb9882be35c7e7eeay.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f4c1f66e22d4889a918e3a13f27c2116.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34a1bf1c90524d24ac3e3049f2dbf38d1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S121b46c47dc9404885ce19db29200079k.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se009b08b42af4c0a8a1aedb8c619fa9ah.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa278845e11f740639b7ab799a8254509N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73f60e543e524af5a33ac36d30b7644ex.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e516cc3077e4c2d9af67e6327a0a253z.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seb99043226f4435ba29ba6c21beb365bg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8f88e99230164a15ac7900de9764a523x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S22144e735d0447ddafb905f5647a6339E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S023a08fdc5544f7abc7e9e107b054894p.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfda1687ea07d430bb59338be39bd02cd6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9cbb42e895fb471dbb48c0bc46fb729d6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b0ad884b6254a1c89e372eefaabee5ex.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03178d93941b4696ab0c98d3e7adbc4ey.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a2e1599c02a45fe8394152649f247ffl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3d52eab07d264620b7ae39a6e5e4c028h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8935700dfb3a424586091f106051d949L.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0d198cd19b3041bb879406711d164292a.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1bc23eee8a364ab19220e26e3f261e8fS.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S76753a1f2a114c5790dacdde2a1c3f722.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S276c5d0bbe79427c9448ea4a18d395273.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2833641e99684bfc9d8a6be854a18628y.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sa494806ea24248faa4e7171d1a92f7907.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sffb4e8db8cf840d0a42498979a97dc6bc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4d97a75813d48fe9d55bd6bbde57720y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1121d0f98ea24a4cb6ba195d03c4a12fV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb6b75f00d9a4e01b4c3cef1ab803510x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f041a72ee624b89b3a01790cef98baf5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6eab5f8117f4aad8aa19d0c1ef2ca45R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2ea513981fd4c0fb2285dc5e601f345J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78a07b58cf474c32b0929883c949c076r.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3029fbd14694240a1545d9ae221b247L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e1c159d5c414bd2a0ba79efea07484cY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe582a4b43ae4d93be47b4faf2d2ab00e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2cb2c9fc90e345f49065448aedd12ea8h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S979ba7e09ed949f184de37566cb930bc6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sffb4e8db8cf840d0a42498979a97dc6bc.jpg"
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "02d45ffdc1e4e72521f747a65363cfca",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 11:44:54",
+        "第二层SKU数据": "",
+        "货号": "DG1-202618241",
+        "进价": 190,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "邮差包 高质量，重量：0.74kg，尺寸：25x18cm",
+        "性别": 0,
+        "修改的时间": "2025-09-05 11:44:54",
+        "原普货标题": "Classic Men Shoulder Bag Men's New Canvas Messenger Bag Outdoor Leisure Travel Multi Pockets Satchel Handbags Men's Designer Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0acbb37c865345919a60e105aae0d048b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5aa21ec5837d4f8abe5878bbd149e7a7E.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf369606ac22d4a4a934af90c5761a070B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3fcca182cbb44e589ca842f3851d988b.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0b0dc1c626b43aca54fea1112053ad6I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb00440d1dd6d47a2bbe0f885b14adf66s.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S014d30a17e44427a885d015a91bf95d52.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41d3d39662544c48b77247fd407e03c0J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7663943306b47a5b8059cec97005b27u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87ca3352749543dfaa3cb51e6e175e70q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7357da6318b9432393acde67a9032b8fP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S49d85baf50154e4885b2c4041e71d65f1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73eb2dc831be4445baaa58300d882661a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6e33da5d67e409bba3f6f07ac1486caq.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd345f8b0dab7420faefee167ea62eccaZ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sb8ae731825a8417bbc169f8a55c897afq.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S86ec5cc555114c219c8c52c1f9269755H.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf3f3ce0f761e4306aadfa2274b343066e.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S617ebca3f0d24497bda3ec394b601f7aM.jpg?width=750&height=528&hash=1278",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb45199465cc04fbd9ad545a1138059a90.jpg?width=750&height=402&hash=1152",
+            "https:\/\/ae01.alicdn.com\/kf\/S871e27f31b4e4177866406f81f1954bfn.jpg?width=750&height=655&hash=1405",
+            "https:\/\/ae01.alicdn.com\/kf\/S653ef27a36e64ea4861d95349409afde0.jpg?width=750&height=479&hash=1229",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0a77ce92a6e47dcb58b7fa8cd6e3d88W.jpg?width=750&height=549&hash=1299",
+            "https:\/\/ae01.alicdn.com\/kf\/Se2a2df17d02b4c9fa383ec4076b35c61Q.jpg?width=750&height=523&hash=1273",
+            "https:\/\/ae01.alicdn.com\/kf\/S3606465e5ac64648b462f04462ed89aei.jpg?width=750&height=517&hash=1267",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d209e987cb1496fbbc4dbaef5998b1d2.jpg?width=750&height=506&hash=1256",
+            "https:\/\/ae01.alicdn.com\/kf\/Scaf7fad5aedc4da6b91f861fc8f4cd0eq.jpg?width=750&height=483&hash=1233"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb494431be4564cbf90346b6f14f569baB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S355e57623e5f4b06af442f95d3197c8fE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2edaa12f32e34eef89bd8dc4b43dd087w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S627b93db582c4ff28e380a0b064b1cd2i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbefd29ede85d43b1a65fce88540af6530.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ccf83dc0fd14639b404be998e793661O.jpg"
+        ]
+    }
+}

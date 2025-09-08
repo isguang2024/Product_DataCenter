@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "136a376bf03cb148df42a8710f262238",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-26 10:44:49",
+        "第二层SKU数据": "",
+        "货号": "DG-207481879",
+        "进价": "200",
+        "利润比": "100",
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "扇子包 高质量，重量：0.8kg，质量：头层皮，尺寸：37x20cm",
+        "性别": 0,
+        "修改的时间": "2025-08-26 10:45:00",
+        "原普货标题": "2025 Large capacity Travel Tote Bags for Women nylon Shoulder Messenger Bag Sports Yoga Satchels Fashion Woman Handbag",
+        "质量星": 2,
+        "重量": "1"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S95265635ee684eb48e4df6036e64baebs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seba6fe7cb8104832844b13441dda4feaK.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1d6fcb1b02e34b0cb9856e4d6b9fdbb5l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdef1c2cf3b92471abebc148039fa2bb6j.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S41bc73307aad4358887b8bcde05ac5fd0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se39f256cca9340f780d7d78b25fdce31c.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S77fbfd9e7bf3492b9fddc2ce786cb89bL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf0f935026d14bfcb4d994597a9449eap.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc8216e81f1e4d439b9358f0b49715b4S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Safe8a1e9cc6e4951a61b704421ee861ee.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3aa8e406ad4943e09b6e1165a174efdb3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf9fb05df1154d178f63eb2e898d3321z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34e46db7a8b045678fbb2e6db293d6b8J.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd93d2b13559645289dd13885cf73cf5fh.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1a1b5542aae84eb3b520c53391eef3354.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6912a081982949d49baa9f03ff1c4029h.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S88631f85bf164acabc735e5f8bfd3159l.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9bcd5989eb474c859efdd72ac3cc5fbdr.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S189354a9a7e949e5b854493db75c76670.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S8337fe34995e4c1a81d0f85ef7dd50901.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S054a83d833af401aa38d7454ad0be3c44.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb77b1c888a664e429d9e418c843a741bE.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Se67f20a8de0f4c4aa23933fe08787be4j.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S74a45611fe64496dadc9f5bbd1cdc8f92.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S614bc381a3784575af7b591529a87cfe5.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S10561b8882b34367bb562ce9ef8d178bT.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S73a53238fdaf4dc0890bbc25cd2c69beq.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9ebbbc625a1402d819906d0fc28f06bU.jpg?width=750&height=750&hash=1500"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf30d8175d60a4ba4aedb88766c6ed9daM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35a63e6a0dbe440a89302053fd4584b2o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33c3d27c72ef422c816d5e15507e78dfV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8d6761a384447a8846f3f0fa2c2cce5A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e10194b61bd43ee939a479dae61c308o.jpg"
+        ]
+    }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "8fbd8aaf3a7d755b8eb03a9222ef2cbb",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-09-08 14:35:17",
+        "第二层SKU数据": "",
+        "货号": "DG-209191542",
+        "进价": 165,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.7kg，材质：油蜡皮，尺寸：23x12cm",
+        "性别": 0,
+        "修改的时间": "2025-09-08 14:35:17",
+        "原普货标题": "Women Underarm Bag Fashion Tweed Fabric Large Capacity Shoulder Bag Casual Handbag for Daily Office Use Solid Color Handbag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S58a6efe5c91a494a8c3c1d1524364c5fv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d9ea0bd6f0d4b69a294a8f955083b0di.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saa3c2cdc2f9343cca388ba2bb435bc7b1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc34abaa1b4d44dd5b0521bae6f54ba2eV.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S69e12f3bd40f46cf9f405001a7a18e98r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S917e3902a5ee4de7a10f52b2d981959cK.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S59d31038d0b0473692d44670d08ae247v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se01471775c8b445687cfa827709a21f4w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S425f7d92814b4aeab11ef32ab3755395A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30cb4ca78fdf4ca6a97d45964880635am.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42c02a13d8214030938d51b9da5aa36b8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8aac43530b50479b8b363d4de978a1de9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S610a51dbadef4aaa9288231d67ec3d82t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d44bc6c013e4dada88c6423f809197ca.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S995f6428263c4f258c52db2a50e70cbfC.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7d9eacaec377422489439288a4e45dabp.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S81f48a44070a4208baeae89199eda6b48.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S85849dbd6dc248939eddd18dd287d584O.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Saacbe39521ec44b19b7352880888c851O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa5c9cae41cac446db24a6d40171e68ccv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S416cbc553ca24072a432510d3c07e763s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9fa9cbe63a254f4891b27afb7e8ffa66T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1IE6zVHvpK1RjSZFqq6AXUVXab.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB19Ei_oDZmx1VjSZFGq6yx2XXaI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1qX_yVRLoK1RjSZFuq6xn0XXaF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/HTB1acZyiK3tHKVjSZSgq6x4QFXam.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb38627b1796c4e5ea190f0c5bc96adaa0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2a784746702c4ba2abab4574cd32ba8d0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c63780bc6de4941bde257361de763217.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S02429770dbde49499b1f7746433a7c85n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad0e4550e5fd4dcfa7377e25b5ed04832.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1933100e2084937b4641856d5263138G.jpg"
+        ]
+    }
+}

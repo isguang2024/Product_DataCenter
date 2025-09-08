@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "8a59319c0c1bda07ef3060189f4258bd",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-09-08 14:40:32",
+        "第二层SKU数据": "",
+        "货号": "DG-209191367",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.6kg，材质：尼龙布，尺寸：13x18cm",
+        "性别": 0,
+        "修改的时间": "2025-09-08 14:40:32",
+        "原普货标题": "Women's Corduroy Single Shoulder Handbag Cotton Shopping Bag Women's Commuter Handbag, Suitable for Women's Daily Travel Use-ll",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd262eb27f96d4b5b86be4e471c755799T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d870cd938244c6bbdcb2741eabed329Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se5977facf7b043929cb9cf84ea05bef1P.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5b296f7ed744816b650ec6525978da4g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89122e3639ee4d6a9d9dce5fcf02f695m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S25fc72d690314277897e219039df161aB.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2165fbaeed264420906b6c2e26eeb67eD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a95133d4f254ad1bbf05014576ddef5e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S184a584154904f638b68eed325ed9398C.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3eea33a5afe844389de63616b0c30e43J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65c86496fc9344cf87b69f5cac64e2b47.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80870d632f5742599ac1e229a5b7e1f2f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9d8088f112f4d2482cc694d9a1bd175L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7231afa185d54f7cb81f5c47a15dfd4fP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43b23bb23e8d4462a5dc018fefb61bedw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0df46ce0f7f94a9d8c97401351337e2bW.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sf412f86fa0814f27ac8465888550a46cH.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S3873637241024648925d88ac964dbf3eM.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Saf9976169c2a40fc951fcbbb6cbca2a8w.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sbbd0338acd6c4c78a53b4e866bd40e2aA.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S01f9f9b533ba438abd6079855f9bb44dX.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scfcb10a5b8cb435abf92e6393b6ec192n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73efe5345fc4460b96b338eb5e625a11r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf56ffa61b83345bd81e63f8ad8a37296r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S270c5c21f32b4f78bf7bfa5d27a481ecY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b050ff6f4c3421c92f3ddcff6b3ddacf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf406c87bd16c4a5bada317ed13e8a510r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e1dd8295016443488744dcb54fc287dI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12bc08e0abfa4182b9d532db1db8543dn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2454dc3dab38486d93ae530086a9c8fau.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf56ffa61b83345bd81e63f8ad8a37296r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73efe5345fc4460b96b338eb5e625a11r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e1dd8295016443488744dcb54fc287dI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2454dc3dab38486d93ae530086a9c8fau.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S270c5c21f32b4f78bf7bfa5d27a481ecY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf406c87bd16c4a5bada317ed13e8a510r.jpg"
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "3b0e3ef6a7625f99c8f452456a7fb304",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-18 14:37:10",
+        "第二层SKU数据": "",
+        "货号": "DG-206932447",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "材质： 皮，尺寸：22x12cm",
+        "性别": 0,
+        "修改的时间": "2025-08-18 14:37:10",
+        "原普货标题": "Stylish and simple pink nylon shoulder bag handbag, lightweight and portable shopping bag, suitable for shopping,commuting",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5b6712e5b0cb4cedb9ce31f97ce271a7s.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa84332a744845738e4cf9e88dd4fc8eZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S22ae2b6347c34b3ab8f6ad0a48d79165k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0141493eff8a49c98f655c152607d468o.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc166f69cefb64dca9442eccbc97ebf63x.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S918e8f4510314ed7852ff29cc2953f30H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ae5c910bda74ccb95faeb72bfe88346m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S25c04ccc10cc4fe0911324a6756cd5e1U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc166f69cefb64dca9442eccbc97ebf63x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S14ee02e8935b4a0bb441a1c535a93066z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9e9828f51e6741aab5f1526cc5c03bb3l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S901d4725cc704d81a1a1930c189c9545h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18dd98a6279c4c4b96bd81706d962259w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a70c5be1187440abd92d614a35c5241n.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S6ae5c910bda74ccb95faeb72bfe88346m.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S99c0bbc6814e460f88712eeec50314046.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S992e6031fe63459c9e2ab6682be8862eh.jpeg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sff7e673984b54b0d9be1f7604dc1baf34.jpeg",
+                "https:\/\/ae01.alicdn.com\/kf\/S22728f51006d40ca822a7e5d642ee8adv.jpeg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S22728f51006d40ca822a7e5d642ee8adv.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a12a435c0e44273be013b0428ad4946C.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e051bf4e4a841a9b0566ea46c8b6016u.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69cbce1e5e3b4b47a5061666aec6b0aby.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4def8c8174e46a897c4d0aee31cd39b7.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2788d15d434a4430a762dc292d41b26aZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S992e6031fe63459c9e2ab6682be8862eh.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff7e673984b54b0d9be1f7604dc1baf34.jpeg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S22728f51006d40ca822a7e5d642ee8adv.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a12a435c0e44273be013b0428ad4946C.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e051bf4e4a841a9b0566ea46c8b6016u.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S69cbce1e5e3b4b47a5061666aec6b0aby.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4def8c8174e46a897c4d0aee31cd39b7.jpeg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2788d15d434a4430a762dc292d41b26aZ.jpg"
+        ]
+    }
+}

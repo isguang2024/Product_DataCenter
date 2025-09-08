@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "5a71ef5e24cca57a37bfd9faab2c6b20",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-09-08 15:05:26",
+        "第二层SKU数据": "",
+        "货号": "DG-209186341",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.65kg，材质：头层皮，尺寸：21x16cm",
+        "性别": 0,
+        "修改的时间": "2025-09-08 15:05:26",
+        "原普货标题": "Canvas Stripe Decor Bucket Handbags Women Top Handle Tote Bag Large Capacity Casual Shoulder Crossbody Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1792d8b635214a9e83567e03d7a5cbc9S.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6a3db51693a04d9f8d3dbfd96f3e2e5e0.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc16653048af44ab6af97b3b661bb7038A.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2ef5f099ef484e5c953d7f08aa7319c86.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb91e261c71594b20a8a03b22feeb883fj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fff4b89b21141e1acd2efb0a98ffcbfR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb738a4ff29734f8386037de7a1d6e772g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40e410b309464e768c3737f31e3ac9a9D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdabb3266af4642aa92ab916b6597d0ee7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saaea15dcf22d4c3ba987da7391cf0684p.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0077362b940a4f188e33fe2f161b2e82R.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S30979b6f8b8b43afb6dc81991af31ab9d.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S0f8bc33924b24076a16051f06f8b55a8O.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5576636ad384a1eabe075d4021d473au.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd43e33aea3d4b4d822847428bd61642x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se443c41c83724793bee3537e11efd04dp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S84358b4b369d45b0820849c3042b30b7v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se765ede8259f4cab9763791ce18dcd26m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf3723a5b45164f968f93722ba8fca75fZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d659c300bd54628812c8fb2360d0032E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd01a6316de343e4b533ca6d28bf7fbfz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb33492a274be4fd2b87a5b431845f1666.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9af42c9e804a45f6905bcf6bc8989e6eq.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd5576636ad384a1eabe075d4021d473au.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c4965f6e8444eacbfda261308a347dai.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6fd8ec8c40374e169e6b3b03bfdab9845.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd237ec1f240c428fbd98af56cafa7e11r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S634bf231027a42dabe55c45ac5f2cb0bw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S641eb9d8b314486ca92bf36e852bac00J.jpg"
+        ]
+    }
+}

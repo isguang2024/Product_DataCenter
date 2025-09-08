@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "23b5b5d25addf751a3588a83116bec29",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-29 15:14:44",
+        "第二层SKU数据": "",
+        "货号": "DG-204312586",
+        "进价": 135,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "马鞍包 斜挎包 高质量，重量：0.7kg，材质：刺绣布，尺寸：22x18cm",
+        "性别": 0,
+        "修改的时间": "2025-08-29 15:14:44",
+        "原普货标题": "Solid color trendy shoulder bag, personalized multifunctional canvas bag, daily minimalist dumpling bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S16cfa6a12db14bf2b303115ed1fc7533B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5fe5694dd6e54f04a8c9ea664161a825Y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se51923cc38cd4f05bc20a3cbbfe6b1448.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S14abf25b7aeb4c608957a0ce410d0235U.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa28097dafccb4bc692907339a2e9f63fc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3399ec1ec16b4aa7b1762758dd02806cn.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S01a9145619e249a68e9a3ff9a07b3c4bs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6052de23aa604489a85fae8c65976e79f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa28097dafccb4bc692907339a2e9f63fc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S113a3e70f8aa458ab5124ec67b56bf25g.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9d2029568d404d65b9fd8a5d23c87d19F.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4147ed9d299643fd96fc994140b3c3e8k.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sf8183f97f3fc47ca94fa93e6c602580aC.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S861091a98f97485ab3bc2f436469e7d29.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1e814e6e63b4fc4a422c3ed367451d7c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0146dc55b0804267a1dcdbe02265635cy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1e5a202b72a4129bfb29e81c16d076fE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b8abe6da15c46198ae191c89cddb0b9s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31bbea9a342143f297b36f0b143e6b91l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S88e23a42c25f402aa7e381d0991dd5846.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sabddc4fe8450440cb409f77e8774ec6a4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1a89be63ec24e779765fbc8c5b19325q.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5cd4318e076f431fb1f9d77d457b071bB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saafe8f5b548a47828e2fa9e6c4156549t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60deea3b201c4003a97f268c53d1e4779.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12958a9d303f427985519f595284188cv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4de6f3d3a7244447b030e3c59c70f8627.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc667ac48d9234266888f13419a4a6971Y.jpg"
+        ]
+    }
+}

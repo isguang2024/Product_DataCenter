@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "1137dfe8f43ca34d414b67ecd0d55f9c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-08-27 14:46:20",
+        "第二层SKU数据": "",
+        "货号": "DG-204824576",
+        "进价": 200,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "重量：0.68kg，材质：原版头层皮，尺寸：25x15cm",
+        "性别": 0,
+        "修改的时间": "2025-08-27 14:46:20",
+        "原普货标题": "Women Corduroy Tote Bag Casual Multi Pocket Handbag Adjustable Strap Crossbody Sling Bag Zipper Shoulder Bag Fall Winter Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se0cfa7c0418c46099f03724e18cb72b0w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d1616dde15d497b98b8b0421d5f2ce1J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4127e2632137496eb2da22c29ccd32ec9.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0afd8da7e4e24e58bac5992bff8224e5Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc225bd67a23b497183f6c36711e71dfan.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S077f4fc49c0b47849d6085282150f6aci.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S56f1d4edef43439c9ce98f56b57d50ack.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37b13b3e64e04424ac3b206af9dac2c7N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd10b892995484e3890914eb77baea951l.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sefd0f27cf5284f389491d95c5962b974l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20fac7aa655046608f2037db0b666e2bd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce4d9d8b03f343d6a3d2bad9803004d22.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S122da57fa7cc4419b63dddfeda2a6c858.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S987dec525f2549a78e87bdf76c603302g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b913c332ba64b6d843b84c619adb06ce.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58ad8bfc980146c789090d1573d1bba1r.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S899eca9c1c8c4d908f4fe118fd4d86a5d.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S99b6418c55ec49d199edfcdeefd1dd75P.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S77b75e1cb37b405ba5c797cc9ca59891q.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Se8b19db122744df79de5c53fd6f97db8b.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sbc60a2e69fb64f84adaebff5be8e2e9cP.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S50d0710c57d845798eabff7d24683f704.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99115c63a5ec4dc4aa5f0523185396b9Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf463c36706ad4b41b43358f9c551e5cfs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S828cec96d8cf471798b68340410d9460r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9413916789094862914067ba8b2e4a73k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3dd006a514694cebb3ad1e6e0a6b28b1X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S041a9a27341b46b1b72a7538fd78c85cM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf024399e5a8b44e6a4c8827516239186M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e9e124a97a34b0abe01f4c3732d9cb93.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S50d0710c57d845798eabff7d24683f704.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9413916789094862914067ba8b2e4a73k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saccad6a3aa394915b4824328a28ef4e43.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67cdc9ab1c4542cda1396dffcf68bac9c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0ce44c1c355a4aee8fdf37d5435c8936k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf463c36706ad4b41b43358f9c551e5cfs.jpg"
+        ]
+    }
+}

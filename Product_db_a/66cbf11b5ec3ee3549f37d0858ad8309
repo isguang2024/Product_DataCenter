@@ -1,0 +1,81 @@
+﻿{
+    "info": {
+        "ID": "66cbf11b5ec3ee3549f37d0858ad8309",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-08-27 14:55:46",
+        "第二层SKU数据": "",
+        "货号": "DG-205161188",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.7kg，材质：头层皮，尺寸：27x18cm",
+        "性别": 0,
+        "修改的时间": "2025-08-27 14:55:46",
+        "原普货标题": "Fashion Pleated Handlebags for Women PU Cloud Bags Leisure Armpit Bag Shopping Shoulder Bags Dumpling Handbag Female Hand Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S75026d25b38f424db0c2c68c3fe33dd3k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd2f071afac5412b954d4949f9509610Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b70f8b4492346d0a86ee4203a8233d1Z.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3a5aede28a34b3f9dbf4943b07c5eb7w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc0486f041ca484e8cb295f84eb61f9ed.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58c41a93f3ad4e479faa6fba2e03e4c3q.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6f6f67b5663d493198de20705008097aK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd497025729864b4a87ce43e9bc0dd368F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd5ed1bbf02641759aad0ca4c8b63395L.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sac00f57bace5415b9255a52831c38506p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S70d5666f12f44a779b8a4bca20d12eefE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3b0abd8fc3c4b1b9858532b68aad19eq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52c40e51d2ab418387a5390ad436e37eC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1c92c3d841f740b5b2f34398dee185e4V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4337fa2c77c0443ea474afc0cf43a63cP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4a15c9b0ef3b49b386ceb92d30a627c55.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S665844ea9fe34b11b8c5ac380899acf0A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6f6f67b5663d493198de20705008097aK.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S214db53ebdc34ee0b2102426936bdfc67.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S18e91a99dbf44f44b11042d75fad3456r.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S77f425904db84f0eb262be2746a76b883.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S46ef2436ecb6474b86da91e79fb9d49do.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5a7b137e486c49019101fe296be7c0e5Z.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S93db634186a743a6a825ef82eb9892198.jpg?width=800&amp;height=800&amp;hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S357b071403d949e9b91cdce99d350c0as.jpg?width=750&amp;height=749&amp;hash=1499",
+            "https:\/\/ae01.alicdn.com\/kf\/Seaf9ba8297044de9b1ca5db2b4f752884.jpg?width=750&amp;height=748&amp;hash=1498",
+            "https:\/\/ae01.alicdn.com\/kf\/S2af595f19d1f443e941f992f84e53b73i.jpg?width=750&amp;height=747&amp;hash=1497",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5a092f8706144c58a5c6965c62748c5n.jpg?width=750&amp;height=749&amp;hash=1499",
+            "https:\/\/ae01.alicdn.com\/kf\/S0dba450281da4364b162972a950a339at.jpg?width=750&amp;height=753&amp;hash=1503",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfadd1f2c8b95433ca0f93f1c9ba4b8f1a.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S49f067191cdf4a089c9387d6838325b2q.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc3140c814a74ca393675e37009141688.jpg?width=750&amp;height=742&amp;hash=1492"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0ddd3469f8b4397a7e071dab27bd961h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf26c1c36cc9347918a047c8f18eeb8adb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c35cc4dc3e14647b00c35a2038616edl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde0ca80438d8436090dc774c891952fe3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8cbd5529cd334c50a860e1fcb9863f47z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S30f81decff464f538730cea1ba00eedak.jpg"
+        ]
+    }
+}

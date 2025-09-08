@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "c079220edbb4f815217d7f66e7d9f049",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-28 14:51:36",
+        "第二层SKU数据": "",
+        "货号": "DG-208326402",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.7kg，材质：拉菲草，尺寸：27x14cm",
+        "性别": 0,
+        "修改的时间": "2025-08-28 14:51:36",
+        "原普货标题": "Canvas Bags Handbag for Women Shopper Cute Cat Tote Bag with Zipper Designer Bag Japanese Style Cartoon Small Shoulder Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7eab2b659e4541df80808ca217a55324L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5bd2f892e36c4dd797a66599747bd459v.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S444eeb16ae694bdba3a7732dca48007bW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c06862ac9564b36953ad99cb460d633G.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S57959cd7225a4cdf8c08f54386cb3131S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S902ef2bf64f141d38f5050b58a84bd36n.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5d50934c9674428ab250226e232ef99al.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se6141cef1b054ee8843e5ecdf7d3054fR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94c06594d62f41a6bb659b89a911a90aO.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb113e34940cb45aea17b0b17e2d1fd5fX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2170b7e102754e599cf8fa4655edb32ar.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c86644a6ce8421f821e37679c5aee84f.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Se3b532ed67f042d098bdde30002f0a39F.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S2861df264e7349f5a1d85ecfdf2e4c58v.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S69f77c4f88c942dfab7977bb109843ab6.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sb4379ca06ea84c70a01cfdc2a4c5d2e6u.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7c76c37b0194b56bc2485312bb62c9en.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S283b8b6b2a4d46f3a28821a2d1ea8bc8S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36b0843be7314591848e90ac7c724282p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb359f8747b244068a588afaa299f7899s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S32d6526eceb544949047556d07e65aaa2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1c41bf4f4494c978fb10e5fb508feb8E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd4312d0b33e495cbc87dd58a03d9726c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd2477032f96f48d9ab7ac05f3e7b624cz.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S22718b71b0274498b8a204ed24da9c73R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d2174fc2b1246f39d6282be3c8b89fdA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3fe32e76886f4e6ca7bbb643bef51435c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S240d4e1c7ff743b087264748d1364eea0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d93cb1f13fb43668253d986aae7f87bq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf89ff8a1c4424af88194bf5f155718e6U.jpg"
+        ]
+    }
+}

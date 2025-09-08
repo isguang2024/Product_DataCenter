@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "b2a6016c549f06f4e91f57dc259783c0",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 11:49:24",
+        "第二层SKU数据": "",
+        "货号": "DG1-185561772",
+        "进价": 195,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.76kg，材质：头层皮，尺寸：25cm",
+        "性别": 0,
+        "修改的时间": "2025-09-05 11:49:24",
+        "原普货标题": "Men's Canvas Leather Crossbody Shoulder Bags Small Waterproof Waxed Canvas Man Messenger Bag High Quality Vintage Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8ec90e019fd14084b32f00432e0400ebu.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5e6bbfa28ca34cf5b56bfb93bff9ef77H.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S68872e9de03e4d6293ec1e1b0da37cd3g.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1cbfd9704514643b3c6845ae87468edK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff5e8d91d4da413199602934b2d579e0U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4ad12be637842038daf2dc68bd04e16R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S16923b36d9f14ed99c537b932fe7daac8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S468f5c1b4379411992f1a72feeca16ebw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6796fb3263f1412d9f868e18fc6a906ej.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b67e3c654ff4381bf5efe151bc24583X.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sc6560f6998984b57b4e659f7a91ee5bbh.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sd2ac3f7778b04f119476b3ea27063c1by.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S0d7ca0485ddc4d90bcf782a6159894dcI.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd28eeea825f1469caa2b2f552a79cba8W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfdfce6ec9b244e6885b788658b5713133.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31fc230138a74113a8ed0cb81d2c2613d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12bfc61f264c469fa0c7439374ed09fcw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc7a2a9b807c4d32ae9171c6fd2dc1fbc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8914f8b74c4b486883b77f49b4dff6c4f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4daba591e9ae4bfd91067658008c454du.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c6748796a1c4fc3bb37ed794080be6ax.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3250cc8633a24d2b8c23bfc6ff5d84fe1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f5e84252d7f484398fe5c0b31d83517I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0d7ca0485ddc4d90bcf782a6159894dcI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb83aae03de5e4d40849d20f1ceeded21H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S449e46cd9ebe446ca7b1ca7840d2d679l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7b253157e6ea41eeaf4d662ef1da7a641.jpg"
+        ]
+    }
+}

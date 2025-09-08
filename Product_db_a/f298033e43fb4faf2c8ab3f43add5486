@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "f298033e43fb4faf2c8ab3f43add5486",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-08-30 17:00:40",
+        "第二层SKU数据": "",
+        "货号": "DG-204663690",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.7kg，材质：头层皮，尺寸：18x12cm",
+        "性别": 0,
+        "修改的时间": "2025-08-30 17:00:40",
+        "原普货标题": "Soft PU Leather Shoulder Bag for Women Wedding Totes All-match Commuter Underarm Bag Bolso Mujer Fashion Large Capacity Handbag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3f4547259104ee3ab2b5d0aabe3a7d5r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd062462510d040c0a2c302a02a7ca82f5.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se1cf1040e44b4e8d9b695efacd4b7f756.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ee5d1269b5542e88b6455004d4d396fi.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0a0ed9bfcff240769b9851fa9546b4e9a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9085c269869a4804b01748352b88b578d.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb786072712f640deb412694308233affj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se8e5fab3299f4619a0c5e5c6d3897f13V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a0ed9bfcff240769b9851fa9546b4e9a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c6788c078c04682b18289844743ca44E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc22d9cd270ef420fb4f1c0cec30494e8K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd78fe976e34545d394268e7aa976f1aeG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7183b4bb747747cfab97d7bd5f260cceD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ecd489e1e0a4755acce31723fb8b6d1Y.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sac593db8e16e426295a364cffb98ca7ee.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc5c7864173a242a585bedbb2977ec895Y.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S0f138a0a7bdb4c0d8373828d58da8288s.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S82dd8920f4064e98be1695da2830a989a.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6dc78704c13c4e4682d60a3c29a0e1d6y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8beb78a9c724fdd8db859dc9c72ec64Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1dfd6aed8dd4185b1311382ca65a9913.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63291301030d46df8c1577de92606761W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba82a90f4e804ce58bc9c16b0adfe599N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd18cced81314b38b2da8eb51f1c54f1X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3b7ac7fb00ce4bde90af75b12c7f9362o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff978484ad984ec9ad70bd137d409946D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se16c2aaeadff4a94a2af02dd95ecbdb5b.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S61f01f49ca584175839c20dc6b571ba0W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3630de3f3ae54773b8660aa35fff109dl.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc10cd4c7ac944de3af7eaff66f4a35c7H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S767438176b4a4863900e34284b2f949aR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6f16e1e336e4354b1cd6f922f1f20209.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1270bc3a54804a6fb64b3e9640d0853ao.jpg"
+        ]
+    }
+}

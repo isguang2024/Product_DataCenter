@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "91972b016d94c1b36d0f9e273a845cba",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-08-28 14:37:56",
+        "第二层SKU数据": "",
+        "货号": "DG-208329171",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1338383126,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.63kg，材质：刺绣布+皮，尺寸：16x12cm",
+        "性别": 0,
+        "修改的时间": "2025-08-28 14:37:56",
+        "原普货标题": "Waist Bag Women New Canvas Leisure Portable Zipper Korean Style Canvas Chest Bag Shoulder Bag Waist Bag Sports",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S647edb04cb6844ebb59eafd255fb2da8A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0fed81232f844178742587423246350U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3e398a487c648eb81f30a97fd98fd561.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa41444cde66f4c8a9d958bb68a7e69b1v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S05208188914646d0b7e1e0e09ee7fe0b7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdaae883c6275432293e9061cef5299c1S.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S58e400ef3da74b58af4ff348f89bc584x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6d132f47fd89450aab0e329b32685b44N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb65458b8047b47a4bdd9863bcb7b97e1o.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8bebb8bf13794366bc977cb572ec1268r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29aa3997ef29432b992148826032eb64K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdaf0845285c04d1291b3bc56ebeab13er.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc36cdd912aa545a68837568287318bc6H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82401fe79c004991b06ebd386c6d1217U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sceae4e19f8384ad6bcb36ff5cc7af469y.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sff6e5b723d824e10a65311fc7564f4b0X.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S287bee8fcebf48c1961ff3708e7701a0d.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S03f1eb0b7ce64cb4976a557abe4eaff7x.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S77e962df269e43ccac597e95d4f5e7d5W.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S94bcc47b2be047e9b577ac635f1e101c4.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4f6e5771319d493c925162a59cb94a4bk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4f6e5771319d493c925162a59cb94a4bk.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S786930765a1348388a776f2625c34027x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S786930765a1348388a776f2625c34027x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ded5d7330044593b1550bd7ad6b3aaeP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ded5d7330044593b1550bd7ad6b3aaeP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S941aadd38c934389bd3cbbd78f4a06ff7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S941aadd38c934389bd3cbbd78f4a06ff7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd80c960f0d4d4465a5cb83891a173ca4m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd80c960f0d4d4465a5cb83891a173ca4m.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S612f7b25664247ee9eb746473457d203V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8d4b6875d4e346009467d5af70156ac9I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda9109d99d8a4a28854d59eea094ddbbf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4345738ecf2240e58186a211bbec55d7M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda47090c6cc647eb8c0d6019debb82ccp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1782ff4ed5344f949149613b7ea04820v.jpg"
+        ]
+    }
+}

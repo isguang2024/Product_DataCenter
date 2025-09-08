@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "69d32ba5a469e89e369b3e3aa16d6322",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-20 14:44:25",
+        "第二层SKU数据": "",
+        "货号": "DG-207480151",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "重量：0.68kg，质量： 皮，尺寸：18x16cm",
+        "性别": 0,
+        "修改的时间": "2025-08-20 14:44:25",
+        "原普货标题": "new women's bag bowling bag 2024 new niche Joker Boston bag Tote bag underarm shoulder bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9784fd354b1044b0a27584f57baa2f07M.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S99a579368cbd406fb3b64d3315648b85d.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4e6633b55a540b38f505afbc83945b4n.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf5bc8ecc8c58484386e5a0372a7ccfc5G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5058e2d6afa74f3e9ddb36926721b8b5X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2992e213b30444dba8dcf5eccee404abw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S60e7f14feaf14c92b852442bdade6fca9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2d83d007cda425c8cf8cd06da680c3ax.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e886c59b8e1487890a15ae15891d67au.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11382db7848f4a9f83e570db0aa31427M.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S6fcf098a35af4901b53fd381f6d6d4f1H.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S60b4cba021b54a4ea75bef51cd36f680p.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4445e499dfa44eeaa56d1d04f1d3f3a06.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S052c5f3c4b864E21b650509c30b26ffb8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1f484fec7a94619bfd80ead5f3fca91S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd012b6241eeb4f11bc09da9a96E1d0287.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S24f228eabc6b4E3Ea5642bcd3586a226S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8249656375884a9187E97fa963d9acaeV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S536944f66dec4095b5292aE3fd604475I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbaa5865f4024E0ba4128d09254d48ffJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebecea0E040043EE90bE1ac57deb4228E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe37612687424b8c858b803072061003Y.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S24f228eabc6b4e3ea5642bcd3586a226S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8249656375884a9187e97fa963d9acaeV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S536944f66dec4095b5292ae3fd604475I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbaa5865f4024e0ba4128d09254d48ffJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebecea0e040043ee90be1ac57deb4228E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3414da94a55f4122b06956ed4169d4d0R.jpg"
+        ]
+    }
+}

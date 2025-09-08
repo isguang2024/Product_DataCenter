@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "338592a3a35c37d18ab6cd44894f3137",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG1",
+        "创建的时间": "2025-09-05 11:35:59",
+        "第二层SKU数据": "",
+        "货号": "DG1-206716577",
+        "进价": 200,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": " 高质量，重量：0.55kg，材质： 头层皮，尺寸：18x12cm",
+        "性别": 0,
+        "修改的时间": "2025-09-05 11:35:59",
+        "原普货标题": "Casual Canvas Messenger Bag Versatile Flip Large Capacity Shoulder Book Bag For Student Adjustable Crossbody Bag For Men Women",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sef4579561ad64fe294cbdeacc2d0b4887.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23f8d092c44b4ac3b596b65e4a4223f5A.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfeae7e60a6f462ba052c24d869502d45.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8cac8d5b765048b3a13dfd27987b85d7s.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd37857f31740412c9721831a3f4a4901s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa96ec9e38d14d95ad1aca42ea2436036.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S29b0e889dea74174be1165f72a1a941cq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3713fffa0f0a4500a417475b36c6f1bd5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ac29943c22d4dc8b151f54e4b52e0b9I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1cd5f0c936441b5936a6279cb6714c5Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b8c3880b1584853bd84fc0ec45e8b49N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a62cf8326b9481793b754b06a3f1d6b1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se76b737217b94474ba0dc1729e7138dcP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa47a6f1a19b4ef893a151ff7f2204bcZ.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S250f0cb8eb5a449ab6d6f6663b8ee759l.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1ff5767744354db58cb1bdc6263918cdM.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sb63f6bb43a1c43718fcfe9d45d61fb81Q.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sefbe3d7d48e744d28aaeb7691ac46bacb.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S039519bd8bae434fbfbb5c14e6746359x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scdf7f6ae8d7e4372a5ab474e27b4bfbbb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6b9722b37f6f4743ad81e4805040c064H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8745c6af1cb4f5c9179c1c5e68641b6o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S319317369b6d44feb57b5049664aeaf2Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S951820f8864f4c129d27938daaa5adc0C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2b7fbcefec744cdb20d609607d04278O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e80b8450ee44be28228cba8499bba89y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe9ab2d9e96b4682a1f1c1dfcf59f63ap.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S122387b86e08438ca23394beedbf0591Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58199b5a8a6a445b9afc7a35075100d1t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb335c2f877294b2da7f0f7c3793da7afb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66694af9c5924c698b654d27382445e85.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7a34f51129d04262aae4ad6ccf8d299dE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc1a12c441a2451ca350ea661f0fd35ep.jpg"
+        ]
+    }
+}

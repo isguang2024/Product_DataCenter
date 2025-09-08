@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "dcb25abe3c902897b042a6f32eb50f47",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-08-25 10:59:10",
+        "第二层SKU数据": "",
+        "货号": "DG-206768727",
+        "进价": "100",
+        "利润比": "100",
+        "品类": 1002,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": " 卡包 高质量，重量：0.3kg，材质： 皮，尺寸：19x10x2.5cm",
+        "性别": 0,
+        "修改的时间": "2025-08-25 11:01:11",
+        "原普货标题": "Cute Polka Dots Laptop Sleeve For Macbook Air13 13.6 pro13 Huawei Samsung Dell HP LG 14 Inch Korean Style Lightweight Laptop Bag",
+        "质量星": 2,
+        "重量": "0.7"
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S45b08f743e1d4f2ba87b2518551b1d7dX.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4c4ae33c7b4f409cac66f134c3379691r.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4ad97eeea664edc88b0f25b6aeca3939.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4080ccb4dbe44a2b8f0e4c3c9aaa643G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S84dfd35f42c94d2093b19c8deb16622dw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6cfd604f1e9a43aea0c92229948e8d6ec.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2ffcece608d47a393264302a5398067P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf49ff3c8267a4cb29e164b2165391d48U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S875d0440e05343f8a54accf3e478999cD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S17e06d50f3aa42309de8e3bf484f5ecaZ.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S6ab8b9c976f040b5bcd9175ced4c0b4cC.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9c4f424e7faf4a09835dcf9dde9fbe076.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sfdfdb41c580740f8969f5dcac75768d8q.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S165f175efe104b238a3bec967c69068aV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8dbe97dcb3b441608d357a47a70d0b72b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec726db9906f498881d0bdad7c8b7881N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8fa0335e0d574929a6fe7aebbb4a51fcB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb82bc597cf924b5387ed72b54d134acah.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7324cf2599fd4193aa75d9ba44c08af3x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec726db9906f498881d0bdad7c8b7881N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0dfcaef762474c048336b02ba1a6706bD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S324ce305a5de40c7a5777843e3c5ee43o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3730ea05287a463faef379a8eb131641t.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S21b60d6d692745d4aa3b613af7f79e50o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S918a7610aff1452d9663534bae5d53a7Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfdfdb41c580740f8969f5dcac75768d8q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S587b00cc77df477bb81bcef0aa3bd15fd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5a6c8eb7492445bfb2a12e4b8fa1fbf2p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5da49f01c67145b1b08f144601ef69deX.jpg"
+        ]
+    }
+}
