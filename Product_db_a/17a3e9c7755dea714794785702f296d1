@@ -1,0 +1,73 @@
+﻿{
+    "info": {
+        "ID": "17a3e9c7755dea714794785702f296d1",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-09-11 15:22:00",
+        "第二层SKU数据": "",
+        "货号": "DG-209541142",
+        "进价": 170,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1183091054,
+        "普货模式": false,
+        "商品简介": "绗缝云朵包 高质量，重量：0.72kg，材质：头层皮，尺寸：28x14cm",
+        "性别": 0,
+        "修改的时间": "2025-09-11 15:22:00",
+        "原普货标题": "Casual Tote Bag Men's Big Handbag Fashion For Man Large Capacity Cross Bag Men Fit For Short Distance Travel Shoulder Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6c0bda16959041d4a88e246c1dd1cf85d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb312b7e83b33446a9fa2c632c161ed4de.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S40f6da91f5a347a8b7ff95abc0484be0O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S14cd9df543af4d9d996aeab20cc60a59K.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seb8da4db39054b50b7e713c7da5cb11ba.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa045b25035b94ba89d9e03459b809c614.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbc51a01123bb4d6b8274692d8101f260s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se232eeacceb642f78d85badef3051a6de.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce134f9558564278b604527d6f07bef0H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31841362d57c40d6b715119592f382dbx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1adde49354b14befa1a3eaeb132a3185H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd6fcad5dd274408afc4d187f02804fcs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S630d8264a6b04e4db65a048dc596010dq.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S1de8e09a85e240fc9120b6ccd76370b4J.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Se4dba5b136c24b2b8916ec27025d42ccZ.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Saf6e6bb897014416b6acd44cfb9e4ff2M.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc084f3fb635845ee8ef629aeaf1bf01aK.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S31ae845e70204f949017bc775731a964p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03cd749e10474bb893ea38401128635bg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4fa3e10445449deb07d6c0ebb2e2925O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb73ff98cd0dd44dabba4227c8337baa1I.png",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e2d650fb61241dc9d1cea861d7d27efY.png",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfb95066a0c934951bef3b731b4e79df4A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S230e265fc3d645eea2087e3dcf9449e9o.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf75760caa26645ea889f7eea482127f8Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0006e494e7542c68fb8ed6cd59167c8O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa59beed4ad84db08798292517aad2b00.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8728d0d0cb94b88a3c4ba10789bdec4O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03cd749e10474bb893ea38401128635bg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb44145188bcf4e12a15d3eb6e17c8977B.jpg"
+        ]
+    }
+}

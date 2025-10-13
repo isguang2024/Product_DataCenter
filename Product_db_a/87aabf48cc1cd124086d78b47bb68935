@@ -1,0 +1,69 @@
+﻿{
+    "info": {
+        "ID": "87aabf48cc1cd124086d78b47bb68935",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-09-09 15:08:55",
+        "第二层SKU数据": "",
+        "货号": "DG-209533042",
+        "进价": 130,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.6kg，材质：皮，尺寸：19x12cm",
+        "性别": 0,
+        "修改的时间": "2025-09-09 15:08:55",
+        "原普货标题": "Vintage Large Capacity Tote Bag, Retro Vegan Shoulder Bag, Women's Casual Handbag For Commute",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S64525232ce15442bae6332cadd60e19cJ.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se0b00f951c9e4a3b9bc0516fd3076cd3P.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S41210dffcecb4706b300d662227b7157z.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5c0e9595b5d44943baff8e5223f56ae6q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S087a6d20a51b4071824bab2bdfaf3977G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S26822b14555642e68d16e335ea69152bA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb850e7677e8a4ca4a4f5797c26df579c6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S089dd062b4544f449b7eeaeb07030fbaT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e06aa472c654b5b8393142e09d082ebr.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa8aa86513b56402baae2b1bb37f355723.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S09959b9eebc0481eaf7285d3007498828.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7db8983ca26c441b8775eaed0269acfb4.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9e5dca7cf25345119bb0bee9075b66a1D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf33caa9d2a1c4894a9c7cbe26bf6628aW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9b487d93393c4ca7ba49037e505bb2cev.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8e4bd3f2d73049be9f8876c7d4971751b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6db0e8ded0ab426ca5b1cb3cec6b1bac5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f1f81fb631b454893f4006f1e72e87eP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S940d60cc35914dd4945d21ab7e5966faV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6512cba784db4e01b4724fec5cc0f200M.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S89fcea148578458fa61ab3846e289da6T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50b74738b58648d2a1184b37b038b633y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se5d86e2bf46641c3b62625b3f1fb877fm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ca02e5d01da442a94474af8b68e8831n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a6a382e25ac4999b58be311f7f843c2B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda9ad6ffe471473ca9ad16ead53c3c95X.jpg"
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "9269641cd87aab843f60e759d033f955",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "DG",
+        "创建的时间": "2025-09-11 14:37:27",
+        "第二层SKU数据": "",
+        "货号": "DG-209644960",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "相机包，重量：0.6kg，材质：皮，尺寸：22x14x6cm",
+        "性别": 0,
+        "修改的时间": "2025-09-11 14:37:27",
+        "原普货标题": "Women'S Corduroy Tote Bag,Versatile Handbag,Large Capacity,Multi-Pocket, Casual Everyday Use, Zipper Closure, Polyester Lined.",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S79a009bcf43b4e159f8b3dbcd8bcbae3g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6bb827259859443e9fad741d5d852988Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8dcdb4a3aae64d598780813c60734ccaG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S79c35f3809c543b19baa3dfd196883d47.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf118cfc7bd574e0194098554e1911dads.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9465964b8889472f9b088279232bf07dd.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1e67bbbfe804faa9d56dc531e553b2ad.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc417e4cf96a6420cb3b01123405fb367A.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scb14a7410a6f4618b646b5b70f00fad8F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34af5749ddc849afad7ff8fb751df30eM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secdaf1f0b259488cace27bf4884799129.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed7c1866c75446bba53150d4e92f70f0q.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc8f385eeb624f84a57ea96911943251e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd132ed27e784cbaa60da6c1a642cf39z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94a0cc8d3bad482a809b66ff31808b85w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S280945f92c774b3fb3eba0d3fd4d8678p.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S992ea3d194bf4bd28d3fc4b0a51d6088e.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S580b8171e69f405a8f8ca1a95bfd73c4A.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S170a414c443b4ae88cd3964f32bd3fccT.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S336643578bf24adb982d1a3f7a2ca0faT.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S1efe59582aeb45bfa54a62a0e6d84696J.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc2c47fb7fdca40f9b76748abb76e7a9bC.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S373e59261e914e6881b9783c58577c68l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2c47fb7fdca40f9b76748abb76e7a9bC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1efe59582aeb45bfa54a62a0e6d84696J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S336643578bf24adb982d1a3f7a2ca0faT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S170a414c443b4ae88cd3964f32bd3fccT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sef4037b6074248edb5f1800e37e0ca96n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S64beaf39b4014e9d9928f0be017ad539x.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S170a414c443b4ae88cd3964f32bd3fccT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34f6731e0ca5425098b3a3876bcb215eV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S336643578bf24adb982d1a3f7a2ca0faT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d6457f5d3bb4d0d9b9ca665ea7f8049d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1efe59582aeb45bfa54a62a0e6d84696J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S373e59261e914e6881b9783c58577c68l.jpg"
+        ]
+    }
+}

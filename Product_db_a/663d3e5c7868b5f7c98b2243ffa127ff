@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "663d3e5c7868b5f7c98b2243ffa127ff",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "DG",
+        "创建的时间": "2025-09-11 14:36:15",
+        "第二层SKU数据": "",
+        "货号": "DG-209645034",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "相机包，重量：0.67kg，材质：皮，尺寸：24x17x9cm",
+        "性别": 0,
+        "修改的时间": "2025-09-11 14:36:15",
+        "原普货标题": "New Fashion Mobile Phone Bag Women's Messenger Bag All-match Mini Small Crossbody Bag Hanging Neck Coin Purse Vertical Handbag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S42c78d091cef4ee9a0fff92b4ddd7ffcH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1887126dd3ed4e63955fa25e60780699B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a785be1a2d340b0acb9636556478946g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31aeead3ec674494bf885caaa18a40a2y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scda027d0e0f646aea9f3965f25e66469n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S685c6f183ce9408aa00bf36bd2f6195a8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sffae388a26934e57917352c90ac3c6ddn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80dc4aee154e499e98c670e2d461b6a3A.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S130c771b65e44cf19caf4a5850c758730.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a027db548b544199a74268f629946dcp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S21255eec76654b88a6aaf9ec610321792.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7d3d9edd4194cb9b2dd1e986d30fe35Z.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf8b7958832374e7c838492307726408dx.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9f0354f5b67479a98ac52a9e2dec1cb5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3bae38623bc14c4583d90d73a6c5e0a8k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8ebcf5730cb3412cae7bf44c9e1e3017L.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Scc02ebb9cfb7402cb9e11f376faf44d2b.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S6ce92257b7f74d919f2d813fe3e69bcbA.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S851f67ae765642138091d5e87907147eE.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc0612362d17d467d8989ef58ef0e7b83i.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S08b19cad4890405c95b6b849358a70e9I.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd977bf64133041ba94783098c4077fa8z.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se10b282e82da44ea816bcf5c347a1068g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S06b72fadeb584831a534e82dcdc1fafd8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c2b1f89faa944a2ab0a725017237469r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sab8a4e7f8d0946b7b370723f0416222dK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S63be75f9208c40b98b311bb52d28be4ec.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S855d730b471e4056995d43f5bde35c10F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2f1bfaf4fdf4f27b2f89705d162d90dL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3410c78013194b46a1a6d2d46f7b9b69S.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0f8e26324424c0799478f74f9b9fc0ei.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S220418adfe4a4af9a95ccb9c6e2bae6bF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc96f8e489e3841a88f81c701b85fc481J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S324bbaa3762b4c5795ebcf271f5c1df80.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4e9e4b42d9a44b98a32850b73641d9fN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4f507d15d9443668028d90850be47b4v.jpg"
+        ]
+    }
+}

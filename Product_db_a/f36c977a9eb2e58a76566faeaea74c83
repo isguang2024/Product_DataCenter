@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "f36c977a9eb2e58a76566faeaea74c83",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-09-11 15:31:31",
+        "第二层SKU数据": "",
+        "货号": "DG-209537524",
+        "进价": 175,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.6kg，材质：头层皮，尺寸：20cm",
+        "性别": 0,
+        "修改的时间": "2025-09-11 15:31:31",
+        "原普货标题": "Lightweight Minimalist Shoulder Bag for Girls and White-Collar Workers in Business Casual Style",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4a607ba592804cdcaf0d6a347bdf01few.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S95037a38cc094c948c14a02d94a3b1873.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf210c5b8c0c48eea32be7034370bebbc.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1a0e6f87eedd46eea080c413eb87f9173.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc11ac7e6b1f4c7b87cf0d55f8d8c14cA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd26cd15d31ed4a5abc8b9f8e61c742fdw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdf65ad1e08bc4983a48fda2ef61d443aC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb459b651724647d8ae6e1f9ed6633a69g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf99cb80f6dd40de9df812d3c7e95c09T.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S10029ba72bcb4f0a85f97ab68abe375at.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S71dc9116f96f46f58e0b6b4ee0fa5bcc6.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Scc495e5fd1984d22b43b930b2524c10cu.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S808db81c3d2a4357a7de7f65c794724c6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57d03a73b43f490d8115f1b65d768873v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b0dec71ac6046d188fe531c9d992116C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4e56f204ee240a69bb035e283d8d640w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S14354c91843c4e3ebdd148d096138d83F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0f2a499a18c4155a6e0f2914f44092bV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ecaa8f22f1746c0a2be4638974b6758t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0731e53f53643efaacc6da90d030eb9B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S794f8e4eef84410da3a51675e74ddc26p.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S808db81c3d2a4357a7de7f65c794724c6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S57d03a73b43f490d8115f1b65d768873v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b0dec71ac6046d188fe531c9d992116C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4e56f204ee240a69bb035e283d8d640w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S14354c91843c4e3ebdd148d096138d83F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb0f2a499a18c4155a6e0f2914f44092bV.jpg"
+        ]
+    }
+}

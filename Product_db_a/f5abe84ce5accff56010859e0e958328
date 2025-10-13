@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "f5abe84ce5accff56010859e0e958328",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-09-11 15:11:39",
+        "第二层SKU数据": "",
+        "货号": "DG-209542531",
+        "进价": 145,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1003781064,
+        "普货模式": false,
+        "商品简介": "中古战马格纹水桶包 高质量，重量：0.78kg，材质：尼龙布+皮，尺寸：25x28cm",
+        "性别": 0,
+        "修改的时间": "2025-09-11 15:11:39",
+        "原普货标题": "Women Portable Shoulder Bag Thin Canvas Handbag Stripes Design Large Capacity Shopping Tote Cute Cloth Books Pack",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8ca934d1c7984bac9e146296dce752472.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6caba5f3a55c4e639675803eaecbe8d4L.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S81f4d2cc2cca44de976a53010e22303f4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2fd17fab614b4d28943be7779c7f740am.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S93e57da7bf6d41d0bbdb70a54989fecer.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf73431f5c09a4183b0f602f78f8a5773g.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S746509d2623048aaa136a7a6efd94790D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7141fb3ce6340ff8b07f59f2c8909f1A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf28b9a3b506c466cb66939a7e839b2cdq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ca7d62dde8845378257cc7a96feb2b2l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ec7564756304b83a1234c2fe4e0bc7cy.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1754bf3d2a874dec8b032167093572a3R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4974b6cf7d6448993d71c26dc926087X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b304e5cc2874403ad950334ee2d5025K.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S975a0b390d234cb79bf3569d4a5640c8O.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9f6e692265cb4861adfb833e8f82731eQ.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S70eef32c5e4d4761be2a346b94dcedf3V.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd177b11ba855475fbdfb76f8afc4afc6o.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9b893f3d7cca4f34926d736b7c2ade19a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa575b85ad2a84a40be03d6601f0643dc5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2e2654afa234fd1a6eff0f33ac8d40fj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S300881388d6542faabf3bb62db2829f5o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4c6c60edaba7479baa261a3a4e5712fba.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7a0a61c6cf44e5089cdd71cdc21f8dea.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5d612c20d41642b6a79f5a83715bdf43t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0b0a59d62cf46cb991ae09d10ef42384.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd4781504faa41e2baa32bda38462a37M.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se21a21a2f4d741baad90d15a56827e79g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S87886e29478b40a384894bd80d266a6eK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S194bfaa0366b4b2c8785758fc318a4cb9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S29b92147635d4113be19a3a3584b314dE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa575b85ad2a84a40be03d6601f0643dc5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0b0a59d62cf46cb991ae09d10ef42384.jpg"
+        ]
+    }
+}

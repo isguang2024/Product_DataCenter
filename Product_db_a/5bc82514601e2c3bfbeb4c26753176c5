@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "5bc82514601e2c3bfbeb4c26753176c5",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-09-12 14:27:57",
+        "第二层SKU数据": "",
+        "货号": "DG-209789169",
+        "进价": 195,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -1190321189,
+        "普货模式": false,
+        "商品简介": " 高质量，重量：0.78kg，材质：头层皮，尺寸：25cm",
+        "性别": 0,
+        "修改的时间": "2025-09-12 14:27:57",
+        "原普货标题": "2025 Large capacity Travel Tote Bags for Women nylon Shoulder Messenger Bag Sports Yoga Satchels Fashion Woman Handbag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seef87c1b98f24d8db285aef41f8be2e2t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se26b7cf8f4724a3bb2fd899c508579bbw.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf1514dd40f0449d6b583b34a01f8622cr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S801aef5de3a040daa751c7bca77547693.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8a3334050d0460a87e17243c9f8c597c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scc773a89d7d24efc907b5bc7ec5ac886U.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc90862a983044338baf15301ea4763e8H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad743f385e7542e799e8ad4cc7671194H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S767e4cb9a7494654bcda1ae07a4fb9c53.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S83426037c2864f759adf2b3e02700bd02.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7a3577339dd4220b2483a8c8832ff9aP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f4de245aa8f4815b0d21ac09c19da4es.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se20aa29221a5434596ff843050451a76b.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S808f4406f74747c2a3a184b129c09693r.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S7070634db44e4b819c8564e4c8f78e1eF.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Se98f00e03e914b5693191b4298d0f1908.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S9dc57ac7339840839d0e907e89f761aeJ.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S189354a9a7e949e5b854493db75c76670.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S8337fe34995e4c1a81d0f85ef7dd50901.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S054a83d833af401aa38d7454ad0be3c44.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb77b1c888a664e429d9e418c843a741bE.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Se67f20a8de0f4c4aa23933fe08787be4j.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S74a45611fe64496dadc9f5bbd1cdc8f92.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S614bc381a3784575af7b591529a87cfe5.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S10561b8882b34367bb562ce9ef8d178bT.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S73a53238fdaf4dc0890bbc25cd2c69beq.jpg?width=750&height=750&hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9ebbbc625a1402d819906d0fc28f06bU.jpg?width=750&height=750&hash=1500"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf30d8175d60a4ba4aedb88766c6ed9daM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35a63e6a0dbe440a89302053fd4584b2o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33c3d27c72ef422c816d5e15507e78dfV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8d6761a384447a8846f3f0fa2c2cce5A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e10194b61bd43ee939a479dae61c308o.jpg"
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "19f1ee820c8c05adbbbc779184b07a44",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-09-11 14:32:49",
+        "第二层SKU数据": "",
+        "货号": "DG-209645163",
+        "进价": 110,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 1542255710,
+        "普货模式": false,
+        "商品简介": "腰包胸包，重量：0.65kg，材质：皮、布，尺寸：35x17x7cm",
+        "性别": 0,
+        "修改的时间": "2025-09-11 14:32:49",
+        "原普货标题": "2025 Spring Hot Selling Maillard Style Retro Style Small Bag Spicy Girl Y2K Wasteland Style Vintage Leather Shoulder Armpit Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc998ea8277424881a0752abdc948989dn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f9c70a16bc24e6a839711a1c3e3d0cd0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S40994881690f4873af388b07b20eb361V.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sde130833fb5649058e355195cae4f1223.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S413b611d89e64555892744b2a82d5542Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sda10dbdaabd34a45bcca24e7a3efac1aC.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb120edd6259342119a1af40166e6160ft.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S094c5dce9cce411c8aba4309777e0b3dY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S608d5b202eed4ad78e8aec57c7031acaX.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S522c3fe9a7a147db93762a3a459fe612r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba1e649804854b83a6d056a33a1c116eq.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f8763c384db416c9d04a46cd707916eQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd58fdc2a52644e489f8ed7b57dd78eej.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1422943b1a7a49c39800810ab6f45f53F.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S1138aa12a25e4395a133aea68a5c1f2eQ.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S8c68f5bd479043548ac23749db8cfbcca.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sbe15d227c63147afa7754ed4c7057710L.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S7c5283a6f9614b58800e34f0d2195e358.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2ef2a14a359046fab2bf1aff52a1dd8fh.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scdc274a81e7e4b70a50196e6cb7b885ag.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc294435c395e4cb89c48225cc991dd0f7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e4f814a3a1d476ca0d8b0c9e440c5dbC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S538712ed050b45fdb3483077c98e455aG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S15bc504de5ce4cecbe9df3bb1516d42f5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb623f8edfa854ed6b2974d845547d173P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se87c2a2e8f8a487eb8694ec0432cf1f4a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S23f416ff625f43abb113516ab636afc5G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7c66cf8db3b468cae9c68dcbec5d657q.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4b920f8af690453a8b03843ccc18bc71A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S505aa6414ea44aeaa316ae2e9a2a2f4dj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58b2bb6b5dfe4d4cb8ed0f2b0962e893M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d38c8e808114ed59bfb2eda34d6abe9L.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See5de2476de44e6ca4af379d17210ca1Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S36a22b1eff634b058331d3e678c6f0992.jpg"
+        ]
+    }
+}

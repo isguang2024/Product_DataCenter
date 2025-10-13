@@ -1,0 +1,75 @@
+﻿{
+    "info": {
+        "ID": "0b20f43926562877491cf7cbbb68e59e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-09-12 14:39:55",
+        "第二层SKU数据": "",
+        "货号": "DG-209788538",
+        "进价": 265,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": " 高质量，重量：0.65kg，材质：原版头层皮，尺寸：19x15cm",
+        "性别": 0,
+        "修改的时间": "2025-09-12 14:39:55",
+        "原普货标题": "Casual Large Capacity Canvas Shopper Totes High Quality Eco Reusable Grocery Handbag for Women Travel Shoulder Bags Daily Pouch",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S959f76df0f114bfb940fdf76072b0abaP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3478b55bc1eb422ab37353e284c4c3edi.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S31e5ca0f69e64339bd55ae9352f390061.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0a268a742c4c47c08a121f2f6e6e5944L.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2037db721ce420e84156308b90b5cd5m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbcc0d3f1754a422ebc4bcca9c43f6688o.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S39dbb16daa054458bdf27fc01a87cbcfb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S633b5186631949918c70956571f575720.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd1ae6d6fff9048d6a27e98649e6617efC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb39d045a2c8347e59aca311b4ae857109.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc309c49880a64fd89f6e22c06d13c1f0s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a55c00bee044fe8bf3089fd239ae69e5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6e56459c45c4c18b22b96fc64ae2bb2F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56d53829c0764221b3ba0ebe63555de96.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd92b08433a7f40668695916d93a5e36bm.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S06bbc9bb0618400cbc336e3be620f2e86.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S81675f9152f94f16a6b39fcbf8e6dd31W.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Scb70056b98ec406b87a5e6b33ef1cf9dU.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbbae24a1cd324bd7bcfaeb181d649464h.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4a8b30c33e34be892572e6bee76f306x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf8891108b83442cae4d803b12e045307.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72fe2721f974465690abbd2c15211275i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saf2a41b9ce094082a63af2fbabf8411ea.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04d4e6d18ca74c279a8bbaa3eb6bede4G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1d63c280b2264b8984154b7fdf871a3cZ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1e8d2b59d0b14368b9a50f980f0f06650.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa92277c6c7eb4d3fb19fdb475ed04564J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a5d3ac4610540b3b017144a43e7a21cf.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52b8ec0003b54012beabd5cc0c88f08aw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37601039321340fbb02f24790643cd3aF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S143dc30015904240bc81aaf6df87b6bfD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4602ae85dc7427baf2fdf95cbdc7200p.jpg"
+        ]
+    }
+}

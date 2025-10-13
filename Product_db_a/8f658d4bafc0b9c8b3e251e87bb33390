@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "8f658d4bafc0b9c8b3e251e87bb33390",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-09-12 14:42:53",
+        "第二层SKU数据": "",
+        "货号": "DG-209788181",
+        "进价": 140,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.7kg，材质：皮，尺寸：25x20cm",
+        "性别": 0,
+        "修改的时间": "2025-09-12 14:42:53",
+        "原普货标题": "Oversized Leopard Prints Shoulder Bags for Women Deformable Canvas Large Capacity Shopping Totes 2024 Winter New Luxury Handbags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4e7ce911bdef47d1b5acf24a88431523D.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0acaaed11a354aefa4e897cd424c80cdP.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4ed13d350764680af0693932b103049a.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S59719824581d482aaa6a336ff604808dw.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1da608cd3b2c4afb997d5cb83920d4ffW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b2323949e5e44d7a40eb8d7da662293S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0f249ab5d06f402ebfc0a8aba602d60fI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce64dea116db4f58915283e64ba21c7eG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S842678876aa54705b85f2d101e370b32z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2e3ba680e837437683c3b22c179cab45N.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sffeb85dee9794a098cb41efc7e78e363h.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0b6bdb7003404ad38ade93082dd35b734.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sce7297688b454d948c59339d901d92abA.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sba110190340b4408953aed626fde7d80o.jpg?width=750&amp;height=924&amp;hash=1674",
+            "https:\/\/ae01.alicdn.com\/kf\/S93e5b67feb064745971b2057b996bd15c.jpg?width=750&amp;height=1432&amp;hash=2182",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb5b33681112b47729d956f56374fdd38A.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa083633c82b4072bc91cf3e42e435b2b.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd962d1a55b27436c8118819264219a50t.jpg?width=750&amp;height=1448&amp;hash=2198",
+            "https:\/\/ae01.alicdn.com\/kf\/S41d8912644ed4804a5e7ade836781130c.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb21516a6d8c42f1903c9bd31d935b7fJ.jpg?width=750&amp;height=750&amp;hash=1500",
+            "https:\/\/ae01.alicdn.com\/kf\/S5139e1cd223841f1b0d1e979eebfeee4Q.jpg?width=750&amp;height=750&amp;hash=1500"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd7591e2a8be248ac81f07cb84c0ab1c9Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S12023c9f515242d2a94498fb8e1e5171j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf9ff4a96f94a475a9f17362be8258e67g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdfabc5be0bab43f39a5d43e3ef542aaez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc772045055b94368b4593c6ef39278dam.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed2c56a0918543678d85dcb09e5c8f49Q.jpg"
+        ]
+    }
+}

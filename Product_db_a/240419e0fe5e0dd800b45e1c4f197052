@@ -1,0 +1,70 @@
+﻿{
+    "info": {
+        "ID": "240419e0fe5e0dd800b45e1c4f197052",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-09-12 14:46:59",
+        "第二层SKU数据": "",
+        "货号": "DG-209787616",
+        "进价": 210,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.65kg，材质：原版头层皮，尺寸：25cm",
+        "性别": 0,
+        "修改的时间": "2025-09-12 14:46:59",
+        "原普货标题": "Simple Women Bucket Shoulder Bags New Solid Color Handbags Retro Large Capacity Tote Bags Large Capacity Pu Leather Bags 2024",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2b0bc92e3021477c92c897e404a91cb7L.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S086c19cf4bb4440f950fa9588aa84b29L.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9549208d384343f38bc2beb4932eb69cU.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S03caca6896fd4cb382dbbfa913f5af9dH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S782b08100c0a4fc6ac89546b0426e48as.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se985baef3f55412daca45ba9c7e934acz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa232e1f6c5e849af9657db088f88e1cez.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4e3d016c310f4096b78d008bdf16ee79o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S523bca0f48084f94933a9df19e804b47S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seafa5be866454f0cba50635a14299eb24.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9549208d384343f38bc2beb4932eb69cU.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S4c9a3f35c348449687e22ecb1ba58346R.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S88db00f938ed4f1f9a992da19097a19eW.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb38dcbed62474f1d92dd69358ea89374t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb38dcbed62474f1d92dd69358ea89374t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28fdae629f83434dafd0997ed8987fd3W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S28fdae629f83434dafd0997ed8987fd3W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbde41b9678c54b8593e2f9392a39e08dR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbde41b9678c54b8593e2f9392a39e08dR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saed5b5de03074405b2eeef2f6a6fe233A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saed5b5de03074405b2eeef2f6a6fe233A.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2302ac99089842869cf64aee81e2817ab.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2f41a7c0b5847ba9ee23fc1e63b6769i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc71298aaac4b40839b523b8a28f444ddJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9c5aff553b4b4777a95d5b5d8db3ed1aY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S435e798896ca4cd898cba8b678ae3d1fs.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S89c6a478d85541fc88034096a37a2639Z.jpg"
+        ]
+    }
+}

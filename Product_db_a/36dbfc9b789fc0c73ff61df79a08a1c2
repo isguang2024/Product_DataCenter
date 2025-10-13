@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "36dbfc9b789fc0c73ff61df79a08a1c2",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-09-12 14:22:08",
+        "第二层SKU数据": "",
+        "货号": "DG-209536874",
+        "进价": 170,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "购物包 高质量，重量：0.65kg，材质：拉菲草，尺寸：15x20cm",
+        "性别": 0,
+        "修改的时间": "2025-09-12 14:22:08",
+        "原普货标题": "Summer Straw Woven Shoulder Bag Rattan Beach Large Capacity Tote Bags Handmade Vacation Travel Handle Bag Shopping Handbag Bolsa",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S34fe0968e3a544e58d9ee40bfd53d60cc.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb511e4081d94fb899d294fcb301446bq.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9c2b5353fb940afadd3d3c4e4483b7fB.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbda4596e3c774a67bee0fa8daa9e3daaU.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2288eb034d2467d9b31aa85f858deb9A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0ae4218e49744dbbe7533bae2996387M.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1e011c73a3554a70875996529e0b4bfe5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d5c3008bd974b4ca642a9de939f6a8eJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S891a71c88e2a484dac81709c3182925ej.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9ff45ce0200044b09bc558d86d86695aR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad8ada707fb848769624c798253b0390b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sed1fbdc49be84982a8689effc9811970C.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd976a1fb704a4d96963257cf423bf6645.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S911154a3999846d9a2d3512613584665u.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S32b1f507ea78496495b94ed233d46429A.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sfe12f17d1efb4b24b38e2e576efd43d3V.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc4b87d1557d842c0895f37f1dee294a61.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S96241f96b26f470cb8368f979b63baebQ.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc4b87d1557d842c0895f37f1dee294a61.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scfc9921a189c4443b039d4a5b44e03b2v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96241f96b26f470cb8368f979b63baebQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6c679299ae0f4c44a19521598258a94bp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5595594241c84d788d363906ba999519m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se09d909e68a34d0687cb5ad296e1ed82q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0fcb09a76cb040be9da2a78737801c0b0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S007341286d3b485c815f9715d0b9a95d8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H9afc71afcf524845ac04ff6922312931a.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7b8f60016efa48aa8de22dfbbfed7079m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sba4aa5a02fdc432085e599788e92f390W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c16aa99e2104390ba5addc98fe1420f3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb56b5bd62d294e69bd527e8b7baaecd0y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34732199b72944c08a6a8d02540029ca9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39b789b3567e49199806027a31191760z.jpg"
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "7ba03b32c34afe7a890577b640e2f3f3",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "DG",
+        "创建的时间": "2025-09-11 14:39:44",
+        "第二层SKU数据": "",
+        "货号": "DG-209644824",
+        "进价": 110,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "腰包胸包，重量：0.56kg，材质：皮，尺寸：30x14x8cm",
+        "性别": 0,
+        "修改的时间": "2025-09-11 14:39:44",
+        "原普货标题": "Women Luxury Corduroy Shoulder Bag Large Handbag Big Casual Tote Canvas Lining Solid Cloth Purse Zipper Crossbody Messenger Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5c0d6b5bdd334c3e9bb930fc7a57031aC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7549693250c54df49c62c200d8b7408b8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8a125916ee5644deb6a1fb86471a00fbI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9112139190984b9a9d902c49230c6cc5n.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6141aa4dccc04d9fa7d419b999143df2G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5da603562a4946a38c96204c920addd1B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S695bab2d8304475ebe25fc56d0696a21p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se99e1e5877c94c5fa692dbeffac6c925h.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7cdf9c5843f42ae85c6b3ec55a6886ah.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S56e1a9a0fbda4908a278cb3b7af1e546Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se22f95a6eb764b1da54d549bd8c9384e9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80431a7e91094170808d5c22a0a0166cg.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa812c02b697f43ba9af9948d35ec54c8o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb734aae64a8545a0838140a8a6b368e1V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seeaa0c22c62442358c0a8435d6558dc4u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20c7f5eb20d848f187499f6a760ae0e8Y.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S30ca21b891944bfea8bfbb497054c97fj.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S52a7ff5951094ef5aba59bdb2b09cdf7M.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sda68fa432a9046d986a66b759e48febfX.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S9d32648135a244b3af8a8eb132b0ff3bf.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S64812ad740794e91841532baac87ae11R.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S0ea991a32012450db6e720889ecc0242M.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9b22ac50e5154a78a00ab4df918a1528c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11fe5dbc7622432c96d1b496137217baC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4ff6acd42997451483115a399eba6871J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2ef3108dcd5448c83566c61ec1b6fefS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9364b50f8ad94921ab0086c01442bb0em.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S90e78b2c30964a5b9f3cb0af1a96b78ch.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S33f8b1d1759047f588e404adcd925824k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0eeef94e8e34a5aa4826baa49bad8dd4.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sca42a01073bd4c33a9c34d9ce5140d041.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9ee07eaa33f47669836614165f39782V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78d862cab866435589282f6e84beabc02.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S599b3c59279046b9bd29046c626883cbr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf45bbc44277a48169121794664acad4f1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S431241addcfd476da74f39cd65b96cabC.jpg"
+        ]
+    }
+}

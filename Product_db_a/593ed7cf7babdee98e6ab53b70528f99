@@ -1,0 +1,79 @@
+﻿{
+    "info": {
+        "ID": "593ed7cf7babdee98e6ab53b70528f99",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "DG",
+        "创建的时间": "2025-09-16 16:46:32",
+        "第二层SKU数据": "",
+        "货号": "DG-210073897",
+        "进价": 55,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2025-09-16 16:46:32",
+        "原普货标题": "Travel Bags Good Quality Men Handbag Casual New Sport Bag For Women Luggage Shoulder Large Crossbody Duffle 2025 New Practical",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8a46acc14e324398a29870a70582a3999.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfdbd91c6a93347f782809b90baf52fa4b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb1ccbcc833be4fee867868ed24977abcW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58612f7c67214baf9fd634b263df2ea7y.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6d6f2ec6cee4220bd06d45612a236d6T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S58bd0ee6ca9f4244989b059284622d35b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8323ede1a69e4b769f3cd8b3fcd6a319F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8d0b759ac1243d28855d187d22cfaaeE.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1e93a6a572394e6ca85b34c8a886f97fT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S71510db4c0414a2281a55f5534c71a281.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9826fe21c7b441ddab63ac065d820bbbC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sedd4866f9fd449eeae15fa6043cea08aq.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9d6f91eed4f493eb5c0ac5b379054849.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb84f932f629e4e1fb4742400bcb43bdeD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbed6538ab1e94e2b876199d4d5e7c59bz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0b2e25d04444594ba5ab9c6178a7a30b.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa028c5d6e0b54d7d9b4197c694f183a3V.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sdf2b97dfaf78489e9948aad714b1b4f89.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S9f7b080ddc984e3eaf2f31d5699eefd23.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sd42c78c359d94d95b6b19cce38ab88d8n.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sa1a2effa742b44dcb2219dd52b8231e0A.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S57fae48e433b463982be718915742c84q.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4db9537681544fba93d48cfbf49ab4a5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8811ca5d41e3471fa36fd7323d1df6baT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd049c342e694489855d946f5186e26dN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd46ac361f3264d8698681ff3777c21c4d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sadd2a694d12349039db82a7abac7b041Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c9701ef0dc248cbb5d58df3e0ec367eK.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa673b6dda9d446a28b63baa7b522f55dY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S941bf29ca0f946c8bf5a704d9f482b8c8.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sce5e576ac7ca40429262ac06c55b7b978.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8253fa603329483c8420dfa36f859016o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5e886b1282de4b6ebeea12a3e46e785aS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3891ab0a3b84819bc99b28ff07f46276.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S271029b10eab4151bf5629749d85d85b3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9f7b080ddc984e3eaf2f31d5699eefd23.jpg"
+        ]
+    }
+}

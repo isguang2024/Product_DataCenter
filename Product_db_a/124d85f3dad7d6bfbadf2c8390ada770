@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "124d85f3dad7d6bfbadf2c8390ada770",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "AS",
+        "创建的时间": "2025-09-15 15:38:21",
+        "第二层SKU数据": "",
+        "货号": "AS-210073965",
+        "进价": 55,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2025-09-15 15:38:21",
+        "原普货标题": "Large Capacity Yoga Bag Solid Color Fitness Portable Yoga Bag Women's Wet Dry Separation Waterproof Luggage Bag Sports",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc02f9244318f46308b63edc64082035fi.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S421407bbb38e4292a53ac00500be163fb.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3f6f0545ece24ac8a2bedd22173c3b72V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ee8effac680456aaa4e97e8c48eb776D.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9187bcd388c4e6b9f850ec9826dfb56q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S685d82946d6f4ee9bd4621e0a7fe5282P.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S05b651a69865411b9afd221a566f1984c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94eb9f0651d8453cbd74c7333e257f94F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb4eea82230964302bfc9f328352e4451Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b753a3ba435425b82230455c89e61918.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa20aef73d44442759d008ccbffe6f4ceC.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S6458911dff6f4880a55ac8b2edafec90F.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S33c682f40f2b44849ac8bb82be912d12X.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4a5e4c44edbe41648dd328e4e6312f31b.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sa83bb5ea8c124627bc89a4d914526d36q.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3da67c6ab2a4b81904ee0278d8e7df5P.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3ee63f2238f14c7e9d5e69953f998802r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7d2c857f8c054f2aaacbf01e8a4d36bbb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se5bdf085f7f6477097bde458bee2da72k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b08eb61b35b4b5fa616f23049d167e5w.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S67523f3b3b9049f2905dcda1435ed1baj.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd62b1da51b6147d0a9ba16f25b3ff22dn.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S5ed60dbfbfe949dfa76a9aafbfe825c75.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4102094ab5b40e9b2124deed67be9c6T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65d1c3f788804cf79563a1b3968ba5749.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd413854b05c49478fa55ec55518e5b1O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8076ffcc26374144920e60e690600d69q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9e1ee5736a246c897a0e9a9d5f204280.jpg"
+        ]
+    }
+}

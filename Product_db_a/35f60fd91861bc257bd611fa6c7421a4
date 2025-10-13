@@ -1,0 +1,71 @@
+﻿{
+    "info": {
+        "ID": "35f60fd91861bc257bd611fa6c7421a4",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-09-09 14:57:30",
+        "第二层SKU数据": "",
+        "货号": "DG-209535942",
+        "进价": 155,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": " 高质量，重量：0.78kg，材质：头层皮，尺寸：24x17cm",
+        "性别": 0,
+        "修改的时间": "2025-09-09 14:57:30",
+        "原普货标题": "1 PC Summer Beach Party Bag Wallet Shopping Bag Handbag Women's Woolen Hollow Knitting Shoulder Bag Large Capacity Tote Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa0158c0eba544a138f4141898ee67f290.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2f6c072babb74a1fba7aee59500ca9cbO.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9e6dd629f09e422588dea4aba716471fp.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S18b6951d41964e69a647fb52ba936d33I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6217ddc52c845588b5a0a6a1f52a837X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc309b4c7fd56465c9bf7f2da58d7f617y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3e6b857031cb4c9998c448cbc3a7b5f0z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4316ad78e77045b08a3d1d0f97a710fbz.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6e939c5f83294a6a8ab73f53b2878785n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7519491c724143e7a8df8a510f7476cck.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S9e6dd629f09e422588dea4aba716471fp.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sef3ff34d7e9e48448b3b9b6b332c2f89A.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sbbb6ae60f8ba4c7889ca30eb09e31d07o.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scde7bce0120d4ab5a858f5dbc8daa3faX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Saa2fc11933b3419a872dd2cc37a410adt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5be73ae70d2046b9ad05cb90bc7f36c87.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde3ae8bba7eb4cd79d3d973001a80684O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50d7eea56e23480782038b58bf4f1d632.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1afcb5a80ed543ac9c11470c25e6ea8bv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb81156803ec84a699c80acdf40978474c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1195c799fd354c9f847d59162f2a4602q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfbf70302b8314643873dc770e098871c9.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9dda65b489074d4bb3235d43ee73ffd98.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb81156803ec84a699c80acdf40978474c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ce2fd78dbda4a05946a3bf95f7174be7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf0789c22ec4540a4bccacea4a8a2d040J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S900f365f171f4ebe9a84dff7eee2c2c16.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S291e2b32ca2a4f88bad154641d1ee9aeW.jpg"
+        ]
+    }
+}

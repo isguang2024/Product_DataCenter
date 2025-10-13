@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "3b53741451b2d587b612a73e7e7f3177",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-09-11 15:29:07",
+        "第二层SKU数据": "",
+        "货号": "DG-209538485",
+        "进价": 185,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.75kg，材质：头层皮，尺寸：23x18x9cm",
+        "性别": 0,
+        "修改的时间": "2025-09-11 15:29:07",
+        "原普货标题": "Fashion Men Women Waist Bag Casual Fanny Pack Purse Large Phone Belt Bag Pouch Canvas Outdoor Travel Phone Bag Banana Hip Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7893ae86c97647a6b7e33f4982f1c2b5I.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S851458e17ff347eeb503edfccf16cb6b6.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S30a0a0924a344fbe8c3217526745bcf7p.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4d161942e4934dbdb080fa85b2f987a3B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3b7cc589b5a4973a1dd65729017b74bC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S39b4bc5cb78c49cb8d04452cc25e1fb3Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01f72a411e52495ea592e4d4275f752d4.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S38e4de528b77438ea6799fbc209947ceF.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3fe4525354394749ae87d043af6a94c3H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S20aa16f2363b44789ec265f5033c8ea7M.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S30a0a0924a344fbe8c3217526745bcf7p.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf154656128b84c99a18602c91470402ct.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S7bbdb32ffb9d4f0abe8aadd5b9b8f3c6m.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S05b0d3c2009149579024f41624e3b428z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ecbbcdd805b4225addaead9745afc58Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbe9b6ac8696c4ec58e99b5772728a210Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7bb2deb160f24e568ba2cc68f1d05f29Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7054ebb6fc4b4a7ba8bcdaf138e771fae.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04c5aa0c89884ce7aa06869d353ca9d8X.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sef933eda90f049c79ad101f310a01675v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ff6fc6b2b594c5a953e0c9e143cb5979.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac985b8f60e746a0bf7cc587cf993083K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S96bf907566e5479bb7455274746726daT.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde7f5812a87c4e439cc7b6492a744490E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S52ae3487bc4147e4b8bfad542f002b6eS.jpg"
+        ]
+    }
+}

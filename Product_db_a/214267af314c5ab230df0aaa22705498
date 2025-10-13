@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "214267af314c5ab230df0aaa22705498",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-09-12 14:33:04",
+        "第二层SKU数据": "",
+        "货号": "DG-209788841",
+        "进价": 180,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.7kg，材质：头层皮，尺寸：25x15cm",
+        "性别": 0,
+        "修改的时间": "2025-09-12 14:33:04",
+        "原普货标题": "Elegant Ladies Straw Beach Bag Women Holiday Woven Handbag Casual Shopper Tote Top-Handle Bags Fashion Underarm Shoulder Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S474f5e896e6e4f2ab1827f48cd22a2cel.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47a110665de3420e8e3524f703dba649P.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sffd0cb5163d2428e872bbd415419993ar.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S468e8c95ba444fff9036719c392b74b6i.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S38731b8138784c9fbba004676d4aff98E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S34a3bd81d5384d3882eb9742a4238d86i.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sefb03456c991433f974a654f399e2167s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01ad2699e1494b2280b67a706df62b36T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2be9f756d7fe41ab800594bae490466fm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1a55607d2c774cea83cb9c3c2527733dn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9daa9170256d4b2ab3eb0b8537de08e63.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S35121e003a384ad984dedaf59b2fe650k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sede0f48d5bf94f8d8568bf9371b03aee3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6a59a2b6b55d46b6a446ed05d884052eq.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S300a468f0d5547ed8f93db1de32d5d99X.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sf6dafa0bafa14d278948b56ca5fa3507q.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S03c1903b40304e029faff58ea02579b5p.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S03c1903b40304e029faff58ea02579b5p.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S10beebc7f3c34f1dacee7be6da93b597T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf68245be517c4ab391166b7fe8dc9560N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S573af43e22454b1095885afbd6e85e45S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb11a0a9c6d5f49c291ed85a8b706a7acY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0912ba1a63794670bac83024b4f4a1b6x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdb0375a5d5cc46d18ab1da92de51d288N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff670e4ba2a848028d50ca636ca3b6adt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0912ba1a63794670bac83024b4f4a1b6x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2d3848ade28940b8b821e3275a1692e1D.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S92ff587ee478449aa9a9e40be5d46ee5r.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9a7df1d72404973a703839da968f35dG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2ad06373571b45e4938fa3379f5b1e113.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86f0ecc5244c44639b36bc95f4c0c1b8a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S03c1903b40304e029faff58ea02579b5p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5502eb1d2e3444ae8aea1a65f79800ab0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebde8ded244644a086827e244be13e77z.jpg"
+        ]
+    }
+}

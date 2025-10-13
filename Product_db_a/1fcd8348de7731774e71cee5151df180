@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "1fcd8348de7731774e71cee5151df180",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-09-09 15:16:15",
+        "第二层SKU数据": "",
+        "货号": "DG-209532336",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 198398445,
+        "普货模式": false,
+        "商品简介": "半月包 手腕包 高质量，重量：0.67kg，材质：布+皮，尺寸：22x14cm",
+        "性别": 0,
+        "修改的时间": "2025-09-09 15:16:15",
+        "原普货标题": "Vintage Women Tote Bags French Style Ruffles Elegant Sac A Main Femme Large Capacity Light Thin Shoulder Bolso Mujer Handbags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sde58076c827443448855c60ec775d9ffm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9711946ba67848bc9c236867dcfc0695z.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S97e6c6d96064480aac828f2349cd9180l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdc20e8b55571494f99c3d5f41604d221E.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sebe13f10a7834b6c8ec1cfc7bf5f938aA.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sea99cb01d448411aa2372ff01162ac39I.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf2ed013782d04974b8bd97fcfab41e65H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb6b0ff3afbf5488686f1c5fd204363f4I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S855b3fc8e5314453b58ad41bd5a4779fL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb2f0c9f09dfa48008bd62761682ce435r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0525ac625dcc450088ab2b5d3e01b2f11.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5876dd1114fd475780e729593a3736343.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0dd7b25981e94f97b3117f53403e4449y.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S2e13ca2df18d434da4571044e28d1740X.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0f87030a40d84ff69522e50084f04042c.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sddeba4a3ec7e4c498416ed62f301358eP.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sa0d4b465421f446da660eab922e1f188v.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sed46acbedc954a9ea6f21f7b4037d393L.jpg?width=750&height=780&hash=1530",
+            "https:\/\/ae01.alicdn.com\/kf\/S85fa8fc44fb1485dbabc961a652f1bdbv.jpg?width=750&height=748&hash=1498",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce7b28a441374ff1b2e77a8ed20ef352F.jpg?width=750&height=746&hash=1496",
+            "https:\/\/ae01.alicdn.com\/kf\/S6899ad6b1ef14ea88607a2e462cb5f6ab.jpg?width=750&height=916&hash=1666",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa62329dc35e044f5bf6cfed49d5e6285d.jpg?width=750&height=598&hash=1348",
+            "https:\/\/ae01.alicdn.com\/kf\/S5c0029f4ec1941a6b042d2f6ef3b203bU.jpg?width=750&height=597&hash=1347",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa7926c0564a4b0d84193c1891ef9dd6M.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7624a5b1f794d0d851d9929cace75671.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S23984337b6f541d399ba650e8f3c249bI.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S59e83cbe34d445e88fc1a9de5e9bfb10O.jpg?width=800&height=800&hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sddeba4a3ec7e4c498416ed62f301358eP.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbd41098be094fd6bc297dfddcc4a391z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb7af3259723d496984ebe6c77eb21ef3V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se1e5ea1373ae426996dce21d3c44c830J.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S18d322312ff747228845e1b30527c25eu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S816d70ea37714d9fbe782345cdf7ba08X.jpg"
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+﻿{
+    "info": {
+        "ID": "12ef3c2b3cac72013d25f1a23921e5ee",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-09-12 14:48:42",
+        "第二层SKU数据": "",
+        "货号": "DG-209787204",
+        "进价": 270,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": " 高质量，重量：0.75kg，材质：牛仔，尺寸：26x18cm",
+        "性别": 0,
+        "修改的时间": "2025-09-12 14:48:42",
+        "原普货标题": "This white elegant and gentle chain underarm bag for women is foreign-style, simple and a small square bag. It's a fashionable a",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S299a93ac186e45f5a072ae834cde0007m.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S24dd570caa0349888c3588b82de0be9by.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa3bd70306c424e26bfc82a24329c4d01i.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8e8307f549c041388883757166f6802ca.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf20f207af251446a9b23ed0c9a0a56c8F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S47e7badae73e414bac6e62fec55fc88e9.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1926637d855c46b68e90490d1f601314Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S956c032b75ab473c856a241a455b95d75.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3cec21e0904846519df476529024be18c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S64045b34b08a4f7faabaf245a07cd1c9r.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S3b5aefdd21144bd58e023fbc5c26ed9ec.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S80f1fa96c66546108dfd7920c127b056F.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd70d9655944943dcb9c5965b6e6749b1m.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9da63099a38d480489cbec98018b5fd21.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbfdba0dae36742e2a4c63f53015145afn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scdd59932ad7249a9ac19a7dd8b7177baE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec8c1a6ac8844824a0a9b0e0cd237e19T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b27ef0054844855834933648f9d69ae1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd70d9655944943dcb9c5965b6e6749b1m.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbfdba0dae36742e2a4c63f53015145afn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9da63099a38d480489cbec98018b5fd21.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scdd59932ad7249a9ac19a7dd8b7177baE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sec8c1a6ac8844824a0a9b0e0cd237e19T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1b27ef0054844855834933648f9d69ae1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd70d9655944943dcb9c5965b6e6749b1m.jpg"
+        ]
+    }
+}

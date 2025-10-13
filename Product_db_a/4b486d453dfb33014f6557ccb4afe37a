@@ -1,0 +1,78 @@
+﻿{
+    "info": {
+        "ID": "4b486d453dfb33014f6557ccb4afe37a",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 1,
+        "厂家": "DG",
+        "创建的时间": "2025-09-25 15:00:46",
+        "第二层SKU数据": "",
+        "货号": "DG-209788585",
+        "进价": 260,
+        "利润比": 90,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2025-09-25 15:00:46",
+        "原普货标题": "Women's Tote Bag Versatile Quilted Crossbody Shoulder Bags Large Female Pillow Luggage Handbag Travel Messenger Sling Backpack",
+        "质量星": 3,
+        "重量": 1.200000047683716
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0d1f75cc1e4b44c58acd03132f839e26j.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4e516489e414fa18a9ab2d320e7c8e5w.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S67e57a54492242bc96ce2020027d68e2H.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2e70439dcb494c6abd64aa225330a7559.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S65c11c32563a45d887b2d7635f5bd86dR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd598675d7c1541b7a8ebc5e2b052837eM.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2c3bc6070c8a4dceb38eadac646d8951p.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8942f04c2744cbcb359cf3c6fe7a8e4E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01adda6a61b14be0816c23f2c51d2cb9u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S42e9a703caf9436fa573fbddeffae263m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3cf050a710c34f8ab518437fc5f8c713y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd3c9adc10c6b4b2fa2dca66fc54fc247U.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S67e57a54492242bc96ce2020027d68e2H.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S0ef14efaa792425288655c09a2b556b26.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S4adcc7f3211f489e97991a9483f9ada3W.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sca7ed6411a284844b31e522e1caa7ed9R.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf98d02b2d015482782af257f7b67cbc6W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S562ab7450cf44b2891d41b99c1f8ffb2v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31aca2475791429bb10ea77182d5202bt.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8b09d4708564d5db3b1ae5fb876b8e1I.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se54bcb2082a04eef8b848ba15c941e465.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf56d90ec4474be3b35361a080c36f30u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se0e10f5f8e234e43b9f0440316c92d04s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf6a1f50473b5485cb3e0c2c79e05e097q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9bbc72f072624ef1843e9299ca35e0d0B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S78fb1c2046b247e1b976b32d24e85169G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6584e919d13484e8ec7cf55744547a09.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbee278d2084d47cdaacabae2b728fb6d1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf16c4b38517b4579b00743557eedb0abA.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S120532cbd9bb4dc9bc90c568fb50aea8A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S562ab7450cf44b2891d41b99c1f8ffb2v.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3352254ddbc34d4fb526fb32afb146edC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S94bbb7588e774ba3ad21916b8a2baf00U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbf56d90ec4474be3b35361a080c36f30u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sca7ed6411a284844b31e522e1caa7ed9R.jpg"
+        ]
+    }
+}

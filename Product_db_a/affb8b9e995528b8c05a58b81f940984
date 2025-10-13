@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "affb8b9e995528b8c05a58b81f940984",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 4,
+        "厂家": "AS",
+        "创建的时间": "2025-09-15 15:30:34",
+        "第二层SKU数据": "",
+        "货号": "AS-210074044",
+        "进价": 125,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "",
+        "性别": 0,
+        "修改的时间": "2025-09-15 15:30:34",
+        "原普货标题": "Women's Large Capacity Tote Bag Female Outdoor Travel Storage Pouch Sport Gym Storage Shoulder Underarm Bag Fitness Bags",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S06207b5fb0554bbcb473b59d2723b901m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb8c0d052d551421e830013dab0bc9157d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0db2d63307b042a48f0d6b1fc217807fJ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sad72223d5e994cac83350e154695d2bam.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S066f3f23f7b44c1d8eddb5963214b948K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4e3ce04ca16456dbd8894594b79f1472.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b15c46bcf974aec84d6c157ec33772fb.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sce4f4ebfdb0a49af9f632cad1f0634af2.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S98fbac025def4b2abb8ad6c7802f7fffD.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S320ea1cd9d8a40d5bf6b4e4f32ba57c9m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S555780f3b33a4b298f0ae451acad3250d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S373f0b51c8c4403ebc28974232ef3462R.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1baf80a234514fd9a792c4aca67e3283k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd9f67364996145acbfd9de914fcfc38fv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S37896de3b961487aa33fc7208bfa79e6Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scce120ad33d44fa68d77ecfd4118c5a1z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8c8bed7fff164a6c9933b51f80b56228s.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S0425755027a644b0a11547eba9d02e46R.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S6ad89522b64642caa14f91f8ac1c29deG.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sb3babfb7613d411bab28840723f5ec2cn.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S4e7bb236deb64617bcce3430a46cedf2X.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sc9ffc82e8ad24cca9dc73bae258dd1ae7.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S2af3589ab90c41708004c7d30a944c6fW.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sacee454db45a46758d085513fa827cd7y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S737278e81b044900854e05c56abbd08f5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd6440ebf8d024e3fbadd6e75976e3be47.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff32db6873a948e8ac385366f3c9a2e7K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4a591ee27a948ac8f651895ff1d7826S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf7354e60e00a448c9e7d3fdff59ad7eeR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb90901914b394a72bdf09a30d280d1d2m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S905defc6ebb7423da42ede91a5398d6bN.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2583f222edde4527aca73627ae881ebef.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5da7695e00774da99d727d3e57259625V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8bffb92726154f82b436f15e4ebb2196K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4bd4b50294b45d5a6f381d6d007a510c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S62494eeb66f543e49c239da161c3e3d3V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8470077b1089443db0706822b13827e1Z.jpg"
+        ]
+    }
+}

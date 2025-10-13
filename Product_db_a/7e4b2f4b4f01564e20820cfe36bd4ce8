@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "7e4b2f4b4f01564e20820cfe36bd4ce8",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-09-12 14:44:04",
+        "第二层SKU数据": "",
+        "货号": "DG-209788129",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.67kg，材质：皮，尺寸：20x15cm",
+        "性别": 0,
+        "修改的时间": "2025-09-12 14:44:04",
+        "原普货标题": "Corduroy Shoulder Bag Casual Solid Color with Multiple Pocket Tote Bag for Women Commute Shopping Fitness Storage Handbag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Scaf8ef9fd337486a918426163fa1503aW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd14412ab6724a099a3dcf24a4016cb3Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb9ce4c7c14204074a9f24c643e50ebb3g.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S15a8aa119455449396dd17f95631d25b8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S86f78a18324047ffa34abbc6ad0fed47O.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S72b0a78d888e45e6a7966941d8ddb0a6Q.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1a8830829a9740d8a11c9a4929db518ce.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4653336a69fd4187b0842470724d0e62M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sde7b2f171a4043718b77fc613b90a242r.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S6edbdf5291f748d0932c61d65dd17347N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S31ce61292e54401fa2caaa200227cee1M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S64936775751f439f97f818c0f35a3770k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc74cc50667e94db98f208a917dc0a057K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc93abcd93f94513a4fb63f2f11585218.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf045240edcef4d72a9a5909418f0bd9cg.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S1bd9236483d24d9592a281d4879729e4Z.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S1813a554fd804c839913b9c7b2cfa853P.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S74cf391fb3c34b9f878e8d8909b2ef1ep.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S93768363dc4c4e8c8df7281e0080ea925.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Safc68eff099b4863a86c4b6142e6ab46l.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S74cf391fb3c34b9f878e8d8909b2ef1ep.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0e21bb8f04b54a5e8e1ec1d4ea50c4f7v.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Seb6e6a706d0d43f98cc7467d7cd7e0189.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd4966d15f4454591b211d0f57c6d05b8E.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc0194a0083be4771bdf9c7ac112e5ea1Y.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S6ef7afe5e9544576aa82c96f5996ec4ct.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/Saea29a1624334d4dbecbbe1ae87a4310I.jpg?width=800&height=800&hash=1600",
+            "https:\/\/ae01.alicdn.com\/kf\/S786216f44a4c4df0887345c37735ba60a.jpg?width=800&height=800&hash=1600"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4338d6c34d214843a12c1053751cca4eW.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdeca5a33307c4086be8eb666700bafc86.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08d9aa79b49d4cc69cb7bac3d2f7ec88K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb83dcb983b184d4eb1eeaa10aa5371daG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7ccdc9b4ecde438a9d6b961b4434b8a46.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scab47f917231484588f8db9c34035169X.jpg"
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "93024ddfde2bb4997dee3e6a41d0f8a9",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-09-09 15:12:28",
+        "第二层SKU数据": "",
+        "货号": "DG-209532625",
+        "进价": 180,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 198398445,
+        "普货模式": false,
+        "商品简介": "半月包 流苏手腕包 高质量，重量：0.7kg，材质：布+皮，尺寸：22x14cm",
+        "性别": 0,
+        "修改的时间": "2025-09-09 15:12:28",
+        "原普货标题": "Handheld Travel Bag, Large Capacity Sports and Fitness Bag, Lightweight Storage Luggage Bag, One Shoulder Crossbody Travel Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S48fa4836e01a41068776a8aba244e5d1t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdd44b1b1020f49449f8ffe605bcad754F.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sca293bacd0334190bf66223ec2f0e2e2K.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3f50e552de034e6db6c4dff1466190b6d.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2ddd5bc4e104f26823f68e7d9742e4ak.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S507e029a29a640b0ae2625b1c667edd8v.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6ab6c904e87457ba9c3af41cda92ddbu.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc2ddd5bc4e104f26823f68e7d9742e4ak.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0141814929c74e9d9a5db8dfc96e6ac0o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0226c6993f04626a29ed10af64c51b9M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b3731c8c26d409f9d26d9d189089bfdS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S110fd9c418444fedaf271d23c7d6c943l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd469be7630bc43c69a5a78c60f86ff51q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c0af60c570f4e7daf5aee7c479c45dax.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S23a42727d527472b9b872fc4d2e289afR.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sa8d7f357a9884479ad7424f89f9cbcb22.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sf238995c866a45cf86aa8d4531a2341eT.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sf2ade779640c446eabf4065727b380ecv.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S03736264f058460793c255a90b94bcd0x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S43afd26ea3e74fee927b34d9b2107415l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd398b6b53e0446ba87bb9c951a21bad6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9ca756f398942b499fc337b4a2bc4037.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S882362371bf44a31b845d11e0e54a716F.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd977817cd66c49da9ef9a89d964812e98.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sffcf605fbafe4c41b3b70a75bdb543f6G.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd0fb7982b7ee4a9aad370af99335df6c1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2b7057f3080a42a8a2eaff0a95f73022b.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sd39c21824a734008a372c6102948ef0eG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S09a7490cea6d4853ad16f806eb660bbcE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3c337b87618644b986f181469fbf3fb6x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44a1d39f09564df68f712b33dd4a54441.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf4f5b27343cf4871a19c575d246c6a9cL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb482c52679ad424c88b99f070d2223be2.jpg"
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+﻿{
+    "info": {
+        "ID": "e691c7f9d2934e8ab3ffa6ec147a5c1e",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-09-11 15:07:54",
+        "第二层SKU数据": "",
+        "货号": "DG-209542955",
+        "进价": 195,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -730655392,
+        "普货模式": false,
+        "商品简介": "班纳包 高质量，重量：0.95kg，材质：头层皮，尺寸：32x25cm",
+        "性别": 0,
+        "修改的时间": "2025-09-11 15:07:54",
+        "原普货标题": "Velvet Material Zipper 2025 High Quality Shoulder Bag Solid Color Simple Fashionable Crossbody Bag Soft Western Style Handbag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S51a38ccbded641e2827b1e350736f1c6k.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S41e78a1a9938497cadbea3441a0bcf85e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scfa93360e9724bc8beba4a69a4b895d9G.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd9736346617413bb48312b415d77d95B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scb58ff83a74e4606b6d4c1238b86068f6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S494fa6d6cd9b48f1b4477f2fa7e2b0fc0.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7922ace2565248838775f68c340e29bbo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd8321e9a79d3471a95212a9259995c2em.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3a6b0a41a2fa4ee7946f62ef79304e728.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7a2e74e90d3040a1afe31d0a40587b07j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98fc579fe5894879b0ea521984b3f8980.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb014ecf15c4643b9b21d6fbf8380c903j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7a1638f4ec049d294b228a683e4b920Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5ae6351dbdf44a579e9429ebf2453da1i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S3aab6a84c42b4da687df77b8dcd650e3W.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/See2503482f0e4a5c861b50038875e305g.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S39f9ad8007fb4f61af97083b96f84c73S.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sb16d6d96482f4f1483cdad58bb7df7cdO.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S74633c697d4445d09cd119134bf45fdeS.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5e7fd09352024d1c8f1c550c3d9f98dcy.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S8ab0519d18df4f9dabfcbeb7c7ff4680a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8b3175f3eb5f4d6a9ab038f768c6ebb9f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se2a26db49fe6401781dc68cc7bfa2ef2W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0af8aa58902b4dc98857601a2207fa8cn.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd10c2e774ee4feb96b6cb83ecc3507fo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc8ac1ae36af8405b8cf9c45c48ef56aaX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd904eef8f2c347c2b40c4a3b532c4ce86.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sbece8a7bfbb74aee9c96461fd7d25bbcO.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S7adc7d017d8a446794a3ed4068f95eb4o.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S74eae415682845e2a24da11a6dbbeffbX.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa1d541e9f9624bfeb18e7dd2b2bbc17fv.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc8ebc85248a477cb31206840316bfe3n.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S295e2f0b6fdb426bb44968697ca3510dC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S04e99f9c145042e1926782327a424613U.jpg"
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+﻿{
+    "info": {
+        "ID": "31164704761b15a0463520ecdb2cf68b",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-09-12 14:31:38",
+        "第二层SKU数据": "",
+        "货号": "DG-209788980",
+        "进价": 170,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "高质量，重量：0.95kg，材质：翻毛皮+皮，尺寸：29x26cm",
+        "性别": 0,
+        "修改的时间": "2025-09-12 14:31:38",
+        "原普货标题": "1pcs mini crossbody bag Women's casual sports mobile phone bag men's shoulder small span bag fashion chest bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S64c77db2bd7945eaad48acffdfaa923b5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seef86e7b827d49caab00e3121b951b5dY.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb54e0b3187a44023ae2748cb10f7b4a6I.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S4c5c164813c34e27a70c8b13873c86868.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S84e6afd30c92461797b070953f63fedc7.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S25efa39b49214feb8af4cf6bb65db69ao.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfdbb98c7cc5b45819f792e7aac1525199.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa2b148aacfc84ee285612efa49bb8665Q.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S98818344eb124759a9373784ad84976bH.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9543340efeaf4167b121d6971dbe15b6m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfcc5c5412d984d63bc21a2ba4aaba58aE.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S797c366da662495a8942d753c6a31c3bH.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80576e2adc7244d8843227654bc6bd27f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa252e7b7fae495eb9499b7fbd0089a7H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S620d9ca515e14ea28a256aa8bd1ce5fau.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a5b337e59b245bdba6ef25fbc27f3ffn.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sd8be1bf57cba48d7b9438beb2588d0c1M.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sc4cea074250e44c3a6fe391188d22dd4j.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sc0689a51327d41eeae065482be1881b6N.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S67b377d1837b482caef1ebbc52360e25c.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S5661b115bcd24374a96776c6c0995ad3G.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S53bce4af85bf4156ae8a9a67c662dffcr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S872a28e17ee049128859ffd69e58ad72b.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S66eab79c7d1d449a8337487d7357b821a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S64ccc7bfb10747eaae501196aabf018b8.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S893f4b4da0314e729b8716d075162f61d.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sff9e8ee959f947f6a5f06c2ea6e3b22fg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8733faa550c84cc8a6f415e9cff2e24aS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sd24f946d4aa744aa92c4862cac9b142b3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S50a492583c674d52aaac9d042ac9d6b0g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4f0138bf7a844af9a9e2c797d2b5f18d.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc62cc9e5cf3d45fe9a2394d90d817c32c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S68e0917f8d6f4582b98b78da95d38a3ff.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scd74a881ebea404fba346b20dae924e5z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S379c6de62ec646ecb3761dc8015065f3W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S53bce4af85bf4156ae8a9a67c662dffcr.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7fb88665eb3c46f5b4d0177e1273a0047.jpg"
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "33190a83c1318f063181401b86d008d6",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 3,
+        "厂家": "DG",
+        "创建的时间": "2025-09-11 14:43:59",
+        "第二层SKU数据": "",
+        "货号": "DG-209644526",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "相机包，重量：0.78kg，材质：皮，尺寸：30x20x11cm",
+        "性别": 0,
+        "修改的时间": "2025-09-11 14:43:59",
+        "原普货标题": "Fashion Big Beach Tote Bag High Capacity Minimalist Canvas Bag Tote Bags Solid Color Multifunction Handbags For Ladies",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sec6656b3b1ab40ed9fff0efe5731c581W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S44a8dfa479864825b3e08dd860c77676y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S700bc06024ee48aeba37b09a4c4477b6F.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sdbf8be3734f342edb87d365ff573ce85H.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9a889d314e064b298023ddd35aaf2027M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sdadb692e4eac4b03b879431e09134269n.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sf43bc3929cc347fb91ba72a13732be15j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S6faa407210b44d0b962109ea5ca4e4cdL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S73c87304e14445c5853f228cae7568bek.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S26bc41b7adce4738bb1da2854e365a8aL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S137eb8f57b6345699e483db085b0bf86f.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1dc8c18ccead49fa93e6b6bb59ad5feb1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0520b59957fa47998c0f83af43ab226cQ.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc296aaf60f5141449f74908b883b29acS.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/S358930094bdd415b8692c9f6a79d1776B.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S9e0f27f39cf441c0b059b9540607342aT.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S6e3ca120b18149a2a8629baee51dc925f.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Scdf30ea2531747f7ab65ebc568788987S.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/Sa49e86d397374210afd1ef5e4b322b03z.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sfd012a543ec241e5972bcad2f5dd96263.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secea0cc0ab5148a3955d75754aea8cc0y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5bf38ac48c354ca5ae06ffac9f498e2cp.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se58a0f0b6623478a8dfa7aa3a0716cafL.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S483c778d8ee14b338900bc1e8532a3feV.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa6d5a6c639de4362a0e6c8152442c7882.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa49e86d397374210afd1ef5e4b322b03z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scdf30ea2531747f7ab65ebc568788987S.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Se5814c8e87054843bf895f90eb7cb1c9T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa4c61b0e1fee4a1d86569e379f8cc7c14.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4eba3330e7234341a1f8cbd751d41d14i.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S99c03b93ed9c4d308c75027e33401e28E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa49e86d397374210afd1ef5e4b322b03z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scdf30ea2531747f7ab65ebc568788987S.jpg"
+        ]
+    }
+}

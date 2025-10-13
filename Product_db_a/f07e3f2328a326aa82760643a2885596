@@ -1,0 +1,72 @@
+﻿{
+    "info": {
+        "ID": "f07e3f2328a326aa82760643a2885596",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-09-11 14:45:13",
+        "第二层SKU数据": "",
+        "货号": "DG-209644212",
+        "进价": 160,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -894793173,
+        "普货模式": false,
+        "商品简介": "相机包，重量：0.78kg，材质：皮，尺寸：30x20x11cm",
+        "性别": 0,
+        "修改的时间": "2025-09-11 14:45:13",
+        "原普货标题": "Fashion Quilted Shoulder Bags Down Cotton Padded Large Capacity Tote Bags Solid Color Shopping Bags Women Girls",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S75ff1704a21348fc8f8d9e560b19408d3.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc3e5d9244ec840efba63a642b61fcaef9.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sc6bca969cc394b538798e277b1556e94c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb3ba1ae0929b433f97c994290e6e3e3ey.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0becb4569010492cb2e822c6aab34e8e1.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc1f095d9d32e49fabac7662a38ecf9504.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2a3df8825a144ec8a2920b31bcf85190u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S076190bb68ff46db95d3bd023ade1108j.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb096564f04f0470faa1f00782b9c3982T.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se4ee17715eae4fe4b4dcf8dafed2d6203.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S264bc9e927e447c58c4301db6c559ae6N.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S82442aec7ce443c58082e739bae69aa08.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sc1f6a5fe483c4948a27e335f22ae9670L.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sbe46ae6d064641fd9b658d3abb3c268bO.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S80dcc53884d5428d8a2fd7ba06af542be.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S69a16a4e689e40e39547dad81322cffdn.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/H9baf3659d87f4d92a89f27782fb1dac9x.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Ha6efa112b20341459991becd5aaa24b1X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hbab9fb266dc04d86bc33b3e548a01fc6l.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H27c492ff9d4d4197a92327f1481396ace.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Hc020cad93ee74d8d80e605feb0e0ed6dg.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/He0a31162ac94490f87f3f8e6adf46461A.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/H2531ab794db44a178a62dc86c024426fA.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S3af7793210324e7a8d10730ff80da5b3s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb51370761288443aa03b0e91a733c63cS.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfc47a85db19b4085a21ae181f3dcc1a2r.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1cf0f127091540c699c1a19645b2b680e.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S80dcc53884d5428d8a2fd7ba06af542be.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se237c043f653448c83bc7a0048976e55u.jpg"
+        ]
+    }
+}

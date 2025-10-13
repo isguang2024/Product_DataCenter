@@ -1,0 +1,74 @@
+﻿{
+    "info": {
+        "ID": "9bc60abd5c32d39793e05b92f4d8db43",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-09-11 15:02:30",
+        "第二层SKU数据": "",
+        "货号": "DG-209544822",
+        "进价": 230,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": 157789726,
+        "普货模式": false,
+        "商品简介": "手柄发财包 高质量，重量：0.6kg，材质：原版头层皮，尺寸：19x4x12cm",
+        "性别": 0,
+        "修改的时间": "2025-09-11 15:02:30",
+        "原普货标题": "Fashion Brand Designer Women Shoulder Bag Small PU Leather Female Crossbody Bag Trend Classic Handle Handbag Women",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9e2a4acc1a14d08b8fad0f5006862582.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Seefe6fc54b8d484c909c0392633ef7866.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S0c3663e8406a4f57ae7fd017d2e9f912V.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfeb2b944be5c45a9bf64eecbbefe39bdC.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S1e7097cc2fb344cc93c97e375059f4513.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S95b7db803c8445e79dfa01f979069d77c.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S9ebe81ddc340443382a8045df9f2df1aG.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sb88d0f245bdd46b2a71ccc2a1bc80f3df.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S7212f686f5cd46f3a24236c05fb9fd09W.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfa680d1c247f4e458baf1ee85ed7b6d5Z.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0c04b381cbca49d6bd652cb6c50faab6E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S4d83a79957cb472bbb7331637c618e4aR.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Se9c29f379a15465299e6dbea259e81888.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S2f3c531e0472465abe25496739e6edceW.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sa09394e7d74a4ea0bd20973fc56b9cf5k.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/Sfd35afd9c8034a178bdedaa494e40c04o.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/S0f011e31674c4a2599d074ba59a79ce3M.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S07f7a4678a5744268771c4c0beb1e355e.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S861581dbe1f042ee84ba2924b62c2253B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0b5125383390429c967567e23f4f99db6.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1cc62385505f4b42920651930340c942M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac85fc4e0bdc4638b2550a2d9b2b48dfo.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc43c64bae37344d1a4e31113d2800d19a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S08a842a9732f425598a6e8f5a0935d46m.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S353c73647cc54cec98dbc0f84963f3a4o.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sbd1bab2c7e084a6c901dbb3a53565a01u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa7265663339b4e799f4ce5431b844e0cI.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sebccb3bd31f64fa49dd780bbb0937b70c.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc9747cfbaa04496e9a8f3633b693624e0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5cd9b7972b2a472286b4c747a203507d5.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S0243641029d845b3bbc1522e7c13dc2ba.jpg"
+        ]
+    }
+}

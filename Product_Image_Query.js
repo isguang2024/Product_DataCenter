@@ -1,7 +1,7 @@
                 // 初始化
         document.addEventListener('DOMContentLoaded', () => {
             // 全局变量
-            window.sellerNumber = '+8613757736137';
+            window.sellerNumber = '+8617867959014';
             window.openWhatsappModal = whatsappHandler.openModal;
 
             // 在获取商品数据之前添加语言检测

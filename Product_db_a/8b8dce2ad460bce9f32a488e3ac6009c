@@ -1,0 +1,76 @@
+﻿{
+    "info": {
+        "ID": "8b8dce2ad460bce9f32a488e3ac6009c",
+        "SKU模式": 0,
+        "SKU起始序号": 1,
+        "SKU数量": 2,
+        "厂家": "DG",
+        "创建的时间": "2025-09-09 15:00:46",
+        "第二层SKU数据": "",
+        "货号": "DG-209535265",
+        "进价": 150,
+        "利润比": 100,
+        "品类": 1001,
+        "品牌": -227904089,
+        "普货模式": false,
+        "商品简介": " 高质量，重量：0.5kg，材质：拉菲草，尺寸：17x10cm",
+        "性别": 0,
+        "修改的时间": "2025-09-09 15:00:46",
+        "原普货标题": "Tote Bag for Women Nylon Large Capacity Shoulder Bag with Zipper Satchel Purse Solid Color for Work Travel Shopping Shopper Bag",
+        "质量星": 2,
+        "重量": 1
+    },
+    "牌货": {
+        "SKU创意图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sad46ad416e464fd2b376f6fb156b1a92E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/See1ecf8e85e74821940047a6f323521d2.jpg"
+        ],
+        "SKU关联图": [
+            "https:\/\/ae01.alicdn.com\/kf\/S2d542df3fb1b409aa182f5d94ed289ea2.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S1f056b97107b44ac833a7f5434632a83h.jpg"
+        ],
+        "SKU原始图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Sde5f623c7c8c4b80a1e5c39b94ddf225S.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S238e5c9056714cf486a2758b1a115963q.jpg"
+        ],
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S18108a88f3f647cf8e58a058ca92bcb2X.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S290fce5096434a54ba5b0c6d3e4aff85E.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf49efdea10d04dd19fc979e3e2812ac8Y.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Secce91729a4841498191a72afa00bff7u.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S5b4b3ec47b2147bbb3607f997d9d7d97B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S77ff0025898e4a349aa334610ce3bd16M.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sac55e40af8124c0b9d3fbf37fab70500q.jpg"
+        ],
+        "主图": "https:\/\/ae01.alicdn.com\/kf\/Sfc94c610eed6451a9e60b891131cc719q.jpg"
+    },
+    "普货": {
+        "SKU": {
+            "汇总图": "https:\/\/ae01.alicdn.com\/kf\/S287e404d0fa145debb041c23abbe81dfb.jpg",
+            "原始图": [
+                "https:\/\/ae01.alicdn.com\/kf\/Sd55bfc5ae06948d9893e7ae47843eb1aw.jpg",
+                "https:\/\/ae01.alicdn.com\/kf\/S91c94d957947410598cd2fc7ff7fbe29g.jpg"
+            ]
+        },
+        "细节": [
+            "https:\/\/ae01.alicdn.com\/kf\/S01219ea1c2ec4e908929d65460d2b9a2t.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbf5e7428fe342e487acc67b2236386cm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11408f0ed8fe40d3bcc869b4ff477bbfN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S8427bf1159544deca62400139a3174cd0.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S9855e9081db048e99a8856d8cae76626s.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sfe1a77f31eed4bb39b8c5985d0b6ceb9B.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa9ac818bbc0946b6bca39ae2c33fee73a.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S91c94d957947410598cd2fc7ff7fbe29g.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sc03bbc399ae641bb84bad91f3513f10fC.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf655441b08ea419c849e520fa601c4dem.jpg"
+        ],
+        "主图": [
+            "https:\/\/ae01.alicdn.com\/kf\/Seaa4ce01b7804776b31716faa316aa61U.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sf655441b08ea419c849e520fa601c4dem.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Sa8f15670906242218fc7904593341c834.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S11408f0ed8fe40d3bcc869b4ff477bbfN.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/Scbf5e7428fe342e487acc67b2236386cm.jpg",
+            "https:\/\/ae01.alicdn.com\/kf\/S01219ea1c2ec4e908929d65460d2b9a2t.jpg"
+        ]
+    }
+}
