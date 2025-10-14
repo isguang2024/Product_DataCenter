@@ -16,6 +16,12 @@
                 s.src = 'https://plugin-code.salesmartly.com/js/project_202522_209007_1734747230.js';
                 document.head.appendChild(s);
             }
+            // 若为免联系模式，直接通过样式强制隐藏 WhatsApp 按钮
+            if (noContactMode === 'true') {
+                var style = document.createElement('style');
+                style.textContent = '.whatsapp-button{display:none !important;}';
+                document.head.appendChild(style);
+            }
         })();
     </script>
    <script  src="https://cdn.jsdelivr.net/gh/isguang2024/Product_DataCenter/Product_Image_Query.js"></script>
