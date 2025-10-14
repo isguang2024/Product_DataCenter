@@ -3,6 +3,14 @@
             // 全局变量
             window.sellerNumber = '+8617867959014';
             window.openWhatsappModal = whatsappHandler.openModal;
+            // 读取并归一化 No_contact_mode 参数
+            const noContactModeRaw = new URLSearchParams(window.location.search).get('No_contact_mode') || '';
+            const isNoContactMode = ['true','1','yes','y','on','t','True','TRUE'].includes(noContactModeRaw.toString());
+            // 若为免联系模式，尽早隐藏 WhatsApp 按钮，防止闪烁
+            if (isNoContactMode) {
+                const earlyWaBtn = document.querySelector('.whatsapp-button');
+                if (earlyWaBtn) earlyWaBtn.style.display = 'none';
+            }
 
             // 在获取商品数据之前添加语言检测
             const userLanguage = navigator.language || navigator.userLanguage;
@@ -41,9 +49,14 @@
                             itemNumberButton.textContent = `${window.ItemNumber} (Copy Item No.)`;
                             itemNumberButton.onclick = () => utils.copyToClipboard(window.ItemNumber);
 
-                            // 显示底部按钮容器和WhatsApp按钮
+                            // 显示底部按钮容器
                             document.querySelector('.bottom-buttons').style.display = 'flex';
-                            document.querySelector('.whatsapp-button').style.display = 'flex';
+                            // 根据地址参数控制 WhatsApp 按钮是否显示
+                            if (isNoContactMode) {
+                                document.querySelector('.whatsapp-button').style.display = 'none';
+                            } else {
+                                document.querySelector('.whatsapp-button').style.display = 'flex';
+                            }
 
                             // 处理简介翻译
                             if (window.introduce) {
