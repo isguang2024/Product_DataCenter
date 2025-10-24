@@ -27,7 +27,7 @@
             }
 
             // 获取数据
-            const id = utils.getQueryParam('id') || 'c56eac82075b89a661b6a3b6400209cf';
+            const id = utils.getQueryParam('id') || 'b51df8dd16c3c03be7dce268403fe1bf';
             fetch(`https://cdn.jsdelivr.net/gh/isguang2024/Product_DataCenter/Product_db_a/${encodeURIComponent(id)}`)
                 .then(response => response.json())
                 .then(data => {
