@@ -26,9 +26,10 @@
                 return;
             }
 
+//https://chic-flan-ac324e.netlify.app/Product_db_a/  方法2https://cdn.jsdelivr.net/gh/isguang2024/Product_DataCenter/Product_db_a/
             // 获取数据
             const id = utils.getQueryParam('id') || 'b51df8dd16c3c03be7dce268403fe1bf';
-            fetch(`https://cdn.jsdelivr.net/gh/isguang2024/Product_DataCenter/Product_db_a/${encodeURIComponent(id)}`)
+            fetch(`https://chic-flan-ac324e.netlify.app/Product_db_a/${encodeURIComponent(id)}`)
                 .then(response => response.json())
                 .then(data => {
                     if (data) {
