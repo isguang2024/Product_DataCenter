@@ -1,7 +1,7 @@
                 // 初始化
         document.addEventListener('DOMContentLoaded', () => {
             // 全局变量
-            window.sellerNumber = '+8613757736137';
+            window.sellerNumber = '+447933848050';
             window.openWhatsappModal = whatsappHandler.openModal;
             // 读取并归一化 No_contact_mode 参数
             const noContactModeRaw = new URLSearchParams(window.location.search).get('No_contact_mode') || '';
