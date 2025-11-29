@@ -5,6 +5,44 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
     <title>Contact via WhatsApp</title>
+    <!-- 页面加载前检测：如果是中文用户或中国访问者，自动关闭页面 -->
+    <script>
+        // 检测是否为中文用户或中国访问者，如果是则自动关闭页面
+        (function() {
+            // 检测浏览器语言
+            const language = navigator.language || navigator.userLanguage || '';
+            const isChineseLanguage = /^zh/i.test(language);
+            
+            // 检测时区名称（更准确，只检测中国的时区）
+            let isChinaTimezone = false;
+            try {
+                const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+                // 只检测明确属于中国的时区
+                isChinaTimezone = timezone === 'Asia/Shanghai' || 
+                                 timezone === 'Asia/Beijing' || 
+                                 timezone === 'Asia/Chongqing' ||
+                                 timezone === 'Asia/Urumqi' ||
+                                 timezone === 'Asia/Harbin' ||
+                                 timezone === 'Asia/Kashgar';
+            } catch (e) {
+                // 如果浏览器不支持 Intl.DateTimeFormat，跳过时区检测
+                console.log('时区检测不支持');
+            }
+            
+            // 如果检测到中文语言或中国时区，自动关闭页面
+            // 注意：只使用语言和时区名称检测，不使用时区偏移（因为UTC+8包括多个国家）
+            if (isChineseLanguage || isChinaTimezone) {
+                // 尝试关闭窗口
+                window.close();
+                // 如果无法关闭（某些浏览器限制），则跳转到空白页或重定向
+                setTimeout(function() {
+                    if (!document.hidden) {
+                        window.location.href = 'about:blank';
+                    }
+                }, 100);
+            }
+        })();
+    </script>
     <style>
         * {
             margin: 0;
@@ -404,42 +442,6 @@
     </div>
 
     <script>
-        // 检测是否为中文用户或中国访问者，如果是则自动关闭页面
-        (function() {
-            // 检测浏览器语言
-            const language = navigator.language || navigator.userLanguage || '';
-            const isChineseLanguage = /^zh/i.test(language);
-            
-            // 检测时区名称（更准确，只检测中国的时区）
-            let isChinaTimezone = false;
-            try {
-                const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
-                // 只检测明确属于中国的时区
-                isChinaTimezone = timezone === 'Asia/Shanghai' || 
-                                 timezone === 'Asia/Beijing' || 
-                                 timezone === 'Asia/Chongqing' ||
-                                 timezone === 'Asia/Urumqi' ||
-                                 timezone === 'Asia/Harbin' ||
-                                 timezone === 'Asia/Kashgar';
-            } catch (e) {
-                // 如果浏览器不支持 Intl.DateTimeFormat，跳过时区检测
-                console.log('时区检测不支持');
-            }
-            
-            // 如果检测到中文语言或中国时区，自动关闭页面
-            // 注意：只使用语言和时区名称检测，不使用时区偏移（因为UTC+8包括多个国家）
-            if (isChineseLanguage || isChinaTimezone) {
-                // 尝试关闭窗口
-                window.close();
-                // 如果无法关闭（某些浏览器限制），则跳转到空白页或重定向
-                setTimeout(function() {
-                    if (!document.hidden) {
-                        window.location.href = 'about:blank';
-                    }
-                }, 100);
-            }
-        })();
-        
         // 从URL参数获取电话号码，如果没有则使用默认值
         function getPhoneNumber() {
             const params = new URLSearchParams(window.location.search);
