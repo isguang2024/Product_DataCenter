@@ -424,10 +424,47 @@
             openChat() {
                 const phoneNumber = window.sellerNumber;
                 const message = encodeURIComponent("Hello!");
+                
+                let fallbackTimer = null;
+                let appOpened = false;
+                
+                // 检测页面是否失去焦点（应用打开时页面会失去焦点）
+                const handleBlur = function() {
+                    appOpened = true;
+                    if (fallbackTimer) {
+                        clearTimeout(fallbackTimer);
+                    }
+                    window.removeEventListener('blur', handleBlur);
+                    window.removeEventListener('visibilitychange', handleVisibilityChange);
+                };
+                
+                const handleVisibilityChange = function() {
+                    if (document.hidden) {
+                        appOpened = true;
+                        if (fallbackTimer) {
+                            clearTimeout(fallbackTimer);
+                        }
+                        window.removeEventListener('blur', handleBlur);
+                        window.removeEventListener('visibilitychange', handleVisibilityChange);
+                    }
+                };
+                
+                // 监听页面失去焦点事件
+                window.addEventListener('blur', handleBlur);
+                window.addEventListener('visibilitychange', handleVisibilityChange);
+                
+                // 先尝试使用 WhatsApp 应用协议打开
                 window.location.href = `whatsapp://send?phone=${phoneNumber}&text=${message}`;
-                setTimeout(() => {
-                    window.location.href = `https://wa.me/${phoneNumber}?text=${message}`;
+                
+                // 500ms 后如果应用未打开，回退到网页版
+                fallbackTimer = setTimeout(() => {
+                    if (!appOpened) {
+                        window.location.href = `https://wa.me/${phoneNumber}?text=${message}`;
+                    }
+                    window.removeEventListener('blur', handleBlur);
+                    window.removeEventListener('visibilitychange', handleVisibilityChange);
                 }, 500);
+                
                 whatsappHandler.closeModal();
             }
         };

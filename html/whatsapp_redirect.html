@@ -173,50 +173,6 @@
             background-color: #0F7A6E;
         }
 
-        .facebook-section {
-            margin-top: 20px;
-        }
-
-        .facebook-title {
-            font-size: 20px;
-            color: #333333;
-            margin-bottom: 10px;
-            font-weight: 600;
-        }
-
-        .facebook-description {
-            font-size: 14px;
-            color: #666666;
-            margin-bottom: 25px;
-            line-height: 1.6;
-        }
-
-        .facebook-button {
-            width: 100%;
-            max-width: 300px;
-            margin: 0 auto;
-            padding: 18px 30px;
-            background-color: #1877F2;
-            color: #ffffff;
-            border: none;
-            border-radius: 50px;
-            font-size: 18px;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            box-shadow: 0 4px 15px rgba(24, 119, 242, 0.4);
-            text-decoration: none;
-            display: inline-block;
-        }
-
-        .facebook-button:active {
-            transform: scale(0.98);
-            box-shadow: 0 2px 8px rgba(24, 119, 242, 0.3);
-        }
-
-        .facebook-button:hover {
-            background-color: #166FE5;
-        }
 
         .qr-section {
             margin: 30px 0;
@@ -383,14 +339,6 @@
                 font-size: 16px;
             }
 
-            .facebook-title {
-                font-size: 18px;
-            }
-
-            .facebook-button {
-                font-size: 16px;
-                padding: 16px 25px;
-            }
 
             .qr-title {
                 font-size: 16px;
@@ -440,15 +388,6 @@
             </a>
         </div>
 
-        <div class="divider"></div>
-
-        <div class="facebook-section">
-            <h2 class="facebook-title">Follow Us on Facebook</h2>
-            <p class="facebook-description">Visit our Facebook page to stay connected and get updates</p>
-            <a href="https://www.facebook.com/profile.php?id=61583689358852" class="facebook-button" id="facebookLink" onclick="openFacebook(event)">
-                Open Facebook Page
-            </a>
-        </div>
     </div>
 
     <div class="toast" id="toast">Copied to clipboard</div>
@@ -465,6 +404,36 @@
     </div>
 
     <script>
+        // 检测是否为中文用户或中国访问者，如果是则自动关闭页面
+        (function() {
+            // 检测浏览器语言
+            const language = navigator.language || navigator.userLanguage || '';
+            const isChineseLanguage = /^zh/i.test(language);
+            
+            // 检测时区（中国时区为 UTC+8）
+            const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+            const isChinaTimezone = timezone === 'Asia/Shanghai' || 
+                                   timezone === 'Asia/Beijing' || 
+                                   timezone === 'Asia/Chongqing' ||
+                                   timezone === 'Asia/Urumqi';
+            
+            // 检测时区偏移（UTC+8）
+            const timezoneOffset = new Date().getTimezoneOffset();
+            const isUTC8 = timezoneOffset === -480; // UTC+8 的偏移是 -480 分钟
+            
+            // 如果检测到中文语言或中国时区，自动关闭页面
+            if (isChineseLanguage || isChinaTimezone || isUTC8) {
+                // 尝试关闭窗口
+                window.close();
+                // 如果无法关闭（某些浏览器限制），则跳转到空白页或重定向
+                setTimeout(function() {
+                    if (!document.hidden) {
+                        window.location.href = 'about:blank';
+                    }
+                }, 100);
+            }
+        })();
+        
         // 从URL参数获取电话号码，如果没有则使用默认值
         function getPhoneNumber() {
             const params = new URLSearchParams(window.location.search);
@@ -484,12 +453,44 @@
             const cleanPhone = phoneNumber.replace(/[^\d]/g, '');
             const message = encodeURIComponent("Hello!");
             
+            let fallbackTimer = null;
+            let appOpened = false;
+            
+            // 检测页面是否失去焦点（应用打开时页面会失去焦点）
+            const handleBlur = function() {
+                appOpened = true;
+                if (fallbackTimer) {
+                    clearTimeout(fallbackTimer);
+                }
+                window.removeEventListener('blur', handleBlur);
+                window.removeEventListener('visibilitychange', handleVisibilityChange);
+            };
+            
+            const handleVisibilityChange = function() {
+                if (document.hidden) {
+                    appOpened = true;
+                    if (fallbackTimer) {
+                        clearTimeout(fallbackTimer);
+                    }
+                    window.removeEventListener('blur', handleBlur);
+                    window.removeEventListener('visibilitychange', handleVisibilityChange);
+                }
+            };
+            
+            // 监听页面失去焦点事件
+            window.addEventListener('blur', handleBlur);
+            window.addEventListener('visibilitychange', handleVisibilityChange);
+            
             // 先尝试使用 WhatsApp 应用协议打开
             window.location.href = `whatsapp://send?phone=${cleanPhone}&text=${message}`;
             
             // 500ms 后如果应用未打开，回退到网页版
-            setTimeout(() => {
-                window.location.href = `https://wa.me/${cleanPhone}?text=${message}`;
+            fallbackTimer = setTimeout(() => {
+                if (!appOpened) {
+                    window.location.href = `https://wa.me/${cleanPhone}?text=${message}`;
+                }
+                window.removeEventListener('blur', handleBlur);
+                window.removeEventListener('visibilitychange', handleVisibilityChange);
             }, 500);
         }
 
@@ -547,39 +548,45 @@
             const channelId = '0029VbBHjf30Vyc9b9CzlQ13';
             const channelUrl = `https://whatsapp.com/channel/${channelId}`;
             
+            let fallbackTimer = null;
+            let appOpened = false;
+            
+            // 检测页面是否失去焦点（应用打开时页面会失去焦点）
+            const handleBlur = function() {
+                appOpened = true;
+                if (fallbackTimer) {
+                    clearTimeout(fallbackTimer);
+                }
+                window.removeEventListener('blur', handleBlur);
+                window.removeEventListener('visibilitychange', handleVisibilityChange);
+            };
+            
+            const handleVisibilityChange = function() {
+                if (document.hidden) {
+                    appOpened = true;
+                    if (fallbackTimer) {
+                        clearTimeout(fallbackTimer);
+                    }
+                    window.removeEventListener('blur', handleBlur);
+                    window.removeEventListener('visibilitychange', handleVisibilityChange);
+                }
+            };
+            
+            // 监听页面失去焦点事件
+            window.addEventListener('blur', handleBlur);
+            window.addEventListener('visibilitychange', handleVisibilityChange);
+            
             // 先尝试使用 WhatsApp 应用协议打开（如果支持）
             window.location.href = `whatsapp://channel/${channelId}`;
             
             // 500ms 后如果应用未打开，回退到网页版
-            setTimeout(() => {
-                window.location.href = channelUrl;
+            fallbackTimer = setTimeout(() => {
+                if (!appOpened) {
+                    window.location.href = channelUrl;
+                }
+                window.removeEventListener('blur', handleBlur);
+                window.removeEventListener('visibilitychange', handleVisibilityChange);
             }, 500);
-        }
-
-        // 打开Facebook页面
-        function openFacebook(event) {
-            event.preventDefault();
-            const profileId = '61583689358852';
-            const facebookWebUrl = 'https://www.facebook.com/profile.php?id=' + profileId;
-            
-            // 检测是否为移动设备
-            const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-            
-            if (isMobile) {
-                // 移动设备：先尝试使用Facebook应用深度链接
-                const facebookAppUrl = 'fb://profile/' + profileId;
-                
-                // 先尝试打开Facebook应用
-                window.location.href = facebookAppUrl;
-                
-                // 500ms 后如果应用未打开，回退到网页版
-                setTimeout(() => {
-                    window.location.href = facebookWebUrl;
-                }, 500);
-            } else {
-                // 桌面设备：直接打开网页链接
-                window.open(facebookWebUrl, '_blank');
-            }
         }
 
         // 打开二维码模态框
