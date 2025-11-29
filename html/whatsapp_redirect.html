@@ -482,18 +482,15 @@
             event.preventDefault();
             // 移除所有非数字字符
             const cleanPhone = phoneNumber.replace(/[^\d]/g, '');
-            // WhatsApp链接格式：https://wa.me/国家代码+号码（不含+号）
-            const whatsappUrl = `https://wa.me/${cleanPhone}`;
+            const message = encodeURIComponent("Hello!");
             
-            // 尝试打开WhatsApp
-            window.location.href = whatsappUrl;
+            // 先尝试使用 WhatsApp 应用协议打开
+            window.location.href = `whatsapp://send?phone=${cleanPhone}&text=${message}`;
             
-            // 如果3秒后还在当前页面，可能是没有安装WhatsApp，显示提示
+            // 500ms 后如果应用未打开，回退到网页版
             setTimeout(() => {
-                if (document.hasFocus()) {
-                    alert('Please make sure WhatsApp is installed, or visit in browser: ' + whatsappUrl);
-                }
-            }, 3000);
+                window.location.href = `https://wa.me/${cleanPhone}?text=${message}`;
+            }, 500);
         }
 
         // 复制电话号码
@@ -547,15 +544,16 @@
         // 打开WhatsApp频道
         function openChannel(event) {
             event.preventDefault();
-            const channelUrl = 'https://whatsapp.com/channel/0029VbBHjf30Vyc9b9CzlQ13';
-            window.location.href = channelUrl;
+            const channelId = '0029VbBHjf30Vyc9b9CzlQ13';
+            const channelUrl = `https://whatsapp.com/channel/${channelId}`;
             
-            // 如果3秒后还在当前页面，可能是没有安装WhatsApp，显示提示
+            // 先尝试使用 WhatsApp 应用协议打开（如果支持）
+            window.location.href = `whatsapp://channel/${channelId}`;
+            
+            // 500ms 后如果应用未打开，回退到网页版
             setTimeout(() => {
-                if (document.hasFocus()) {
-                    alert('Please make sure WhatsApp is installed, or visit in browser: ' + channelUrl);
-                }
-            }, 3000);
+                window.location.href = channelUrl;
+            }, 500);
         }
 
         // 打开Facebook页面
@@ -571,15 +569,13 @@
                 // 移动设备：先尝试使用Facebook应用深度链接
                 const facebookAppUrl = 'fb://profile/' + profileId;
                 
-                // 尝试打开Facebook应用
+                // 先尝试打开Facebook应用
                 window.location.href = facebookAppUrl;
                 
-                // 如果3秒后还在当前页面，说明没有安装应用，使用网页链接
+                // 500ms 后如果应用未打开，回退到网页版
                 setTimeout(() => {
-                    if (document.hasFocus()) {
-                        window.location.href = facebookWebUrl;
-                    }
-                }, 2500);
+                    window.location.href = facebookWebUrl;
+                }, 500);
             } else {
                 // 桌面设备：直接打开网页链接
                 window.open(facebookWebUrl, '_blank');
@@ -613,26 +609,35 @@
         });
     </script>
 
-    <!-- translate.js 自动翻译 -->
-    <script src="https://cdn.staticfile.net/translate.js/3.12.0/translate.js"></script>
+    <!-- translate.js 自动翻译（异步加载） -->
     <script>
-        // 等待页面加载完成后再初始化翻译
-        window.addEventListener('load', function() {
-            if (typeof translate !== 'undefined') {
-                try {
-                    // 设置使用 v2.x 版本（v3版本兼容v2的使用方式）
-                    translate.setUseVersion2();
-                    // 自动识别本地语言
-                    translate.setAutoDiscriminateLocalLanguage();
-                    // 是否显示语言切换栏（设置为true显示，false隐藏）
-                    translate.selectLanguageTag.show = false;
-                    // 执行翻译
-                    translate.execute();
-                } catch (error) {
-                    console.log('翻译功能初始化失败:', error);
+        // 异步加载翻译脚本
+        (function() {
+            var script = document.createElement('script');
+            script.async = true;
+            script.src = 'https://cdn.staticfile.net/translate.js/3.12.0/translate.js';
+            script.onload = function() {
+                // 脚本加载完成后初始化翻译
+                if (typeof translate !== 'undefined') {
+                    try {
+                        // 设置使用 v2.x 版本（v3版本兼容v2的使用方式）
+                        translate.setUseVersion2();
+                        // 自动识别本地语言
+                        translate.setAutoDiscriminateLocalLanguage();
+                        // 是否显示语言切换栏（设置为true显示，false隐藏）
+                        translate.selectLanguageTag.show = false;
+                        // 执行翻译
+                        translate.execute();
+                    } catch (error) {
+                        console.log('翻译功能初始化失败:', error);
+                    }
                 }
-            }
-        });
+            };
+            script.onerror = function() {
+                console.log('翻译脚本加载失败');
+            };
+            document.head.appendChild(script);
+        })();
     </script>
 </body>
 </html>

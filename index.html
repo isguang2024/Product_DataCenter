@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Product image query</title>
     <link async  rel="stylesheet" href="https://cdn.jsdelivr.net/gh/isguang2024/Product_DataCenter/Product_Image_Query.css">
        <!-- 异步加载客服脚本（当 No_contact_mode !== true 时才加载） -->
@@ -37,7 +37,7 @@
         <span class="close">&times;</span>
         <div class="modal-prev modal-nav">&lt;</div>
         <div class="modal-next modal-nav">&gt;</div>
-        <img class="modal-content" id="modalImage">
+        <img class="modal-content" id="modalImage" alt="Product image">
     </div>
 
     <!-- 货号标签 -->
@@ -48,7 +48,7 @@
 
     <!-- 修改底部按钮结构 -->
     <div class="bottom-buttons">
-        <div id="buyButton" class="buy-button" style="display: none;">
+        <div id="buyButton" class="buy-button">
             <span>Buy Now</span>
         </div>
         <div class="whatsapp-button" onclick="openWhatsappModal(event)">
