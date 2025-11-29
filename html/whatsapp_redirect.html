@@ -31,23 +31,6 @@
             text-align: center;
         }
 
-        .logo {
-            width: 80px;
-            height: 80px;
-            margin: 0 auto 30px;
-            background-color: #25D366;
-            border-radius: 20px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            box-shadow: 0 4px 12px rgba(37, 211, 102, 0.3);
-        }
-
-        .logo::before {
-            content: "💬";
-            font-size: 48px;
-        }
-
         h1 {
             font-size: 24px;
             color: #333333;
@@ -117,6 +100,203 @@
             background-color: #e8e8e8;
         }
 
+        .divider {
+            width: 100%;
+            max-width: 300px;
+            margin: 40px auto;
+            height: 1px;
+            background-color: #e0e0e0;
+            position: relative;
+        }
+
+        .divider::before {
+            content: "或";
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            background-color: #ffffff;
+            padding: 0 15px;
+            color: #999999;
+            font-size: 14px;
+        }
+
+        .channel-section {
+            margin-top: 20px;
+        }
+
+        .channel-title {
+            font-size: 20px;
+            color: #333333;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+
+        .channel-name {
+            font-size: 18px;
+            color: #25D366;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
+
+        .channel-description {
+            font-size: 14px;
+            color: #666666;
+            margin-bottom: 25px;
+            line-height: 1.6;
+        }
+
+        .channel-button {
+            width: 100%;
+            max-width: 300px;
+            margin: 0 auto;
+            padding: 18px 30px;
+            background-color: #128C7E;
+            color: #ffffff;
+            border: none;
+            border-radius: 50px;
+            font-size: 18px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(18, 140, 126, 0.4);
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .channel-button:active {
+            transform: scale(0.98);
+            box-shadow: 0 2px 8px rgba(18, 140, 126, 0.3);
+        }
+
+        .channel-button:hover {
+            background-color: #0F7A6E;
+        }
+
+        .qr-section {
+            margin: 30px 0;
+        }
+
+        .qr-title {
+            font-size: 18px;
+            color: #333333;
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+
+        .qr-description {
+            font-size: 14px;
+            color: #666666;
+            margin-bottom: 15px;
+            line-height: 1.6;
+        }
+
+        .qr-code-container {
+            display: inline-block;
+            padding: 15px;
+            background-color: #f9f9f9;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 2px solid #e0e0e0;
+        }
+
+        .qr-code-container:hover {
+            border-color: #25D366;
+            box-shadow: 0 4px 12px rgba(37, 211, 102, 0.2);
+        }
+
+        .qr-code-container:active {
+            transform: scale(0.98);
+        }
+
+        .qr-code-small {
+            width: 150px;
+            height: 150px;
+            display: block;
+            border-radius: 8px;
+        }
+
+        .qr-hint {
+            font-size: 12px;
+            color: #999999;
+            margin-top: 10px;
+        }
+
+        /* 二维码放大模态框 */
+        .qr-modal {
+            display: none;
+            position: fixed;
+            z-index: 2000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.8);
+            animation: fadeIn 0.3s ease;
+        }
+
+        .qr-modal.show {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        .qr-modal-content {
+            position: relative;
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 20px;
+            max-width: 90%;
+            max-height: 90%;
+            text-align: center;
+            animation: scaleIn 0.3s ease;
+        }
+
+        @keyframes scaleIn {
+            from {
+                transform: scale(0.8);
+                opacity: 0;
+            }
+            to {
+                transform: scale(1);
+                opacity: 1;
+            }
+        }
+
+        .qr-modal-close {
+            position: absolute;
+            top: 10px;
+            right: 15px;
+            font-size: 32px;
+            font-weight: bold;
+            color: #999999;
+            cursor: pointer;
+            line-height: 1;
+            transition: color 0.3s ease;
+        }
+
+        .qr-modal-close:hover {
+            color: #333333;
+        }
+
+        .qr-code-large {
+            max-width: 100%;
+            max-height: 70vh;
+            width: auto;
+            height: auto;
+            border-radius: 12px;
+        }
+
         .toast {
             position: fixed;
             bottom: 30px;
@@ -150,12 +330,33 @@
                 font-size: 16px;
                 padding: 16px 25px;
             }
+
+            .channel-button {
+                font-size: 16px;
+                padding: 16px 25px;
+            }
+
+            .channel-title {
+                font-size: 18px;
+            }
+
+            .channel-name {
+                font-size: 16px;
+            }
+
+            .qr-title {
+                font-size: 16px;
+            }
+
+            .qr-code-small {
+                width: 120px;
+                height: 120px;
+            }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="logo"></div>
         <h1>通过 WhatsApp 联系我们</h1>
         <p class="description">点击下方按钮直接打开 WhatsApp 聊天，或复制号码手动添加</p>
         
@@ -168,9 +369,43 @@
         <button class="copy-button" onclick="copyPhoneNumber()">
             复制号码
         </button>
+
+        <div class="qr-section">
+            <div class="qr-title">扫描二维码添加 WhatsApp</div>
+            <p class="qr-description">点击二维码可放大查看</p>
+            <div class="qr-code-container" onclick="openQrModal()">
+                <img src="https://ae01.alicdn.com/kf/Sff66f84c13364cf5bf682a8825919593X.png" 
+                     alt="WhatsApp QR Code" 
+                     class="qr-code-small"
+                     id="qrCodeSmall">
+            </div>
+            <p class="qr-hint">点击放大</p>
+        </div>
+
+        <div class="divider"></div>
+
+        <div class="channel-section">
+            <h2 class="channel-title">关注我们的频道</h2>
+            <div class="channel-name">Tibbs🧸</div>
+            <p class="channel-description">请在 WhatsApp 上关注我们的频道，获取最新消息和更新</p>
+            <a href="https://whatsapp.com/channel/0029VbBHjf30Vyc9b9CzlQ13" class="channel-button" id="channelLink" onclick="openChannel(event)">
+                打开 WhatsApp 频道
+            </a>
+        </div>
     </div>
 
     <div class="toast" id="toast">已复制到剪贴板</div>
+
+    <!-- 二维码放大模态框 -->
+    <div class="qr-modal" id="qrModal" onclick="closeQrModal(event)">
+        <div class="qr-modal-content" onclick="event.stopPropagation()">
+            <span class="qr-modal-close" onclick="closeQrModal()">&times;</span>
+            <img src="https://ae01.alicdn.com/kf/Sff66f84c13364cf5bf682a8825919593X.png" 
+                 alt="WhatsApp QR Code" 
+                 class="qr-code-large"
+                 id="qrCodeLarge">
+        </div>
+    </div>
 
     <script>
         // 从URL参数获取电话号码，如果没有则使用默认值
@@ -251,6 +486,46 @@
         // 设置WhatsApp链接
         const cleanPhone = phoneNumber.replace(/[^\d]/g, '');
         document.getElementById('whatsappLink').href = `https://wa.me/${cleanPhone}`;
+
+        // 打开WhatsApp频道
+        function openChannel(event) {
+            event.preventDefault();
+            const channelUrl = 'https://whatsapp.com/channel/0029VbBHjf30Vyc9b9CzlQ13';
+            window.location.href = channelUrl;
+            
+            // 如果3秒后还在当前页面，可能是没有安装WhatsApp，显示提示
+            setTimeout(() => {
+                if (document.hasFocus()) {
+                    alert('请确保已安装 WhatsApp 应用，或使用浏览器访问：' + channelUrl);
+                }
+            }, 3000);
+        }
+
+        // 打开二维码模态框
+        function openQrModal() {
+            const modal = document.getElementById('qrModal');
+            modal.classList.add('show');
+            // 禁止背景滚动
+            document.body.style.overflow = 'hidden';
+        }
+
+        // 关闭二维码模态框
+        function closeQrModal(event) {
+            // 如果点击的是关闭按钮或背景，则关闭
+            if (!event || !event.target || event.target.classList.contains('qr-modal') || event.target.classList.contains('qr-modal-close')) {
+                const modal = document.getElementById('qrModal');
+                modal.classList.remove('show');
+                // 恢复背景滚动
+                document.body.style.overflow = '';
+            }
+        }
+
+        // 按ESC键关闭模态框
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'Escape') {
+                closeQrModal();
+            }
+        });
     </script>
 </body>
 </html>
