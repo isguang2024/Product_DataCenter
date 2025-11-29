@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <title>WhatsApp 联系</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #ffffff;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 500px;
+            text-align: center;
+        }
+
+        .logo {
+            width: 80px;
+            height: 80px;
+            margin: 0 auto 30px;
+            background-color: #25D366;
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 4px 12px rgba(37, 211, 102, 0.3);
+        }
+
+        .logo::before {
+            content: "💬";
+            font-size: 48px;
+        }
+
+        h1 {
+            font-size: 24px;
+            color: #333333;
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+
+        .description {
+            font-size: 16px;
+            color: #666666;
+            margin-bottom: 40px;
+            line-height: 1.6;
+        }
+
+        .whatsapp-button {
+            width: 100%;
+            max-width: 300px;
+            margin: 0 auto 20px;
+            padding: 18px 30px;
+            background-color: #25D366;
+            color: #ffffff;
+            border: none;
+            border-radius: 50px;
+            font-size: 18px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(37, 211, 102, 0.4);
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .whatsapp-button:active {
+            transform: scale(0.98);
+            box-shadow: 0 2px 8px rgba(37, 211, 102, 0.3);
+        }
+
+        .whatsapp-button:hover {
+            background-color: #20BA5A;
+        }
+
+        .phone-number {
+            font-size: 18px;
+            color: #25D366;
+            font-weight: 600;
+            margin: 20px 0;
+            word-break: break-all;
+        }
+
+        .copy-button {
+            width: 100%;
+            max-width: 300px;
+            margin: 0 auto;
+            padding: 12px 30px;
+            background-color: #f5f5f5;
+            color: #333333;
+            border: 2px solid #e0e0e0;
+            border-radius: 50px;
+            font-size: 16px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .copy-button:active {
+            transform: scale(0.98);
+            background-color: #e8e8e8;
+        }
+
+        .toast {
+            position: fixed;
+            bottom: 30px;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: #333333;
+            color: #ffffff;
+            padding: 12px 24px;
+            border-radius: 25px;
+            font-size: 14px;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            pointer-events: none;
+            z-index: 1000;
+        }
+
+        .toast.show {
+            opacity: 1;
+        }
+
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 22px;
+            }
+
+            .description {
+                font-size: 14px;
+            }
+
+            .whatsapp-button {
+                font-size: 16px;
+                padding: 16px 25px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo"></div>
+        <h1>通过 WhatsApp 联系我们</h1>
+        <p class="description">点击下方按钮直接打开 WhatsApp 聊天，或复制号码手动添加</p>
+        
+        <div class="phone-number" id="phoneNumber">+44 7933 848050</div>
+        
+        <a href="#" class="whatsapp-button" id="whatsappLink" onclick="openWhatsApp(event)">
+            打开 WhatsApp
+        </a>
+        
+        <button class="copy-button" onclick="copyPhoneNumber()">
+            复制号码
+        </button>
+    </div>
+
+    <div class="toast" id="toast">已复制到剪贴板</div>
+
+    <script>
+        // 从URL参数获取电话号码，如果没有则使用默认值
+        function getPhoneNumber() {
+            const params = new URLSearchParams(window.location.search);
+            const phone = params.get('phone') || params.get('number') || '+447933848050';
+            // 移除所有非数字字符，除了+号
+            return phone.replace(/[^\d+]/g, '');
+        }
+
+        // 初始化电话号码
+        const phoneNumber = getPhoneNumber();
+        document.getElementById('phoneNumber').textContent = phoneNumber;
+
+        // 打开WhatsApp
+        function openWhatsApp(event) {
+            event.preventDefault();
+            // 移除所有非数字字符
+            const cleanPhone = phoneNumber.replace(/[^\d]/g, '');
+            // WhatsApp链接格式：https://wa.me/国家代码+号码（不含+号）
+            const whatsappUrl = `https://wa.me/${cleanPhone}`;
+            
+            // 尝试打开WhatsApp
+            window.location.href = whatsappUrl;
+            
+            // 如果3秒后还在当前页面，可能是没有安装WhatsApp，显示提示
+            setTimeout(() => {
+                if (document.hasFocus()) {
+                    alert('请确保已安装 WhatsApp 应用，或使用浏览器访问：' + whatsappUrl);
+                }
+            }, 3000);
+        }
+
+        // 复制电话号码
+        function copyPhoneNumber() {
+            const phoneText = phoneNumber;
+            
+            // 使用现代剪贴板API
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                navigator.clipboard.writeText(phoneText).then(() => {
+                    showToast();
+                }).catch(() => {
+                    fallbackCopy(phoneText);
+                });
+            } else {
+                fallbackCopy(phoneText);
+            }
+        }
+
+        // 备用复制方法
+        function fallbackCopy(text) {
+            const textArea = document.createElement('textarea');
+            textArea.value = text;
+            textArea.style.position = 'fixed';
+            textArea.style.opacity = '0';
+            document.body.appendChild(textArea);
+            textArea.select();
+            
+            try {
+                document.execCommand('copy');
+                showToast();
+            } catch (err) {
+                alert('复制失败，请手动复制：' + text);
+            }
+            
+            document.body.removeChild(textArea);
+        }
+
+        // 显示提示
+        function showToast() {
+            const toast = document.getElementById('toast');
+            toast.classList.add('show');
+            setTimeout(() => {
+                toast.classList.remove('show');
+            }, 2000);
+        }
+
+        // 设置WhatsApp链接
+        const cleanPhone = phoneNumber.replace(/[^\d]/g, '');
+        document.getElementById('whatsappLink').href = `https://wa.me/${cleanPhone}`;
+    </script>
+</body>
+</html>
+
