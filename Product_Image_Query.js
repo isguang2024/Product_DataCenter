@@ -59,16 +59,11 @@
                                 document.querySelector('.whatsapp-button').style.display = 'flex';
                             }
 
-                            // 处理简介翻译
+                            // 处理简介显示（由 translate.js 自动翻译）
                             if (window.introduce) {
                                 const introduceButton = document.getElementById('itemIntroduceButton');
-                                utils.translateText(window.introduce)
-                                    .then(translatedText => {
-                                        if (translatedText) {
-                                            introduceButton.textContent = translatedText;
-                                            introduceButton.style.display = 'block';
-                                        }
-                                    });
+                                introduceButton.textContent = window.introduce;
+                                introduceButton.style.display = 'block';
                             }
 
                             // 先保存所有图片URL
@@ -199,22 +194,6 @@
                     setTimeout(() => {
                         document.getElementById('toast').className = 'toast';
                     }, 3000);
-                }
-            },
-
-            // 添加翻译函数
-            async translateText(text) {
-                try {
-                    const response = await fetch(`https://translate.googleapis.com/translate_a/single?client=gtx&dt=t&sl=zh-CN&tl=en&q=${encodeURIComponent(text)}`);
-                    if (!response.ok) {
-                        throw new Error('Translation request failed');
-                    }
-                    const data = await response.json();
-                    return data[0][0][0];  // 获取翻译结果
-                } catch (error) {
-                    console.error('Translation failed:', error);
-                    // 如果翻译失败，直接返回原文
-                    return text;
                 }
             }
         };

@@ -57,7 +57,7 @@
     </div>
 
     <!-- 购买提示 -->
-    <div id="buyTip" class="buy-tip">Please purchase according to the item number on the current page when making a purchase, and ignore the product image when creating an AliExpress order</div>
+    <div id="buyTip" class="buy-tip">Please purchase based on the product number on the current page, ignoring the product images in the order</div>
 
     <!-- WhatsApp按钮和模态框 -->
     <div id="whatsappModal" class="modal-base whatsapp-modal">
@@ -77,6 +77,37 @@
         <div class="loading-spinner"></div>
         <div class="loading-text">Loading...</div>
     </div>
+
+    <!-- translate.js 自动翻译（异步加载） -->
+    <script>
+        // 异步加载翻译脚本
+        (function() {
+            var script = document.createElement('script');
+            script.async = true;
+            script.src = 'https://cdn.staticfile.net/translate.js/3.12.0/translate.js';
+            script.onload = function() {
+                // 脚本加载完成后初始化翻译
+                if (typeof translate !== 'undefined') {
+                    try {
+                        // 设置使用 v2.x 版本（v3版本兼容v2的使用方式）
+                        translate.setUseVersion2();
+                        // 自动识别本地语言
+                        translate.setAutoDiscriminateLocalLanguage();
+                        // 是否显示语言切换栏（设置为true显示，false隐藏）
+                        translate.selectLanguageTag.show = false;
+                        // 执行翻译
+                        translate.execute();
+                    } catch (error) {
+                        console.log('翻译功能初始化失败:', error);
+                    }
+                }
+            };
+            script.onerror = function() {
+                console.log('翻译脚本加载失败');
+            };
+            document.head.appendChild(script);
+        })();
+    </script>
 
 </body>
 
