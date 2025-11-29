@@ -410,19 +410,25 @@
             const language = navigator.language || navigator.userLanguage || '';
             const isChineseLanguage = /^zh/i.test(language);
             
-            // 检测时区（中国时区为 UTC+8）
-            const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
-            const isChinaTimezone = timezone === 'Asia/Shanghai' || 
-                                   timezone === 'Asia/Beijing' || 
-                                   timezone === 'Asia/Chongqing' ||
-                                   timezone === 'Asia/Urumqi';
-            
-            // 检测时区偏移（UTC+8）
-            const timezoneOffset = new Date().getTimezoneOffset();
-            const isUTC8 = timezoneOffset === -480; // UTC+8 的偏移是 -480 分钟
+            // 检测时区名称（更准确，只检测中国的时区）
+            let isChinaTimezone = false;
+            try {
+                const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+                // 只检测明确属于中国的时区
+                isChinaTimezone = timezone === 'Asia/Shanghai' || 
+                                 timezone === 'Asia/Beijing' || 
+                                 timezone === 'Asia/Chongqing' ||
+                                 timezone === 'Asia/Urumqi' ||
+                                 timezone === 'Asia/Harbin' ||
+                                 timezone === 'Asia/Kashgar';
+            } catch (e) {
+                // 如果浏览器不支持 Intl.DateTimeFormat，跳过时区检测
+                console.log('时区检测不支持');
+            }
             
             // 如果检测到中文语言或中国时区，自动关闭页面
-            if (isChineseLanguage || isChinaTimezone || isUTC8) {
+            // 注意：只使用语言和时区名称检测，不使用时区偏移（因为UTC+8包括多个国家）
+            if (isChineseLanguage || isChinaTimezone) {
                 // 尝试关闭窗口
                 window.close();
                 // 如果无法关闭（某些浏览器限制），则跳转到空白页或重定向
