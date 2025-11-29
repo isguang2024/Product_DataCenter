@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
-    <title>WhatsApp 联系</title>
+    <title>Contact via WhatsApp</title>
     <style>
         * {
             margin: 0;
@@ -173,6 +173,51 @@
             background-color: #0F7A6E;
         }
 
+        .facebook-section {
+            margin-top: 20px;
+        }
+
+        .facebook-title {
+            font-size: 20px;
+            color: #333333;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+
+        .facebook-description {
+            font-size: 14px;
+            color: #666666;
+            margin-bottom: 25px;
+            line-height: 1.6;
+        }
+
+        .facebook-button {
+            width: 100%;
+            max-width: 300px;
+            margin: 0 auto;
+            padding: 18px 30px;
+            background-color: #1877F2;
+            color: #ffffff;
+            border: none;
+            border-radius: 50px;
+            font-size: 18px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(24, 119, 242, 0.4);
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .facebook-button:active {
+            transform: scale(0.98);
+            box-shadow: 0 2px 8px rgba(24, 119, 242, 0.3);
+        }
+
+        .facebook-button:hover {
+            background-color: #166FE5;
+        }
+
         .qr-section {
             margin: 30px 0;
         }
@@ -215,12 +260,6 @@
             height: 150px;
             display: block;
             border-radius: 8px;
-        }
-
-        .qr-hint {
-            font-size: 12px;
-            color: #999999;
-            margin-top: 10px;
         }
 
         /* 二维码放大模态框 */
@@ -344,6 +383,15 @@
                 font-size: 16px;
             }
 
+            .facebook-title {
+                font-size: 18px;
+            }
+
+            .facebook-button {
+                font-size: 16px;
+                padding: 16px 25px;
+            }
+
             .qr-title {
                 font-size: 16px;
             }
@@ -357,44 +405,53 @@
 </head>
 <body>
     <div class="container">
-        <h1>通过 WhatsApp 联系我们</h1>
-        <p class="description">点击下方按钮直接打开 WhatsApp 聊天，或复制号码手动添加</p>
+        <h1>Contact Us via WhatsApp</h1>
+        <p class="description">Click the button below to open WhatsApp chat directly, or copy the number to add manually</p>
         
         <div class="phone-number" id="phoneNumber">+44 7933 848050</div>
         
         <a href="#" class="whatsapp-button" id="whatsappLink" onclick="openWhatsApp(event)">
-            打开 WhatsApp
+            Open WhatsApp
         </a>
         
         <button class="copy-button" onclick="copyPhoneNumber()">
-            复制号码
+            Copy Number
         </button>
 
         <div class="qr-section">
-            <div class="qr-title">扫描二维码添加 WhatsApp</div>
-            <p class="qr-description">点击二维码可放大查看</p>
+            <div class="qr-title">Scan QR Code to Add WhatsApp</div>
+            <p class="qr-description">Click the QR code to zoom in</p>
             <div class="qr-code-container" onclick="openQrModal()">
                 <img src="https://ae01.alicdn.com/kf/Sff66f84c13364cf5bf682a8825919593X.png" 
                      alt="WhatsApp QR Code" 
                      class="qr-code-small"
                      id="qrCodeSmall">
             </div>
-            <p class="qr-hint">点击放大</p>
         </div>
 
         <div class="divider"></div>
 
         <div class="channel-section">
-            <h2 class="channel-title">关注我们的频道</h2>
+            <h2 class="channel-title">Follow Our Channel</h2>
             <div class="channel-name">Tibbs🧸</div>
-            <p class="channel-description">请在 WhatsApp 上关注我们的频道，获取最新消息和更新</p>
+            <p class="channel-description">Follow our channel on WhatsApp to get the latest news and updates</p>
             <a href="https://whatsapp.com/channel/0029VbBHjf30Vyc9b9CzlQ13" class="channel-button" id="channelLink" onclick="openChannel(event)">
-                打开 WhatsApp 频道
+                Open WhatsApp Channel
+            </a>
+        </div>
+
+        <div class="divider"></div>
+
+        <div class="facebook-section">
+            <h2 class="facebook-title">Follow Us on Facebook</h2>
+            <p class="facebook-description">Visit our Facebook page to stay connected and get updates</p>
+            <a href="https://www.facebook.com/profile.php?id=61583689358852" class="facebook-button" id="facebookLink" onclick="openFacebook(event)">
+                Open Facebook Page
             </a>
         </div>
     </div>
 
-    <div class="toast" id="toast">已复制到剪贴板</div>
+    <div class="toast" id="toast">Copied to clipboard</div>
 
     <!-- 二维码放大模态框 -->
     <div class="qr-modal" id="qrModal" onclick="closeQrModal(event)">
@@ -434,7 +491,7 @@
             // 如果3秒后还在当前页面，可能是没有安装WhatsApp，显示提示
             setTimeout(() => {
                 if (document.hasFocus()) {
-                    alert('请确保已安装 WhatsApp 应用，或使用浏览器访问：' + whatsappUrl);
+                    alert('Please make sure WhatsApp is installed, or visit in browser: ' + whatsappUrl);
                 }
             }, 3000);
         }
@@ -468,7 +525,7 @@
                 document.execCommand('copy');
                 showToast();
             } catch (err) {
-                alert('复制失败，请手动复制：' + text);
+                alert('Copy failed, please copy manually: ' + text);
             }
             
             document.body.removeChild(textArea);
@@ -496,9 +553,37 @@
             // 如果3秒后还在当前页面，可能是没有安装WhatsApp，显示提示
             setTimeout(() => {
                 if (document.hasFocus()) {
-                    alert('请确保已安装 WhatsApp 应用，或使用浏览器访问：' + channelUrl);
+                    alert('Please make sure WhatsApp is installed, or visit in browser: ' + channelUrl);
                 }
             }, 3000);
+        }
+
+        // 打开Facebook页面
+        function openFacebook(event) {
+            event.preventDefault();
+            const profileId = '61583689358852';
+            const facebookWebUrl = 'https://www.facebook.com/profile.php?id=' + profileId;
+            
+            // 检测是否为移动设备
+            const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+            
+            if (isMobile) {
+                // 移动设备：先尝试使用Facebook应用深度链接
+                const facebookAppUrl = 'fb://profile/' + profileId;
+                
+                // 尝试打开Facebook应用
+                window.location.href = facebookAppUrl;
+                
+                // 如果3秒后还在当前页面，说明没有安装应用，使用网页链接
+                setTimeout(() => {
+                    if (document.hasFocus()) {
+                        window.location.href = facebookWebUrl;
+                    }
+                }, 2500);
+            } else {
+                // 桌面设备：直接打开网页链接
+                window.open(facebookWebUrl, '_blank');
+            }
         }
 
         // 打开二维码模态框
@@ -524,6 +609,28 @@
         document.addEventListener('keydown', function(event) {
             if (event.key === 'Escape') {
                 closeQrModal();
+            }
+        });
+    </script>
+
+    <!-- translate.js 自动翻译 -->
+    <script src="https://cdn.staticfile.net/translate.js/3.12.0/translate.js"></script>
+    <script>
+        // 等待页面加载完成后再初始化翻译
+        window.addEventListener('load', function() {
+            if (typeof translate !== 'undefined') {
+                try {
+                    // 设置使用 v2.x 版本（v3版本兼容v2的使用方式）
+                    translate.setUseVersion2();
+                    // 自动识别本地语言
+                    translate.setAutoDiscriminateLocalLanguage();
+                    // 是否显示语言切换栏（设置为true显示，false隐藏）
+                    translate.selectLanguageTag.show = false;
+                    // 执行翻译
+                    translate.execute();
+                } catch (error) {
+                    console.log('翻译功能初始化失败:', error);
+                }
             }
         });
     </script>
