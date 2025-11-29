@@ -6,9 +6,17 @@
     <meta name="format-detection" content="telephone=no">
     <title>Contact via WhatsApp</title>
     <!-- 页面加载前检测：如果是中文用户或中国访问者，自动关闭页面 -->
+    <!-- 可通过 URL 参数 disable_check=true 来关闭检测功能 -->
     <script>
         // 检测是否为中文用户或中国访问者，如果是则自动关闭页面
         (function() {
+            // 检查 URL 参数，如果 disable_check=true，则跳过检测
+            const params = new URLSearchParams(window.location.search);
+            const disableCheck = params.get('disable_check');
+            if (disableCheck === 'true') {
+                return; // 跳过检测
+            }
+            
             // 检测浏览器语言
             const language = navigator.language || navigator.userLanguage || '';
             const isChineseLanguage = /^zh/i.test(language);
