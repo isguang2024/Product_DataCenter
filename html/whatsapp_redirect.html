@@ -17,9 +17,28 @@
                 return; // 跳过检测
             }
             
-            // 检测浏览器语言
-            const language = navigator.language || navigator.userLanguage || '';
-            const isChineseLanguage = /^zh/i.test(language);
+            // 检测浏览器首选语言
+            const primaryLanguage = navigator.language || navigator.userLanguage || '';
+            
+            // 检测浏览器支持的所有语言（更全面的检测）
+            let hasChineseLanguage = /^zh/i.test(primaryLanguage);
+            
+            // 如果浏览器支持navigator.languages，检查所有支持的语言
+            if (navigator.languages && navigator.languages.length > 0 && !hasChineseLanguage) {
+                hasChineseLanguage = navigator.languages.some(lang => /^zh/i.test(lang));
+            }
+            
+            // 检测Accept-Language头部（从请求头中获取）
+            let hasChineseAcceptLanguage = false;
+            try {
+                // 注意：这个方法可能在某些浏览器中受限
+                const acceptLanguage = navigator.userAgentData?.brands ? 
+                                       navigator.userAgentData.getHighEntropyValues(['platform', 'platformVersion', 'fullVersionList', 'uaFullVersion', 'architecture', 'model', 'bitness']) : null;
+                // 替代方法：从HTTP请求头推断（如果可行）
+                // 实际生产环境中，这部分逻辑通常应该在服务器端处理
+            } catch (e) {
+                console.log('Accept-Language检测受限');
+            }
             
             // 检测时区名称（更准确，只检测中国的时区）
             let isChinaTimezone = false;
@@ -37,9 +56,20 @@
                 console.log('时区检测不支持');
             }
             
-            // 如果检测到中文语言或中国时区，自动关闭页面
+            // 检测用户所在地区（基于地理位置API，如果用户授权）
+            let isInChina = false;
+            try {
+                if ('geolocation' in navigator) {
+                    // 注意：这里不实际调用geolocation API，因为会弹出授权提示
+                    // 仅作为示例，实际生产环境应谨慎使用或在服务器端处理
+                }
+            } catch (e) {
+                console.log('地理位置检测失败');
+            }
+            
+            // 如果检测到中文语言（任一语言设置）或中国时区，自动关闭页面
             // 注意：只使用语言和时区名称检测，不使用时区偏移（因为UTC+8包括多个国家）
-            if (isChineseLanguage || isChinaTimezone) {
+            if (hasChineseLanguage || hasChineseAcceptLanguage || isChinaTimezone || isInChina) {
                 // 尝试关闭窗口
                 window.close();
                 // 如果无法关闭（某些浏览器限制），则跳转到空白页或重定向
