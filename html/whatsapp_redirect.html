@@ -10,6 +10,9 @@
     <script>
         // 检测是否为中文用户或中国访问者，如果是则自动关闭页面
         (function() {
+            // 暂时禁用中国区域判断功能
+            return; // TODO: 需要时移除此行以启用检测
+            
             // 检查 URL 参数，如果 disable_check=true，则跳过检测
             const params = new URLSearchParams(window.location.search);
             const disableCheck = params.get('disable_check');
